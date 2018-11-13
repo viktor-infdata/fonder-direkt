@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /about
+path: /om-fonder-direkt
 title: About our values
 ---
 ### Shade-grown coffee
