@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import logo from '../img/logo.svg'
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <nav className="navbar is-primary">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
