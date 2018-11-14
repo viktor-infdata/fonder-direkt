@@ -2,11 +2,6 @@
 templateKey: blog-post
 title: 'FONDER: BRASILIENRALLY I OKTOBER, INDIEN TOG JUMBOPLATS'
 date: 2018-11-02T01:56:00.000Z
-description: >-
-  STOCKHOLM (Fonder Direkt) Oktober blev en tuff månad sett till avkastningen
-  för världens fonder. Endast omkring en femtedel av 33.726 Sverigetillgängliga
-  fonder noterade en positiv avkastning. Det visar data från Morningstar, som
-  gäller samtliga fondkategorier.
 tags:
   - Brasilien
   - MSCI

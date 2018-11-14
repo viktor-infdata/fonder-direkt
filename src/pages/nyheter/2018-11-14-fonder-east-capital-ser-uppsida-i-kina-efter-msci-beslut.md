@@ -2,13 +2,6 @@
 templateKey: blog-post
 title: 'FONDER: EAST CAPITAL SER UPPSIDA I KINA EFTER MSCI-BESLUT'
 date: 2018-11-13T16:03:44.790Z
-description: >-
-  STOCKHOLM (Fonder Direkt) En "överdriven oro" för handelskonflikten mellan USA
-  och Kina, i kombination med kortsiktiga investerare, har bidragit till ett
-  tungt år för inhemska kinesiska aktier, så kallade A-aktier. MSCI-beslutet om
-  att inkludera kinesiska aktier i globala index kan dock leda mer långsiktiga
-  investerare till börsen, vilket i kombination med låga värderingar och bra
-  vinstprognoser gör A-aktier till långsiktigt attraktiva tillgångar.
 tags:
   - East Capital
 ---

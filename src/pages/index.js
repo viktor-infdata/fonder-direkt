@@ -29,7 +29,7 @@ export default class IndexPage extends React.Component {
                         <small className="has-text-grey-dark">{post.frontmatter.date}</small>
                       </h1>
                       <p>
-                        {post.frontmatter.description} <Link to={post.fields.slug}>Läs mer&hellip;</Link>
+                        {post.excerpt} <Link to={post.fields.slug}>Läs mer&hellip;</Link>
                       </p>
                     </div>
                   ))}
@@ -58,6 +58,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
+          excerpt(pruneLength: 400)
           id
           fields {
             slug
@@ -66,7 +67,6 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "YYYY-MM-DD")
-            description
           }
         }
       }
