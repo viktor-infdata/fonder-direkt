@@ -33,4 +33,4 @@ Värderingarna på den indiska aktiemarknaden har enligt många bedömare sprung
 
 CNBC pekade på denna faktor tidigare i år, och menade att ett förändrat investeringsbeteende bland den indiska medelklassen har lett till kraftiga uppgångar på landets aktiemarknad. Samtidigt ställde de sig frågan hur pass rustade denna oerfarna grupp investerare är för att hantera tider av hög volatilitet.
 
-youtube 0Dklrrwkngg
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0Dklrrwkngg" frameborder="0" allowfullscreen></iframe></div>
