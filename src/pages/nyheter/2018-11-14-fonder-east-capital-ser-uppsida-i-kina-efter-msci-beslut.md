@@ -5,6 +5,8 @@ date: 2018-11-13T16:03:44.790Z
 tags:
   - East Capital
 ---
+STOCKHOLM (Fonder Direkt) En "överdriven oro" för handelskonflikten mellan USA och Kina, i kombination med kortsiktiga investerare, har bidragit till ett tungt år för inhemska kinesiska aktier, så kallade A-aktier. MSCI-beslutet om att inkludera kinesiska aktier i globala index kan dock leda mer långsiktiga investerare till börsen, vilket i kombination med låga värderingar och bra vinstprognoser gör A-aktier till långsiktigt attraktiva tillgångar.
+
 Det skriver Dmitriy Vlasov, portföljförvaltare på East Capital, i en fondkommentar.
 
 Förvaltaren konstaterar att A-aktier hittills haft ett tufft 2018 bakom sig med en negativ kursutveckling på -24,2 procent, mätt i amerikanska dollar. Enligt Dmitriy Vlasov kännetecknas A-aktiemarknaden av en "överrepresentation av privata investerare och bristande informationseffektivitet". Samtidigt menar han att investerarna förbiser alla fördelar med A-aktierna. 
