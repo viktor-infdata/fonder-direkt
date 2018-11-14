@@ -11,14 +11,20 @@ $family-primary: $family-serif;
 $family-secondary: $family-sans-serif;
 h1, h2, h3 ,h4, h5, h6 {
   font-family: $family-secondary;
+  font-weight: $weight-normal;
 }
+$content-heading-weight: $weight-normal;
+nav.navbar {
+  font-family: $family-secondary;
+}
+$title-weight: $weight-normal;
 
 // Config vars
-$kaldi-red: #fd461e;
-$kaldi-red-invert: white;
+$fonder-direkt-blue: #027184;
+$fonder-direkt-blue-invert: white;
 
-$primary: $kaldi-red; 
-$primary-invert: $kaldi-red-invert; 
+$primary: $fonder-direkt-blue;
+$primary-invert: $fonder-direkt-blue-invert;
 
 .content .taglist {
   list-style: none;
