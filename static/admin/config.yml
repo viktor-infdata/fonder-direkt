@@ -6,9 +6,9 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: "nyheter"
+    label: "Nyheter"
+    folder: "src/pages/nyheter"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
