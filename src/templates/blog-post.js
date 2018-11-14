@@ -30,7 +30,7 @@ export const BlogPostTemplate = ({
             <p><strong><small>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" under rubriken.</small></strong></p>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
+                <h4>Taggar</h4>
                 <ul className="taglist">
                   {tags.map(tag => (
                     <li key={tag + `tag`}>
@@ -86,7 +86,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY-MM-DD")
         title
         description
         tags

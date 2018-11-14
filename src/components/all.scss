@@ -19,12 +19,13 @@ nav.navbar {
 }
 $title-weight: $weight-normal;
 
-// Config vars
+// Colors
 $fonder-direkt-blue: #027184;
 $fonder-direkt-blue-invert: white;
 
 $primary: $fonder-direkt-blue;
 $primary-invert: $fonder-direkt-blue-invert;
+$link: $primary;
 
 .content .taglist {
   list-style: none;
