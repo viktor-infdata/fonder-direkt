@@ -13,7 +13,7 @@ tags:
 ---
 Trots den övergripande dystra utvecklingen fanns fickor på fondmarknaden där nedgångarna trotsades, och där många fonder noterade tvåsiffriga uppgångar i procent. Det handlar främst om aktiefonder exponerade mot Brasilien, som under månaden fick en ny president i form av högerpopulisten Jair Bolsonaro. I sitt segertal slog den nye presidenten bland annat fast att Brasilien "_inte kan fortsätta flörta med socialism, kommunism, populism och vänsterextremism /…/ vi kommer förändra Brasiliens öde_". 
 
-![](/img/562991201.png)
+![null](/img/562991201.png)
 
 _MSCI Brazil från årsskiftet till och med 31 oktober, i svenska kronor. (Källa: Morningstar)_
 
@@ -25,7 +25,7 @@ Den starka utvecklingen på den brasilianska aktiemarknaden gav även bränsle �
 
 Månadens stora förlorare var aktieinriktade Indienfonder, där ett stort antal fonder noterade tvåsiffriga nedgångstal i procent. Sämst avkastning stod Alquity Indian Subcontinent för, som tappade 21,2 procent i värde. Andra Indienfonder som hade det tufft inkluderar Invesco India Equity, BMO LGM Greater India, Jupiter India Select, UTI India Dynamic Equity, Amundi Fds Eq India och Nomura Fds India Equity. Nedgångarna för dessa befann sig i spannet 15-17 procent.
 
-![](/img/562991202.png)
+![null](/img/562991202.png)
 
 _MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor. (Källa: Morningstar)_
 
@@ -33,4 +33,5 @@ Värderingarna på den indiska aktiemarknaden har enligt många bedömare sprung
 
 CNBC pekade på denna faktor tidigare i år, och menade att ett förändrat investeringsbeteende bland den indiska medelklassen har lett till kraftiga uppgångar på landets aktiemarknad. Samtidigt ställde de sig frågan hur pass rustade denna oerfarna grupp investerare är för att hantera tider av hög volatilitet.
 
-**Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "uppdragsartikel" under rubriken.**
+**Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "uppdragsartikel" under rubriken.
+**
