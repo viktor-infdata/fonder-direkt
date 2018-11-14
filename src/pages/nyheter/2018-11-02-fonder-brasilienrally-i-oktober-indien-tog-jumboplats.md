@@ -32,3 +32,5 @@ _MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor.
 Värderingarna på den indiska aktiemarknaden har enligt många bedömare sprungit ifrån vinsterna de senaste två-tre åren. En förklaring till den starka aktieutvecklingen som ibland nämns, utöver en växande ekonomi, har varit ett starkt inhemskt köptryck. Den indiska befolkningen har traditionellt sett placerat en stor del av sina besparingar i guld, men de senaste åren har även aktiemarknaden alltmer fångat spararnas intresse. 
 
 CNBC pekade på denna faktor tidigare i år, och menade att ett förändrat investeringsbeteende bland den indiska medelklassen har lett till kraftiga uppgångar på landets aktiemarknad. Samtidigt ställde de sig frågan hur pass rustade denna oerfarna grupp investerare är för att hantera tider av hög volatilitet.
+
+youtube 0Dklrrwkngg
