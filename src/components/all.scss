@@ -18,6 +18,9 @@ nav.navbar {
   font-family: $family-secondary;
 }
 $title-weight: $weight-normal;
+p {
+  letter-spacing: -.003em;
+}
 
 // Colors
 $fonder-direkt-blue: #027184;
@@ -26,6 +29,8 @@ $fonder-direkt-blue-invert: white;
 $primary: $fonder-direkt-blue;
 $primary-invert: $fonder-direkt-blue-invert;
 $link: $primary;
+$text: rgba(0,0,0,.84);
+$text-strong: rgba(0,0,0,.84);
 
 // EMBED RESPONSIVE
 /* purgecss start ignore */
