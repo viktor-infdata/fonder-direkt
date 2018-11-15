@@ -1,7 +1,7 @@
 {
   "name": "fonder-direkt",
   "description": "Site showing Fonder Direkt news",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "author": "Viktor Karlsson",
   "dependencies": {
     "bulma": "^0.7.0",
