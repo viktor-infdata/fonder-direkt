@@ -7,10 +7,14 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" activeClassName='is-active'>
+        {/*
           <figure className="image">
             <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
           </figure>
+          */}
+          Fonder Direkt
         </Link>
+        
       </div>
       <div className="navbar-start">
 
