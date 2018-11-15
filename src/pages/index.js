@@ -13,24 +13,29 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="columns">
-              <div className="column is-10 is-offset-1">
+              <div className="column is-8 is-offset-2">
                 {posts
                   .map(({ node: post }) => (
                     <div
                       className="content"
-                      style={{ borderBottom: '1px solid #eaecee', padding: '0 4em 2em 4em', marginBottom: '2em' }}
                       key={post.id}
                     >
                       <h1 className="is-size-5">
-                        <Link className="has-text-primary" to={post.fields.slug}>
+                        <Link to={post.fields.slug}>
                           {post.frontmatter.title}
                         </Link>
                         <span> &bull; </span>
                         <small className="has-text-grey-dark">{post.frontmatter.date}</small>
                       </h1>
+                      {post.frontmatter.videoId != null &&
+                        <div className="embed-responsive embed-responsive-16by9 mb-2">
+                          <iframe title={post.frontmatter.videoId} className="embed-responsive-item" src={"https://www.youtube.com/embed/"+post.frontmatter.videoId+"?rel=0"} allowFullScreen></iframe>
+                        </div>
+                      }
                       <p>
                         {post.excerpt} <Link to={post.fields.slug}>Läs mer&hellip;</Link>
                       </p>
+                      <hr />
                     </div>
                   ))}
                 </div>
@@ -54,7 +59,7 @@ export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      filter: { frontmatter: { templateKey: {regex: "/blog-post|video-post/"}}}
     ) {
       edges {
         node {
@@ -66,6 +71,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
+            videoId
             date(formatString: "YYYY-MM-DD")
           }
         }

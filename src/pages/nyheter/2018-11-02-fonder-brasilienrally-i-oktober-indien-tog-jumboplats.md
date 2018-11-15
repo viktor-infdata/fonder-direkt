@@ -12,7 +12,7 @@ Trots den övergripande dystra utvecklingen fanns fickor på fondmarknaden där 
 
 ![null](/img/562991201.png)
 
-_MSCI Brazil från årsskiftet till och med 31 oktober, i svenska kronor. (Källa: Morningstar)_
+######MSCI Brazil från årsskiftet till och med 31 oktober, i svenska kronor. (Källa: Morningstar)
 
 Bland Brasilienfonderna gjorde BNY Mellon Brazil Equity bäst ifrån sig, med en avkastning om 23,7 procent i oktober. Bland övriga vinnare märks Parvest Equity Brazil (+22,6), UBS (Lux) ES Brazil (+21,2), HSBC Gif Brazil Equity (+21,1), Handelsbanken Brasilienfond (+20,2) samt JPM Brazil Equity (+19,6).
 
@@ -24,7 +24,7 @@ Månadens stora förlorare var aktieinriktade Indienfonder, där ett stort antal
 
 ![null](/img/562991202.png)
 
-_MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor. (Källa: Morningstar)_
+######MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor. (Källa: Morningstar)
 
 Värderingarna på den indiska aktiemarknaden har enligt många bedömare sprungit ifrån vinsterna de senaste två-tre åren. En förklaring till den starka aktieutvecklingen som ibland nämns, utöver en växande ekonomi, har varit ett starkt inhemskt köptryck. Den indiska befolkningen har traditionellt sett placerat en stor del av sina besparingar i guld, men de senaste åren har även aktiemarknaden alltmer fångat spararnas intresse. 
 

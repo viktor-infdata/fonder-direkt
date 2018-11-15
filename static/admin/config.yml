@@ -18,6 +18,20 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
+  - name: "video"
+    label: "Video"
+    folder: "src/pages/video"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "video-post"}
+      - {label: "Program", name: "program", widget: "select", options: ["Fonder Direkt", "Fonder Direkt Monthly Roundup"]}
+      - {label: "Video ID", name: "videoId", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
   - name: "pages"
     label: "Pages"
     files:
