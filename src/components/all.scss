@@ -23,7 +23,7 @@ p {
 }
 
 // Colors
-$fonder-direkt-blue: #027184;
+$fonder-direkt-blue: #037184;
 $fonder-direkt-blue-invert: white;
 
 $primary: $fonder-direkt-blue;
@@ -41,6 +41,8 @@ $link-active-border: darken($primary, 8%);
 $text: rgba(0,0,0,.84);
 $text-strong: $text;
 
+$footer-background-color: $primary;
+
 // Transitions
 $transition-base: all .15s ease-in-out;
 a {
@@ -50,6 +52,12 @@ a {
 // Video-Post
 .is-video {
   background-color: black;
+}
+
+// Footer
+.footer {
+  font-family: $family-secondary;
+  font-weight: $weight-normal;
 }
 
 // EMBED RESPONSIVE

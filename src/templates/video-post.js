@@ -20,7 +20,7 @@ export const VideoPostTemplate = ({
   return (
     <div>
       {helmet || ''}
-      <div class="is-video">
+      <div className="is-video">
         <div className="container">
             <div className="embed-responsive embed-responsive-16by9">
                 <iframe title={videoId} className="embed-responsive-item" src={"https://www.youtube.com/embed/"+videoId+"?rel=0"} allowFullScreen></iframe>
@@ -75,7 +75,13 @@ const VideoPost = ({ data }) => {
       <VideoPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        helmet={<Helmet title={`${post.frontmatter.title} | Fonder Direkt`} />}
+        helmet={
+            <Helmet>
+              <title>{`${post.frontmatter.title} | Fonder Direkt`}</title>
+              <meta name="description" content={`${post.excerpt}`} />
+              <meta name="keywords" content={`${post.frontmatter.tags}`} />
+            </Helmet>
+          }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         videoId={post.frontmatter.videoId}
@@ -98,6 +104,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      excerpt(pruneLength: 280)
       frontmatter {
         date(formatString: "YYYY-MM-DD")
         title
