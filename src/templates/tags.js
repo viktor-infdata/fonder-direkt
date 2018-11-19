@@ -8,32 +8,35 @@ class TagRoute extends React.Component {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
       <li key={post.node.fields.slug}>
-        <Link to={post.node.fields.slug}>
-          <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
-        </Link>
+        <h2 className="is-size-5">
+          <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
+          <span> &bull; </span>
+          <small className="has-text-grey-dark">{post.node.frontmatter.date}</small>
+        </h2><hr />
+        
       </li>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${totalCount} post${
+    const tagHeader = `${totalCount} nyhet${
       totalCount === 1 ? '' : 's'
-    } tagged with “${tag}”`
+    } taggad med “${tag}”`
 
     return (
       <Layout>
         <section className="section">
           <Helmet title={`${tag} | ${title}`} />
-          <div className="container content">
+          <div className="container">
             <div className="columns">
               <div
-                className="column is-10 is-offset-1"
+                className="column is-8 is-offset-2"
                 style={{ marginBottom: '6rem' }}
               >
-                <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
+                <h3 className="title is-size-6 is-bold-light">{tagHeader}</h3>
                 <ul className="taglist">{postLinks}</ul>
                 <p>
-                  <Link to="/tags/">Browse all tags</Link>
+                  <Link to="/tags/">Bläddra bland alla taggar</Link>
                 </p>
               </div>
             </div>
@@ -66,6 +69,7 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
+            date(formatString: "YYYY-MM-DD")
           }
         }
       }

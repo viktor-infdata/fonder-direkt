@@ -33,7 +33,10 @@ export default class IndexPage extends React.Component {
                         </div>
                       }
                       <p>
-                        {post.excerpt} <Link to={post.fields.slug}>Läs mer&hellip;</Link>
+                        {post.excerpt}
+                      </p>
+                      <p>
+                        <small><Link to={post.fields.slug}>Läs mer&hellip;</Link></small>
                       </p>
                       <hr />
                     </div>

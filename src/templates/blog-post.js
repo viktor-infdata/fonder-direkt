@@ -30,7 +30,7 @@ export const BlogPostTemplate = ({
             <hr />
             {tags && tags.length ? (
               <div>
-                <h4>Taggar</h4>
+                <h4>TAGGAR</h4>
                 <ul className="taglist">
                   {tags.map(tag => (
                     <li key={tag + `tag`}>

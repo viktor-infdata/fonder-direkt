@@ -9,14 +9,14 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
+      <Helmet title={`Taggar | ${title}`} />
       <div className="container content">
         <div className="columns">
           <div
-            className="column is-10 is-offset-1"
+            className="column is-8 is-offset-2"
             style={{ marginBottom: '6rem' }}
           >
-            <h1 className="title is-size-2 is-bold-light">Tags</h1>
+            <h1 className="title is-size-3">TAGGAR</h1>
             <ul className="taglist">
               {group.map(tag => (
                 <li key={tag.fieldValue}>

@@ -7,12 +7,11 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" activeClassName='is-active'>
-        {/*
+        {
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            <img src={logo} alt="Fonder Direkt" style={{ width: '80px' }} />
           </figure>
-          */}
-          Fonder Direkt
+        }
         </Link>
         
       </div>
@@ -20,7 +19,7 @@ const Navbar = () => (
 
       </div>
       <div className="navbar-end">
-        <Link className="navbar-item" activeClassName='is-active' to="/om-fonder-direkt">
+        <Link className="navbar-item" activeClassName="is-active" to="/om-fonder-direkt">
           Om Fonder Direkt
         </Link>
       </div>
