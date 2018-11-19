@@ -16,7 +16,7 @@ Dmitriy Vlasov understryker att marknaden för A-aktier, med ett värde på 6,5 
 Utöver den höga omsättningen menar förvaltaren att volatiliteten i A-aktier kan ha sin främsta orsak i att 70-80 procent av dagens handelsvolym består av privata investerare som tenderar att fokusera på̊ kortsiktiga aktierörelser och nyheter istället för långsiktig fundamenta.  
 
 Den kinesiska regeringen har dessutom satsat stora resurser på att institutionalisera marknaden, vilket kan leda till ett inflöde av mer långsiktigt kapital på marknaden, skriver förvaltaren som också förutser en dämpning av volatiliteten.
-<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JKdsiRhujFA?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 Gapet mellan A-aktier och S&P 500 är större än på länge, vilket dock innebär att dagens värderingar är låga och attraktiva, skriver han.
 
 Dmitriy Vlasov pekar vidare på att A-aktiemarknaden har en betydligt mindre andel utländska ägare än andra tillväxtmarknader. Det utländska ägandet uppgår till cirka 2 procent av handeln, men förvaltaren tror dock att andelen utländskt ägande kommer att öka till följd av att MSCI påbörjat en inkluderingsprocess av kinesiska A-aktier i sina index. Dmitriy Vlasov bedömer att A-aktierna skulle kunna uppgå till 2,8 procent av MSCI Emerging Market i augusti nästa år och 3,4 procent i maj 2020. I dag är andelen 0,8 procent.
