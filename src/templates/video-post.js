@@ -11,6 +11,7 @@ export const VideoPostTemplate = ({
   contentComponent,
   tags,
   title,
+  date,
   helmet,
   program,
   videoId,
@@ -31,7 +32,8 @@ export const VideoPostTemplate = ({
         <div className="container content">
             <div className="columns">
             <div className="column is-8 is-offset-2">
-                <h1 className="title is-size-3">
+                <h5 className="is-size-6 mb-2 has-text-grey">{date}</h5>
+                <h1 className="title is-size-3 mt-0">
                 {title}
                 </h1>
                 <PostContent content={content} />
@@ -60,6 +62,7 @@ VideoPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   title: PropTypes.string,
+  date: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
   videoId: PropTypes.string,
   Program:  PropTypes.string,
@@ -82,6 +85,7 @@ const VideoPost = ({ data }) => {
           }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
         videoId={post.frontmatter.videoId}
         program={post.frontmatter.program}
       />
