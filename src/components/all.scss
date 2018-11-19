@@ -42,8 +42,6 @@ $text: rgba(0,0,0,.84);
 $text-light: rgba(0,0,0,.60);
 $text-strong: $text;
 
-$footer-background-color: $primary;
-
 // Transitions
 $transition-base: all .15s ease-in-out;
 a {
@@ -52,6 +50,51 @@ a {
 
 // Navbar
 $navbar-item-img-max-height: none;
+
+.navbar {
+  .is-fonder-logo {
+    fill: $white;
+    svg {
+      width: 80px;
+    }
+  }
+  .is-twitter {
+    fill: $white;
+    &:hover {
+      fill: #1DA1F2;
+      background-color: $white!important;
+    }
+    svg {
+      width: 16px;
+      display: block;
+      margin: auto;
+    }
+   }
+   .is-facebook {
+     fill: $white;
+     &:hover {
+       fill: #3B5998;
+       background-color: $white!important;
+     }
+     svg {
+       width: 16px;
+       display: block;
+       margin: auto;
+     }
+   }
+   .is-linkedin {
+      fill: $white;
+     &:hover {
+       fill: #0077B5;
+       background-color: $white!important;
+     }
+     svg {
+       width: 16px;
+       display: block;
+       margin: auto;
+     }
+   }
+}
 
 // Image Caption
 .image-caption {
@@ -67,13 +110,60 @@ $navbar-item-img-max-height: none;
 
 // Video-Post
 .is-video {
-  background-color: black;
+  background-color: $black-bis;
 }
 
 // Footer
+$footer-background-color: $grey-lighter;
 .footer {
-  font-family: $family-secondary;
   font-weight: $weight-normal;
+  border-top: 1px solid $grey-light;
+  a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:hover, .navbar-link.is-active {
+    background-color: transparent;
+  }
+  .heading {
+    font-family: $family-secondary;
+    font-size: 13px;
+  }
+  .is-fonder-logo {
+    width: 140px;
+    &:hover {
+      fill: $primary;
+    }
+  }
+}
+
+// Social
+
+.is-twitter {
+ &:hover {
+   fill: #1DA1F2;
+ }
+ svg {
+   width: 36px;
+   display: block;
+   margin: auto;
+ }
+}
+.is-facebook {
+  &:hover {
+    fill: #3B5998;
+  }
+  svg {
+    width: 36px;
+    display: block;
+    margin: auto;
+  }
+}
+.is-linkedin {
+  &:hover {
+    fill: #0077B5;
+  }
+  svg {
+    width: 36px;
+    display: block;
+    margin: auto;
+  }
 }
 
 // EMBED RESPONSIVE

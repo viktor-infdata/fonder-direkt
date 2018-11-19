@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }) => (
       title="Fonder Direkt"
     >
       <html lang="se" />
-      <meta name="description" content="Fonder Direkt" />
+      <meta name="description" content="Fonder Direkt är nordens ledande webbplats om fonder som produceras av Nyhetsbyrån Direkts fondredaktion i syfte att bredda kunskapen om fonder och öka genomlysningen av denna marknad." />
       <meta name="copyright" content="Fonder Direkt är en del av Aktiebolaget Nyhetsbyrån Direkt" />
     </Helmet>
     <Navbar />

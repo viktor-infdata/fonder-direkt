@@ -31,13 +31,11 @@ export const BlogPostTemplate = ({
             {tags && tags.length ? (
               <div>
                 <h4>TAGGAR</h4>
-                <ul className="taglist">
+                <div className="tags">
                   {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
+                    <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
                   ))}
-                </ul>
+                </div>
               </div>
             ) : null}
           </div>

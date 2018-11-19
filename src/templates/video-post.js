@@ -41,13 +41,11 @@ export const VideoPostTemplate = ({
                 {tags && tags.length ? (
                 <div>
                     <h4>TAGGAR</h4>
-                    <ul className="taglist">
-                    {tags.map(tag => (
-                        <li key={tag + `tag`}>
-                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                        </li>
-                    ))}
-                    </ul>
+                    <div className="tags">
+                      {tags.map(tag => (
+                        <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
+                      ))}
+                    </div>
                 </div>
                 ) : null}
             </div>
