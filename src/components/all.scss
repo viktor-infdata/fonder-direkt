@@ -39,6 +39,7 @@ $link-active:  darken($primary, 10%);
 $link-active-border: darken($primary, 8%);
 
 $text: rgba(0,0,0,.84);
+$text-light: rgba(0,0,0,.60);
 $text-strong: $text;
 
 $footer-background-color: $primary;
@@ -54,7 +55,7 @@ $navbar-item-img-max-height: none;
 
 // Image Caption
 .image-caption {
-  color: rgba(0,0,0,.60);
+  color: $text-light;
   font-weight: $weight-bold;
   font-size: $size-7;
   border-left: 3px solid $primary;
