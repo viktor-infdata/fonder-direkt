@@ -33,3 +33,30 @@ CMS.registerEditorComponent({
       );
     }
   });
+  CMS.registerEditorComponent({
+    // Internal id of the component
+    id: "caption",
+    // Visible label
+    label: "Caption",
+    // Fields the user need to fill out when adding an instance of the component
+    fields: [{name: 'id', label: 'Caption Text', widget: 'string'}],
+    // Pattern to identify a block as being an instance of this component
+    pattern: /^caption (\S+)$/,
+    // Function to extract data elements from the regexp match
+    fromBlock: function(match) {
+      return {
+        id: match[1]
+      };
+    },
+    // Function to create a text block from an instance of this component
+    toBlock: function(obj) {
+      '<span class="image-caption">'+ obj.id + '</span>';
+    },
+    // Preview output for this component. Can either be a string or a React component
+    // (component gives better render performance)
+    toPreview: function(obj) {
+      return (
+        '<span class="image-caption">'+ obj.id + '</span>';
+      );
+    }
+  });
