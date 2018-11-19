@@ -41,7 +41,7 @@ CMS.registerEditorComponent({
       label: 'Image Caption',
       widget: 'string'
     }],
-    pattern: /^<span class="caption">(.*)<\/span>/,
+    pattern: /^<span class="image-caption">(.*)<\/span>/,
     fromBlock: function(match) {
       return {
         element: match[1],
@@ -49,12 +49,12 @@ CMS.registerEditorComponent({
     },
     toBlock: function(obj) {
       return (
-        '<span class="sidenote">' + obj.element + '</span>'
+        '<span class="image-caption">' + obj.element + '</span>'
       );
     },
     toPreview: function(obj) {
       return (
-        '<span class="sidenote">' + obj.element + '</span>'
+        '<span class="image-caption">' + obj.element + '</span>'
       );
     },
   });
