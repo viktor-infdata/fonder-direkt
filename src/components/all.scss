@@ -49,7 +49,9 @@ a {
 }
 
 // Navbar
+$navbar-height: 3.7085rem;
 $navbar-item-img-max-height: none;
+$navbar-breakpoint: 1087px;
 
 .navbar {
   .is-fonder-logo {
@@ -60,38 +62,68 @@ $navbar-item-img-max-height: none;
   }
   .is-twitter {
     fill: $white;
+    @media screen and (max-width: $navbar-breakpoint) {
+      fill: $text;
+    }
     &:hover {
       fill: #1DA1F2;
       background-color: $white!important;
+      @media screen and (max-width: $navbar-breakpoint) {
+        background-color: $white-bis!important;
+      }
     }
     svg {
       width: 16px;
       display: block;
       margin: auto;
+      @media screen and (max-width: $navbar-breakpoint) {
+        width: 20px;
+        margin: 0;
+      }
     }
    }
    .is-facebook {
-     fill: $white;
+    fill: $white;
+    @media screen and (max-width: $navbar-breakpoint) {
+      fill: $text;
+    }
      &:hover {
        fill: #3B5998;
        background-color: $white!important;
+       @media screen and (max-width: $navbar-breakpoint) {
+        background-color: $white-bis!important;
+      }
      }
      svg {
        width: 16px;
        display: block;
        margin: auto;
+       @media screen and (max-width: $navbar-breakpoint) {
+        width: 20px;
+        margin: 0;
+      }
      }
    }
    .is-linkedin {
       fill: $white;
+      @media screen and (max-width: $navbar-breakpoint) {
+        fill: $text;
+      }
      &:hover {
        fill: #0077B5;
        background-color: $white!important;
+       @media screen and (max-width: $navbar-breakpoint) {
+        background-color: $white-bis!important;
+      }
      }
      svg {
        width: 16px;
        display: block;
        margin: auto;
+       @media screen and (max-width: $navbar-breakpoint) {
+        width: 20px;
+        margin: 0;
+      }
      }
    }
 }
@@ -127,6 +159,7 @@ $footer-background-color: $grey-lighter;
   }
   .is-fonder-logo {
     width: 140px;
+    transition: $transition-base;
     &:hover {
       fill: $primary;
     }
