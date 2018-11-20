@@ -48,6 +48,15 @@ a {
   transition: $transition-base;
 }
 
+// Links
+p {
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 // Navbar
 $navbar-height: 3.7085rem;
 $navbar-item-img-max-height: none;
