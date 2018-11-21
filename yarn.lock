@@ -5198,6 +5198,14 @@ gatsby-plugin-manifest@^2.0.9:
     bluebird "^3.5.0"
     sharp "^0.21.0"
 
+gatsby-plugin-netlify-cache@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cache/-/gatsby-plugin-netlify-cache-1.0.0.tgz#729bfae35800305e14bc098b9b2c095325cd74e2"
+  integrity sha512-lNdFUrtuEfee2FaR9Eh9ZF2gUvHQEbjZa9cNUltHj045r4Ej3dI9sXearx/+3IMbwS84aE4Q2yGEu/woNUPa+g==
+  dependencies:
+    babel-runtime "^6.26.0"
+    fs-extra "^7.0.0"
+
 gatsby-plugin-netlify-cms@^3.0.0:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-3.0.5.tgz#2508424c43ec432163656b63e46c6ea9ff8a29f9"
@@ -5315,10 +5323,10 @@ gatsby-remark-images@^2.0.1:
     unist-util-select "^1.5.0"
     unist-util-visit-parents "^2.0.1"
 
-gatsby-remark-relative-images@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-relative-images/-/gatsby-remark-relative-images-0.2.0.tgz#a8a88186d38a2c5ab0a8a9f926df7abcd1dd2d55"
-  integrity sha512-F59H+UK/DE7/pL+9yWqUu9546FzzD3khMmoLsmNlz6i8TTbIETG5u7rxlyqU7sO6Tkyr9ab69IUo8fP2rYZ2xA==
+gatsby-remark-relative-images-v2@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-relative-images-v2/-/gatsby-remark-relative-images-v2-0.1.5.tgz#3354c7abd96b10b760a934f8c9160e88cbdd1fb1"
+  integrity sha512-e8T1/nAltKzGYJpMzAXL46MdqNkzHGpbBqe+rW6lmBAf57o/j0PchjWaaonQl2YXdGTu0YKFpgGmxuPHEX/FUQ==
   dependencies:
     babel-polyfill "^6.26.0"
     cheerio "1.0.0-rc.2"
