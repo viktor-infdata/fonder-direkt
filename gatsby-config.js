@@ -50,6 +50,7 @@ module.exports = {
               maxWidth: 2048,
             },
           },
+          'gatsby-remark-smartypants',
         ],
       },
     },
@@ -59,6 +60,31 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    'gatsby-plugin-catch-links',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Fonder Direkt',
+        short_name: 'FonderDirekt',
+        start_url: '/',
+        background_color: '#037184',
+        theme_color: '#037184',
+        display: 'standalone',
+        icons: [
+          {
+            src: 'android-chrome-192x192.png',
+            sizes: '192x192',
+            type: 'image/png',
+          },
+          {
+            src: 'android-chrome-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+          },
+        ],
+      },
+    },
+    'gatsby-plugin-offline',
     {
       resolve: 'gatsby-plugin-sitemap',
     },
