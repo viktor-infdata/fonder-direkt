@@ -36,7 +36,7 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-relative-images',
+            resolve: 'gatsby-remark-relative-images-v2',
             options: {
               name: 'uploads',
             },
@@ -143,6 +143,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-purgecss', // must be after other CSS plugins
+    'gatsby-plugin-netlify-cache',
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
