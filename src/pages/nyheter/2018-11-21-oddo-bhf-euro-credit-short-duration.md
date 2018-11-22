@@ -12,10 +12,9 @@ Det skriver Alexis Renault, Thomas Rentsch och Haiyan Ding, som förvaltar ränt
 
 Avkastning för ODDO BHF Euro Credit Short Duration under månaden och sedan årsskiftet (SÅ). Fonden saknar jämförelseindex. I basvalutan euro och omräknat till svenska kronor, i procent:
 
-```
-        Oktober (EUR)  SÅ       Oktober (SEK)  SÅ    
-Fond    -0,25          -0,37    +0,01          +4,94             
-```
+|| Oktober (EUR)|SÅ|Oktober (SEK)|SÅ| 
+|-------|----|-----|-----|------|
+|Fonder|-0,25|-0,37|+0,01|+4,94 |
 
 ![](/img/563720401.png)
 
