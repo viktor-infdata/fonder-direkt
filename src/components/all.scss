@@ -42,6 +42,8 @@ $text: rgba(0,0,0,.84);
 $text-light: rgba(0,0,0,.60);
 $text-strong: $text;
 
+$border: $grey-lighter;
+
 ::selection {
   background: lighten($primary, 12%);
   color: $white;
@@ -76,6 +78,53 @@ pre {
   color: $text;
   background-color: $content-blockquote-background-color;
   font-size: 0.875em;
+}
+// Tables
+$content-table-cell-border: 1px solid $border;
+$content-table-cell-border-width: 0 0 1px;
+$content-table-cell-padding: 0.5em 0.75em;
+$content-table-cell-heading-color: $text-strong;
+$content-table-head-cell-border-width: 0 0 2px;
+$content-table-head-cell-color: $text-strong;
+$content-table-foot-cell-border-width: 2px 0 0;
+$content-table-foot-cell-color: $text-strong;
+table {
+  margin: 0;
+  &:not(:last-child) {
+    margin-bottom: 1em;
+  }
+  width: 100%;
+  td,th {
+    border: $content-table-cell-border;
+    border-width: $content-table-cell-border-width;
+    padding: $content-table-cell-padding;
+    vertical-align: top;
+  }
+  th {
+    color: $content-table-cell-heading-color;
+    text-align: none;
+  }
+  thead {
+    td,th {
+      border-width: $content-table-head-cell-border-width;
+      color: $content-table-head-cell-color;
+    }
+  }
+  tfoot {
+    td,th {
+      border-width: $content-table-head-cell-border-width;
+      color: $content-table-head-cell-color;
+    }
+  }
+  tbody {
+    tr {
+      &:last-child {
+        td,th {
+          border-bottom-width: 0
+        }
+      }
+    }
+  }
 }
 /* purgecss end ignore */
 
