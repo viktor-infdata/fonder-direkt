@@ -1,19 +1,27 @@
 ---
-templateKey: 'about-page'
-path: /om-fonder-direkt
-title: About our values
+templateKey: about-page
+title: Om Fonder Direkt
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+**Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Syfte & mål
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Vårt syfte är att tillhandahålla inspiration, utbildning och motivation för privata investerare att ta kontroll över sina investeringsbeslut, samt att bygga förtroende bland människor i deras investeringsval.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Hur vi arbetar
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Fonder Direkt arbetar nära med partners inom fondbranschen för att erbjuda nyheter i både video- och skrivet format, samt redaktionellt arbete i strävan att hjälpa och uppmuntra dig att lära dig mer om fondmarknaden. Vi vill även utbilda dig med vår "investeringsutbildningssektion", där du kan lära dig allt från grunderna med investeringar till mer komplicerade ämnen.
+
+Vi arbetar nära med våra partners för att erbjuda relevant och aktuellt videoinnehåll, inklusive digitala intervjuer om särskilda fonder, sektorer, teman, kvartalsuppdateringar, marknadsutsikter med mera, med hjälp av vår omfattande och högkvalitativa videostudio.
+
+Våra skickliga och högt ansedda journalister arbetar hårt för att skapa relevant innehåll, genom att tillhandahålla information och nyheter via telegram och artiklar.
+Fonder Direkt arbetar med många andra plattformar för att distribuera denna information och kommunikation till en större publik i både Sverige och Norge.
+Hör gärna av dig direkt till oss om du har några frågor eller förslag på: <a href='mailto&#58;fo&#110;dr%&#54;5d&#97;%&#54;Btio&#110;en&#64;di%7&#50;ek%7&#52;&#37;2Es%6&#53;'>&#102;&#111;n&#100;re&#100;akt&#105;o&#110;&#101;n&#64;direkt&#46;&#115;e</a>
+
+### Bli en partner
+
+Om du representerar ett fondbolag, kapitalförvaltare eller förmögenhetsförvaltare/private banking-bolag, och skulle vilja diskutera ett potentiellt partnerskap med oss, var snäll kontakta oss direkt på: <a href='mailto&#58;fo&#110;dr%&#54;5d&#97;%&#54;Btio&#110;en&#64;di%7&#50;ek%7&#52;&#37;2Es%6&#53;'>&#102;&#111;n&#100;re&#100;akt&#105;o&#110;&#101;n&#64;direkt&#46;&#115;e</a>
+
+### Disclaimer & friskrivning
+
+Fonder Direkt tar inget ansvar för förluster som kan uppkomma som ett resultat av investeringar, baserat på någon diskussion, nyheter eller intervjuer som finns på Fonder Direkt. Alla investeringar är förknippade med risk. Fonder Direkt tillhandahåller inga råd eller förslag på investeringar. Nyhetsbyrån Direkts chefredaktör Lars Östlund är ytterst ansvarig för innehållet på fonderdirekt.se
