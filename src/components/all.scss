@@ -42,12 +42,23 @@ $text: rgba(0,0,0,.84);
 $text-light: rgba(0,0,0,.60);
 $text-strong: $text;
 
-$content-blockquote-border-left: 	5px solid $primary;
-
 ::selection {
   background: lighten($primary, 12%);
   color: $white;
 }
+
+// Blockquote
+/* purgecss start ignore */
+$content-blockquote-border-left: 	5px solid $primary;
+blockquote {
+  background-color: $content-blockquote-background-color;
+  border-left: $content-blockquote-border-left;
+  padding: $content-blockquote-padding;
+  &:not(:last-child) {
+    margin-bottom: 1em;
+  }
+}
+/* purgecss end ignore */
 
 // Transitions
 $transition-base: all .15s ease-in-out;
