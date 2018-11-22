@@ -24,4 +24,4 @@ Om du representerar ett fondbolag, kapitalförvaltare eller förmögenhetsförva
 
 ### DISCLAIMER & FRISKRIVNING
 
-Fonder Direkt tar inget ansvar för förluster som kan uppkomma som ett resultat av investeringar, baserat på någon diskussion, nyheter eller intervjuer som finns på Fonder Direkt. Alla investeringar är förknippade med risk. Fonder Direkt tillhandahåller inga råd eller förslag på investeringar. Nyhetsbyrån Direkts chefredaktör Lars Östlund är ytterst ansvarig för innehållet på fonderdirekt.se
+_Fonder Direkt tar inget ansvar för förluster som kan uppkomma som ett resultat av investeringar, baserat på någon diskussion, nyheter eller intervjuer som finns på Fonder Direkt. Alla investeringar är förknippade med risk. Fonder Direkt tillhandahåller inga råd eller förslag på investeringar. Nyhetsbyrån Direkts chefredaktör Lars Östlund är ytterst ansvarig för innehållet på fonderdirekt.se_
