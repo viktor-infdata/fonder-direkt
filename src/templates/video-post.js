@@ -14,6 +14,7 @@ export const VideoPostTemplate = ({
   date,
   helmet,
   program,
+  sponsored,
   videoId,
 }) => {
   const PostContent = contentComponent || Content
@@ -32,13 +33,18 @@ export const VideoPostTemplate = ({
         <div className="container content">
             <div className="columns">
             <div className="column is-8 is-offset-2">
-                <h5 className="is-size-6 mb-2 has-text-grey">{date}</h5>
+              <h5 className="is-size-6 mb-2 has-text-grey">
+                {date}
+                {sponsored === true &&
+                  <span> &bull; UPPDRAGSARTIKEL</span>
+                }
+              </h5>
                 <h1 className="title is-size-3 mt-0">
                 {title}
                 </h1>
                 <PostContent content={content} />
                 <hr />
-                <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" under rubriken.</strong></p>
+                <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
                 <hr />
                 {tags && tags.length ? (
                 <div>
@@ -66,6 +72,7 @@ VideoPostTemplate.propTypes = {
   helmet: PropTypes.instanceOf(Helmet),
   videoId: PropTypes.string,
   Program:  PropTypes.string,
+  sponsored: PropTypes.bool,
 }
 
 const VideoPost = ({ data }) => {
@@ -88,6 +95,7 @@ const VideoPost = ({ data }) => {
         date={post.frontmatter.date}
         videoId={post.frontmatter.videoId}
         program={post.frontmatter.program}
+        sponsored={post.frontmatter.sponsored}
       />
     </Layout>
   )
@@ -113,6 +121,7 @@ export const pageQuery = graphql`
         tags
         program
         videoId
+        sponsored
       }
     }
   }

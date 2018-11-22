@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 'LANNEBO FONDER: FLAGGAR UPP I BERGMAN & BEVING'
 date: 2018-11-09T10:35:00.000Z
+sponsored: false
 tags:
   - Lannebo
 ---

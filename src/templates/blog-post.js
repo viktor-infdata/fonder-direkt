@@ -12,9 +12,11 @@ export const BlogPostTemplate = ({
   tags,
   title,
   date,
+  sponsored,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
+  
 
   return (
     <section className="section">
@@ -22,13 +24,18 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-8 is-offset-2">
-            <h5 className="is-size-6 mb-2 has-text-grey">{date}</h5>
+            <h5 className="is-size-6 mb-2 has-text-grey">
+              {date}
+              {sponsored === true &&
+                <span> &bull; UPPDRAGSARTIKEL</span>
+              }
+            </h5>
             <h1 className="title is-size-3 mt-0">
               {title}
             </h1>
             <PostContent content={content} />
             <hr />
-            <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" under rubriken.</strong></p>
+            <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
             <hr />
             {tags && tags.length ? (
               <div>
@@ -52,6 +59,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   title: PropTypes.string,
   date: PropTypes.string,
+  sponsored: PropTypes.bool,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -73,6 +81,7 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         date={post.frontmatter.date}
+        sponsored={post.frontmatter.sponsored}
       />
     </Layout>
   )
@@ -96,6 +105,7 @@ export const pageQuery = graphql`
         date(formatString: "YYYY-MM-DD")
         title
         tags
+        sponsored
       }
     }
   }

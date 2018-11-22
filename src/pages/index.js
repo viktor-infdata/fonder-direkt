@@ -24,8 +24,11 @@ export default class IndexPage extends React.Component {
                         <Link to={post.fields.slug}>
                           {post.frontmatter.title}
                         </Link>
-                        <span> &bull; </span>
-                        <small className="has-text-grey-dark">{post.frontmatter.date}</small>
+                        <span className="has-text-grey"> &bull; </span>
+                        <small className="has-text-grey">{post.frontmatter.date}</small>
+                        {post.frontmatter.sponsored === true &&
+                          <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
+                        }
                       </h1>
                       {post.frontmatter.videoId != null &&
                         <div className="embed-responsive embed-responsive-16by9 mb-2">
@@ -76,6 +79,7 @@ export const pageQuery = graphql`
             templateKey
             videoId
             date(formatString: "YYYY-MM-DD")
+            sponsored
           }
         }
       }
