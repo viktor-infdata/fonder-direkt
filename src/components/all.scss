@@ -49,7 +49,9 @@ $text-strong: $text;
 
 // Blockquote
 /* purgecss start ignore */
+$content-blockquote-background-color: hsl(0, 0%, 96%);
 $content-blockquote-border-left: 	5px solid $primary;
+$content-blockquote-padding: 1.25em 1.5em;
 blockquote {
   background-color: $content-blockquote-background-color;
   border-left: $content-blockquote-border-left;
