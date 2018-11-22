@@ -56,6 +56,7 @@ blockquote {
   background-color: $content-blockquote-background-color;
   border-left: $content-blockquote-border-left;
   padding: $content-blockquote-padding;
+  margin: 0;
   &:not(:last-child) {
     margin-bottom: 1em;
   }
