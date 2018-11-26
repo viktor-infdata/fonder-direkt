@@ -135,6 +135,9 @@ $transition-base: all .15s ease-in-out;
 a {
   transition: $transition-base;
 }
+button {
+  transition: $transition-base;
+}
 
 // Links
 p {
@@ -223,6 +226,12 @@ $navbar-breakpoint: 1087px;
       }
      }
    }
+}
+
+// Button
+.is-load-more {
+  font-family: $family-secondary;
+  text-transform: uppercase;
 }
 
 // Image Caption
