@@ -29,7 +29,7 @@ const TagsPage = ({
                     <Link className="tag is-medium is-link" to={`/taggar/${kebabCase(tag.fieldValue)}/`}>
                       {tag.fieldValue}
                     </Link>
-                    <span className="tag is-medium">{tag.totalCount}</span>
+                    <span className="tag is-medium is-dark">{tag.totalCount}</span>
                   </div>
                 </div>
               ))}
