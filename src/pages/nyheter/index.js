@@ -7,7 +7,7 @@ import Layout from '../../components/Layout'
 
 
 if (typeof window !== 'undefined') {
-  window.postsToShow = 10
+  window.newsPostsToShow = 10
 }
 
 class IndexPage extends React.Component {
@@ -21,14 +21,14 @@ class IndexPage extends React.Component {
 
   constructor() {
     super()
-    let postsToShow = 10
+    let newsPostsToShow = 10
     if (typeof window !== 'undefined') {
-      postsToShow = window.postsToShow
+      newsPostsToShow = window.newsPostsToShow
     }
 
     this.state = {
-      showingMore: postsToShow > 10,
-      postsToShow,
+      showingMore: newsPostsToShow > 10,
+      newsPostsToShow,
     }
   }
 
@@ -37,7 +37,7 @@ class IndexPage extends React.Component {
       document.documentElement.offsetHeight -
       (window.scrollY + window.innerHeight)
     if (this.state.showingMore && distanceToBottom < 400) {
-      this.setState({ postsToShow: this.state.postsToShow + 10 })
+      this.setState({ newsPostsToShow: this.state.newsPostsToShow + 10 })
     }
     this.ticking = false
   }
@@ -55,7 +55,7 @@ class IndexPage extends React.Component {
 
   componentWillUnmount() {
     window.removeEventListener('scroll', this.handleScroll)
-    window.postsToShow = this.state.postsToShow
+    window.newsPostsToShow = this.state.newsPostsToShow
   }
 
   render() {    
@@ -75,7 +75,7 @@ class IndexPage extends React.Component {
             <div className="columns">
               <div className="column is-8 is-offset-2">
                 <React.Fragment>
-                {chunk(posts.slice(0, this.state.postsToShow), 10).map((chunk, i) => (
+                {chunk(posts.slice(0, this.state.newsPostsToShow), 10).map((chunk, i) => (
                     <div
                       className="content"
                       key={`chunk-${i}`}
@@ -107,7 +107,7 @@ class IndexPage extends React.Component {
                     <button className="button is-rounded is-medium is-fullwidth is-load-more"
                       onClick={() => {
                       this.setState({
-                        postsToShow: this.state.postsToShow + 10,
+                        newsPostsToShow: this.state.newsPostsToShow + 10,
                         showingMore: true,
                         })
                       }}
