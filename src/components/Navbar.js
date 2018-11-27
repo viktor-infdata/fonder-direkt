@@ -10,13 +10,21 @@ class Navbar extends Component {
       navbarOpen: !prevState.navbarOpen
     }));
   }
+
   render() {
+    const isPartiallyActive = ({
+      isPartiallyCurrent
+    }) => {
+      return isPartiallyCurrent
+        ? { className: "navbar-item is-active" }
+        : { className: "navbar-item" }
+    }
     return(
       <div>
         <nav className="navbar is-primary" aria-label="Huvudnavigering">
           <div className="container">
             <div className="navbar-brand">
-              <Link to="/" className="navbar-item is-fonder-logo" activeClassName='is-active'>
+              <Link to="/" className="navbar-item is-fonder-logo" activeClassName="is-active">
                 <svg role="img" className="is-fonder-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 745 454">
                   <title>Twitter</title>
                   <path d="M12 208h695v15H12z"/>
@@ -38,9 +46,15 @@ class Navbar extends Component {
             </div>
             <div className={"navbar-menu " + (this.state.navbarOpen ? 'is-active' : '')}>
               <div className="navbar-start">
+                <Link getProps={isPartiallyActive} to="/nyheter">
+                  NYHETER
+                </Link>
+                <Link getProps={isPartiallyActive}  to="/video">
+                  VIDEO
+                </Link>
               </div>
               <div className="navbar-end">
-                <Link className="navbar-item" activeClassName="is-active" to="/om-fonder-direkt">
+                <Link getProps={isPartiallyActive} to="/om-fonder-direkt">
                   OM FONDER DIREKT
                 </Link>
                 <a href="https://twitter.com/fonder_direkt" className="navbar-item is-twitter" target="_blank" rel="noopener noreferrer">
