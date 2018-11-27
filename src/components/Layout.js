@@ -20,6 +20,7 @@ const TemplateWrapper = ({ children }) => (
       <link rel="shortcut icon" href="/favicon.ico" />
       <meta name="msapplication-TileColor" content="#00aba9" />
       <meta name="msapplication-config" content="/browserconfig.xml" />
+      <meta property="og:type" content="website" />
       <meta property="og:image" content="/og-image.png" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="1200" />

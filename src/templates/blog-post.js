@@ -79,6 +79,7 @@ const BlogPost = ({ data }) => {
             <meta property="og:title" content={`${post.frontmatter.title}`} />
             <meta property="og:description" content={`${post.excerpt}`} />
             <meta property="og:url" content={`https://fonderdirekt.se${post.fields.slug}`} />
+            <meta property="og:type" content="article" />
           </Helmet>
         }
         tags={post.frontmatter.tags}
