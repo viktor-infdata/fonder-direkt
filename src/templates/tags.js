@@ -10,8 +10,8 @@ class TagRoute extends React.Component {
       <li key={post.node.fields.slug}>
         <h2 className="is-size-5">
           <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
-          <span> &bull; </span>
-          <small className="has-text-grey-dark">{post.node.frontmatter.date}</small>
+          <span className="has-text-grey"> &bull; </span>
+          <small className="has-text-grey">{post.node.frontmatter.date}</small>
         </h2><hr />
         
       </li>
