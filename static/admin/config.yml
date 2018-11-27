@@ -21,7 +21,7 @@ collections:
 
   - name: "video"
     label: "Video"
-    folder: "src/pages/videor"
+    folder: "src/pages/video"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
