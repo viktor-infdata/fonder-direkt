@@ -51,7 +51,7 @@ export const VideoPostTemplate = ({
                     <h4>TAGGAR</h4>
                     <div className="tags">
                       {tags.map(tag => (
-                        <Link key={tag + `tag`} to={`/tags/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
+                        <Link key={tag + `tag`} to={`/taggar/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
                       ))}
                     </div>
                 </div>
@@ -88,6 +88,9 @@ const VideoPost = ({ data }) => {
               <title>{`${post.frontmatter.title} | Fonder Direkt`}</title>
               <meta name="description" content={`${post.excerpt}`} />
               <meta name="keywords" content={`${post.frontmatter.tags}`} />
+              <meta property="og:title" content={`${post.frontmatter.title}`} />
+              <meta property="og:description" content={`${post.excerpt}`} />
+              <meta property="og:url" content={`https://fonderdirekt.se${post.fields.slug}`} />
             </Helmet>
           }
         tags={post.frontmatter.tags}
@@ -113,6 +116,9 @@ export const pageQuery = graphql`
   query VideoPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
+      fields {
+        slug
+      }
       html
       excerpt(pruneLength: 280)
       frontmatter {

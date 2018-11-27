@@ -9,7 +9,12 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Taggar | ${title}`} />
+      <Helmet 
+        title={`Taggar | ${title}`} 
+      >
+        <meta property="og:title" content={`Taggar | ${title}`} />
+        <meta property="og:url" content="https://fonderdirekt.se/taggar/" />
+      </Helmet>
       <div className="container content">
         <div className="columns">
           <div
@@ -21,7 +26,7 @@ const TagsPage = ({
               {group.map(tag => (
                 <div className="control" key={tag.fieldValue}>
                   <div className="tags has-addons">
-                    <Link className="tag is-medium is-link" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                    <Link className="tag is-medium is-link" to={`/taggar/${kebabCase(tag.fieldValue)}/`}>
                       {tag.fieldValue}
                     </Link>
                     <span className="tag is-medium">{tag.totalCount}</span>

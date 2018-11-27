@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }) => (
       title="Fonder Direkt"
     >
       <html lang="se" />
-      <meta name="description" content="Fonder Direkt är nordens ledande webbplats om fonder som produceras av Nyhetsbyrån Direkts fondredaktion i syfte att bredda kunskapen om fonder och öka genomlysningen av denna marknad." />
+      <meta name="description" content="Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion." />
       <meta name="copyright" content="Fonder Direkt är en del av Aktiebolaget Nyhetsbyrån Direkt" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -20,6 +20,14 @@ const TemplateWrapper = ({ children }) => (
       <link rel="shortcut icon" href="/favicon.ico" />
       <meta name="msapplication-TileColor" content="#00aba9" />
       <meta name="msapplication-config" content="/browserconfig.xml" />
+      <meta property="og:image" content="/og-image.png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="1200" />
+      <meta property="og:title" content="Fonder Direkt" />
+      <meta property="og:description" content="Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion." />
+      <meta property="og:url" content="https://fonderdirekt.se" />
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@fonder_direkt" />
     </Helmet>
     <Navbar />
     <div>{children}</div>

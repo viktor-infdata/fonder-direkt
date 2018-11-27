@@ -26,7 +26,12 @@ class TagRoute extends React.Component {
     return (
       <Layout>
         <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
+          <Helmet title={`${tag} | ${title}`}>
+            <meta name="description" content={`Nyheter taggade med ${tag} på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.`} />
+            <meta property="og:title" content={`${tag} | ${title}`} />
+            <meta property="og:url" content={`https://fonderdirekt.se/taggar/${tag}/`} />
+            <meta property="og:description" content={`Nyheter taggade med ${tag} på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.`} />
+          </Helmet>
           <div className="container">
             <div className="columns">
               <div
@@ -36,7 +41,7 @@ class TagRoute extends React.Component {
                 <h3 className="title is-size-6 is-bold-light">{tagHeader}</h3>
                 <ul className="taglist">{postLinks}</ul>
                 <p>
-                  <Link to="/tags/">Bläddra bland alla taggar</Link>
+                  <Link to="/taggar/">Bläddra bland alla taggar</Link>
                 </p>
               </div>
             </div>

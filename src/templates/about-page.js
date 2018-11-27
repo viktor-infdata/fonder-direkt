@@ -39,7 +39,12 @@ const AboutPage = ({ data }) => {
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        helmet={<Helmet title={`Om Fonder Direkt`} />}
+        helmet={
+          <Helmet title={`Om Fonder Direkt`}>
+            <meta property="og:title" content="Om Fonder Direkt" />
+            <meta property="og:url" content="https://fonderdirekt.se/om-fonder-direkt/" />
+          </Helmet>
+        }
         content={post.html}
       />
     </Layout>
