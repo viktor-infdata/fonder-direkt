@@ -28,6 +28,7 @@ const TemplateWrapper = ({ children }) => (
       <meta property="og:description" content="Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion." />
       <meta property="og:url" content="https://fonderdirekt.se" />
       <meta name="twitter:card" content="summary" />
+      <meta name="twitter:image" content="/og-image.png" />
       <meta name="twitter:site" content="@fonder_direkt" />
     </Helmet>
     <Navbar />
