@@ -24,7 +24,7 @@ const Footer = () => (
                 <div className="column is-6">
                     <h4 className="is-size-5">OM FONDER DIREKT</h4>
                     <p>
-                    Fonder Direkt är nordens ledande webbplats om fonder som produceras av Nyhetsbyrån Direkts fondredaktion i syfte att bredda kunskapen om fonder och öka genomlysningen av denna marknad.
+                    Fonder Direkt är en plattform som produceras av Nyhetsbyrån Direkts fondredaktion där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.
                     </p>
                 </div>
                 <div className="column is-3">

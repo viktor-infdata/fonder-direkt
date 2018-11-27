@@ -52,6 +52,9 @@ class Navbar extends Component {
                 <Link getProps={isPartiallyActive}  to="/video">
                   VIDEO
                 </Link>
+                <Link getProps={isPartiallyActive}  to="/taggar">
+                  TAGGAR
+                </Link>
               </div>
               <div className="navbar-end">
                 <Link getProps={isPartiallyActive} to="/om-fonder-direkt">
