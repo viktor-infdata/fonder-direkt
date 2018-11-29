@@ -5,6 +5,7 @@ videoId: 8JgNQWgIbz0
 title: 'FONDER DIREKT - GEORG KELL ,UN GLOBAL COMPACT & ARABESQUE'
 date: 2018-04-11T09:45:16.842Z
 sponsored: false
+featured: true
 tags:
   - GCForum18
   - UNGC
