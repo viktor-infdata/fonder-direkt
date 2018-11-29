@@ -3,6 +3,7 @@ templateKey: blog-post
 title: 'FONDER: BRASILIENRALLY I OKTOBER, INDIEN TOG JUMBOPLATS'
 date: 2018-11-02T01:56:00.000Z
 sponsored: false
+featured: true
 tags:
   - Brasilien
   - MSCI
