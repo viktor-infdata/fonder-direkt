@@ -26,7 +26,7 @@ export const BlogPostTemplate = ({
       <div className="is-featured-post">
         <div className="container-fluid">
           <figure className="image is-gradient is-16by9 mx-0 mt-0 mb-2">
-            <img src={featuredImage} alt={title} />
+            <img fluid={featuredImage} alt={title} />
           </figure>
         </div>
         <section className="section">
