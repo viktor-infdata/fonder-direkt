@@ -136,7 +136,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         sponsored={post.frontmatter.sponsored}
-        featuredImage={post.frontmatter.featuredImage}
+        featuredImage={post.frontmatter.featuredImage.childImageSharp.fluid.src}
       />
     </Layout>
   )
@@ -166,7 +166,7 @@ export const pageQuery = graphql`
         sponsored
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 1344, quality: 100) {
+            fluid(maxWidth: 2048, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
