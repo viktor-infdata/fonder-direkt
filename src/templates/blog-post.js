@@ -13,7 +13,7 @@ export const BlogPostTemplate = ({
   title,
   date,
   sponsored,
-  featuredImage,
+  image,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -22,11 +22,11 @@ export const BlogPostTemplate = ({
   return (
     <React.Fragment>
       {helmet || ''}
-      {featuredImage != null ? (
+      {image != null ? (
       <div className="is-featured-post">
         <div className="container-fluid">
           <figure className="image is-gradient is-16by9 mx-0 mt-0 mb-2">
-            <img src={featuredImage} alt={title} />
+            <img src={image} alt={title} />
           </figure>
         </div>
         <section className="section">
@@ -109,7 +109,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   date: PropTypes.string,
   sponsored: PropTypes.bool,
-  featuredImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -136,7 +136,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         sponsored={post.frontmatter.sponsored}
-        featuredImage={post.frontmatter.featuredImage}
+        image={post.frontmatter.image}
       />
     </Layout>
   )
@@ -164,7 +164,7 @@ export const pageQuery = graphql`
         title
         tags
         sponsored
-        featuredImage
+        image
       }
     }
   }

@@ -92,9 +92,9 @@ class IndexPage extends React.Component {
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
                         </h1>
-                        {node.frontmatter.featuredImage != null &&
+                        {node.frontmatter.image != null &&
                           <figure className="image is-16by9 mx-0 mt-0 mb-2">
-                            <img src={node.frontmatter.featuredImage} alt={node.frontmatter.title} />
+                            <img src={node.frontmatter.image} alt={node.frontmatter.title} />
                           </figure>
                         }
                         <p>
@@ -152,7 +152,7 @@ export const pageQuery = graphql`
             videoId
             date(formatString: "YYYY-MM-DD")
             sponsored
-            featuredImage
+            image
           }
         }
       }

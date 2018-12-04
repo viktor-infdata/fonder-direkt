@@ -83,7 +83,7 @@ class IndexPage extends React.Component {
                         </div>
                       ) : (
                         <figure className="image is-16by9">
-                          <img src={featuredPost.frontmatter.featuredImage} alt={featuredPost.frontmatter.title} />
+                          <img src={featuredPost.frontmatter.image} alt={featuredPost.frontmatter.title} />
                         </figure>
                       )
                       }
@@ -143,9 +143,9 @@ class IndexPage extends React.Component {
                             <iframe title={node.frontmatter.videoId} className="embed-responsive-item" src={"https://www.youtube.com/embed/"+node.frontmatter.videoId+"?rel=0"} allowFullScreen></iframe>
                           </div>
                         }
-                        {node.frontmatter.featuredImage != null &&
+                        {node.frontmatter.image != null &&
                           <figure className="image is-16by9 mx-0 mt-0 mb-2">
-                            <img src={node.frontmatter.featuredImage} alt={node.frontmatter.title} />
+                            <img src={node.frontmatter.image} alt={node.frontmatter.title} />
                           </figure>
                         }
                         <p>
@@ -204,7 +204,7 @@ export const pageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             sponsored
             featured
-            featuredImage
+            image
           }
         }
       }
@@ -228,7 +228,7 @@ export const pageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             sponsored
             featured
-            featuredImage
+            image
           }
         }
       }
