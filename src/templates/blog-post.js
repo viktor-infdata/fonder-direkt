@@ -26,7 +26,7 @@ export const BlogPostTemplate = ({
       <div className="is-featured-post">
         <div className="container-fluid">
           <figure className="image is-gradient is-16by9 mx-0 mt-0 mb-2">
-            <img fluid={featuredImage} alt={title} />
+            <img src={featuredImage} alt={title} />
           </figure>
         </div>
         <section className="section">
@@ -109,7 +109,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   date: PropTypes.string,
   sponsored: PropTypes.bool,
-  featuredImage: PropTypes.string,
+  featuredImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -136,7 +136,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         sponsored={post.frontmatter.sponsored}
-        featuredImage={post.frontmatter.featuredImage.childImageSharp.fluid.src}
+        featuredImage={post.frontmatter.featuredImage}
       />
     </Layout>
   )
@@ -164,13 +164,7 @@ export const pageQuery = graphql`
         title
         tags
         sponsored
-        featuredImage {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        featuredImage
       }
     }
   }

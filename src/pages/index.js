@@ -204,13 +204,7 @@ export const pageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             sponsored
             featured
-            featuredImage {
-              childImageSharp {
-                fluid(maxWidth: 888, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            featuredImage
           }
         }
       }
@@ -234,13 +228,7 @@ export const pageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             sponsored
             featured
-            featuredImage {
-              childImageSharp {
-                fluid(maxWidth: 1016, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            featuredImage
           }
         }
       }

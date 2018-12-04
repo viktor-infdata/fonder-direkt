@@ -152,13 +152,7 @@ export const pageQuery = graphql`
             videoId
             date(formatString: "YYYY-MM-DD")
             sponsored
-            featuredImage {
-              childImageSharp {
-                fluid(maxWidth: 888, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            featuredImage
           }
         }
       }
