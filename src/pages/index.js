@@ -12,7 +12,10 @@ if (typeof window !== 'undefined') {
 class IndexPage extends React.Component {
   static propTypes = {
     data: PropTypes.shape({
-      allMarkdownRemark: PropTypes.shape({
+      indexPosts: PropTypes.shape({
+        edges: PropTypes.array,
+      }),
+      featuredPosts: PropTypes.shape({
         edges: PropTypes.array,
       }),
     }),
@@ -57,16 +60,66 @@ class IndexPage extends React.Component {
     window.indexPostsToShow = this.state.indexPostsToShow
   }
 
-  render() {    
-    let { allMarkdownRemark } = this.props.data
-    const posts = allMarkdownRemark.edges.map(e => e.node)
+  render() {
+    const { data } = this.props
+    const { edges: featuredPosts } = data.featuredPosts
+    
+    let { indexPosts } = this.props.data
+    const posts = indexPosts.edges.map(e => e.node)
 
     return (
       <Layout>
+        <section className="hero is-light is-bold">
+          <div className="hero-body">
+            <div className="container">
+              <div className="columns is-desktop">
+              {featuredPosts.map(({ node: featuredPost }) => (
+                <div className="column" key={featuredPost.id}>
+                  <div className="card has-equal-height">
+                    <div className="card-image">
+                      {featuredPost.frontmatter.videoId != null ? (
+                        <div className="embed-responsive embed-responsive-16by9">
+                          <iframe title={featuredPost.frontmatter.videoId} className="embed-responsive-item" src={"https://www.youtube.com/embed/"+featuredPost.frontmatter.videoId+"?rel=0"} allowFullScreen></iframe>
+                        </div>
+                      ) : (
+                        <figure className="image is-16by9">
+                          <img src={featuredPost.frontmatter.featuredImage} alt={featuredPost.frontmatter.title} />
+                        </figure>
+                      )
+                      }
+                    </div>
+                    <div className="card-content">
+                      <div className="content">
+                        <h5 className="is-size-7 mb-0">
+                          <small className="has-text-grey"><time dateTime={featuredPost.frontmatter.date}>{featuredPost.frontmatter.date}</time></small>
+                          {featuredPost.frontmatter.sponsored === true &&
+                            <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
+                          }
+                        </h5>
+                        <h1 className="is-size-5 mt-1 mb-2 is-uppercase">
+                          <Link to={featuredPost.fields.slug}>
+                            {featuredPost.frontmatter.title}
+                          </Link>
+                        </h1>
+                        <p>{featuredPost.excerpt}</p>
+                      </div>
+                    </div>
+                    <footer className="card-footer">
+                      <Link className="card-footer-item button is-dark is-fullwidth is-feature-button" to={featuredPost.fields.slug}>
+                        Gå till {featuredPost.frontmatter.videoId != null  ? 'videon' : 'nyheten'}
+                      </Link>
+                    </footer>
+                  </div>
+                </div>
+              ))}
+              </div>
+            </div>
+          </div>
+        </section>
         <section className="section">
           <div className="container">
-            <div className="columns">
-              <div className="column is-8 is-offset-2">
+            <div className="columns is-centered">
+              <div className="column is-8">
                 <React.Fragment>
                 {chunk(posts.slice(0, this.state.indexPostsToShow), 10).map((chunk, i) => (
                     <div
@@ -75,12 +128,12 @@ class IndexPage extends React.Component {
                     >
                     {chunk.map(node => (
                       <React.Fragment key={node.id}>
-                        <h1 className="is-size-5">
+                        <h1 className="is-size-5 is-uppercase">
                           <Link to={node.fields.slug}>
                             {node.frontmatter.title}
                           </Link>
                           <span className="has-text-grey"> &bull; </span>
-                          <small className="has-text-grey">{node.frontmatter.date}</small>
+                          <small className="has-text-grey"><time dateTime={node.frontmatter.date}>{node.frontmatter.date}</time></small>
                           {node.frontmatter.sponsored === true &&
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
@@ -89,6 +142,11 @@ class IndexPage extends React.Component {
                           <div className="embed-responsive embed-responsive-16by9 mb-2">
                             <iframe title={node.frontmatter.videoId} className="embed-responsive-item" src={"https://www.youtube.com/embed/"+node.frontmatter.videoId+"?rel=0"} allowFullScreen></iframe>
                           </div>
+                        }
+                        {node.frontmatter.featuredImage != null &&
+                          <figure className="image is-16by9 mx-0 mt-0 mb-2">
+                            <img src={node.frontmatter.featuredImage} alt={node.frontmatter.title} />
+                          </figure>
                         }
                         <p>
                           {node.excerpt}
@@ -126,8 +184,8 @@ class IndexPage extends React.Component {
 export default IndexPage
 
 export const pageQuery = graphql`
-  query {
-    allMarkdownRemark(
+  {
+    indexPosts:allMarkdownRemark(
       limit: 1000,
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: {regex: "/blog-post|video-post/"}}}
@@ -145,6 +203,32 @@ export const pageQuery = graphql`
             videoId
             date(formatString: "YYYY-MM-DD")
             sponsored
+            featured
+            featuredImage
+          }
+        }
+      }
+    }
+    featuredPosts:allMarkdownRemark(
+      limit: 2,
+      sort: { order: DESC, fields: [frontmatter___date] },
+      filter: { frontmatter: { featured: {eq: true}}}
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 200)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            templateKey
+            videoId
+            date(formatString: "YYYY-MM-DD")
+            sponsored
+            featured
+            featuredImage
           }
         }
       }

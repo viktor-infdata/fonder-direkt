@@ -16,9 +16,9 @@ const TagsPage = ({
         <meta property="og:url" content="https://fonderdirekt.se/taggar/" />
       </Helmet>
       <div className="container content">
-        <div className="columns">
+        <div className="columns is-centered">
           <div
-            className="column is-8 is-offset-2"
+            className="column is-8"
             style={{ marginBottom: '6rem' }}
           >
             <h1 className="title is-size-3">TAGGAR</h1>

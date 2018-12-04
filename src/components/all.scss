@@ -233,6 +233,36 @@ $navbar-breakpoint: 1087px;
   font-family: $family-secondary;
   text-transform: uppercase;
 }
+.is-feature-button {
+  font-family: $family-secondary;
+  text-transform: uppercase;
+  border-radius: 0!important;
+}
+
+// Cards
+$card-header-weight: $title-weight;
+.has-equal-height {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.has-equal-height .card-footer {
+  margin-top: auto;
+}
+
+// Hero
+.hero.is-light a:not(.button):not(.dropdown-item):not(.tag){
+  color: $link!important;
+  &:hover {
+    color: $link-hover!important;
+  }
+  &:active {
+    color: $link-active!important;
+  }
+  &:focus {
+    color: $link-focus!important;
+  }
+}
 
 // Image Caption
 .image-caption {
@@ -250,6 +280,40 @@ $navbar-breakpoint: 1087px;
 .is-video {
   background-color: $black-bis;
 }
+
+// Featured-Post
+.is-featured-post {
+  .container-fluid {
+    height: 100vh;
+  }
+  section {
+    margin-top: -100vh;
+  }
+  .is-feature {
+    background: white;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+    .column {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      @media screen and (max-width: $navbar-breakpoint) {
+        padding-top: 0.75rem;
+        padding-bottom: 0.75rem;
+      }
+    }
+  }
+  .image {
+    &.is-gradient:after {
+      content:'';
+      position:absolute;
+      left:0; top:0;
+      width:101%; height:101%;
+      display:inline-block;
+      background: linear-gradient(to bottom, rgba(255,255,255,0) 35%,rgba(255,255,255,1) 100%); 
+    }
+  }
+}
+
+
 
 // Footer
 $footer-background-color: $grey-lighter;
@@ -273,24 +337,45 @@ $footer-background-color: $grey-lighter;
 }
 
 // Social
+$svg-normal-width: 36px;
+$svg-share-width: 16px;
+
 .is-twitter {
- &:hover {
+  &:hover {
    fill: #1DA1F2;
- }
- svg {
-   width: 36px;
+  }
+  svg {
+   width: $svg-normal-width;
    display: block;
    margin: auto;
- }
+  }
+  &.is-share {
+    svg {
+      width: $svg-share-width;
+      fill: #7a7a7a;
+      &:hover {
+        fill: #1DA1F2;
+      }
+    }
+  }
 }
 .is-facebook {
   &:hover {
     fill: #3B5998;
   }
   svg {
-    width: 36px;
+    width: $svg-normal-width;
     display: block;
     margin: auto;
+  }
+  &.is-share {
+    svg {
+      width: $svg-share-width;
+      fill: #7a7a7a;
+      &:hover {
+        fill: #3B5998;
+      }
+    }
   }
 }
 .is-linkedin {
@@ -298,9 +383,18 @@ $footer-background-color: $grey-lighter;
     fill: #0077B5;
   }
   svg {
-    width: 36px;
+    width: $svg-normal-width;
     display: block;
     margin: auto;
+  }
+  &.is-share {
+    svg {
+      width: $svg-share-width;
+      fill: #7a7a7a;
+      &:hover {
+        fill: #0077B5;
+      }
+    }
   }
 }
 

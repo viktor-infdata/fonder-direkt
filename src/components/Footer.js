@@ -5,7 +5,7 @@ const Footer = () => (
     <footer className="footer">
         <div className="container">
             <div className="columns">
-                <div className="column is-3">
+                <div className="column is-3-desktop">
                     <Link to={`#top`}>
                     <svg role="img" className="is-fonder-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 745 454">
                         <title>Fonder Direkt</title>
@@ -21,23 +21,23 @@ const Footer = () => (
                     <span className="sr-only sr-only-focusable">Tillbaka till toppen av sidan</span>
                     </Link>
                 </div>
-                <div className="column is-6">
+                <div className="column is-6-desktop">
                     <h4 className="is-size-5">OM FONDER DIREKT</h4>
                     <p>
                     Fonder Direkt är en plattform som produceras av Nyhetsbyrån Direkts fondredaktion där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.
                     </p>
                 </div>
-                <div className="column is-3">
+                <div className="column is-3-desktop">
                     <h4 className="is-size-5">KONTAKTA OSS</h4>
                     <p>Kungsgatan 33, 111 56 Stockholm</p>
                     <p><a href='mailto&#58;fo&#110;dr%&#54;5d&#97;%&#54;Btio&#110;en&#64;di%7&#50;ek%7&#52;&#37;2Es%6&#53;'>&#102;&#111;n&#100;re&#100;akt&#105;o&#110;&#101;n&#64;direkt&#46;&#115;e</a></p>
                     <p><a href="tel:+46 8 5191 79 05">+46 8 5191 79 05</a></p>
                 </div>
             </div>
-            <div className="columns">
-                <div className="column is-6 is-offset-3">
+            <div className="columns is-centered">
+                <div className="column is-6">
                     <hr />
-                    <nav className="level">
+                    <nav className="level is-mobile">
                         <div className="level-item has-text-centered">
                             <div>
                                 <p className="heading">Twitter</p>

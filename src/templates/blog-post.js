@@ -13,19 +13,65 @@ export const BlogPostTemplate = ({
   title,
   date,
   sponsored,
+  featuredImage,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
   
 
   return (
-    <section className="section">
+    <React.Fragment>
       {helmet || ''}
+      {featuredImage != null ? (
+      <div className="is-featured-post">
+        <div className="container-fluid">
+          <figure className="image is-gradient is-16by9 mx-0 mt-0 mb-2">
+            <img src={featuredImage} alt={title} />
+          </figure>
+        </div>
+        <section className="section">
+          <div className="container content">
+            <div className="columns is-centered">
+              <div className="column is-10 is-feature">
+                <div className="columns is-centered is-desktop">
+                  <div className="column is-10-desktop is-12-tablet">
+                    <h5 className="is-size-6 mb-2 has-text-grey">
+                      <time dateTime={date}>{date}</time>
+                      {sponsored === true &&
+                        <span> &bull; UPPDRAGSARTIKEL</span>
+                      }
+                    </h5>
+                    <h1 className="title is-size-3 mt-0">
+                      {title}
+                    </h1>
+                    <PostContent content={content} />
+                    <hr />
+                    <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
+                    <hr />
+                    {tags && tags.length ? (
+                      <React.Fragment>
+                        <h4>TAGGAR</h4>
+                        <div className="tags">
+                          {tags.map(tag => (
+                            <Link key={tag + `tag`} to={`/taggar/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
+                          ))}
+                        </div>
+                      </React.Fragment>
+                    ) : null}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      ) : (
+      <section className="section">
       <div className="container content">
-        <div className="columns">
-          <div className="column is-8 is-offset-2">
+        <div className="columns is-centered">
+          <div className="column is-8">            
             <h5 className="is-size-6 mb-2 has-text-grey">
-              {date}
+              <time dateTime={date}>{date}</time>
               {sponsored === true &&
                 <span> &bull; UPPDRAGSARTIKEL</span>
               }
@@ -38,19 +84,22 @@ export const BlogPostTemplate = ({
             <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
             <hr />
             {tags && tags.length ? (
-              <div>
+              <React.Fragment>
                 <h4>TAGGAR</h4>
                 <div className="tags">
                   {tags.map(tag => (
                     <Link key={tag + `tag`} to={`/taggar/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
                   ))}
                 </div>
-              </div>
+              </React.Fragment>
             ) : null}
           </div>
         </div>
       </div>
     </section>
+      )
+    }
+    </React.Fragment>
   )
 }
 
@@ -60,6 +109,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   date: PropTypes.string,
   sponsored: PropTypes.bool,
+  featuredImage: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -86,6 +136,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         sponsored={post.frontmatter.sponsored}
+        featuredImage={post.frontmatter.featuredImage}
       />
     </Layout>
   )
@@ -113,6 +164,7 @@ export const pageQuery = graphql`
         title
         tags
         sponsored
+        featuredImage
       }
     }
   }

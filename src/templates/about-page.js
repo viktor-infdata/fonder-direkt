@@ -12,8 +12,8 @@ export const AboutPageTemplate = ({ title, content, helmet, contentComponent }) 
     <section className="section section--gradient">
       {helmet || ''}
       <div className="container">
-        <div className="columns">
-          <div className="column is-8 is-offset-2">
+        <div className="columns is-centered">
+          <div className="column is-8">
             <h2 className="title is-size-3">
               {title}
             </h2>

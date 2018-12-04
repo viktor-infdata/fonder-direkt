@@ -72,8 +72,8 @@ class IndexPage extends React.Component {
             <meta property="og:description" content="Senaste videoklippen från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
           </Helmet>
           <div className="container">
-            <div className="columns">
-              <div className="column is-8 is-offset-2">
+            <div className="columns is-centered">
+              <div className="column is-8">
                 <React.Fragment>
                 {chunk(posts.slice(0, this.state.videoPostsToShow), 10).map((chunk, i) => (
                     <div

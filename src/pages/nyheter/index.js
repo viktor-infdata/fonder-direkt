@@ -72,8 +72,8 @@ class IndexPage extends React.Component {
             <meta property="og:description" content="Senaste nyheterna från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
           </Helmet>
           <div className="container">
-            <div className="columns">
-              <div className="column is-8 is-offset-2">
+            <div className="columns is-centered">
+              <div className="column is-8">
                 <React.Fragment>
                 {chunk(posts.slice(0, this.state.newsPostsToShow), 10).map((chunk, i) => (
                     <div
@@ -92,6 +92,11 @@ class IndexPage extends React.Component {
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
                         </h1>
+                        {node.frontmatter.featuredImage != null &&
+                          <figure className="image is-16by9 mx-0 mt-0 mb-2">
+                            <img src={node.frontmatter.featuredImage} alt={node.frontmatter.title} />
+                          </figure>
+                        }
                         <p>
                           {node.excerpt}
                         </p>
@@ -147,6 +152,7 @@ export const pageQuery = graphql`
             videoId
             date(formatString: "YYYY-MM-DD")
             sponsored
+            featuredImage
           }
         }
       }

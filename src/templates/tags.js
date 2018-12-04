@@ -11,7 +11,7 @@ class TagRoute extends React.Component {
         <h2 className="is-size-5">
           <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
           <span className="has-text-grey"> &bull; </span>
-          <small className="has-text-grey">{post.node.frontmatter.date}</small>
+          <small className="has-text-grey"><time dateTime={post.node.frontmatter.date}>{post.node.frontmatter.date}</time></small>
         </h2><hr />
         
       </li>
@@ -33,9 +33,9 @@ class TagRoute extends React.Component {
             <meta property="og:description" content={`Nyheter taggade med ${tag} på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.`} />
           </Helmet>
           <div className="container">
-            <div className="columns">
+            <div className="columns is-centered">
               <div
-                className="column is-8 is-offset-2"
+                className="column is-8"
                 style={{ marginBottom: '6rem' }}
               >
                 <h3 className="title is-size-6 is-bold-light">{tagHeader}</h3>

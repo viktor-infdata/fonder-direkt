@@ -20,7 +20,7 @@ export const VideoPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <div>
+    <React.Fragment>
       {helmet || ''}
       <div className="is-video">
         <div className="container">
@@ -31,10 +31,10 @@ export const VideoPostTemplate = ({
       </div>
       <section className="section">
         <div className="container content">
-            <div className="columns">
-            <div className="column is-8 is-offset-2">
+            <div className="columns is-centered">
+            <div className="column is-8">
               <h5 className="is-size-6 mb-2 has-text-grey">
-                {date}
+                <time dateTime={date}>{date}</time>
                 {sponsored === true &&
                   <span> &bull; UPPDRAGSARTIKEL</span>
                 }
@@ -60,7 +60,7 @@ export const VideoPostTemplate = ({
             </div>
         </div>
       </section>
-    </div>
+    </React.Fragment>
   )
 }
 
