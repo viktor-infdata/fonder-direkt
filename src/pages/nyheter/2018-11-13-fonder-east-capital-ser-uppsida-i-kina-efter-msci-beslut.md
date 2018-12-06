@@ -3,6 +3,8 @@ templateKey: blog-post
 title: 'FONDER: EAST CAPITAL SER UPPSIDA I KINA EFTER MSCI-BESLUT'
 date: 2018-11-13T16:03:44.790Z
 sponsored: false
+featured: true
+image: /img/china.jpg
 tags:
   - East Capital
 ---
