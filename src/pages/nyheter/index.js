@@ -2,6 +2,7 @@ import React from 'react'
 import chunk from "lodash/chunk"
 import * as PropTypes from "prop-types"
 import { Link, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 import Helmet from 'react-helmet'
 import Layout from '../../components/Layout'
 
@@ -93,9 +94,7 @@ class IndexPage extends React.Component {
                           }
                         </h1>
                         {node.frontmatter.image != null &&
-                          <figure className="image is-16by9 mx-0 mt-0 mb-2">
-                            <img src={node.frontmatter.image} alt={node.frontmatter.title} />
-                          </figure>
+                          <Img fluid={node.frontmatter.image.childImageSharp.fluid} alt={node.frontmatter.title} className="mx-0 mt-0 mb-2" />                         
                         }
                         <p>
                           {node.excerpt}
@@ -152,7 +151,13 @@ export const pageQuery = graphql`
             videoId
             date(formatString: "YYYY-MM-DD")
             sponsored
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 888, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

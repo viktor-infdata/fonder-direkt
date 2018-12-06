@@ -2,6 +2,7 @@ import React from 'react'
 import chunk from "lodash/chunk"
 import * as PropTypes from "prop-types"
 import { Link, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 import Layout from '../components/Layout'
 
 
@@ -82,9 +83,7 @@ class IndexPage extends React.Component {
                           <iframe title={featuredPost.frontmatter.videoId} className="embed-responsive-item" src={"https://www.youtube.com/embed/"+featuredPost.frontmatter.videoId+"?rel=0"} allowFullScreen></iframe>
                         </div>
                       ) : (
-                        <figure className="image is-16by9">
-                          <img src={featuredPost.frontmatter.image} alt={featuredPost.frontmatter.title} />
-                        </figure>
+                        <Img fluid={featuredPost.frontmatter.image.childImageSharp.fluid} alt={featuredPost.frontmatter.title} />
                       )
                       }
                     </div>
@@ -144,9 +143,7 @@ class IndexPage extends React.Component {
                           </div>
                         }
                         {node.frontmatter.image != null &&
-                          <figure className="image is-16by9 mx-0 mt-0 mb-2">
-                            <img src={node.frontmatter.image} alt={node.frontmatter.title} />
-                          </figure>
+                          <Img fluid={node.frontmatter.image.childImageSharp.fluid} alt={node.frontmatter.title} className="mx-0 mt-0 mb-2" />
                         }
                         <p>
                           {node.excerpt}
@@ -204,7 +201,13 @@ export const pageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             sponsored
             featured
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 888, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
@@ -228,7 +231,13 @@ export const pageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             sponsored
             featured
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1016, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

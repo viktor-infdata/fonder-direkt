@@ -36,7 +36,7 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-relative-images-v2',
+            resolve: 'gatsby-remark-relative-images',
             options: {
               name: 'uploads',
             },
@@ -49,6 +49,12 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 1344,
             },
+          },
+          {
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {
+              destinationDir: 'static',
+            }
           },
           'gatsby-remark-smartypants',
         ],

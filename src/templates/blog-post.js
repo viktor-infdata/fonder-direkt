@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
+import Img from 'gatsby-image'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -26,7 +27,7 @@ export const BlogPostTemplate = ({
       <div className="is-featured-post">
         <div className="container-fluid">
           <figure className="image is-gradient is-16by9 mx-0 mt-0 mb-2">
-            <img src={image} alt={title} />
+            <img src={image.childImageSharp.fluid.src} alt={title} />
           </figure>
         </div>
         <section className="section">
@@ -164,7 +165,13 @@ export const pageQuery = graphql`
         title
         tags
         sponsored
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 1920, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
