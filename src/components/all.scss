@@ -338,7 +338,7 @@ $footer-background-color: $grey-lighter;
 
 // Social
 $svg-normal-width: 36px;
-$svg-share-width: 16px;
+$svg-share-width: 20px;
 
 .is-twitter {
   &:hover {
@@ -394,6 +394,40 @@ $svg-share-width: 16px;
       &:hover {
         fill: #0077B5;
       }
+    }
+  }
+}
+
+// Share
+  .share {
+    display: none;
+  }
+@media screen and (min-width: $navbar-breakpoint) {
+  .share {
+    display: block;
+    position:fixed;
+    top:134px;
+    float:right;
+    right:0px;
+    text-align: center;
+    font-family: $family-secondary;
+    background: white;
+    box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
+    padding: 15px;
+    color: $grey-darker;
+    &.is-feature-share {
+      top: 106px;
+    }
+    &.is-video-share {
+      top: 64px;
+    }
+    p {
+      margin-bottom: 0!important;
+      font-size: 13px!important;
+    }
+    a {
+      padding-top: 10px;
+      display: block;
     }
   }
 }
