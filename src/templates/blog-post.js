@@ -26,9 +26,7 @@ export const BlogPostTemplate = ({
       {image != null ? (
       <div className="is-featured-post">
         <div className="container-fluid">
-          <figure className="image is-gradient is-16by9 mx-0 mt-0 mb-2">
-            <img src={image.childImageSharp.fluid.src} alt={title} />
-          </figure>
+          <Img fluid={image.childImageSharp.fluid} alt={title} className="image is-gradient mx-0 mt-0 mb-2"/>
         </div>
         <section className="section">
           <div className="container content">
