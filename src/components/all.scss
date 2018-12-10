@@ -419,22 +419,16 @@ $svg-share-width: 20px;
 @media screen and (min-width: $navbar-breakpoint) {
   .share {
     display: block;
-    position:fixed;
-    top:134px;
-    float:right;
-    right:0px;
+    position: fixed;
+    top: 106px;
+    right: 0px;
+    float: right;
     text-align: center;
     font-family: $family-secondary;
     background: white;
     box-shadow: $shadow-1;
     padding: 15px;
     color: $grey-darker;
-    &.is-feature-share {
-      top: 106px;
-    }
-    &.is-video-share {
-      top: 67px;
-    }
     p {
       margin-bottom: 0!important;
       font-size: 13px!important;
