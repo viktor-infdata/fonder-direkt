@@ -48,6 +48,16 @@ $border: $grey-lighter;
   background: lighten($primary, 12%);
   color: $white;
 }
+
+// Shadows
+$shadow-1:    0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+$shadow-2:    0 3px 4px 0 rgba(0, 0, 0, 0.14), 0 3px 3px -2px rgba(0, 0, 0, 0.2), 0 1px 8px 0 rgba(0, 0, 0, 0.12);
+$shadow-3:    0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+$shadow-4:    0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+$shadow-5:    0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+$shadow-6:    0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+$shadow-7:    0 9px 46px 8px rgba(0, 0, 0, 0.14), 0 11px 15px -7px rgba(0, 0, 0, 0.12), 0 24px 38px 3px rgba(0, 0, 0, 0.2);
+
 /* purgecss start ignore */
 // Blockquote
 $content-blockquote-background-color: hsl(0, 0%, 96%);
@@ -241,6 +251,7 @@ $navbar-breakpoint: 1087px;
 
 // Cards
 $card-header-weight: $title-weight;
+$card-shadow: $shadow-3;
 .has-equal-height {
   display: flex;
   flex-direction: column;
@@ -291,7 +302,7 @@ $card-header-weight: $title-weight;
   }
   .is-feature {
     background: white;
-    box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+    box-shadow: $shadow-3;
     .column {
       padding-top: 3rem;
       padding-bottom: 3rem;
@@ -348,6 +359,7 @@ $svg-share-width: 20px;
    width: $svg-normal-width;
    display: block;
    margin: auto;
+   transition: $transition-base;
   }
   &.is-share {
     svg {
@@ -367,6 +379,7 @@ $svg-share-width: 20px;
     width: $svg-normal-width;
     display: block;
     margin: auto;
+    transition: $transition-base;
   }
   &.is-share {
     svg {
@@ -386,6 +399,7 @@ $svg-share-width: 20px;
     width: $svg-normal-width;
     display: block;
     margin: auto;
+    transition: $transition-base;
   }
   &.is-share {
     svg {
@@ -412,7 +426,7 @@ $svg-share-width: 20px;
     text-align: center;
     font-family: $family-secondary;
     background: white;
-    box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
+    box-shadow: $shadow-1;
     padding: 15px;
     color: $grey-darker;
     &.is-feature-share {

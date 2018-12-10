@@ -95,7 +95,7 @@ class IndexPage extends React.Component {
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
                         </h5>
-                        <h1 className="is-size-5 mt-1 mb-2 is-uppercase">
+                        <h1 className="is-size-5 mt-1 mb-2">
                           <Link to={featuredPost.fields.slug}>
                             {featuredPost.frontmatter.title}
                           </Link>
@@ -127,7 +127,7 @@ class IndexPage extends React.Component {
                     >
                     {chunk.map(node => (
                       <React.Fragment key={node.id}>
-                        <h1 className="is-size-5 is-uppercase">
+                        <h1 className="is-size-5">
                           <Link to={node.fields.slug}>
                             {node.frontmatter.title}
                           </Link>
