@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Fonder Direkt',
-    description: 'Fonder Direkt är nordens ledande webbplats om fonder som produceras av Nyhetsbyrån Direkts fondredaktion i syfte att bredda kunskapen om fonder och öka genomlysningen av denna marknad.',
+    description: 'Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion.',
     siteUrl: 'https://fonderdirekt.se',
   },
   plugins: [
