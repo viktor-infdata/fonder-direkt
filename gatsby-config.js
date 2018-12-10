@@ -95,6 +95,14 @@ module.exports = {
       resolve: 'gatsby-plugin-sitemap',
     },
     {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-130679662-1',
+        anonymize: true,
+        siteSpeedSampleRate: 10,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-feed',
       options: {
         query: `
