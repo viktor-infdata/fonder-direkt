@@ -6,7 +6,7 @@ import Footer from '../components/Footer'
 import './all.scss'
 
 const TemplateWrapper = ({ children }) => (
-  <div>
+  <React.Fragment>
     <Helmet
       title="Fonder Direkt"
     >
@@ -31,10 +31,14 @@ const TemplateWrapper = ({ children }) => (
       <meta name="twitter:image" content="https://fonderdirekt.se/og-image.png" />
       <meta name="twitter:site" content="@fonder_direkt" />
     </Helmet>
-    <Navbar />
-    <div>{children}</div>
-    <Footer />
-  </div>
+    <div className="page">
+      <div className="main">
+        <Navbar />
+        <React.Fragment>{children}</React.Fragment>
+      </div>
+      <Footer />
+    </div>
+  </React.Fragment>
 )
 
 export default TemplateWrapper

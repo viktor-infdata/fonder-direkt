@@ -2,6 +2,16 @@
 @import "~bulma/sass/utilities/initial-variables";
 @import "~bulma/sass/utilities/functions";
 
+// Sticky Footer
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+   .main {
+    flex: 1;
+  }
+}
+
 // Typography
 $body-size: 18px;
 $body-line-height: 1.58;

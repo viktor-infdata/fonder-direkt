@@ -20,7 +20,7 @@ class Navbar extends Component {
         : { className: "navbar-item" }
     }
     return(
-      <div>
+      <React.Fragment>
         <nav className="navbar is-primary" aria-label="Huvudnavigering">
           <div className="container">
             <div className="navbar-brand">
@@ -76,7 +76,7 @@ class Navbar extends Component {
             </div>
           </div>
         </nav>
-      </div>
+      </React.Fragment>
     )
   }
 }
