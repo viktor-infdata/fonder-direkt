@@ -1,7 +1,7 @@
 {
   "name": "fonder-direkt",
   "description": "Site showing Fonder Direkt news",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "author": "Viktor Karlsson",
   "dependencies": {
     "bulma": "^0.7.0",
@@ -13,6 +13,7 @@
     "gatsby-plugin-manifest": "^2.0.9",
     "gatsby-plugin-netlify": "^2.0.0",
     "gatsby-plugin-netlify-cms": "^3.0.0",
+    "gatsby-plugin-nprogress": "^2.0.7",
     "gatsby-plugin-purgecss": "^2.4.0",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
