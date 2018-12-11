@@ -6,7 +6,7 @@ sponsored: false
 featured: false
 tags:
   - Danica Pension
-  - Danske Bank
+  - Danske
 ---
 STOCKHOLM (Fonder Direkt) Danske Bank-ägda Danica Pension säljer sin svenska pensionsverksamhet för runt 2,6 miljarder svenska kronor, något Nyhetsbyrån Direkt rapporterade om på tisdagsmorgonen. Köpare är ett konsortium bestående av private equity-bolagen Polaris och Acathia samt de institutionella investerarna Sampension och Unigestion.
 
