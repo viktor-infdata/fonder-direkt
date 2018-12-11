@@ -45,7 +45,7 @@ class Navbar extends Component {
                 </svg>
                 <span className="sr-only sr-only-focusable">Fonder Direkt</span>
               </Link>
-              <a role="button" className={"navbar-burger burger " + (this.state.navbarOpen ? 'is-active' : '')} aria-label="menu" aria-expanded={(this.state.navbarOpen ? 'true' : 'false')} onMouseDown={this.navbarOpen}>
+              <a role="button" className={"navbar-burger burger " + (this.state.navbarOpen ? 'is-active' : '')} aria-label="Meny" aria-expanded={(this.state.navbarOpen ? 'true' : 'false')} onMouseDown={this.navbarOpen}>
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
