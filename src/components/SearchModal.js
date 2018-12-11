@@ -9,7 +9,7 @@ const customStyles = {
   }
 };
 
-Modal.setAppElement('#___gatsby')
+/*Modal.setAppElement('#___gatsby')*/
 
 class SearchModal extends Component {
   constructor () {
@@ -48,12 +48,12 @@ class SearchModal extends Component {
         <div className="search-splash-inner">
           <a role="button" className="overlay-close" aria-label="close" onClick={this.handleCloseModal}>
             <span className="close-icon">×</span>
-            <span class="tip">[ESC]</span>
+            <span className="tip">[ESC]</span>
           </a>
           <div className="section">
             <div className="container pt-5">
               <div className="columns is-centered">
-                <div class="column is-8">
+                <div className="column is-8">
                   <SearchInit />
                 </div>
               </div>
