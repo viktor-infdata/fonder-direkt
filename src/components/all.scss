@@ -476,6 +476,7 @@ $svg-share-width: 20px;
   }
 }
 
+/* purgecss start ignore */
 //ReactModal Tweaks
 .ReactModal__Overlay {
     opacity: 0;
@@ -571,6 +572,7 @@ $svg-share-width: 20px;
     }
   }
 }
+/* purgecss end ignore */
 
 // EMBED RESPONSIVE
 .embed-responsive {
