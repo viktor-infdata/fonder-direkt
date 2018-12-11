@@ -4,7 +4,6 @@ title: 'Coeli Global Selektiv: +0,6% i nov, ser portföljuppsida om 15% på 12 m
 date: 2018-12-11T12:04:00.000Z
 sponsored: true
 featured: false
-image: /img/china.jpg
 tags:
   - Coeli
 ---
