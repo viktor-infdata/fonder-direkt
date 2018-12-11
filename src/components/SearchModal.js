@@ -43,6 +43,7 @@ class SearchModal extends Component {
          className="search-splash"
          style={customStyles}
          closeTimeoutMS={150}
+         htmlOpenClassName="ReactModal__Html--open"
       >
         <div className="search-splash-inner">
           <a role="button" className="overlay-close" aria-label="close" onClick={this.handleCloseModal}>

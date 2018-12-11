@@ -478,6 +478,10 @@ $svg-share-width: 20px;
 
 /* purgecss start ignore */
 //ReactModal Tweaks
+.ReactModal__Body--open,
+.ReactModal__Html--open {
+  overflow: hidden;
+}
 .ReactModal__Overlay {
     opacity: 0;
     transition: $transition-base;
@@ -555,6 +559,8 @@ $svg-share-width: 20px;
   width: 100%;
   min-width: 100%;
   max-width: 100%;
+  max-height: calc(100vh - 9rem);
+  overflow-y: auto;
   background: $white;
   box-shadow: $shadow-2;
   margin-top: 0.5em;
