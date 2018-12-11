@@ -180,6 +180,29 @@ $navbar-breakpoint: 1087px;
       width: 80px;
     }
   }
+  .is-search {
+    fill: $white;
+    @media screen and (max-width: $navbar-breakpoint) {
+      fill: $text;
+    }
+    &:hover {
+      fill: $link;
+      background-color: $white!important;
+      @media screen and (max-width: $navbar-breakpoint) {
+        background-color: $white-bis!important;
+      }
+    }
+    svg {
+      transition: none;
+      width: 22px;
+      display: block;
+      margin: auto;
+      @media screen and (max-width: $navbar-breakpoint) {
+        width: 20px;
+        margin: 0;
+      }
+    }
+   }
   .is-twitter {
     fill: $white;
     @media screen and (max-width: $navbar-breakpoint) {
@@ -449,6 +472,102 @@ $svg-share-width: 20px;
     a {
       padding-top: 10px;
       display: block;
+    }
+  }
+}
+
+//ReactModal Tweaks
+.ReactModal__Overlay {
+    opacity: 0;
+    transition: $transition-base;
+}
+.ReactModal__Overlay--after-open{
+    opacity: 1;
+}
+.ReactModal__Overlay--before-close{
+    opacity: 0;
+}
+
+// Search
+.search-splash {
+	position: fixed;
+	background-image: linear-gradient(to bottom, rgba(245, 245, 245, 0.98) 0%, rgba(240, 240, 255, 0.54) 100%);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	opacity: 1;
+	visibility: visible;
+	overflow: hidden;
+  .search-splash-inner {
+    width: 100%;
+    height: 100%;
+  }
+  .overlay-close {
+    position: absolute;
+    top: 0.75em;
+    right: 0.75em;
+    bottom: auto;
+    left: auto;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+    height: 3em;
+    line-height: 18px;
+    text-align: center;
+    text-decoration: none;
+    width: 3em;
+    z-index: 1;
+    @media screen and (max-width: $navbar-breakpoint) {
+      border-radius: 50%;
+      background: $white;
+      top: 1em;
+    }
+    .close-icon {
+      font-size: 50px;
+      font-weight: 400;
+      line-height: 40px;
+      @media screen and (max-width: $navbar-breakpoint) {
+        line-height: 50px;
+      }
+    }
+    .tip {
+      font-size: 13px;
+      color: $grey-light;
+      font-family: $family-secondary;
+      display: block;
+      @media screen and (max-width: $navbar-breakpoint) {
+        display: none;
+      }
+    }
+  }
+  a {
+    &.overlay-close .close-icon {
+      color: $grey-light;
+      transition: $transition-base;
+    }
+    &:hover.overlay-close .close-icon, &:focus.overlay-close .close-icon {
+    color: $primary;
+    }
+  }
+  .search-results {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  background: $white;
+  box-shadow: $shadow-2;
+  margin-top: 0.5em;
+  .search-result {
+    display: block;
+    font-family: $family-secondary;
+    padding-top: calc(0.375em - 1px);
+    padding-bottom: calc(0.375em - 1px);
+    padding-left: calc(0.625em - 1px);
+    padding-right: calc(0.625em - 1px);
+    border-bottom: 1px solid $grey-lighter;
+    &:hover {
+      background-color: $white-bis;
+      }
     }
   }
 }

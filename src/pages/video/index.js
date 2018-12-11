@@ -110,7 +110,7 @@ class IndexPage extends React.Component {
                   ))}
                   {!this.state.showingMore && (
                     <button className="button is-rounded is-medium is-fullwidth is-load-more"
-                      onClick={() => {
+                      onMouseDown={() => {
                       this.setState({
                         videoPostsToShow: this.state.videoPostsToShow + 10,
                         showingMore: true,
