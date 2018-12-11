@@ -7,7 +7,6 @@ featured: false
 image: /img/china.jpg
 tags:
   - Coeli
-  - ''
 ---
 STOCKHOLM (Fonder Direkt) Marknaden brottas med att hantera en kombination av högre räntor, handelskrig och sjunkande europeiskt konsumentförtroende. Aktiemarknaden har troligen diskonterat det mesta av de negativa nyheterna efter fallet i oktober, och därmed lär ytterligare negativa data krävas för vidare nedgångar.
 
