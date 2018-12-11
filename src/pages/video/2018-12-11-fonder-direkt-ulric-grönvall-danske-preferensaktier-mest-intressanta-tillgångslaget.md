@@ -2,9 +2,7 @@
 templateKey: video-post
 program: Fonder Direkt
 videoId: OdxfdLplS6A
-title: >-
-  Fonder Direkt - Ulric Grönvall, Danske: "Preferensaktier mest intressanta
-  tillgångslaget"
+title: 'Ulric Grönvall, Danske: "Preferensaktier mest intressanta tillgångslaget"'
 date: 2018-12-11T16:40:19.219Z
 sponsored: true
 featured: true
