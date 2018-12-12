@@ -272,6 +272,29 @@ $navbar-breakpoint: 1087px;
       }
      }
    }
+   .is-soundcloud {
+    fill: $white;
+    @media screen and (max-width: $navbar-breakpoint) {
+      fill: $text;
+    }
+   &:hover {
+     fill: #FF3300;
+     background-color: $white!important;
+     @media screen and (max-width: $navbar-breakpoint) {
+      background-color: $white-bis!important;
+    }
+   }
+   svg {
+     transition: none;
+     width: 16px;
+     display: block;
+     margin: auto;
+     @media screen and (max-width: $navbar-breakpoint) {
+      width: 20px;
+      margin: 0;
+    }
+   }
+  }
 }
 
 // Button
@@ -443,6 +466,26 @@ $svg-share-width: 20px;
       fill: #7a7a7a;
       &:hover {
         fill: #0077B5;
+      }
+    }
+  }
+}
+.is-soundcloud {
+  &:hover {
+    fill: #FF3300;
+  }
+  svg {
+    width: $svg-normal-width;
+    display: block;
+    margin: auto;
+    transition: $transition-base;
+  }
+  &.is-share {
+    svg {
+      width: $svg-share-width;
+      fill: #7a7a7a;
+      &:hover {
+        fill: #FF3300;
       }
     }
   }
