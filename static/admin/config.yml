@@ -15,8 +15,8 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false}
-      - {label: "Featured Content", name: "featured", widget: "boolean", default: false}
+      - {label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false, required: false}
+      - {label: "Featured Content", name: "featured", widget: "boolean", default: false, required: false}
       - {label: "Feature Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
@@ -29,11 +29,11 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "video-post"}
       - {label: "Program", name: "program", widget: "select", options: ["Fonder Direkt", "Fonder Direkt Monthly Roundup", "Fonder Direkt ESG", "Hållbarhetssnack med"]}
-      - {label: "Video ID", name: "videoId", widget: "string"}
+      - {label: "Video ID", name: "videoId", widget: "string", required: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false}
-      - {label: "Featured Content", name: "featured", widget: "boolean", default: false}
+      - {label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false, required: false}
+      - {label: "Featured Content", name: "featured", widget: "boolean", default: false, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
