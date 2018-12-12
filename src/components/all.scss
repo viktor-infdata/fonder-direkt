@@ -550,6 +550,9 @@ $svg-share-width: 20px;
   .search-splash-inner {
     width: 100%;
     height: 100%;
+    .container {
+      padding-top: 2rem;
+    }
   }
   .overlay-close {
     position: absolute;
@@ -602,7 +605,7 @@ $svg-share-width: 20px;
   width: 100%;
   min-width: 100%;
   max-width: 100%;
-  max-height: calc(100vh - 10rem);
+  max-height: calc(100vh - 11rem);
   overflow-y: auto;
   background: $white;
   box-shadow: $shadow-2;
