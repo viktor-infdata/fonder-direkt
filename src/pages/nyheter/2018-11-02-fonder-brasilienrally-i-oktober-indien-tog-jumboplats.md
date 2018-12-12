@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'FONDER: BRASILIENRALLY I OKTOBER, INDIEN TOG JUMBOPLATS'
+title: 'Brasilienrally i oktober, Indien tog jumboplats'
 date: 2018-11-02T01:56:00.000Z
 sponsored: false
 featured: true
