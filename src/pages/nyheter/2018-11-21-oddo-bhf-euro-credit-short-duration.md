@@ -3,6 +3,8 @@ templateKey: blog-post
 title: ODDO BHF Euro Credit Short Duration
 date: 2018-11-21T15:33:00.000Z
 sponsored: true
+featured: true
+image: /img/5.png
 tags:
   - ODDO
 ---
@@ -12,11 +14,11 @@ Det skriver Alexis Renault, Thomas Rentsch och Haiyan Ding, som förvaltar ränt
 
 Avkastning för ODDO BHF Euro Credit Short Duration under månaden och sedan årsskiftet (SÅ). Fonden saknar jämförelseindex. I basvalutan euro och omräknat till svenska kronor, i procent:
 
-|| Oktober (EUR)|SÅ|Oktober (SEK)|SÅ| 
-|-------|----|-----|-----|------|
-|Fonder|-0,25|-0,37|+0,01|+4,94 |
+|        | Oktober (EUR) | SÅ     | Oktober (SEK) | SÅ    |
+| ------ | ------------- | ------ | ------------- | ----- |
+| Fonder | \-0,25        | \-0,37 | +0,01         | +4,94 |
 
-![](/img/563720401.png)
+![Fondens avkastning i basvalutan euro sedan startdatum i augusti 2011 (Källa: ODDO BHF AM SAS)](/img/5.png)
 
 <span class="image-caption">Fondens avkastning i basvalutan euro sedan startdatum i augusti 2011 (Källa: ODDO BHF AM SAS)</span>
 
@@ -30,6 +32,6 @@ I slutet av oktober uppgick fondens allokering mot high yield till 75 procent av
 
 Förvaltarna förutser en högre volatilitet på den europeiska high yield-marknaden framöver. Som skäl till det anger de den europeiska centralbankens åtstramningar, ökande räntor, politiska händelser såsom Italien, ökade fondutflöden och fortsatt ekonomisk svaghet. De skriver även att fondens krediturval förblir avgörande för att uppnå en positiv avkastning i denna miljö av högre idiosynkratisk risk.
 
-![](/img/563720402.png)
+![  ODDO BHF Euro Credit Short Durations tio största obligationsinnehav, samt ett derivat i form av en kort position i tyska statspapper. (Källa: ODDO BHF AM SAS)](/img/6.png)
 
 <span class="image-caption">ODDO BHF Euro Credit Short Durations tio största obligationsinnehav, samt ett derivat i form av en kort position i tyska statspapper. (Källa: ODDO BHF AM SAS)</span>
