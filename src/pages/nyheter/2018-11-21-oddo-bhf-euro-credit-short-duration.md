@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: ODDO BHF Euro Credit Short Duration
+title: 'ODDO BHF Euro Credit Short Duration'
 date: 2018-11-21T15:33:00.000Z
 sponsored: true
 featured: true
