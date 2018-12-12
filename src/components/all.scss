@@ -185,6 +185,10 @@ $navbar-breakpoint: 1087px;
     @media screen and (max-width: $navbar-breakpoint) {
       fill: $text;
     }
+    @media screen and (min-width: $navbar-breakpoint) {
+      border-left: 1px solid darken($primary, 5%);
+      border-right: 1px solid darken($primary, 5%);
+    }
     &:hover {
       fill: $link;
       background-color: $white!important;
@@ -194,12 +198,14 @@ $navbar-breakpoint: 1087px;
     }
     svg {
       transition: none;
-      width: 22px;
+      width: 32px;
       display: block;
       margin: auto;
       @media screen and (max-width: $navbar-breakpoint) {
         width: 20px;
         margin: 0;
+        display: inline-block;
+        padding-right: 0.25rem;
       }
     }
    }
@@ -223,6 +229,8 @@ $navbar-breakpoint: 1087px;
       @media screen and (max-width: $navbar-breakpoint) {
         width: 20px;
         margin: 0;
+        display: inline-block;
+        padding-right: 0.25rem;
       }
     }
    }
@@ -246,6 +254,8 @@ $navbar-breakpoint: 1087px;
        @media screen and (max-width: $navbar-breakpoint) {
         width: 20px;
         margin: 0;
+        display: inline-block;
+        padding-right: 0.25rem;
       }
      }
    }
@@ -269,6 +279,8 @@ $navbar-breakpoint: 1087px;
        @media screen and (max-width: $navbar-breakpoint) {
         width: 20px;
         margin: 0;
+        display: inline-block;
+        padding-right: 0.25rem;
       }
      }
    }
@@ -292,6 +304,8 @@ $navbar-breakpoint: 1087px;
      @media screen and (max-width: $navbar-breakpoint) {
       width: 20px;
       margin: 0;
+      display: inline-block;
+      padding-right: 0.25rem;
     }
    }
   }
