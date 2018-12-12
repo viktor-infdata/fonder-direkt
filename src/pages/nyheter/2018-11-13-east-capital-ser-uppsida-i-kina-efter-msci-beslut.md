@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'FONDER: EAST CAPITAL SER UPPSIDA I KINA EFTER MSCI-BESLUT'
+title: 'East Capital ser uppsida i Kina efter MSCI-beslut'
 date: 2018-11-13T16:03:44.790Z
 sponsored: false
 featured: true

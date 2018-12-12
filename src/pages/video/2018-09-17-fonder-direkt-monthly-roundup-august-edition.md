@@ -2,7 +2,7 @@
 templateKey: video-post
 program: Fonder Direkt Monthly Roundup
 videoId: LQRDwcFziJs
-title: 'FONDER DIREKT MONTHLY ROUNDUP - AUGUST EDITION'
+title: 'Fonder Direkt Monthly Roundup - August Edition'
 date: '2018-09-17T16:39:00+02:00'
 sponsored: false
 tags:

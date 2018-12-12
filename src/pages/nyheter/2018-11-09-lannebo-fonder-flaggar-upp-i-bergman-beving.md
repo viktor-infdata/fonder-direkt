@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'LANNEBO FONDER: FLAGGAR UPP I BERGMAN & BEVING'
+title: 'Lannebo Fonder: Flaggar upp i Bergman & Beving'
 date: 2018-11-09T10:35:00.000Z
 sponsored: false
 tags:
