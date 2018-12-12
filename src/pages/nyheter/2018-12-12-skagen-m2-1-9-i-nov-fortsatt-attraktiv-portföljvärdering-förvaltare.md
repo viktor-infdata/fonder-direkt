@@ -29,7 +29,7 @@ Bland innehaven har svenska logistikfastighetsbolaget Catena varit den bäst pre
 
 Den brasilianska bostadsutvecklaren MRV samt den amerikanska kontorsoperatören Columbia Property Trust utmärkte sig negativt i avkastningsbemärkelse, enligt rapporten.
 
-Inga nya positioner togs och inga avyttringar skedde i november, skriver Michael Gobitschek som anser att fondportföljen fortsatt handlas till en attraktiv värdering, trots att en viss återhämtning skett efter den marknadskorrektion som varit.
+Inga nya positioner togs och inga avyttringar skedde i november, skriver Michael Gobitschek som anser att fondportföljen fortsatt handlas till en attraktiv värdering, trots att en viss återhämtning skett efter den marknadskorrektion som varit.
 
 ![  SKAGEN m2:s tio största innehav per den 30 november. Hembla bytte den sista oktober namn från D Carnegie. Totalt sett innehåller portföljen 33 fastighetsaktier. (Källa: SKAGEN Fonder)](/img/13.png)
 
