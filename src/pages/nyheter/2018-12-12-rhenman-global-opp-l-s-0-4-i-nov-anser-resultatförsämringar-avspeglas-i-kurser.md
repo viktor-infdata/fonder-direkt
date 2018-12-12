@@ -35,13 +35,13 @@ Sämre gick det för oljeservicebolaget Halliburtons aktie, som drogs med i det 
 
 Bolagets prognos för det kommande kvartalet missade förväntningarna, och fick analytikerna att dra slutsatsen att kinesiska tullar kan medföra ett svagt första halvår 2019, enligt förvaltaren. Det fjärde kvartal som Qualcomm just lagt bakom sig överträffade dock förväntningarna, tillägger Staffan Knafve.
 
-Som förklaringar till årets svaga aktiemarknader nämner förvaltaren ett antal. Tillväxtmarknader har pressats av en stark dollar, ett stigande oljepris samt möjliga konsekvenser av tullar. Europa har ratats av amerikanska investerare, som inte uppskattar ett politiskt landskap där populism är på frammarsch. Samtidigt har USA-börserna drabbats av en ökad oro kring att den sedan flera år starka amerikanska ekonomin ska bromsa in och försämras, enligt Staffan Knafve, som även nämner ett ifrågasättande av tillväxtbolag såsom Apple och Amazon som en faktor som satt press på börsen.
+Som förklaringar till årets svaga aktiemarknader nämner förvaltaren ett antal. Tillväxtmarknader har pressats av en stark dollar, ett stigande oljepris samt möjliga konsekvenser av tullar. Europa har ratats av amerikanska investerare, som inte uppskattar ett politiskt landskap där populism är på frammarsch. Samtidigt har USA-börserna drabbats av en ökad oro kring att den sedan flera år starka amerikanska ekonomin ska bromsa in och försämras, enligt Staffan Knafve, som även nämner ett ifrågasättande av tillväxtbolag såsom Apple och Amazon som en faktor som satt press på börsen.
 
-Om än det finns anledning att ta dessa orosmoment på allvar, menar förvaltaren att värderingsnivåerna efter kursfallen till stor del redan avspeglar resultatförsämringar för bolagen.
+Om än det finns anledning att ta dessa orosmoment på allvar, menar förvaltaren att värderingsnivåerna efter kursfallen till stor del redan avspeglar resultatförsämringar för bolagen.
 
-Angående Rhenman Globalfonds portfölj skriver Staffan Knafve att den genomsnittliga värderingen i nuläget är knappt 13 gånger nästa års vinster, med en direktavkastning på cirka 3,5 procent.
+Angående Rhenman Globalfonds portfölj skriver Staffan Knafve att den genomsnittliga värderingen i nuläget är knappt 13 gånger nästa års vinster, med en direktavkastning på cirka 3,5 procent.
 
-"Vi vidmakthåller därför vår uppfattning att det finns en betydande kurspotential i de bolag som fonden har investerat i och att denna kommer att realiseras i takt med att orosmolnen successivt skingras", skriver han avslutningsvis.
+"Vi vidmakthåller därför vår uppfattning att det finns en betydande kurspotential i de bolag som fonden har investerat i och att denna kommer att realiseras i takt med att orosmolnen successivt skingras", skriver han avslutningsvis.
 
 ![Fondens valutaexponering per den 30 november. De fem största aktieinnehaven består i storleksordning av Roche Holding Ltd Pref, Exxon Mobil, Medtronic, Chevron samt Walt Disney.](/img/8.png)
 
