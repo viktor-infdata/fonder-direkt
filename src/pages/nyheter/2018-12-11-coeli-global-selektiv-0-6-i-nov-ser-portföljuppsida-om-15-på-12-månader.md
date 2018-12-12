@@ -29,7 +29,7 @@ Förvaltarna reflekterar över att Coelis globalfond nu har existerat i fyra år
 
 "Frågorna är många och svaret från oss som förvaltar era pengar är att vi gör allt vi kan för att hantera och parera makromiljöns händelser. I slutändan är det alltid våra fantastiska företag som vi har investerat i som är den yttersta anledningen för att era pengar över tid kommer växa", skriver Andreas Brock och Henrik Milton. Företag de lyfter fram i sammanhanget är Estee Lauder, L'Oréal, 3M och Wirecard, som alla benämns som ledande inom vad de gör, uppges ha starka balansräkningar och hungriga ledningar.
 
-![Fördelning över geografi och bransch för Coeli Global Selektivs aktieportfölj. (Källa: Coeli)](/img/564417101.png)
+![Fördelning över geografi och bransch för Coeli Global Selektivs aktieportfölj. (Källa: Coeli)](/img/12.png)
 
 <span class="image-caption">Fördelning över geografi och bransch för Coeli Global Selektivs aktieportfölj. (Källa: Coeli)</span>
 
