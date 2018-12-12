@@ -1,15 +1,13 @@
 ---
 templateKey: blog-post
-title: >-
-  Rhenman Global Opp L/S: +0,4% i nov, anser resultatförsämringar avspeglas i
-  kurser
+title: 'Rhenman Global Opp L/S: +0,4% i nov, anser resultatförsämringar avspeglas i kurser'
 date: 2018-12-10T15:19:56.066Z
 sponsored: true
 featured: false
 tags:
   - Rhenman
 ---
-STOCKHOLM (Fonder Direkt) Innevarande å, 2018, har varit ovanligt knepigt på kapitalmarknaderna för i princip alla stora tillgångsslag. De flesta aktiemarknader har rört sig sidledes eller gått ned, trots övergripande god ekonomisk utveckling i världen, något som avspeglats i företagens vinsttillväxt. I november steg den globala lång/kort-aktiefonden Rhenman Global Opportunities L/S 0,4 procent och det var främst innehav inom hälso- & sjukvård samt it som bidrog positivt. Industriföretag och energi drog ned avkastningen.
+STOCKHOLM (Fonder Direkt) Innevarande år, 2018, har varit ovanligt knepigt på kapitalmarknaderna för i princip alla stora tillgångsslag. De flesta aktiemarknader har rört sig sidledes eller gått ned, trots övergripande god ekonomisk utveckling i världen, något som avspeglats i företagens vinsttillväxt. I november steg den globala lång/kort-aktiefonden Rhenman Global Opportunities L/S 0,4 procent och det var främst innehav inom hälso- & sjukvård samt it som bidrog positivt. Industriföretag och energi drog ned avkastningen.
 
 Det framgår av fondens månadskommentar, där förvaltaren Staffan Knafve klargör att de långa positionerna gav ett bidrag om 0,7 procent till avkastningen, medan de korta dito belastade utvecklingen med 0,3 procent.
 
