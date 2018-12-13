@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: 'Xmreality: Ökat fondägande efter riktad emission'
-date: 2018-10-09T07:27:50.583Z
+date: 2018-10-09T08:29:44.791Z
 sponsored: false
 featured: false
 tags:
-  - XMR Reality
+  - XMReality
 ---
 STOCKHOLM (Fonder Direkt) First North-listade XMReality, verksamt inom augmented reality (AR), ska genomföra en riktad kontant nyemission om 2.442.018 aktier till teckningskursen 8,75 kronor per aktie vilket tillför bolaget 21 miljoner kronor. 
 
