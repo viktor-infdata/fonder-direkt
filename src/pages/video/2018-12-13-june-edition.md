@@ -8,5 +8,7 @@ sponsored: false
 featured: false
 tags:
   - Monthly Roundup
+  - Oddo
+  - Tundra
 ---
 An overview of the month in the Swedish fund market: Tundra Fonders CIO Mattias Martinsson in the studio, links to Fonder Direkt interview with Sasja Beslik, Georg Kell. Focusing a little on ESG, and the ODDO Avenir Europe fund.
