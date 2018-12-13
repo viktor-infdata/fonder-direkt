@@ -5,7 +5,7 @@ date: 2018-10-11T08:11:47.803Z
 sponsored: true
 featured: false
 tags:
-  - ODDO BHF Génération
+  - ODDO
 ---
 STOCKHOLM (Fonder Direkt) Det europeiska aktieindexet MSCI EMU NR noterade -0,28 procent i september, och på sektornivå var avkastningsskillnaderna stora. Råvarusektorn steg 4,6 procent till följd av bland annat högre oljepriser, medan fastigheter och teknik backade 3,3 respektive 3 procent, där högre räntor pressade fastigheter och en inbromsning inom halvledare satte tryck på teknikaktier.
 
