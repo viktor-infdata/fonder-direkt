@@ -7,6 +7,6 @@ date: 2017-12-06T11:45:23.943Z
 sponsored: true
 featured: false
 tags:
-  - amundi
+  - Amundi
 ---
 Anne Le Borgne talks about the Luxury Sector and the Global Lifestyle CPR Amundi fund.
