@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  UB Nordamerika REIT: +2,8% i nov, REITs med solida balansräkningar trygg hamn
-  - förvaltare
+title: 'UB Nordamerika REIT: +2,8% i nov, REITs med solida balansräkningar trygg hamn'
 date: 2018-12-13T14:12:05.328Z
 sponsored: true
 featured: false
