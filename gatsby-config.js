@@ -106,7 +106,7 @@ module.exports = {
       options: {
         host: 'https://fonderdirekt.se',
         sitemap: 'https://fonderdirekt.se/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/' }]
+        policy: [{ userAgent: '*', disallow: '' }]
       }
     },
     {
