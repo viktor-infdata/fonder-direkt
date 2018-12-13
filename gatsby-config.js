@@ -102,6 +102,14 @@ module.exports = {
       resolve: 'gatsby-plugin-sitemap',
     },
     {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://fonderdirekt.se',
+        sitemap: 'https://fonderdirekt.se/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: 'UA-130679662-1',
