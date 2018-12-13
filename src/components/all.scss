@@ -1163,5 +1163,11 @@ $svg-share-width: 20px;
   margin-left: auto !important;
 }
 
+/* purgecss start ignore */
+// CMS
+.frame-content p:not(:last-child) {
+  margin-bottom: 1em;
+}
+/* purgecss end ignore */
 
 @import "~bulma";

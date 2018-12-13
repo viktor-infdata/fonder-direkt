@@ -5,7 +5,7 @@ date: 2018-12-12T09:54:28.180Z
 sponsored: true
 featured: false
 tags:
-  - skagen
+  - Skagen
 ---
 STOCKHOLM (Fonder Direkt) Den globala aktiefonden SKAGEN Focus återhämtade sig i november efter en "röd" föregående månad. Ett brant fallande oljepris gynnade flygbolagsinnehavet Hawaiian Holdings, som steg kraftigt och var en av månadens bästa bidragsgivare till fondens avkastning.
 
