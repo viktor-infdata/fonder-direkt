@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'AMF: Lanserar korträntefonden AMF Företagsobligationsfond'
-date: 2018-10-01T13:44:00.000Z
+date: 2018-10-01T13:44:01.079Z
 sponsored: false
 featured: false
 tags:
