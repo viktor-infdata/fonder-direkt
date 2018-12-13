@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Norska oljefonden: Kan komma sälja allt inom olja och gas'
-date: 2018-10-05T07:33:19.052Z
+date: 2018-10-05T08:10:00.000Z
 sponsored: false
 featured: false
 tags:
