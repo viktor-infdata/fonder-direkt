@@ -28,7 +28,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "video-post"}
-      - {label: "Program", name: "program", widget: "select", options: ["Fonder Direkt", "Fonder Direkt Monthly Roundup", "Fonder Direkt ESG", "Hållbarhetssnack med"]}
+      - {label: "Program", name: "program", widget: "select", options: ["Fonder Direkt", "Fonder Direkt Monthly Roundup", "Fonder Direkt ESG", "Hållbarhetssnack med", "Fonder Direkt Live"]}
       - {label: "Video ID", name: "videoId", widget: "string", required: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
