@@ -15,9 +15,7 @@ Avkastning för UB Infra och dess jämförelseindex (MSCI World NR EUR) under m�
 
 ```
 \           November (EUR)  SÅ       November (SEK)   SÅ          
-\
 Fond        +1,2           -0,2      +0,7            +4,6         
-\
 Jmf-index   +1,2           +4,8      +0,7            +9,8         
 ```
 
