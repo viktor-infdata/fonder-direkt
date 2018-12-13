@@ -36,3 +36,7 @@ Förvaltaren meddelar avslutningsvis att Insights portfölj består av gravt und
 ![Fondens tio största innehav per den 30 november. (Källa: SKAGEN Fonder)](/img/14.png)
 
 <span class="image-caption">Fondens tio största innehav per den 30 november. (Källa: SKAGEN Fonder)</span>
+
+
+
+På landnivå har USA störst vikt i portföljen, med 29,4 procent, följt av Japan (22,9), Tyskland (11,8), Italien (7,5) och Sverige (5,5). De svenska innehaven är Eltel, ABB (Sverige/Schweiz) och Ericsson.
