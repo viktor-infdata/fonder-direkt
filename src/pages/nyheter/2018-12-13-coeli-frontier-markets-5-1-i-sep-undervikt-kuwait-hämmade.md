@@ -5,13 +5,15 @@ date: 2018-10-08T13:33:00.000Z
 sponsored: true
 featured: false
 tags:
-  - Coeli Frontier Markets
+  - Coeli
 ---
 STOCKHOLM (Fonder Direkt) En nedgång överstigande 10 procent i Tanzania Breweries var huvudorsaken till att aktiefonden Coeli Frontier Markets utvecklades negativt i september. Utöver detta påverkades fondutvecklingen relativt jämförelseindex negativt av undervikt i Kuwait, vars aktiemarknad hade en bra månad.
 
-Det framgår av en månadskommentar från fondförvaltarna Hans-Henrik Skov och James Bannan, vars fond fokuserar på gränsmarknader.
 
-Fonden noterade en nedgång om 5,1 procent i basvalutan svenska kronor i september, vilket var sämre än dess jämförelseindex (MSCI Frontier Markets NR USD), som sjönk 2,7 procent omräknat i svenska kronor. Sedan årsskiftet är fondens avkastning -4,7 procent per den 30 september, medan jämförelseindex noterar -5,1 procent. 
+Det framgår av en månadskommentar från fondförvaltarna Hans-Henrik Skov och James Bannan, vars fond fokuserar på gränsmarknader.
+
+
+Fonden noterade en nedgång om 5,1 procent i basvalutan svenska kronor i september, vilket var sämre än dess jämförelseindex (MSCI Frontier Markets NR USD), som sjönk 2,7 procent omräknat i svenska kronor. Sedan årsskiftet är fondens avkastning -4,7 procent per den 30 september, medan jämförelseindex noterar -5,1 procent. 
 
 ![Fondutveckling sedan starten i februari 2014. (Källa: Coeli)](/img/561765501.png)
 
