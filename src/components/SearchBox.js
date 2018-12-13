@@ -20,6 +20,7 @@ export default class SearchBox extends Component {
           value={this.state.query}
           onChange={this.search}
           placeholder='Sök på Fonder Direkt'
+          autoFocus
         />
         <div className="search-results">
           {this.state.results.map(page => (
