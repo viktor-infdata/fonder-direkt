@@ -33,9 +33,9 @@ De tre portföljinnehav som utvecklades bäst i november var Korea Electric Powe
 
 Enligt analystjänsten Motley Fool härstammar aktiens svårigheter till ett beslut från bolaget att bygga ett kärnkraftverk, vars byggplan uppges ha missat deadlines och överträtt budget. Projektets kontrakterade partner, Westinghouse, ansökte sedermera om konkurs vilket fick Scana att lägga ned hela projektet, enligt Motley Fool. Vad som enligt analystjänsten fått aktien att göra comeback på sistone är diskussioner om ett samgående med det betydligt större Dominion Energy, som under en längre tid uppvisat intresse för Scana.
 
-Sett till transaktioner sålde fonden under månaden aktier i el- och gas-utilities som utvecklats starkt, samtidigt som flygplatsaktier inhandlades, skriver förvaltaren, som konstaterar att de senare gått igenom en betydande korrektion de senaste månaderna.
+Sett till transaktioner sålde fonden under månaden aktier i el- och gas-utilities som utvecklats starkt, samtidigt som flygplatsaktier inhandlades, skriver förvaltaren, som konstaterar att de senare gått igenom en betydande korrektion de senaste månaderna.
 
-UB Infras tio största innehav vid november månads utgång var följande:
+UB Infras tio största innehav vid november månads utgång var följande:
 
 ![Källa: UB AM](/img/24.png)
 
