@@ -1,7 +1,7 @@
 ---
 templateKey: video-post
 program: Fonder Direkt Monthly Roundup
-videoId: sHVOoyH8luQ&t
+videoId: sHVOoyH8luQ
 title: June Edition
 date: 2018-07-19T11:02:19.463Z
 sponsored: false
