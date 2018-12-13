@@ -7,8 +7,6 @@ featured: false
 tags:
   - United Bankers
 ---
-![]()
-
 STOCKHOLM (Fonder Direkt) Aktiemarknaden och infrastrukturfonden UB Infra studsade upp i november, efter en stökig oktobermånad, då fonden dock stod emot marknadsturbulensen väl relativt världsindex. Det senare framhävde återigen fördelarna med sektorns och fondens defensiva egenskaper, när det blåser på de finansiella marknaderna.
 
 Det förmedlar United Bankers i en månadsrapport för fonden UB Infra, som investerar i infrastrukturaktier på global basis och förvaltas av Pekka Niemelä.
