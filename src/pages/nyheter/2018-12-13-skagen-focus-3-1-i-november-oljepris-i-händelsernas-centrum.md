@@ -27,11 +27,11 @@ Oljeprisets svaghet i november uppges ha öppnat möjligheten för förvaltarna 
 
 Innehavet Telecom Italia uppges ha levererat en solid kvartalsrapport, och förvaltarna menar att det finns tecken på att den italienska administrationen rör sig i riktning mot endast ett nät för bredbandsutrullningen. Hedgefonden Elliott Management har engagerat sig i bolaget, med den uttryckliga ambitionen att förmå Telecom Italia att dela ut sitt inhemska telenät. Elliott Management, som förvärvat 8,9 procent av bolagets aktier, har använt sin position till att få igenom styrelseförändringar samt även till att få Telecom Italias tidigare vd Amos Genish utbytt.
 
-"Trots solid utveckling på sistone handlas aktien enligt oss fortfarande till en betydande rabatt mot 'fair value' och innehavet i fonden är fortfarande stort", skriver de.
+"Trots solid utveckling på sistone handlas aktien enligt oss fortfarande till en betydande rabatt mot 'fair value' och innehavet i fonden är fortfarande stort", skriver de.
 
-Vidare tappade fondens nyligen adderade olje & gas-innehav OMV något, enligt portföljteamet, som även meddelar att det svagare oljepriset slog mot den brasilianska etanolproducenten Sao Martinho under månaden.
+Vidare tappade fondens nyligen adderade olje & gas-innehav OMV något, enligt portföljteamet, som även meddelar att det svagare oljepriset slog mot den brasilianska etanolproducenten Sao Martinho under månaden.
 
-Fonden minskade sin position i Renault i november och uppges istället ha lagt till ett ordentligt undervärderat östeuropeiskt finansbolag, samt ett bolag med en högst attraktiv omstruktureringssituation, till portföljen.
+Fonden minskade sin position i Renault i november och uppges istället ha lagt till ett ordentligt undervärderat östeuropeiskt finansbolag, samt ett bolag med en högst attraktiv omstruktureringssituation, till portföljen.
 
 ![  Fondens tio största innehav per den 30 november. Dessa tio utgör 45 procent av portföljen, som totalt består av 34 aktier. (Källa: SKAGEN Fonder)](/img/22.png)
 
