@@ -21,14 +21,14 @@ const TemplateWrapper = ({ children }) => (
       <meta name="msapplication-TileColor" content="#00aba9" />
       <meta name="msapplication-config" content="/browserconfig.xml" />
       <meta property="og:type" content="website" />
-      <meta property="og:image" content="https://fonderdirekt.se/og-image.png" />
+      <meta property="og:image" content="https://www.fonderdirekt.se/og-image.png" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="1200" />
       <meta property="og:title" content="Fonder Direkt" />
       <meta property="og:description" content="Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion." />
-      <meta property="og:url" content="https://fonderdirekt.se" />
+      <meta property="og:url" content="https://www.fonderdirekt.se" />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:image" content="https://fonderdirekt.se/og-image.png" />
+      <meta name="twitter:image" content="https://www.fonderdirekt.se/og-image.png" />
       <meta name="twitter:site" content="@fonder_direkt" />
     </Helmet>
     <div className="page">

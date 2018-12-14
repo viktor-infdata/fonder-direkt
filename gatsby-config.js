@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Fonder Direkt',
     description: 'Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion.',
-    siteUrl: 'https://fonderdirekt.se',
+    siteUrl: 'https://www.fonderdirekt.se',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -104,8 +104,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://fonderdirekt.se',
-        sitemap: 'https://fonderdirekt.se/sitemap.xml',
+        host: 'https://www.fonderdirekt.se',
+        sitemap: 'https://www.fonderdirekt.se/sitemap.xml',
         policy: [{ userAgent: '*', disallow: '' }]
       }
     },
