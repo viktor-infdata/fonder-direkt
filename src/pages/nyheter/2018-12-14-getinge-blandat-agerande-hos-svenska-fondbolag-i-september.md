@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Getinge: Blandat agerande hos svenska fondbolag i september'
-date: 2018-10-12T08:50:42.742Z
+date: 2018-10-15T08:50:42.742Z
 sponsored: false
 featured: false
 tags:
