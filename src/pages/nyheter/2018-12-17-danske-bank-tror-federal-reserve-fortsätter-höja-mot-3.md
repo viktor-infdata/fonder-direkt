@@ -5,7 +5,7 @@ date: 2018-12-17T16:41:01.875Z
 sponsored: false
 featured: false
 tags:
-  - '#danskebank #federalreserve #brexit'
+  - Danske
 ---
 STOCKHOLM (Fonder Direkt) Nyheter relaterade till handelskonflikten mellan USA och Kina förväntas skapa fortsatt volatilitet på marknaderna. För tillfället råder eldupphör, men det är alltjämt högst osäkert när och hur handelskriget slutar.
 
