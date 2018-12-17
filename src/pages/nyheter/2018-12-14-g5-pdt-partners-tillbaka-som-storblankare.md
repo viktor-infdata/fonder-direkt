@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'G5: PDT Partners tillbaka som storblankare'
-date: 2018-12-14T16:25:19.556Z
+date: 2018-10-18T15:25:19.556Z
 sponsored: false
 featured: false
 tags:
