@@ -21,7 +21,9 @@ class TagRoute extends React.Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${totalCount} nyhet${
       totalCount === 1 ? '' : 'er'
-    } taggad med ${tag}`
+    } taggad${
+      totalCount === 1 ? '' : 'e'
+    } med ${tag}`
 
     return (
       <Layout>

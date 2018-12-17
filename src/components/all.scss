@@ -322,16 +322,44 @@ $navbar-breakpoint: 1087px;
   border-radius: 0!important;
 }
 
-// Cards
-$card-header-weight: $title-weight;
-$card-shadow: $shadow-3;
+// s & Boxes
+$-header-weight: $title-weight;
+$-shadow: $shadow-3;
+$box-shadow: $shadow-1;
 .has-equal-height {
   display: flex;
   flex-direction: column;
   height: 100%;
 }
-.has-equal-height .card-footer {
+.has-equal-height .-footer {
   margin-top: auto;
+}
+a {
+  .box.is-tag {
+    background-color: $white-bis;
+    text-align: center;
+    transition: $transition-base;
+    h5 {
+      transition: $transition-base;
+      color: $primary;
+    }
+    small {
+      font-family: $family-secondary;
+      color: $grey-dark;
+      transition: $transition-base;
+    }
+  }
+  &:hover {
+    .box.is-tag {
+      background-color: $primary;
+      h5 {
+        color: $white;
+      }
+      small {
+        color: $grey-lighter;
+      }
+    }
+  }
 }
 
 // Hero

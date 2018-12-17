@@ -18,21 +18,23 @@ const TagsPage = ({
       <div className="container content">
         <div className="columns is-centered">
           <div
-            className="column is-8"
-            style={{ marginBottom: '6rem' }}
+            className="column is-10"
           >
-            <h1 className="title is-size-3">TAGGAR</h1>
-            <div className="field is-grouped is-grouped-multiline">
+            <div className="columns is-multiline is-mobile">
               {group.map(tag => (
-                <div className="control" key={tag.fieldValue}>
-                  <div className="tags has-addons">
-                    <Link className="tag is-medium is-link" to={`/taggar/${kebabCase(tag.fieldValue)}/`}>
+                <div className="column is-one-quarter-desktop is-one-third-tablet is-half-mobile" key={tag.fieldValue}>
+                <Link to={`/taggar/${kebabCase(tag.fieldValue)}/`}>
+                  <div className="box is-tag is-centered has-equal-height">
+                    <h5 className="is-size-6 mb-1">
                       {tag.fieldValue}
-                    </Link>
-                    <span className="tag is-medium is-dark">{tag.totalCount}</span>
+                    </h5>
+                    <small className="is-size-7">
+                      {tag.totalCount} nyhet{tag.totalCount === 1 ? '' : 'er'}
+                    </small>
                   </div>
+                  </Link>
                 </div>
-              ))}
+              ))} 
             </div>
           </div>
         </div>
