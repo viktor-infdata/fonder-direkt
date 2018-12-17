@@ -322,16 +322,16 @@ $navbar-breakpoint: 1087px;
   border-radius: 0!important;
 }
 
-// s & Boxes
-$-header-weight: $title-weight;
-$-shadow: $shadow-3;
+// Cards & Boxes
+$card-header-weight: $title-weight;
+$card-shadow: $shadow-3;
 $box-shadow: $shadow-1;
 .has-equal-height {
   display: flex;
   flex-direction: column;
   height: 100%;
 }
-.has-equal-height .-footer {
+.has-equal-height .card-footer {
   margin-top: auto;
 }
 a {
