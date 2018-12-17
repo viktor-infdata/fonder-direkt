@@ -2,6 +2,7 @@
 templateKey: video-post
 program: Fonder Direkt
 videoId: OKsCxhk2Gb8
+soundCloudId: '544273794'
 title: >-
   SKAGEN m2: Fastighetsförvaltaren om totalavkastning, räntor, självlagring och
   framgångsrecept
