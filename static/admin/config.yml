@@ -30,6 +30,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "video-post"}
       - {label: "Program", name: "program", widget: "select", options: ["Fonder Direkt", "Fonder Direkt Monthly Roundup", "Fonder Direkt ESG", "Hållbarhetssnack med", "Fonder Direkt Live"]}
       - {label: "Video ID", name: "videoId", widget: "string", required: true}
+      - {label: "SoundCloud ID", name: "soundCloudId", widget: "string", required: false}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false, required: false}

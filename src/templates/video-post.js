@@ -18,6 +18,7 @@ export const VideoPostTemplate = ({
   program,
   sponsored,
   videoId,
+  soundCloudId,
   shareUrl,
 }) => {
   const PostContent = contentComponent || Content
@@ -46,6 +47,13 @@ export const VideoPostTemplate = ({
                 {title}
                 </h1>
                 <PostContent content={content} />
+                {soundCloudId != null &&
+                  <React.Fragment>
+                    <hr />
+                    <h5 className="is-size-5">Denna video finns även som podcast</h5>
+                    <iframe title={soundCloudId} width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/"+soundCloudId+"&color=%23037184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"}></iframe>
+                  </React.Fragment>
+                }
                 <hr />
                 <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
                 <hr />
@@ -89,6 +97,7 @@ VideoPostTemplate.propTypes = {
   date: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
   videoId: PropTypes.string,
+  soundCloudId: PropTypes.string,
   Program:  PropTypes.string,
   sponsored: PropTypes.bool,
 }
@@ -116,6 +125,7 @@ const VideoPost = ({ data }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         videoId={post.frontmatter.videoId}
+        soundCloudId={post.frontmatter.soundCloudId}
         program={post.frontmatter.program}
         sponsored={post.frontmatter.sponsored}
         shareUrl={`https://fonderdirekt.se${post.fields.slug}`}
@@ -147,6 +157,7 @@ export const pageQuery = graphql`
         tags
         program
         videoId
+        soundCloudId
         sponsored
       }
     }
