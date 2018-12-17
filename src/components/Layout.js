@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import './all.scss'
+import CookieConsent, { Cookies } from "react-cookie-consent";
 
 const TemplateWrapper = ({ children }) => (
   <React.Fragment>
@@ -39,6 +40,16 @@ const TemplateWrapper = ({ children }) => (
       </div>
       <Footer />
     </div>
+    <CookieConsent
+      contentClasses="cookieConsentContainer"
+      buttonClasses="button is-small is-black"
+      disableStyles={true}
+      buttonText="Acceptera"
+    >
+      <p className="is-size-7 pr-4">
+        På denna webbplats använder vi cookies för att förbättra funktionaliteten för dig som användare.{" "}
+      </p>
+    </CookieConsent>
   </React.Fragment>
 )
 

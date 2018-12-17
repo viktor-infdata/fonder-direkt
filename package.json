@@ -1,7 +1,7 @@
 {
   "name": "fonder-direkt",
   "description": "Site showing Fonder Direkt news",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Viktor Karlsson",
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^2.1.1",
@@ -36,6 +36,7 @@
     "parcel-bundler": "^1.9.4",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
+    "react-cookie-consent": "^2.0.0",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0",
     "react-modal": "^3.7.1",
