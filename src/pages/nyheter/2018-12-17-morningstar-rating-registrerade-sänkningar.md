@@ -1,26 +1,25 @@
 ---
 templateKey: blog-post
 title: 'Morningstar Rating: Registrerade sänkningar'
-date: 2018-12-17T13:44:44.485Z
+date: 2018-12-17T16:49:10.487Z
 sponsored: false
 featured: false
 tags:
-  - Morningstar
+  - '#morningstar'
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Rating sänkt, enligt tabell nedan:
-
-```
+```
 Fond                                   Tidigare      Ny        
-Simplicity Global Corporate Bond       5             4         
-Aktie-Ansvar Saxxum Aktiv              4             3         
-Coeli Frontier Markets                 5             4         
-Nordnet Superrahasto Suomi             5             4         
-Nordnet Superfondet Norge              4             3         
-Swedbank Robur Räntefond Kort Plus     3             2         
-Handelsbanken Pension 50 Aktiv         5             4         
-Öhman Etisk Emerging Markets           5             4         
-Enter Småbolagsfond                    3             2         
-Länsförsäkringar Kort Ränta Företag    2             1         
-Catella Credit Opportunity             5             4         
+Storebrand Global Multifactor          5             4         
+Enter Select                           4             3         
+Agenta Svenska Räntor                  5             4         
+Nordea Sverige Passiv                  3             2         
+Strand Småbolagsfond                   4             3         
+Monyx Strategi Försiktig AC            4             3         
+DNB High Yield                         4             3         
+Carnegie Småbolagsfond                 3             2         
+Nordea 1 - Indian Equity               4             3         
+Tundra Sustainable Frontier Fund       5             4         
+Öhman Sverige Hållbar                  2             1     
 ```
 Det framgår av en uppdatering i Morningstars databas.
