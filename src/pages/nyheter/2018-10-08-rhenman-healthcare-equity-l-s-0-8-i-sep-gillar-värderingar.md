@@ -5,7 +5,7 @@ date: 2018-10-08T10:16:36.301Z
 sponsored: true
 featured: false
 tags:
-  - Rhenman Healthcare Equity
+  - Rhenman
 ---
 STOCKHOLM (Fonder Direkt) September månad kännetecknades av fortsatta uppgångar inom delsektorerna tjänster, läkemedel och medicinteknik. Hälsosjukvårdsindexet MSCI HC steg 1,9 procent medan bioteknikindex NBI tappade 0,4 procent och mindre bolag gick generellt sett sämre än stora. Det senare var den huvudsakliga orsaken till att sektorfonden Rhenman Healthcare Equity L/S utvecklades sämre än sektorindex i september.
 
