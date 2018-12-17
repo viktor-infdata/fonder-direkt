@@ -30,6 +30,7 @@ const TemplateWrapper = ({ children }) => (
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:image" content="https://fonderdirekt.se/og-image.png" />
       <meta name="twitter:site" content="@fonder_direkt" />
+      <meta name="google-site-verification" content="pt21VWkfJ3NiX6orlK7yhx_w9_z_DvoeeWwt4GOm_kM" />
     </Helmet>
     <div className="page">
       <div className="main">
