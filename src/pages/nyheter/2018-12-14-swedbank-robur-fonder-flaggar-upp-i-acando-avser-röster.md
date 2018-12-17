@@ -5,7 +5,7 @@ date: 2018-10-18T14:23:17.926Z
 sponsored: false
 featured: false
 tags:
-  - Swedbank Robur Fonder
+  - Swedbank
 ---
 STOCKHOLM (Fonder Direkt) Swedbank Robur Fonder har ökat sitt innehav i konsultbolaget Acando till 6,6 procent av kapitalet och 5,0 procent av rösterna.
 

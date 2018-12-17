@@ -5,7 +5,7 @@ date: 2018-10-15T08:59:17.106Z
 sponsored: true
 featured: false
 tags:
-  - ODDO BHF Active Small Cap
+  - ODDO
 ---
 STOCKHOLM (Fonder Direkt) Europeiska småbolag hade en tuff september månad, då MSCI Europe Smid Cap NR sjönk 1,2 procent. Månaden dominerades av makrofaktorer såsom åtstramande penningpolitik i USA, införandet av tullar mellan USA och Kina samt offentliggörandet av Italiens budget för 2019.
 

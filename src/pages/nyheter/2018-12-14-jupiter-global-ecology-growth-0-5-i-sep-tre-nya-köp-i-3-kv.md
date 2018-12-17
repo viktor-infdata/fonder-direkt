@@ -5,7 +5,7 @@ date: 2018-10-17T14:47:44.499Z
 sponsored: true
 featured: false
 tags:
-  - Jupiter Global Ecology Growth
+  - Jupiter
 ---
 STOCKHOLM (Fonder Direkt) Aktiefonden Jupiter Global Ecology Growth presterade sämre än sitt jämförelseindex (FTSE World) under det tredje kvartalet, huvudsakligen till följd av portföljens begränsade exponering mot amerikanska aktier. Den relativa avkastningen påverkades negativt av stark utveckling för Apple, Amazon och Microsoft, tre företag som faller utanför fondens miljöprofil och därmed inte återfinns i portföljen. Det skriver fondens förvaltare Charles Thomas i en kvartalskommentar.
 

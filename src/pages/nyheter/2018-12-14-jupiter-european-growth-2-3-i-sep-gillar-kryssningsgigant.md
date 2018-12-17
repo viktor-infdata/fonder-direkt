@@ -5,8 +5,7 @@ date: 2018-10-17T08:58:36.102Z
 sponsored: true
 featured: false
 tags:
-  - Jupiter AM
-  - Jupiter European Growth
+  - Jupiter
 ---
 STOCKHOLM (Fonder Direkt) Europeiska aktier fortsatte göra framsteg under det tredje kvartalet, efter att rapportsäsongen överträffat förväntningarna. Detta ses bäst i ljuset av bra global tillväxt, driven av USA och president Donald Trumps skattereform.
 

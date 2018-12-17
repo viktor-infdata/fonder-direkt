@@ -5,7 +5,7 @@ date: 2018-10-15T12:06:01.663Z
 sponsored: true
 featured: false
 tags:
-  - ODDO BHF ProActif Europe
+  - ODDO
 ---
 STOCKHOLM (Fonder Direkt) Italien har seglat upp som ett hot mot eurons stabilitet, efter att landet gjort klart att man kommer inkludera Femstjärnerörelsens valrörelsekrav i nästa års budget. Skepsis kring Italiens offentliga finanser står nu åter i fokus på de finansiella marknaderna. 
 

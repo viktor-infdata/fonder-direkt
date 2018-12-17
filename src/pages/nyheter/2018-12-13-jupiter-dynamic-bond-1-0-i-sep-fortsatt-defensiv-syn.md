@@ -5,13 +5,15 @@ date: 2018-10-11T15:33:03.080Z
 sponsored: true
 featured: false
 tags:
-  - Jupiter Dynamic Bond
+  - Jupiter
 ---
 STOCKHOLM (Fonder Direkt) Det tredje kvartalet innebar volatilitet på den globala obligationsmarknaden, då en stark dollar och ett stigande oljepris satte press på tillväxtmarknader. Räntefonden Jupiter Dynamic Bond tappade 1,1 procent i euro under perioden, där högre räntor för amerikanska statspapper och australiska statsobligationer i september var huvudorsaken till underavkastningen gentemot index, som steg 0,2 procent.
 
-Det skriver fondförvaltaren Ariel Bezalel i en kvartalskommentar.
 
-Sett till september noterade fonden en nedgång om 1,0 procent, vilket var sämre än dess jämförelseindex (Morningstar Global Flexible Bond - EUR Hedged), som steg 0,1 procent. Sedan årsskiftet är fondens avkastning -3,7 procent per den 30 september, medan jämförelseindex noterar -2,3 procent. Detta gäller i fondens basvaluta euro. Mätt i svenska kronor var Jupiter Dynamic Bonds utveckling -3,8 procent i september och sedan årsskiftet har fonden stigit 1,2 procent.
+Det skriver fondförvaltaren Ariel Bezalel i en kvartalskommentar.
+
+
+Sett till september noterade fonden en nedgång om 1,0 procent, vilket var sämre än dess jämförelseindex (Morningstar Global Flexible Bond - EUR Hedged), som steg 0,1 procent. Sedan årsskiftet är fondens avkastning -3,7 procent per den 30 september, medan jämförelseindex noterar -2,3 procent. Detta gäller i fondens basvaluta euro. Mätt i svenska kronor var Jupiter Dynamic Bonds utveckling -3,8 procent i september och sedan årsskiftet har fonden stigit 1,2 procent.
 
 ![Fondavkastning de senaste fem åren. (Källa: Jupiter AM)](/img/561908401.png)
 
@@ -19,7 +21,8 @@ STOCKHOLM (Fonder Direkt) Det tredje kvartalet innebar volatilitet på den globa
 
 Vad som utöver det ovan beskrivna ledde till nedgångar för Jupiter Dynamic Bond i det tredje kvartalet var enligt förvaltaren portföljens CDS-skydd mot high yield i USA och Europa. 
 
-Fondens exponering mot statspapper på tillväxtmarknader presterade väl, inklusive portföljens selektiva allokering i Argentina, enligt förvaltaren. Fondens cypriotiska statsobligationer uppges även de ha utvecklats väl, efter att S&P uppgraderat landet till investment grade. Vidare undveks den stora volatiliteten på tillväxtmarknader i augusti, då exponeringen reducerats tidigare under året, enligt Ariel Bezalel.
+
+Fondens exponering mot statspapper på tillväxtmarknader presterade väl, inklusive portföljens selektiva allokering i Argentina, enligt förvaltaren. Fondens cypriotiska statsobligationer uppges även de ha utvecklats väl, efter att S&P uppgraderat landet till investment grade. Vidare undveks den stora volatiliteten på tillväxtmarknader i augusti, då exponeringen reducerats tidigare under året, enligt Ariel Bezalel.
 
 
 

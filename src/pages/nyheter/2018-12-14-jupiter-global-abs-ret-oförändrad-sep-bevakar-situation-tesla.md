@@ -5,11 +5,12 @@ date: 2018-10-16T12:23:02.034Z
 sponsored: false
 featured: true
 tags:
-  - Jupiter Global Absolute Return
+  - Jupiter
 ---
 STOCKHOLM (Fonder Direkt) Det tredje kvartalet innebar unika utmaningar för investerare, då de globala aktiemarknaderna generellt sett steg, trots att den ohälsosamma dynamiken marknaderna emellan blev allt tydligare.
 
-Det skriver James Clunie, som förvaltar lång/kort-aktiefonden Jupiter Global Absolute Return, i en kvartalskommentar.
+
+Det skriver James Clunie, som förvaltar lång/kort-aktiefonden Jupiter Global Absolute Return, i en kvartalskommentar.
 
 Sett till september var fonden oförändrad (0,00 procent), vilket var i linje med dess jämförelseindex (ICE LIBOR 3 Month EUR), som även det var oförändrat (-0,03 procent). Sedan årsskiftet är fondens avkastning -3,0 procent per den 30 september, medan jämförelseindex noterar -0,3 procent. Detta gäller i fondens basvaluta euro. Mätt i svenska kronor var Jupiter Global Absolute Return utveckling -2,8 procent i september och sedan årsskiftet har fonden stigit 1,9 procent.
 
