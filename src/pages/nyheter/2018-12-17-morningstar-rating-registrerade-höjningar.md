@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Morningstar Rating: Registrerade höjningar'
-date: 2018-12-17T13:36:49.965Z
+date: 2018-12-17T13:45:40.946Z
 sponsored: false
 featured: false
 tags:
@@ -12,17 +12,17 @@ STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Rating höj
 ```
 Fond                                   Tidigare      Ny        
 SKAGEN Vekst                           2             3         
-Aktie-Ansvar Europa                    3             4         
-Oddo BHF Active Small Cap              3             4         
-Lannebo Småbolag                       3             4         
-KPA Etisk Aktiefond                    3             4         
-Danske Invest European Bond            4             5         
-Danske Invest Stable Income            4             5         
-Swedbank Ethica Obligation Utd         3             4         
-Storebrand Verdi                       2             3         
-DNB Finans                             3             4         
-SEB WWF Nordenfond                     3             4         
-Skandia Asia                           2             3         
-Swedbank Russian Equity Fund           2             3         
+Movestic SICAV Aktiv Allokering        2             3         
+Nordnet Superfonden Danmark            2             3         
+Länsförsäkringar Tillväxtmrkd Idxnära  3             4         
+Tundra Vietnam                         2             3         
+Ålandsbanken Norden Aktie SEK          1             2         
+Handelsbanken Kinafond                 4             5         
+Coeli Likviditetsstrategi              3             4         
+Danske Invest Sverige                  2             3         
+Catella Avkastning                     3             4         
+UBS (Lux) EF Biotech                   3             4         
+ODIN Europa                            3             4         
+DNB Health Care                        4             5         
 ```
 Det framgår av en uppdatering i Morningstars databas.
