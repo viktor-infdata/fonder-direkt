@@ -5,7 +5,8 @@ date: 2018-12-17T16:44:49.631Z
 sponsored: false
 featured: false
 tags:
-  - '#sbb #atlantfonder'
+  - sbb
+  - atlantfonder
 ---
 STOCKHOLM (Fonder Direkt) Atlant Fonder har tecknat sig för samtliga aktier i en riktad emission som fastighetsbolaget Samhällsbyggnadsbolaget i Norden (SBB) har genomfört.
 
