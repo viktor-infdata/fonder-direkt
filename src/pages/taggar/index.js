@@ -13,7 +13,7 @@ const TagsPage = ({
         title={`Taggar | ${title}`} 
       >
         <meta property="og:title" content={`Taggar | ${title}`} />
-        <meta property="og:url" content="https://www.fonderdirekt.se/taggar/" />
+        <meta property="og:url" content="https://fonderdirekt.se/taggar/" />
       </Helmet>
       <div className="container content">
         <div className="columns is-centered">

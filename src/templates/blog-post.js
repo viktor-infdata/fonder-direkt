@@ -159,7 +159,7 @@ const BlogPost = ({ data }) => {
             <meta name="keywords" content={`${post.frontmatter.tags}`} />
             <meta property="og:title" content={`${post.frontmatter.title}`} />
             <meta property="og:description" content={`${post.excerpt}`} />
-            <meta property="og:url" content={`https://www.fonderdirekt.se${post.fields.slug}`} />
+            <meta property="og:url" content={`https://fonderdirekt.se${post.fields.slug}`} />
             <meta property="og:type" content="article" />
           </Helmet>
         }
@@ -168,7 +168,7 @@ const BlogPost = ({ data }) => {
         date={post.frontmatter.date}
         sponsored={post.frontmatter.sponsored}
         image={post.frontmatter.image}
-        shareUrl={`https://www.fonderdirekt.se${post.fields.slug}`}
+        shareUrl={`https://fonderdirekt.se${post.fields.slug}`}
       />
     </Layout>
   )

@@ -69,7 +69,7 @@ class IndexPage extends React.Component {
           <Helmet title="Nyheter | Fonder Direkt">
             <meta name="description" content="Senaste nyheterna från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
             <meta property="og:title" content="Nyheter | Fonder Direkt" />
-            <meta property="og:url" content="https://www.fonderdirekt.se/nyheter/" />
+            <meta property="og:url" content="https://fonderdirekt.se/nyheter/" />
             <meta property="og:description" content="Senaste nyheterna från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
           </Helmet>
           <div className="container">

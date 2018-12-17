@@ -29,7 +29,7 @@ class TagRoute extends React.Component {
           <Helmet title={`${tag} | ${title}`}>
             <meta name="description" content={`Nyheter taggade med ${tag} på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.`} />
             <meta property="og:title" content={`${tag} | ${title}`} />
-            <meta property="og:url" content={`https://www.fonderdirekt.se/taggar/${tag}/`} />
+            <meta property="og:url" content={`https://fonderdirekt.se/taggar/${tag}/`} />
             <meta property="og:description" content={`Nyheter taggade med ${tag} på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder.`} />
           </Helmet>
           <div className="container">
