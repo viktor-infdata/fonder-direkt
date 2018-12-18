@@ -5,7 +5,7 @@ date: 2018-12-07T10:24:32.921Z
 sponsored: false
 featured: false
 tags:
-  - AP Fonderna
+  - AP Fonder
 ---
 STOCKHOLM (Fonder Direkt) Xspray Pharma har genomfört en riktad nyemission av 1.370.000 aktier som beräknas tillföra bolaget cirka 92 miljoner kronor före transaktionskostnader.
 
