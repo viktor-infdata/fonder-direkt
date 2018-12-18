@@ -30,7 +30,7 @@ Fondens nettoexponering mot aktiemarknaden minskades under månadens början fr�
 
 <span class="image-caption">ODDO ProActif Europes nettoexponering mot aktiemarknaden, i procent. (Källa: ODDO BHF AM SAS)</span>
 
-Samtidigt öppnades en ny position i den tyska bromssystemtillverkaren Knorr-Bremse (mest känt bland svenska investerare för budstriden om Haldex, som slutade med tillbakadraget bud efter problem med myndighetsgodkännanden. Knorr-Bremse är Haldex näst största ägare med 14,9 procent av kapitalet). Pascal Riegis och Emmanuel Chapuis benämner Knorr- Bremse som en global ledare inom bromssystem för järnväg samt tung frakt, och tillägger att koncernen även tillhandahåller andra modultyper såsom automatiska dörrar och ventilationssystem för bussar och tåg.
+Samtidigt öppnades en ny position i den tyska bromssystemtillverkaren Knorr-Bremse (mest känt bland svenska investerare för budstriden om Haldex, som slutade med tillbakadraget bud efter problem med myndighetsgodkännanden. Knorr-Bremse är Haldex näst största ägare med 14,9 procent av kapitalet). Pascal Riegis och Emmanuel Chapuis benämner Knorr- Bremse som en global ledare inom bromssystem för järnväg samt tung frakt, och tillägger att koncernen även tillhandahåller andra modultyper såsom automatiska dörrar och ventilationssystem för bussar och tåg.
 
 Vidare minskades innehaven i Daimler och Ingenico, för att öka i teknikbolagen SAP och ST Microelectronics, vars aktier tappade mer än de två förstnämnda under månaden, enligt förvaltarna.
 
