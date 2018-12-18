@@ -23,12 +23,12 @@ CMS.registerEditorComponent({
   },
   toBlock: function(obj) {
     return (
-      '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item mb-3" src="https://www.youtube.com/embed/'+ obj.id + '?rel=0" allowfullscreen></iframe></div>'
+      '<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/'+ obj.id + '?rel=0" allowfullscreen></iframe></div>'
     );
   },
   toPreview: function(obj) {
     return (
-      '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item mb-3" src="https://www.youtube.com/embed/'+ obj.id + '?rel=0" allowfullscreen></iframe></div>'
+      '<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item mb-3" src="https://www.youtube.com/embed/'+ obj.id + '?rel=0" allowfullscreen></iframe></div>'
     );
   },
 });

@@ -9,13 +9,13 @@ tags:
   - Swedbank
   - United Bankers
   - Jupiter
-  - handelsbanken
+  - Handelsbanken
   - Swedbank
   - Norron
-  - sensor
+  - Sensor
   - Carnegie
   - Spiltan
-  - Atlant
+  - Atlant Fonder
 ---
 <https://www.avanza.se/placera/redaktionellt/2018/12/03/kopvarda-fonder-i-december.html>STOCKHOLM (Fonder Direkt) Indexfonden Swedbank Robur Access Asien lyfts in i Placeras decemberportfölj, på bekostnad av Handelsbanken Nordiska Småbolag som får göra sorti.
 
