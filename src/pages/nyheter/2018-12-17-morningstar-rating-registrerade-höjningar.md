@@ -5,7 +5,7 @@ date: 2018-12-17T16:50:43.511Z
 sponsored: false
 featured: false
 tags:
-  - '#morningstar'
+  - Morningstar
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Rating höjd, enligt tabell nedan:
 

@@ -5,10 +5,11 @@ date: 2018-12-17T16:49:10.487Z
 sponsored: false
 featured: false
 tags:
-  - '#morningstar'
+  - Morningstar
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Rating sänkt, enligt tabell nedan:
-```
+
+```
 Fond                                   Tidigare      Ny        
 Storebrand Global Multifactor          5             4         
 Enter Select                           4             3         
