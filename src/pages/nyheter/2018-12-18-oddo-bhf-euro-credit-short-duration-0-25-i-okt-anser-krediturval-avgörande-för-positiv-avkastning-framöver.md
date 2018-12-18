@@ -27,7 +27,7 @@ Fond    -0,25          -0,37     +0,01          +4,94
 
 Som huvudsaklig orsak till det negativa marknadssentimentet nämner förvaltarna månadens nyheter kring Italien, där EU-kommissionen avfärdat landets förslag på budgetunderskott, samt kreditvärderingsinstitutet Moody's sänkt Italiens kreditbetyg. Även svagare data gällande inköpschefsindex för euroområdet och Kina anges som en väsentlig orsak bakom marknadsutvecklingen.
 
-I rapporten framhävs också att bolagsresultaten visade tecken på svaghet, särskilt i de cykliska sektorerna fordon och kemikalier. Nyemissionsaktiviteterna var dämpade under månaden, skriver förvaltarna, som konstaterar att utgivningarnas sammanlagda summa "endast" uppgick till 4 miljarder euro.
+I rapporten framhävs också att bolagsresultaten visade tecken på svaghet, särskilt i de cykliska sektorerna fordon och kemikalier. Nyemissionsaktiviteterna var dämpade under månaden, skriver förvaltarna, som konstaterar att utgivningarnas sammanlagda summa "endast" uppgick till 4 miljarder euro.
 
 Fonden fortsatte att försiktigt återinvestera erhållna kuponger i syfte att säkerställa en hög investeringskvot, uppger förvaltarna.
 
