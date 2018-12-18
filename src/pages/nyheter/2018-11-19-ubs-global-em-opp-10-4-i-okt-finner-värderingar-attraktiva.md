@@ -14,7 +14,7 @@ Det skriver förvaltarteamet Geoffrey Wong, Urs Antonioli och Projit Chatterjee,
 Avkastning för UBS Global Emerging Markets Opportunity Fund och dess jämförelseindex (MSCI EM NR USD) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\    Oktober (USD)  SÅ      Oktober (SEK)  SÅ            
+           Oktober (USD)  SÅ      Oktober (SEK)  SÅ            
 
 Fond       -10,4          -20,1   -7,9           -10,8         
 Jmf-index  -8,7           -15,7   -6,2           -5,9

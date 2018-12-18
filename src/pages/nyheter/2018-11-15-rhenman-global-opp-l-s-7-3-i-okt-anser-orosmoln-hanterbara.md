@@ -13,9 +13,9 @@ Det skriver globalförvaltaren Staffan Knafve i en månadsrapport för lång/kor
 
 Avkastning för Rhenman Global Opportunities L/S och dess jämförelseindex (Euribor 3 Month EUR) under månaden och sedan årsskiftet (SÅ). Mätt i fondens och jämförelseindex basvalutor samt svenska kronor, i procent:
 
-```\        Oktober      SÅ           Oktober     SÅ
-Fond        -7,3 (SEK)   -12,0        -7,3 (SEK)  -12,0              
-\
+```
+            Oktober      SÅ           Oktober     SÅ
+Fond        -7,3 (SEK)   -12,0        -7,3 (SEK)  -12,0
 Jmf-index    0,0 (EUR)   -0,3         +0,2 (SEK)  +5,0
 ```
 

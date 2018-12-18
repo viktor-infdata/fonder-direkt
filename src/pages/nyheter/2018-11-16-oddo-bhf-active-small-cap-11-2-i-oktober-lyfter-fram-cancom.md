@@ -16,7 +16,7 @@ Fonden fokuserar på små- och medelstora bolag, som helst ska ha undervärderad
 Avkastning för ODDO BHF Active Small Cap och dess jämförelseindex (MSCI Europe Small Cap Hedged Euro NR) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor (för fonden), i procent:
 
 ```
-\           Oktober (EUR)    SÅ        Oktober (SEK)  SÅ            
+            Oktober (EUR)    SÅ        Oktober (SEK)  SÅ            
 
 Fond         -11,2           -17,2     -11,0          -12,8         
 Jmf-index    -7,7            -7,1                                  
@@ -34,6 +34,6 @@ Förvaltarna sätter i månadsrapporten strålkastarljuset på det tyska it-tjä
 
 Bolaget gjorde marknaden besviken med sin rapport i juli för det andra kvartalet, som till följd av försenade kontrakt innehöll lägre intäktstillväxt än förväntat. Detta hämtades sedan ikapp, med en organisk intäktstillväxt om 22,8 procent i det tredje kvartalet, något som uppges stärka portföljteamets tes om ett scenario med högt värdeskapande framöver.
 
-![  Portföljens tio största aktieinnehav per den 31 oktober, bland totalt 64 aktier. (Källa: ODDO BHF AM SAS)](/img/68.png)
+![Portföljens tio största aktieinnehav per den 31 oktober, bland totalt 64 aktier. (Källa: ODDO BHF AM SAS)](/img/68.png)
 
-<span class="image-caption">  Portföljens tio största aktieinnehav per den 31 oktober, bland totalt 64 aktier. (Källa: ODDO BHF AM SAS)</span>
+<span class="image-caption">Portföljens tio största aktieinnehav per den 31 oktober, bland totalt 64 aktier. (Källa: ODDO BHF AM SAS)</span>
