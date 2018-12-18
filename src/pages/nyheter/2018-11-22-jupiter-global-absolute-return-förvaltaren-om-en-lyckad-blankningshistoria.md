@@ -17,6 +17,6 @@ Aktien ifråga är det amerikanska stormarknadsbolaget Kroger. En kollega till J
 
 James Clunie framhåller att Kroger är ett bra bolag, men att ett bra bolag kan ha fel aktiepris. De första dagarna efter positionens start steg dock aktien i linje med den övriga marknaden, något som fick Jupiter att bygga upp sin position. Strax därefter rapporterade Kroger ett kvartalsresultat som sågs som en besvikelse, aktien föll något och började även underprestera den bredare marknaden, skriver Clunie. Nästa kvartalsrapport innebar ytterligare en besvikelse och aktien föll denna gång brant, enligt Clunie, som skriver att det nu var uppenbart att bolagets försäljningstillväxt hade stagnerat, och att detta på allvar började prisas in i aktiekursen.
 
-![  Krogers aktiekurs sedan maj 2016, då Jupiter blankade aktien. (Källa: Infront)](/img/48.png)
+![Krogers aktiekurs sedan maj 2016, då Jupiter blankade aktien. (Källa: Infront)](/img/48.png)
 
-<span class="image-caption">  Krogers aktiekurs sedan maj 2016, då Jupiter blankade aktien. (Källa: Infront)</span>
+<span class="image-caption">Krogers aktiekurs sedan maj 2016, då Jupiter blankade aktien. (Källa: Infront)</span>

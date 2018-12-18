@@ -19,9 +19,9 @@ UBS Equity Global Impact är, enligt en rapport från UBS, unik i sitt slag, på
 
 Samtidigt utvecklar UBS mätmetoder för nya kategorier av påverkan. Ett exempel här är en metodologi som ska utvärdera hur företag relaterade till livsmedelsproduktion bidrar till att öka utbudet av näringsrik mat, samtidigt som klimatet skyddas. Näst på tur står metodologi för fattigdomsbekämpning, enligt UBS, som framhåller att vetenskapligt arbete och kausalitet är kärnan för att verifiera påverkansgraden inom alla undersökta kategorier.
 
-![  Bilden visar upptill ett antal punkter ur UN SDG:s program avseende klimatförändring & luftföroreningar, vattenbrist, livsmedelssäkerhet, hälsovård samt fattigdomsminskning. Nedtill fondens mätfokus på områdena. (Källa: UBS)](/img/55.png)
+![Bilden visar upptill ett antal punkter ur UN SDG:s program avseende klimatförändring & luftföroreningar, vattenbrist, livsmedelssäkerhet, hälsovård samt fattigdomsminskning. Nedtill fondens mätfokus på områdena. (Källa: UBS)](/img/55.png)
 
-<span class="image-caption">  Bilden visar upptill ett antal punkter ur UN SDG:s program avseende klimatförändring & luftföroreningar, vattenbrist, livsmedelssäkerhet, hälsovård samt fattigdomsminskning. Nedtill fondens mätfokus på områdena. (Källa: UBS)</span>
+<span class="image-caption">Bilden visar upptill ett antal punkter ur UN SDG:s program avseende klimatförändring & luftföroreningar, vattenbrist, livsmedelssäkerhet, hälsovård samt fattigdomsminskning. Nedtill fondens mätfokus på områdena. (Källa: UBS)</span>
 
 ![En titt i fondens topp-10-innehavslista visar på en sektorbredd, med bolag inriktade på bland annat vattenhantering, läkemedel, IT, medicinteknik och livsmedel. (Källa: UBS)](/img/56.png)
 
@@ -33,6 +33,6 @@ Enligt UBS använder Equinor nu den ingenjörs- och tekniska expertis man genom 
 
 UBS närvarade på Equinors "Social Responsible Investor Day" i maj 2018, då man aktivt engagerade sig i bolagets strategi för att adressera klimatrisk, enligt rapporten.
 
-![  UBS Equity Global Impacts sektorfördelning på innehaven. (Källa: UBS)](/img/57.png)
+![UBS Equity Global Impacts sektorfördelning på innehaven. (Källa: UBS)](/img/57.png)
 
-<span class="image-caption">  UBS Equity Global Impacts sektorfördelning på innehaven. (Källa: UBS)</span>
+<span class="image-caption">UBS Equity Global Impacts sektorfördelning på innehaven. (Källa: UBS)</span>

@@ -23,6 +23,6 @@ Den negativa avkastningen för datacenterinnehav (ned 10 procent på en månad) 
 
 Vidare skriver förvaltaren att kanadensiska REIT-värdepapper hade en relativt stabil månad, och då den kanadensiska dollarn höll sig stadig under hela månaden var den negativa avkastningen i oktober försumbar.
 
-![  Fondens tio största positioner per den 31 oktober 2018. Geografimässigt utgör USA 78,6 procent av portföljen, Kanada 12,5 procent samt Mexiko 4,6 procent. (Källa: UB AM)](/img/59.png)
+![Fondens tio största positioner per den 31 oktober 2018. Geografimässigt utgör USA 78,6 procent av portföljen, Kanada 12,5 procent samt Mexiko 4,6 procent. (Källa: UB AM)](/img/59.png)
 
-<span class="image-caption">  Fondens tio största positioner per den 31 oktober 2018. Geografimässigt utgör USA 78,6 procent av portföljen, Kanada 12,5 procent samt Mexiko 4,6 procent. (Källa: UB AM)</span>
+<span class="image-caption">Fondens tio största positioner per den 31 oktober 2018. Geografimässigt utgör USA 78,6 procent av portföljen, Kanada 12,5 procent samt Mexiko 4,6 procent. (Källa: UB AM)</span>

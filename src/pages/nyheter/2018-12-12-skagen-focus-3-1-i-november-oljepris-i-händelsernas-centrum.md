@@ -33,6 +33,6 @@ Vidare tappade fondens nyligen adderade olje & gas-innehav OMV något, enligt po
 
 Fonden minskade sin position i Renault i november och uppges istället ha lagt till ett ordentligt undervärderat östeuropeiskt finansbolag, samt ett bolag med en högst attraktiv omstruktureringssituation, till portföljen.
 
-![  Fondens tio största innehav per den 30 november. Dessa tio utgör 45 procent av portföljen, som totalt består av 34 aktier. (Källa: SKAGEN Fonder)](/img/22.png)
+![Fondens tio största innehav per den 30 november. Dessa tio utgör 45 procent av portföljen, som totalt består av 34 aktier. (Källa: SKAGEN Fonder)](/img/22.png)
 
-<span class="image-caption">  Fondens tio största innehav per den 30 november. Dessa tio utgör 45 procent av portföljen, som totalt består av 34 aktier. (Källa: SKAGEN Fonder)</span>
+<span class="image-caption">Fondens tio största innehav per den 30 november. Dessa tio utgör 45 procent av portföljen, som totalt består av 34 aktier. (Källa: SKAGEN Fonder)</span>

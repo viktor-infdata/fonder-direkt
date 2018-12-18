@@ -22,7 +22,7 @@ Förvaltarna Alain Krief och Olivier Becker, som har ett kreditteam på nio pers
 Avkastning för ODDO BHF Haut Rendement 2025 under månaden och sedan fondstart (FS) den 12 januari 2018. Fonden saknar jämförelseindex. I basvalutan euro och omräknat till svenska kronor, i procent per den 31 oktober:
 
 ```
-\       Oktober (EUR)  FS        Oktober (SEK)  FS                 
+        Oktober (EUR)  FS        Oktober (SEK)  FS                 
 
 Fond    -1,47          -1,30     -1,22          +3,83              
 ```

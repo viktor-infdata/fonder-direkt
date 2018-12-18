@@ -25,7 +25,7 @@ Den starka utvecklingen på den brasilianska aktiemarknaden gav även bränsle �
 
 Månadens stora förlorare var aktieinriktade Indienfonder, där ett stort antal fonder noterade tvåsiffriga nedgångstal i procent. Sämst avkastning stod Alquity Indian Subcontinent för, som tappade 21,2 procent i värde. Andra Indienfonder som hade det tufft inkluderar Invesco India Equity, BMO LGM Greater India, Jupiter India Select, UTI India Dynamic Equity, Amundi Fds Eq India och Nomura Fds India Equity. Nedgångarna för dessa befann sig i spannet 15-17 procent.
 
-![  MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor. (Källa: Morningstar)](/img/4.png)
+![MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor. (Källa: Morningstar)](/img/4.png)
 
 <span class="image-caption">MSCI India från 1 januari 2016 till och med 31 oktober 2018, i svenska kronor. (Källa: Morningstar)</span>
 
