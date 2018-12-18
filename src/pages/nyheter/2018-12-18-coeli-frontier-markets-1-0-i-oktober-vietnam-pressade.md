@@ -32,9 +32,9 @@ Fondens marginellt svagare oktoberavkastning relativt index härleds till att po
 
 Humansoft startade sin verksamhet tidigt 90-tal under namnet New Horizons, då som ett utbildningscenter specialiserat på IT. Därefter byggde bolaget upp verksamheten under snabb tillväxt, för att 2008 som Humansoft Holding lansera American University of the Middle East (AUM) samt American College of the Middle East (ACM). Dessa två fokuserar främst på ingenjörs-, "business-", samt IT-utbildningar.
 
-Övriga varumärken inom koncernen inkluderar e-learningspecialisten Trackls och Expression Institute for Private Training, som fokuserar på språkutlärning med emfas på engelska.
+Övriga varumärken inom koncernen inkluderar e-learningspecialisten Trackls och Expression Institute for Private Training, som fokuserar på språkutlärning med emfas på engelska.
 
-Humansoft Holding har de senaste tre åren ökat försäljningen med 38,4 procent, vinst per aktie med 67,6 procent samt utdelningen med 69,8 procent, enligt data från Reuters.
+Humansoft Holding har de senaste tre åren ökat försäljningen med 38,4 procent, vinst per aktie med 67,6 procent samt utdelningen med 69,8 procent, enligt data från Reuters.
 
 ![Coeli Frontier Markets fem största innehav per den 31 oktober. (Källa: Coeli)](/img/80.png)
 
