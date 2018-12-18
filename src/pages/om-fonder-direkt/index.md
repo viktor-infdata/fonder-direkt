@@ -22,6 +22,10 @@ Hör gärna av dig direkt till oss om du har några frågor eller förslag på: 
 
 Om du representerar ett fondbolag, kapitalförvaltare eller förmögenhetsförvaltare/private banking-bolag, och skulle vilja diskutera ett potentiellt partnerskap med oss, var snäll kontakta oss direkt på: <a href='mailto&#58;fo&#110;dr%&#54;5d&#97;%&#54;Btio&#110;en&#64;di%7&#50;ek%7&#52;&#37;2Es%6&#53;'>&#102;&#111;n&#100;re&#100;akt&#105;o&#110;&#101;n&#64;direkt&#46;&#115;e</a>
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item mb-3" src="https://www.youtube.com/embed/zz6C0pahNxU?rel=0" allowfullscreen></iframe></div>
+
+<span class="image-caption">Amundi Referens</span>
+
 ### DISCLAIMER & FRISKRIVNING
 
 _Fonder Direkt tar inget ansvar för förluster som kan uppkomma som ett resultat av investeringar, baserat på någon diskussion, nyheter eller intervjuer som finns på Fonder Direkt. Alla investeringar är förknippade med risk. Fonder Direkt tillhandahåller inga råd eller förslag på investeringar. Nyhetsbyrån Direkts chefredaktör Lars Östlund är ytterst ansvarig för innehållet på fonderdirekt.se_
