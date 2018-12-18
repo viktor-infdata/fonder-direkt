@@ -1196,6 +1196,7 @@ $svg-share-width: 20px;
   margin-bottom: 1em;
 }
 
+// Cookie Consent
 .cookieConsent {
   position: fixed;
   z-index: 999;
@@ -1225,6 +1226,7 @@ $svg-share-width: 20px;
   }
 }
 
+// Scroll to top
 .scroll-to-top {
   position: fixed;
   right: -100px;
@@ -1256,8 +1258,6 @@ $svg-share-width: 20px;
     right: 10px;
   }  
 }
-
-
 /* purgecss end ignore */
 
 @import "~bulma";
