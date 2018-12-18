@@ -7,8 +7,6 @@ featured: false
 tags:
   - Skagen
 ---
-![]()
-
 STOCKHOLM (Fonder Direkt) Den ökade marknadsvolatiliteten är tuff i det korta perspektivet, men goda nyheter för aktivistskuggarfonden SKAGEN Insight på sikt, eftersom den ökar aktivisters möjligheter att trycka på för positiv förändring hos fondens portföljbolag.
 
 Det scenariot lyfts fram i en månadsrapport signerad förvaltaren Tomas Johansson.
