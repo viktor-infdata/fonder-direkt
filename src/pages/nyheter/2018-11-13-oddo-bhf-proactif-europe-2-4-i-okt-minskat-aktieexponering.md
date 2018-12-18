@@ -16,7 +16,7 @@ På indexnivå tappade EURO STOXX 50 NR 5,9 procent under månaden, DJ STOXX 50 
 Avkastning för ODDO ProActif Europe och dess jämförelseindex (50% Euro Stoxx 50 NR + 50% EONIA TR) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\           Oktober (EUR)  SÅ       Oktober (SEK)  SÅ           
+            Oktober (EUR)  SÅ       Oktober (SEK)  SÅ           
 
 Fond        -2,4           -4,5     -2,1           +0,7          
 Jmf-index   -3,0           -3,3                                 

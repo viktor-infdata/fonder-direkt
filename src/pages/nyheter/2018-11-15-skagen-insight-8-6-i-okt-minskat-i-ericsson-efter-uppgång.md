@@ -20,7 +20,7 @@ Det scenariot lyfts fram i en månadsrapport signerad förvaltaren Tomas Johanss
 Avkastning för SKAGEN Insight och dess jämförelseindex (MSCI World NR USD) under månaden och sedan årsskiftet (SÅ). Mätt i fondens och jämförelseindex basvalutor samt svenska kronor, i procent:
 
 ```
-\    Oktober     SÅ      Oktober     SÅ                 
+            Oktober     SÅ      Oktober     SÅ                 
 
 Fond        -8,6 (NOK)  -15,6   -9,0 (SEK)  -8,3               
 Jmf-index   -7,3 (USD)  -2,3    -4,8 (SEK)  +9,1               

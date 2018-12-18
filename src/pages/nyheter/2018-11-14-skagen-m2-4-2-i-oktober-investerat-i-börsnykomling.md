@@ -14,7 +14,7 @@ Det skriver förvaltaren Michael Gobitschek i en månadsrapport, där han påmin
 Avkastning för SKAGEN m2 och dess jämförelseindex (MSCI ACWI IMI ex REITS NR USD) under månaden och sedan årsskiftet (SÅ). Svenska kronor, i procent:
 
 ```
-\          Oktober    Sedan årsskiftet                         
+           Oktober    Sedan årsskiftet                         
 
 Fond       -4,2       +3,5                                     
 Jmf-index  -4,5       -3,5                                     
@@ -26,9 +26,9 @@ SKAGEN m2 gjorde under månaden en nyinvestering i Shurgard, den största Paneur
 
 Michael Gobitschek och SKAGEN uppges gilla bolagets segment på grund av en hög kassaflödesgenerering samt motståndskraftig intjäningsprofil.
 
-![  Geografisk fördelning bland innehaven i SKAGEN m2, sett till portföljens tio största landvikter. I procent. (Källa: SKAGEN Fonder)](/img/81.png)
+![Geografisk fördelning bland innehaven i SKAGEN m2, sett till portföljens tio största landvikter. I procent. (Källa: SKAGEN Fonder)](/img/81.png)
 
-<span class="image-caption">  Geografisk fördelning bland innehaven i SKAGEN m2, sett till portföljens tio största landvikter. I procent. (Källa: SKAGEN Fonder)</span>
+<span class="image-caption">Geografisk fördelning bland innehaven i SKAGEN m2, sett till portföljens tio största landvikter. I procent. (Källa: SKAGEN Fonder)</span>
 
 Fondens bästa avkastningsbidrag under månaden kom från brasilianska MRV, efter att bolaget knoppat av sin logistikverksamhet, skriver förvaltaren. Även nytillskottet Shurgard, som börsnoterades i Bryssel den 15 oktober, presterade väl. Erbjudandepriset i samband med bolagets notering fastställdes till 23 euro (efter ett indikativt spann om mellan 23 och 28 euro) och aktien stängde på 24,8 euro den 31 oktober. Sedan dess har Shurgardaktien fortsatt upp och handlas den 14 november till 26,4 euro.
 

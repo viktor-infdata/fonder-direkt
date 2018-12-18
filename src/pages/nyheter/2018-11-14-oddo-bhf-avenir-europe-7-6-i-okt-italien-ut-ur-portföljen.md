@@ -14,7 +14,7 @@ Det skriver fondförvaltarna Pascal Riegis, Grégory Deschamps, Frédéric Douss
 Avkastning för ODDO BHF Avenir Europe och dess jämförelseindex (MSCI Europe SMID NR EUR) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\          Oktober (EUR)   SÅ      Oktober (SEK)  SÅ            
+           Oktober (EUR)   SÅ      Oktober (SEK)  SÅ            
 
 Fond       -7,6           -3,7     -7,3           +1,4          
 Jmf-index  -7,5           -5,8     -7,2           -0,8

@@ -14,7 +14,7 @@ Fondens förvaltare Hans-Henrik Skov och James Bannan skriver i en månadskommen
 Avkastning för Coeli Frontier Markets och dess jämförelseindex (MSCI Frontier Markets NR USD) under månaden och sedan årsskiftet (SÅ). Mätt i fondens och jämförelseindex basvalutor samt svenska kronor, i procent:
 
 ```
-\    Oktober     SÅ      Oktober     SÅ                 
+            Oktober     SÅ      Oktober     SÅ                 
 
 Fond        -1,0 (SEK)  -5,7    -1,0 (SEK)  +0,9               
 Jmf-index   -3,5 (USD)  -15,7   -0,9 (SEK)  -5,9
