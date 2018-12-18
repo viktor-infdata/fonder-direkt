@@ -32,7 +32,7 @@ Michael Gobitschek och SKAGEN uppges gilla bolagets segment på grund av en hög
 
 Fondens bästa avkastningsbidrag under månaden kom från brasilianska MRV, efter att bolaget knoppat av sin logistikverksamhet, skriver förvaltaren. Även nytillskottet Shurgard, som börsnoterades i Bryssel den 15 oktober, presterade väl. Erbjudandepriset i samband med bolagets notering fastställdes till 23 euro (efter ett indikativt spann om mellan 23 och 28 euro) och aktien stängde på 24,8 euro den 31 oktober. Sedan dess har Shurgardaktien fortsatt upp och handlas den 14 november till 26,4 euro.
 
-De svenska innehaven Catena och D Carnegie tog enligt förvaltaren "en paus efter en solid utveckling" och var de aktier som gav sämst portföljbidrag under oktober.
+De svenska innehaven Catena och D Carnegie tog enligt förvaltaren "en paus efter en solid utveckling" och var de aktier som gav sämst portföljbidrag under oktober.
 
 Michael Gobitschek skriver att fondportföljen fortsatt, och ännu mer nu än innan marknadskorrektionen, handlas till attraktiva nivåer. Han anser att fastighetssektorn förblir attraktiv på grund av stabil och växande omsättning, låga finansieringskostnader samt solida kassaflöden.
 
