@@ -26,11 +26,11 @@ Jmf-index  -7,5           -5,8     -7,2           -0,8
 
 Jämfört med förra månadsrapporten har antalet innehav i ODDO BHF Avenir Europe minskats med två, vilket innebär att portföljen består av 43 aktier. En märkbar förändring sett till portföljens geografiska exponering är att Italien har utgått från listan och ersatts av Ungern (Italien stod för 1 procent av kapitalet, tillkommande Ungern 1,1 procent).
 
-I övrigt är de geografiska vikterna i stort desamma, med en något större andel av kapitalet i Storbritannien och Sverige, samtidigt som Tyskland, Schweiz och Danmark fått en lägre vikt. Data från Morningstar visar att en förklaring till den ökade svenska portföljvikten är att innehavet i säkerhetsföretaget Securitas gått från 2,5 till 3,10 procent av kapitalet.
+I övrigt är de geografiska vikterna i stort desamma, med en något större andel av kapitalet i Storbritannien och Sverige, samtidigt som Tyskland, Schweiz och Danmark fått en lägre vikt. Data från Morningstar visar att en förklaring till den ökade svenska portföljvikten är att innehavet i säkerhetsföretaget Securitas gått från 2,5 till 3,10 procent av kapitalet.
 
-Sett till fondens innehavskomposition består de största indexavvikelserna i övervikter inom hälsovård och industri, samtidigt som portföljen är underviktad bank & försäkring, konsumenttjänster samt råvaror.
+Sett till fondens innehavskomposition består de största indexavvikelserna i övervikter inom hälsovård och industri, samtidigt som portföljen är underviktad bank & försäkring, konsumenttjänster samt råvaror.
 
-Fonden har belönats med fem stjärnor av Morningstar på såväl tre, fem, som tio års historik.
+Fonden har belönats med fem stjärnor av Morningstar på såväl tre, fem, som tio års historik.
 
 ![ODDO BHF Avenir Europes tio största aktieinnehav per den 31 oktober 2018. (Källa: ODDO BHF AM SAS)](/img/84.png)
 
