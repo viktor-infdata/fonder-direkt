@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import './all.scss'
 import CookieConsent, { Cookies } from "react-cookie-consent";
+import ScrollUpButton from "react-scroll-up-button";
 
 const TemplateWrapper = ({ children }) => (
   <React.Fragment>
@@ -50,6 +51,15 @@ const TemplateWrapper = ({ children }) => (
         På denna webbplats använder vi cookies för att förbättra funktionaliteten för dig som användare.{" "}
       </p>
     </CookieConsent>
+    <ScrollUpButton
+      ContainerClassName="scroll-to-top"
+      TransitionClassName="scroll-to-top-transition">
+        <svg xmlns="http://www.w3.org/2000/svg">
+          <title>Scroll to top</title>
+          <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/>
+          <path d="M0 0h24v24H0z" fill="none"/>
+        </svg>
+    </ScrollUpButton>
   </React.Fragment>
 )
 

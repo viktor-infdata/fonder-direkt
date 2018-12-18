@@ -1225,6 +1225,39 @@ $svg-share-width: 20px;
   }
 }
 
+.scroll-to-top {
+  position: fixed;
+  right: -100px;
+  bottom: 10px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 36px;
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  transition: all 0.3s ease;
+  svg {
+    fill: $white-bis;
+    transition: all 0.3s ease;
+    margin: 0;
+    position: relative;
+    left: 6px;
+    top: 6px;
+    width: 24px;
+    height: 24px;
+  }
+  &:hover {
+    background: rgba(0, 0, 0, 0.8);
+    svg {
+      top: 0px;
+      fill: $white;
+    }
+  }
+  &.scroll-to-top-transition {
+    right: 10px;
+  }  
+}
+
+
 /* purgecss end ignore */
 
 @import "~bulma";
