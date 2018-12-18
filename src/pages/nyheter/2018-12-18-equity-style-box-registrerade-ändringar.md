@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Equity Style Box: Registrerade ändringar'
-date: 2018-12-05T11:57:53.950Z
+date: 2018-12-05T14:13:16.974Z
 sponsored: false
 featured: false
 tags:
@@ -9,19 +9,19 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
 
-
 ```
 Fond                              Tidigare         Ny          
-
-MS INVF International Eq (ex US)  Large blend      Large growth
-DWS Invest Real Assets Inc        Mid blend        Large blend 
-NN (L) European Sust Eq           Mid growth       Large growth
-Amundi Fds Convertible Europe     Mid blend        Large blend 
-Pictet-Piclife                    Large blend      Large growth
-Danske Invest Japan               Large blend      Large value 
-Arctic Nordic Equities            Mid blend        Mid growth  
-RobecoSAM Smart Materials         Mid growth       Mid blend   
-Wells Fargo WF Glb Eq Abs Ret     Large value      Large blend 
-Det framgår av en uppdatering i Morningstars databas.
+Schroder ISF Glb Clmt Chg Eq      Large growth     Large blend 
+Danske Invest Latin America       Large blend      Large growth
+Allianz Japan Equity              Large growth     Large blend 
+Jupiter New Europe                Large value      Mid value   
+Parvest Equity Brazil             Large value      Large blend 
+Investec GSF Latin Amer Eq        Mid blend        Large growth
+Polar Capital Financial Opports   Large blend      Large value 
+Nuveen Global Infrastructure      Large blend      Large growth
+Polar Capital Glbl Convert        Large blend      Mid growth 
 ```
-Så kallade equity style boxes skapades av investeringsanalysföretaget Morningstar för att visualisera huruvida en fondportfölj består av främst små, medelstora eller stora bolag, samt om portföljen främst har en dragning mot så kallat värde, tillväxt, eller en blandning av de två.
+
+Det framgår av en uppdatering i Morningstars databas.
+
+Så kallade equity style boxes skapades av investeringsanalysföretaget Morningstar för att visualisera huruvida en fondportfölj består av främst små, medelstora eller stora bolag, samt om portföljen främst har en dragning mot så kallat värde, tillväxt, eller en blandning av de två.
