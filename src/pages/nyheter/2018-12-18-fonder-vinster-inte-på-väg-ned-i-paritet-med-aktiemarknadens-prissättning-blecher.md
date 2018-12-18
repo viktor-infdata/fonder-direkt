@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  Fonder: Vinster inte på väg ned i paritet med aktiemarknadens prissättning -
-  Blecher
+title: Vinster inte på väg ned i paritet med aktiemarknadens prissättning - Blecher
 date: 2018-12-06T11:44:24.661Z
 sponsored: false
 featured: false
