@@ -5,7 +5,7 @@ date: 2018-12-07T09:36:15.045Z
 sponsored: false
 featured: false
 tags:
-  - AP Fonden
+  - AP Fonder
   - Starbreeze
 ---
 STOCKHOLM (Fonder Direkt) Företagsrekonstruktion, husrannsakan till följd av misstanke om grovt insiderbrott, ledningsavhopp, och en aktiekurs som kollapsat 95 procent på bara sex månader. Rubrikerna kring spelutvecklaren Starbreeze har varit många de senaste veckorna.
