@@ -14,7 +14,7 @@ Det framgår av en förvaltarkommentar från Hans-Henrik Skov och James Bannan.
 Avkastning för Coeli Frontier Markets och dess jämförelseindex (MSCI Frontier Markets NR USD) under månaden och sedan årsskiftet (SÅ). Mätt i fondens och jämförelseindex basvalutor samt svenska kronor, i procent:
 
 ```
-\            November      SÅ        November       SÅ                  
+             November      SÅ        November       SÅ                  
 Fond        -2,1 (SEK)    -7,7       -2,1 (SEK)    -7,7               
 Jmf-index   +2,2 (USD)    -13,9      +1,7 (SEK)    -4,3               
 ```

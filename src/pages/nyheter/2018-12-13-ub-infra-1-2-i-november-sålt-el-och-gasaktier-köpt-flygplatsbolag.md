@@ -14,7 +14,7 @@ Det förmedlar United Bankers i en månadsrapport för fonden UB Infra, som inve
 Avkastning för UB Infra och dess jämförelseindex (MSCI World NR EUR) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\           November (EUR)  SÅ       November (SEK)   SÅ          
+            November (EUR)  SÅ       November (SEK)   SÅ          
 Fond        +1,2           -0,2      +0,7            +4,6         
 Jmf-index   +1,2           +4,8      +0,7            +9,8         
 ```
