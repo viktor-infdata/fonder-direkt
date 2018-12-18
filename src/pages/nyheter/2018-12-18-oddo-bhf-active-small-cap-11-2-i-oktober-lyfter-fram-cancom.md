@@ -30,7 +30,7 @@ Bland de innehav som står för mer än 1 procent av portföljvärdet lyckades d
 
 Förvaltarna sätter i månadsrapporten strålkastarljuset på det tyska it-tjänstebolaget Cancom. Bolaget tillhandahåller heltjänstepaket för tyska och österrikiska små- och medelstora bolag, där både hårdvara och molnlagring via Cancoms datacenters ingår.
 
-"I en era av digitalisering där IT-system blir alltmer komplexa, har små- och medelstora företag inget annat val än att outsourca sin digitala transformering", skriver förvaltarteamet. Cancom uppges vara ledare på en fragmenterad marknad, och har på senare tid accelererat sina molninvesteringar, något som reducerar den operationella hävstången på kort sikt, enligt förvaltarna.
+"I en era av digitalisering där IT-system blir alltmer komplexa, har små- och medelstora företag inget annat val än att outsourca sin digitala transformering", skriver förvaltarteamet. Cancom uppges vara ledare på en fragmenterad marknad, och har på senare tid accelererat sina molninvesteringar, något som reducerar den operationella hävstången på kort sikt, enligt förvaltarna.
 
 Bolaget gjorde marknaden besviken med sin rapport i juli för det andra kvartalet, som till följd av försenade kontrakt innehöll lägre intäktstillväxt än förväntat. Detta hämtades sedan ikapp, med en organisk intäktstillväxt om 22,8 procent i det tredje kvartalet, något som uppges stärka portföljteamets tes om ett scenario med högt värdeskapande framöver.
 
