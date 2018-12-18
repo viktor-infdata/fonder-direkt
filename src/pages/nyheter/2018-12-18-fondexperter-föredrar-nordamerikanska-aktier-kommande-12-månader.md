@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Fondexperter föredrar nordamerikanska aktier kommande 12 månader
-date: 2018-12-04T16:22:26.213Z
+date: 2018-12-03T16:22:26.213Z
 sponsored: false
 featured: false
 tags:
