@@ -5,6 +5,7 @@ date: 2018-12-07T11:27:47.606Z
 sponsored: false
 featured: false
 tags:
+  - Morningstar
   - Equity Style Box
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
@@ -22,5 +23,6 @@ Handelsbanken Multi Asset 15      Large growth     Mid growth
 Nordic Cross Stable Return        Mid blend        Mid growth  
 Fisher Invts Instl Asia ex-Jap Eq Large blend      Large growth
 Det framgår av en uppdatering i Morningstars databas.
-```
+
+```
 Så kallade equity style boxes skapades av investeringsanalysföretaget Morningstar för att visualisera huruvida en fondportfölj består av främst små, medelstora eller stora bolag, samt om portföljen främst har en dragning mot så kallat värde, tillväxt, eller en blandning av de två.
