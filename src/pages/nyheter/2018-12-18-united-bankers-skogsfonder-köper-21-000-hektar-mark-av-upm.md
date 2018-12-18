@@ -5,7 +5,7 @@ date: 2018-12-18T12:26:11.239Z
 sponsored: false
 featured: false
 tags:
-  - Unitedbankers
+  - United Bankers
 ---
 STOCKHOLM (Fonder Direkt) Den finländska kapitalförvaltaren United Bankers förvärvar 21.000 hektar mark, enligt ett pressmeddelande. Det är United Bankers skogsfonder UB Timberland samt UB Nordic Forest Fund III som köper marken, belägen huvudsakligen i regionen Kainuu, Finland.
 
