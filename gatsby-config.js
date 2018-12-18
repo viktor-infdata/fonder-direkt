@@ -8,6 +8,21 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
+      resolve: 'gatsby-plugin-prefetch-google-fonts',
+      options: {
+        fonts: [
+          {
+            family: 'Fjalla One',
+            variants: ['400', '400i'],
+          },
+          {
+            family: 'Merriweather',
+            variants: ['400', '400i', '700',' 700i']
+          },
+        ],
+      },
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -44,11 +59,13 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
-              maxWidth: 1344,
+              maxWidth: 925,
+              quality: 85,
+              withWebp: true,
             },
+          },
+          {
+            resolve: "gatsby-remark-external-links",
           },
           {
             resolve: 'gatsby-remark-copy-linked-files',
