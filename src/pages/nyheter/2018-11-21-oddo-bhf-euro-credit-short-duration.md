@@ -13,11 +13,10 @@ STOCKHOLM (Fonder Direkt) Den europeiska high yield-marknaden var pressad i okto
 Det skriver Alexis Renault, Thomas Rentsch och Haiyan Ding, som förvaltar räntefonden ODDO BHF Euro Credit Short Duration, i en månadsrapport.
 
 Avkastning för ODDO BHF Euro Credit Short Duration under månaden och sedan årsskiftet (SÅ). Fonden saknar jämförelseindex. I basvalutan euro och omräknat till svenska kronor, i procent:
-
-|        | Oktober (EUR) | SÅ     | Oktober (SEK) | SÅ    |
-| ------ | ------------- | ------ | ------------- | ----- |
-| Fonder | \-0,25        | \-0,37 | +0,01         | +4,94 |
-
+```
+          Oktober (EUR)   SÅ      Oktober (SEK)   SÅ  
+Fonder    -0,25           -0,37   +0,01           +4,94
+```
 ![Fondens avkastning i basvalutan euro sedan startdatum i augusti 2011 (Källa: ODDO BHF AM SAS)](/img/5.png)
 
 <span class="image-caption">Fondens avkastning i basvalutan euro sedan startdatum i augusti 2011 (Källa: ODDO BHF AM SAS)</span>
