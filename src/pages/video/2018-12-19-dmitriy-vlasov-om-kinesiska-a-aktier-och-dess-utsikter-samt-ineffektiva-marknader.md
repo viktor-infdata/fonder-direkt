@@ -8,7 +8,7 @@ title: >-
   marknader
 date: 2018-12-19T10:23:01.356Z
 sponsored: true
-featured: false
+featured: true
 tags:
   - East Capital
 ---
