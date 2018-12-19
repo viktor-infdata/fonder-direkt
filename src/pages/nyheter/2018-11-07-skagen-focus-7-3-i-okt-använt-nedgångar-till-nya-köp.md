@@ -14,7 +14,7 @@ Det skriver aktiefonden SKAGEN Focus förvaltare Jonas Edholm och David Harris i
 Avkastning för SKAGEN Focus och dess jämförelseindex (MSCI ACWI NR USD) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\              Oktober        SÅ      Oktober       SÅ           
+               Oktober        SÅ      Oktober       SÅ           
 
 Fond          -7,3 (NOK)     -7,7    -7,7 (SEK)    +0,3         
 Jmf-index     -7,5 (USD)     -4,0    -4,9 (SEK)    +7,2         

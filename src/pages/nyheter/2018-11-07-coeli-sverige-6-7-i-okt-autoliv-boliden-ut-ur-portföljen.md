@@ -36,6 +36,6 @@ På grund av den höga osäkerhetsnivån i skandalomsusade Danske Bank valde Coe
 
 Vid en framåtblick förutspår Mattias Eriksson att högre räntor samt handelshinder talar för en försämrad efterfrågan, och detta bör enligt honom innebära att multiplar fortsätter kontraheras och vinstprognoser sänkas. Av de anledningarna består Coeli Sveriges portfölj av aktier där bolagsspecifika faktorer, och inte konjunkturen, styr vinstutvecklingen, skriver Mattias Eriksson.
 
-![  Fondens fem största innehav per den 31 oktober. (Källa: Coeli)](/img/97.png)
+![Fondens fem största innehav per den 31 oktober. (Källa: Coeli)](/img/97.png)
 
-<span class="image-caption">  Fondens fem största innehav per den 31 oktober. (Källa: Coeli)</span>
+<span class="image-caption">Fondens fem största innehav per den 31 oktober. (Källa: Coeli)</span>

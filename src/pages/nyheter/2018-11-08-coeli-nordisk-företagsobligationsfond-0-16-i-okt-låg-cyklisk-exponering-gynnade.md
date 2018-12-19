@@ -13,7 +13,8 @@ STOCKHOLM (Fonder Direkt) Utmanande utveckling tillsammans med något ökande kr
 
 Det skriver fondens förvaltare Gustav Fransson i en månadskommentar.
 
-![Avkastning för Coeli Nordisk Företagsobligationsfond sedan fondens start i juni 2014. (Källa: Coeli)](/img/92.png "Avkastning för Coeli Nordisk Företagsobligationsfond sedan fondens start i juni 2014. (Källa: Coeli)")
+![Avkastning för Coeli Nordisk Företagsobligationsfond sedan fondens start i juni 2014. (Källa: Coeli)](/img/92.png)
+<span class="image-caption">Avkastning för Coeli Nordisk Företagsobligationsfond sedan fondens start i juni 2014. (Källa: Coeli)</span>
 
 Bland fondens bästa bidragsgivare till avkastningen fanns läkemedelsbolaget Orexo, vars obligationer utvecklades väl efter en stark kvartalsrapport som uppvisade en försäljningsökning med 30 procent, skriver förvaltaren. Gustav Fransson skriver att bolaget har en kassa som väl överstiger dess räntebärande skulder, och menar att det indikerar god finansiell ställning hos bolaget. Orexo vann dessutom en patenttvist vilket skyddar bolagets viktigaste preparat under de kommande 13 åren, fortsätter förvaltaren.
 
@@ -39,4 +40,5 @@ Turbulensen på aktiemarknader spillde över på kreditmarknader med ökande spr
 
 Gustav Fransson avslutar med att prognoser för kommande kvartal justerats ned efter en rapportsäsong där cykliska bolag emellertid presenterat resultat i linje med förväntningar, vilket kan tolkas som att konjunkturen är på väg att mattas av.
 
-![Fondens fem största innehav per den 31 okt 2018. (Källa: Coeli)](/img/93.png "Fondens fem största innehav per den 31 okt 2018. (Källa: Coeli)")
+![Fondens fem största innehav per den 31 okt 2018. (Källa: Coeli)](/img/93.png)
+<span class="image-caption">Fondens fem största innehav per den 31 okt 2018. (Källa: Coeli)</span>

@@ -31,4 +31,4 @@ Spiltan Räntefond Sverige              Låg
 Atlant Stability                       Låg        
 ```
 
-Klicka på länken för att läsa Pär Ståhls fondtext: <https://www.avanza.se/placera/redaktionellt/2018/11/01/kopvarda-fonder-i-november.html>
+Klicka på länken för att läsa Pär Ståhls fondtext: [Avanza Placera](https://www.avanza.se/placera/redaktionellt/2018/11/01/kopvarda-fonder-i-november.html)

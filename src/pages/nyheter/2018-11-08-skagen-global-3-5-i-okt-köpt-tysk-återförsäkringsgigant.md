@@ -14,7 +14,7 @@ Det skriver fondförvaltarna Knut Gezelius och Chris-Tommy Simonsen i en månads
 Avkastning för SKAGEN Global och dess jämförelseindex (MSCI ACWI NR USD) under månaden och sedan årsskiftet (SÅ). Mätt i fondens basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\           Oktober      SÅ       Oktober      SÅ                 
+            Oktober      SÅ       Oktober      SÅ                 
 
 Fond        -3,2 (NOK)   -0,2     -3,6 (SEK)   +8,4               
 Jmf-index   -4,5 (NOK)   -1,3     -4,9 (SEK)   +7,2               
@@ -34,6 +34,6 @@ I tillägg till detta uppges förvaltarna ha tagit tillvara på utförsäljninge
 
 Fonden sålde av sina innehav i fastighetsbolaget IRSA samt läkemedelsbolaget Novo Nordisk då förvaltarna ser en intensifiering av såväl konkurrens som regleringstryck på bolagens marknader. Positionerna avyttrades för att kunna finansiera bättre investeringsmöjligheter, skriver förvaltarna. Knut Gezelius och Chris-Tommy Simonsen meddelar avslutningsvis att portföljen har en fortsatt attraktiv värdering.
 
-![  Fondens tio största innehav per den 31 okt 2018. 37 aktier återfinns i portföljen, varav topp tio svarar för 43,7 procent av kapitalet. (Källa: SKAGEN Fonder)](/img/95.png)
+![Fondens tio största innehav per den 31 okt 2018. 37 aktier återfinns i portföljen, varav topp tio svarar för 43,7 procent av kapitalet. (Källa: SKAGEN Fonder)](/img/95.png)
 
-<span class="image-caption">  Fondens tio största innehav per den 31 okt 2018. 37 aktier återfinns i portföljen, varav topp tio svarar för 43,7 procent av kapitalet. (Källa: SKAGEN Fonder)</span>
+<span class="image-caption">Fondens tio största innehav per den 31 okt 2018. 37 aktier återfinns i portföljen, varav topp tio svarar för 43,7 procent av kapitalet. (Källa: SKAGEN Fonder)</span>

@@ -14,7 +14,7 @@ Det framgår av en månadsrapport med förvaltarkommentar av Cathrine Gether och
 Avkastning för SKAGEN Kon-Tiki och dess jämförelseindex (MSCI EM NR USD) under månaden och sedan årsskiftet (SÅ). Basvaluta samt omräknat till svenska kronor, i procent:
 
 ```
-\             Oktober      SÅ      Oktober       SÅ             
+             Oktober      SÅ      Oktober       SÅ             
 
 Fond         -2,8 (NOK)  -18,1    -3,3 (SEK)    -11,0          
 Jmf-index    -8,7 (USD)  -15,7    -6,2 (SEK)    -5,9     
@@ -36,6 +36,6 @@ Vidare ser förvaltarna positiva tecken på ett skifte i marknadsdynamiken, där
 
 Enligt rapporten handlas portföljen kring ett P/E-tal på 8 för 2019, samtidigt som tillväxtmarknader i stort handlas till P/E 10 för 2019. Förvaltarna anser att värderingarna har fallit till nivåer som innebär bra köpmöjligheter för långsiktiga investerare.
 
-![  SKAGEN Kon-Tikis tio största innehav per den 31 oktober. Portföljen består av 48 innehav, varav de tio största står för 37,6 procent. (Källa: SKAGEN Fonder)](/img/99.png)
+![SKAGEN Kon-Tikis tio största innehav per den 31 oktober. Portföljen består av 48 innehav, varav de tio största står för 37,6 procent. (Källa: SKAGEN Fonder)](/img/99.png)
 
-<span class="image-caption">  SKAGEN Kon-Tikis tio största innehav per den 31 oktober. Portföljen består av 48 innehav, varav de tio största står för 37,6 procent. (Källa: SKAGEN Fonder)</span>
+<span class="image-caption">SKAGEN Kon-Tikis tio största innehav per den 31 oktober. Portföljen består av 48 innehav, varav de tio största står för 37,6 procent. (Källa: SKAGEN Fonder)</span>
