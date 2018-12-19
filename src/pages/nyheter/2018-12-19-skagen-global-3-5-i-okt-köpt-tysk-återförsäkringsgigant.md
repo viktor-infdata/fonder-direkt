@@ -30,7 +30,7 @@ Portföljens sämsta bidragsgivare under månaden var skogsindustrikoncernen UPM
 
 Avseende portföljhändelser under månaden köpte fonden det tyska återförsäkringsbolaget Hannover Re. Förvaltarduon ser bolaget som en undervärderad återförsäkrare med förnuftiga åtaganden. Vidare har bolaget en företagskultur med låga kostnader samt ett genuint långsiktigt affärstänk väl i linje med förvaltarnas investeringsmandat, skriver de.
 
-I tillägg till detta uppges förvaltarna ha tagit tillvara på utförsäljningen på aktiemarknaderna, genom att ta större positioner i tidigare portföljinnehav som var signifikant undervärderade.
+I tillägg till detta uppges förvaltarna ha tagit tillvara på utförsäljningen på aktiemarknaderna, genom att ta större positioner i tidigare portföljinnehav som var signifikant undervärderade.
 
 Fonden sålde av sina innehav i fastighetsbolaget IRSA samt läkemedelsbolaget Novo Nordisk då förvaltarna ser en intensifiering av såväl konkurrens som regleringstryck på bolagens marknader. Positionerna avyttrades för att kunna finansiera bättre investeringsmöjligheter, skriver förvaltarna. Knut Gezelius och Chris-Tommy Simonsen meddelar avslutningsvis att portföljen har en fortsatt attraktiv värdering.
 
