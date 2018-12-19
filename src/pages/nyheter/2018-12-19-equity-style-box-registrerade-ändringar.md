@@ -6,6 +6,7 @@ sponsored: false
 featured: false
 tags:
   - Morningstar
+  - Equity Style Box
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
 
