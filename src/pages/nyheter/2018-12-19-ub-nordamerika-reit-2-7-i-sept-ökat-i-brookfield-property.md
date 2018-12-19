@@ -7,11 +7,11 @@ featured: false
 tags:
   - United Bankers
 ---
-STOCKHOLM (Fonder Direkt) REIT-värdepapper (real estate investment trust) föll tillbaka i september efter en stark utveckling det senaste halvåret, och den huvudsakliga orsaken var en plötslig stegring av räntan på den tioåriga amerikanska statsobligationen. I oktober har dock läget förändrats och REITs har presterat väl relativt den bredare marknaden, i det turbulenta marknadsklimatet.
+STOCKHOLM (Fonder Direkt) REIT-värdepapper (real estate investment trust) föll tillbaka i september efter en stark utveckling det senaste halvåret, och den huvudsakliga orsaken var en plötslig stegring av räntan på den tioåriga amerikanska statsobligationen. I oktober har dock läget förändrats och REITs har presterat väl relativt den bredare marknaden, i det turbulenta marknadsklimatet.
 
 Det skriver Aki Kostiander, som förvaltar UB Nordamerika REIT, i en kommentar.
 
-Fonden noterade en nedgång om 2,7 procent i september och har sedan årsskiftet därmed stigit 5,6 procent per den 30 september. Jämförelseindex saknas och detta gäller i fondens basvaluta euro. Mätt i svenska kronor var fondens utveckling -5,4 procent i september och sedan årsskiftet noteras en uppgång om 11,0 procent.
+Fonden noterade en nedgång om 2,7 procent i september och har sedan årsskiftet därmed stigit 5,6 procent per den 30 september. Jämförelseindex saknas och detta gäller i fondens basvaluta euro. Mätt i svenska kronor var fondens utveckling -5,4 procent i september och sedan årsskiftet noteras en uppgång om 11,0 procent.
 
 ![Fondens utveckling i euro sedan starten i december 2014, indexerat till 100. (Källa: UB AM)](/img/107.png)
 
