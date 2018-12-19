@@ -13,7 +13,7 @@ I rapporten framgår att bolaget nu bedömer att de stigande kostnaderna för r�
 
 I toppen av fondexponeringslistan återfinns Movestic Sverige, med 6,4 procent av portföljen i Electrolux, och som ökade positionen i september. Därpå följer tre Lannebofonder, varav samtliga ökade sina innehav i vitvarujätten i september. Det gäller fonderna Sverige, Utdelningsfond och Sverige Plus, med 6,4, 6,4 samt 6,3 procent av kapitalet i Electroluxaktien.
 
-Näst på listan kommer tre fonder från Enter, med 4,9, 4,8 samt 4,8 procents exponering, som avser fonderna Sverige, Select och Select Fokus. Dessa tre har samtliga minskat sina innehav i september.
+Näst på listan kommer tre fonder från Enter, med 4,9, 4,8 samt 4,8 procents exponering, som avser fonderna Sverige, Select och Select Fokus. Dessa tre har samtliga minskat sina innehav i september.
 
 Det visar data från Morningstar per den 30 september.
 
