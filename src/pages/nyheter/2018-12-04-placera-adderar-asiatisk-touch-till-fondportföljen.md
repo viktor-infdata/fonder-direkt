@@ -17,7 +17,7 @@ tags:
   - Spiltan
   - Atlant Fonder
 ---
-<https://www.avanza.se/placera/redaktionellt/2018/12/03/kopvarda-fonder-i-december.html>STOCKHOLM (Fonder Direkt) Indexfonden Swedbank Robur Access Asien lyfts in i Placeras decemberportfölj, på bekostnad av Handelsbanken Nordiska Småbolag som får göra sorti.
+STOCKHOLM (Fonder Direkt) Indexfonden Swedbank Robur Access Asien lyfts in i Placeras decemberportfölj, på bekostnad av Handelsbanken Nordiska Småbolag som får göra sorti.
 
 "Visst är det kanske lite av en högriskinvestering att handla Asien nu, men för den som tycker och tror som jag att det gått ner lite för mycket kan det vara intressant", skriver Placeras fondredaktör Pär Ståhl, som inspirerad av en Asienresa väljer in den breda asiatiska aktieindexfonden.
 
@@ -45,4 +45,4 @@ Spiltan Räntefond Sverige              Låg
 Atlant Stability                       Låg                     
 ```
 
-Länk till Placeras portföljgenomgång: <https://www.avanza.se/placera/redaktionellt/2018/12/03/kopvarda-fonder-i-december.html>
+Länk till Placeras portföljgenomgång: [Avanza Placera](https://www.avanza.se/placera/redaktionellt/2018/12/03/kopvarda-fonder-i-december.html)

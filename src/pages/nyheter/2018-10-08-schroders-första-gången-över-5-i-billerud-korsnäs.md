@@ -9,6 +9,6 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) Kapitalförvaltaren Schroders har ökat sitt innehav i förpackningstillverkaren Billerud Korsnäs till 5,31 procent av kapital och röster.
 
-Det framgår av ett flaggningsmeddelande.
+Det framgår av ett flaggningsmeddelande.
 
-Data från Holdings visar att Schroders vid årsskiftet hade 1,03 procent av kapitalet och sedan dess kontinuerligt ökat sitt innehav. Detta är första gången kapitalförvaltaren äger över 5 procent i Billerud Korsnäs och man noteras nu på en femteplats i ägarlistan, efter Frapag Beteiligungsholding AG, AMF Försäkring & Fonder, Swedbank Robur Fonder och Fjärde AP-fonden.
+Data från Holdings visar att Schroders vid årsskiftet hade 1,03 procent av kapitalet och sedan dess kontinuerligt ökat sitt innehav. Detta är första gången kapitalförvaltaren äger över 5 procent i Billerud Korsnäs och man noteras nu på en femteplats i ägarlistan, efter Frapag Beteiligungsholding AG, AMF Försäkring & Fonder, Swedbank Robur Fonder och Fjärde AP-fonden.

@@ -13,6 +13,6 @@ Investmentbolaget har under längre tid dragits med lönsamhetsproblem för ett 
 
 Ägandet bland svenska fonder är relativt lågt sett till viktning, då endast två fonder har en exponering överstigande 1 procent av portföljen. Det gäller Spiltan Aktiefond Investmentbolag, som har 4,33 procent av kapitalet placerat i Ratos, samt fonden Jämställda Bolag Sverige, med 3,51 procent. Det visar data från Morningstar per den 30 september.
 
-![  Kursutveckling Ratos B sedan den 9 december 2003. Röd markering står för utdelning. (Källa: Infront)](/img/114.png)
+![Kursutveckling Ratos B sedan den 9 december 2003. Röd markering står för utdelning. (Källa: Infront)](/img/114.png)
 
-<span class="image-caption">  Kursutveckling Ratos B sedan den 9 december 2003. Röd markering står för utdelning. (Källa: Infront)</span>
+<span class="image-caption">Kursutveckling Ratos B sedan den 9 december 2003. Röd markering står för utdelning. (Källa: Infront)</span>

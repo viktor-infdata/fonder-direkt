@@ -19,13 +19,13 @@ Fonden noterade en nedgång om 3,8 procent i basvalutan svenska kronor i septemb
 
 Förvaltarna har tidigare i år beskrivit hur de övergett aktier i cykliska bolag, då de gjort bedömningen att den globala fordons- samt (troligen) även byggindustrin har passerat sin topp för denna konjunktur. Duon menar i septemberrapporten att tesen att de cykliska delarna av världsekonomin saktar in nu "bekräftas nästan varje dag", och pekar på fallande inköpschefsindex och vinstvarningar från industriföretag såsom BMW och General Electric.
 
-Däremot uppges de vinsttrender fonden investerat i vara intakta och förvaltarna ser bland annat att den prisuppgång på tyska fastigheter som varat i 5-6 år kommer fortsätta i många år framöver. Under månaden besöktes ett flertal av Tysklands ledande fastighetsbolag, däribland Deutsche Wohnen och Aroundtown, skriver förvaltarna.
+Däremot uppges de vinsttrender fonden investerat i vara intakta och förvaltarna ser bland annat att den prisuppgång på tyska fastigheter som varat i 5-6 år kommer fortsätta i många år framöver. Under månaden besöktes ett flertal av Tysklands ledande fastighetsbolag, däribland Deutsche Wohnen och Aroundtown, skriver förvaltarna.
 
-Fonden sålde i september sina aktier i Handelsbanken, en position som uppges ha varit kortsiktig och som togs i samband med att aktien föll under 100 kronor tidigt under sommaren. Bankaktien avyttrades efter en uppgång på knappt 15 procent och in i portföljen kom istället specialfettsbolaget AAK, efter ett "mycket bra möte" med bolagets ekonomichef i Malmö. Detta var förvaltarnas tredje möte med bolaget, som beskrivs som en "global champion" med en given plats i portföljen.
+Fonden sålde i september sina aktier i Handelsbanken, en position som uppges ha varit kortsiktig och som togs i samband med att aktien föll under 100 kronor tidigt under sommaren. Bankaktien avyttrades efter en uppgång på knappt 15 procent och in i portföljen kom istället specialfettsbolaget AAK, efter ett "mycket bra möte" med bolagets ekonomichef i Malmö. Detta var förvaltarnas tredje möte med bolaget, som beskrivs som en "global champion" med en given plats i portföljen.
 
-Förvaltarna bedömer att det är full fart i de bolag och vinsttrender de investerat i, om än den globala ekonomin saktar in något. Andreas Brock och Henrik Milton konstaterar att fondens investeringar i tyska fastigheter, globala betalningsbolag och hållbarhet (till exempel Beijer Ref) har genererat god avkastning i år, och bedömer att de underliggande trenderna inom dessa områden är helt intakta eller möjligen accelererande.
+Förvaltarna bedömer att det är full fart i de bolag och vinsttrender de investerat i, om än den globala ekonomin saktar in något. Andreas Brock och Henrik Milton konstaterar att fondens investeringar i tyska fastigheter, globala betalningsbolag och hållbarhet (till exempel Beijer Ref) har genererat god avkastning i år, och bedömer att de underliggande trenderna inom dessa områden är helt intakta eller möjligen accelererande.
 
-"Vi ser nu fram emot en spännande rapportperiod för tredje kvartalet där bolagen får syna sina kort angående kommande kvartals vinstutsikter", skriver förvaltarduon.
+"Vi ser nu fram emot en spännande rapportperiod för tredje kvartalet där bolagen får syna sina kort angående kommande kvartals vinstutsikter", skriver förvaltarduon.
 
 ![Coeli Global Selektivs fem största innehav per den 31 september 2018. (Källa: Coeli)](/img/561722202.png)
 

@@ -17,9 +17,9 @@ Samtidigt som fonden noterade en nedgång om 1,0 procent backade dess jämförel
 
 Detta gäller i fondens basvaluta dollar. Mätt i svenska kronor var UBS Global Emerging Markets Opportunitys utveckling -3,6 procent i september och sedan årsskiftet har fonden sjunkit 3,2 procent.
 
-![  Fondens utveckling sedan start 2010. (Källa: UBS)](/img/115.png)
+![Fondens utveckling sedan start 2010. (Källa: UBS)](/img/115.png)
 
-<span class="image-caption">  Fondens utveckling sedan start 2010. (Källa: UBS)</span>
+<span class="image-caption">Fondens utveckling sedan start 2010. (Källa: UBS)</span>
 
 Bland fondens innehav bidrog den brasilianska järnmalmsproducenten Vale samt de ryska bank- respektive oljeinnehaven Sberbank och Lukoil positivt till avkastningen i september, enligt rapporten, där starka råvarupriser pekas ut som huvudorsak till aktieuppgångarna.
 

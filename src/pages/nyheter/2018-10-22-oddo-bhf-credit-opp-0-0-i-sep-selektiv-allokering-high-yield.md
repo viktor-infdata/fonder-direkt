@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: ' 2018-10-22 11:28:39 CET  ODDO BHF Credit Opp: 0,0% i sep, selektiv allokering high yield'
+title: 'ODDO BHF Credit Opp: 0,0% i sep, selektiv allokering high yield'
 date: 2018-10-22T12:49:06.720Z
 sponsored: true
 featured: false
