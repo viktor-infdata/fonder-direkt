@@ -4,6 +4,7 @@ title: 'Danske Invest: Många bolag som går att räkna hem nu - förvaltare'
 date: 2018-12-19T12:06:15.026Z
 sponsored: true
 featured: false
+image: /img/m-b-m-795202-unsplash-cropped.jpg
 tags:
   - Danske
 ---
