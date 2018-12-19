@@ -26,15 +26,15 @@ Jmf-index    -8,7 (USD)  -15,7    -6,2 (SEK)    -5,9
 
 Största bidragsgivaren till fondens avkastning blev de brasilianska aktieinnehaven, som liksom landets valuta gynnades av utgången i presidentvalet där marknadsvänliga Bolsonaro vann och bidrog till marknadsoptimism, skriver förvaltarna.
 
-Aktievinnare som lyfts fram i rapporten är brasilianska konglomeratet Cosan, som utannonserade en förenkling av verksamheten vilket lyfte bolagets aktie, samt köttproducenten Marfrig, som tjänade på övergången till en bättre kapitalallokeringsdisciplin och en lägre skuldsättning.
+Aktievinnare som lyfts fram i rapporten är brasilianska konglomeratet Cosan, som utannonserade en förenkling av verksamheten vilket lyfte bolagets aktie, samt köttproducenten Marfrig, som tjänade på övergången till en bättre kapitalallokeringsdisciplin och en lägre skuldsättning.
 
-Bland månadens sämre innehav nämns Naspers, som uppvisade svag utveckling till följd av regulatorisk osäkerhet kring Tencent, samt fondens sydkoreanska innehav som har fått kämpa. Förvaltarna konstaterar att Hyundai, ett innehav som fortsatt har reducerats över sommaren, återigen redovisade svaga resultat.
+Bland månadens sämre innehav nämns Naspers, som uppvisade svag utveckling till följd av regulatorisk osäkerhet kring Tencent, samt fondens sydkoreanska innehav som har fått kämpa. Förvaltarna konstaterar att Hyundai, ett innehav som fortsatt har reducerats över sommaren, återigen redovisade svaga resultat.
 
-Förvaltarna uppger även att de har minskat sin position i Banrisul efter en stark utveckling, trots att de gillar bolagets återhämtningsresa.
+Förvaltarna uppger även att de har minskat sin position i Banrisul efter en stark utveckling, trots att de gillar bolagets återhämtningsresa.
 
-Vidare ser förvaltarna positiva tecken på ett skifte i marknadsdynamiken, där värdeaktier "återigen överavkastar i en miljö som är mer gynnsam sett till fondens investeringsfilosofi".
+Vidare ser förvaltarna positiva tecken på ett skifte i marknadsdynamiken, där värdeaktier "återigen överavkastar i en miljö som är mer gynnsam sett till fondens investeringsfilosofi".
 
-Enligt rapporten handlas portföljen kring ett P/E-tal på 8 för 2019, samtidigt som tillväxtmarknader i stort handlas till P/E 10 för 2019. Förvaltarna anser att värderingarna har fallit till nivåer som innebär bra köpmöjligheter för långsiktiga investerare.
+Enligt rapporten handlas portföljen kring ett P/E-tal på 8 för 2019, samtidigt som tillväxtmarknader i stort handlas till P/E 10 för 2019. Förvaltarna anser att värderingarna har fallit till nivåer som innebär bra köpmöjligheter för långsiktiga investerare.
 
 ![  SKAGEN Kon-Tikis tio största innehav per den 31 oktober. Portföljen består av 48 innehav, varav de tio största står för 37,6 procent. (Källa: SKAGEN Fonder)](/img/99.png)
 
