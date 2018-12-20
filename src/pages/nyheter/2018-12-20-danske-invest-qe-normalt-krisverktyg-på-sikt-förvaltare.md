@@ -16,8 +16,7 @@ Fonder Direkt har samtalat med Danske Invests ränteförvaltare Anders Ohlsson, 
 
 <span class="image-caption">Anders Ohlsson. (Källa: Danske Invest)</span>
 
-**Brexit, global handelsdispyt och italienskt budgettrubbel återfinns bland årets stora makroföreteelser. Vilken enskild faktor har gett störst avtryck på räntemarknadens prissättning i år?
-**
+**Brexit, global handelsdispyt och italienskt budgettrubbel återfinns bland årets stora makroföreteelser. Vilken enskild faktor har gett störst avtryck på räntemarknadens prissättning i år?**
 
 Det jag tror har påverkat mest är egentligen inte någon enskild händelse, utan en allmän insikt om att konjunkturen passerat toppen och att makrodata lär komma in sämre och sämre framöver. Men sett till specifika risker skulle jag säga att den politiska oron i Italien har påverkat mest. Italien är en stor ekonomi i Europa och en viktig del i eurosamarbetet. Europa befinner sig i en ganska bräcklig återhämtning redan som det är, och den här oron har fått det att skaka rätt så ordentligt under året.
 
