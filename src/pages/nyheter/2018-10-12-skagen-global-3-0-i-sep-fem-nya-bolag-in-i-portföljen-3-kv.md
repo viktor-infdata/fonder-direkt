@@ -7,10 +7,6 @@ featured: false
 tags:
   - Skagen
 ---
-<span class="image-caption">undefined</span>
-
-<span class="image-caption">undefined</span>
-
 STOCKHOLM (Fonder Direkt) Aktiefonden Skagen Global investerade i fem nya bolag och avyttrade sju innehav mellan juni-september 2018, som blev ett aktivt kvartal. Utvecklade marknader överträffade tillväxtmarknader och det breda USA-indexet S&P 500 steg över 7 procent, vilket gör kvartalet till det bästa på fem år. Det skriver fondens förvaltare Knut Gezelius och Chris-Tommy Simonsen i en kvartalsrapport.
 
 Sett till september noterade fonden en nedgång om 3,0 procent i basvalutan norska kronor, vilket var något sämre än dess jämförelseindex (MSCI ACWI NR USD), som sjönk 2,2 procent omräknat i norska kronor. Sedan årsskiftet är fondens avkastning +3,1 procent per den 30 september, medan jämförelseindex noterar +3,4 procent. Mätt i svenska kronor var fondens utveckling -3,0 procent i september och sedan årsskiftet noteras en uppgång om 12,5 procent.
