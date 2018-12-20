@@ -48,5 +48,3 @@ Den typ av kvantitativa lättnader vi sett sedan finanskrisen, att centralbanker
 **Finns det någon övergripande trend du ser på finansmarknaderna just nu?**
 
 Det har blivit tydligt att hållbarhet är en allt viktigare faktor. Hela marknaden drar åt det hållet, och de senaste åren har hållbarhetsaspekten börjat reflekteras alltmer i hur bolag agerar, men även i viss mån hur värdepapper prissätts. Vi har under året ökat vårt fokus på hållbarhet och satsat inom förvaltningen, både när det kommer till resurser, leverantörer och system. På kreditsidan handlar det exempelvis om stöd för att göra bolagsanalyser ur ett hållbarhetsperspektiv, som kompletterar den finansiella analysen.
-
-![]()
