@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Baltic Horizon Fund: Förvärvar kontor Vilnius för 18,3 MLN EUR'
+title: 'Baltic Horizon: Förvärvar kontorsbyggnad Vilnius för 18,3 MLN EUR'
 date: 2018-12-21T16:23:39.642Z
 sponsored: true
 featured: false
