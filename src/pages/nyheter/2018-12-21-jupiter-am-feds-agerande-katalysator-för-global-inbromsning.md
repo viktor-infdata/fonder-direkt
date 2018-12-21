@@ -9,7 +9,7 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) Federal Reserves tveeggade strategi att minska sin balansräkning och samtidigt höja räntan är den huvudsakliga orsaken till höstens volatilitet och korrektion på aktiemarknaderna.
 
-Det skriver Jupiter Asset Managements ränteförvaltare och strategichef Ariel Bezalel i ett inlägg på kapitalförvaltarens hemsida.
+Det skriver Jupiter Asset Managements ränteförvaltare och strategichef Ariel Bezalel i ett inlägg på kapitalförvaltarens hemsida.
 
 Inte nog med att den amerikanska centralbankens agerande har lett till skakiga aktiemarknader. Jupiter förväntar sig att Feds kombinerade åtgärder kommer bli den stora katalysatorn för en inbromsning av ekonomin, såväl på global basis som i USA. I tillägg till det väntas den europeiska centralbanken ECB snart avsluta sina kvantitativa lättnader, vilket sannolikt kommer förstärka åtstramningen av likviditeten, menar förvaltaren.
 
@@ -21,6 +21,6 @@ För att illustrera pekar förvaltaren på att globala inköpschefsindex har fal
 
 För att navigera i denna miljö uppges Jupiters ränteteam vara positionerade inom amerikanska statspapper, där förvaltaren har en hög grad av övertygelse, samt att de fortsätter hålla risk borta från bordet. Den inbromsande globala ekonomin, i kombination med rekordhöga skulder hos både konsumenter och företag i USA, samt den flackare så kallade yieldkurvan, anges som orsaker till detta ställningstagande.
 
-"Vi tror att det bara är en tidsfråga innan Fed behöver backa tillbaka från räntehöjningar i takt med att problem på annat håll oundvikligen når USA", skriver Ariel Bezalel.
+"Vi tror att det bara är en tidsfråga innan Fed behöver backa tillbaka från räntehöjningar i takt med att problem på annat håll oundvikligen når USA", skriver Ariel Bezalel.
 
 Ränteteamet fortsätter leta efter attraktiva avkastningsmöjligheter och har på sistone funnit bra lägen på vissa tillväxtmarknader, där kortdaterade papper i Argentina lyfts fram som ett bra exempel. Även defensiva företagskrediter på high yield-marknaden såsom hälsovård är intressant, men i det här stadiet av den ekonomiska cykeln är det viktigt att balansera potential på uppsidan mot de växande riskerna på nedsidan, skriver Ariel Bezalel.

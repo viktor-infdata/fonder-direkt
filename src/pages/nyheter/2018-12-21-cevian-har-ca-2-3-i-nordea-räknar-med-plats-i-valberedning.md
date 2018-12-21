@@ -9,7 +9,7 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) Aktivistfonden Cevian meddelar att dess sammantagna innehav i storbanken Nordea uppgår till cirka 2,3 procent av kapital och röster. Cevian förväntar sig att ta plats i Nordeas valberedning. Det skriver Nyhetsbyrån Direkt.
 
-"Cevian ser väsentlig värdepotential i Nordea. Vi kommer att jobba med Nordeas ägare, styrelse och ledning för att realisera denna värdepotential utan onödig tidsförskjutning. Vi ser framför allt fram emot att arbeta med Nordeas storägare Sampo", kommenterar Christer Gardell.
+"Cevian ser väsentlig värdepotential i Nordea. Vi kommer att jobba med Nordeas ägare, styrelse och ledning för att realisera denna värdepotential utan onödig tidsförskjutning. Vi ser framför allt fram emot att arbeta med Nordeas storägare Sampo", kommenterar Christer Gardell.
 
 Det har under en tid förekommit spekulationer om att Cevian ska ha varit intresserade av Nordea. Cevian har tidigare bland annat haft innehav i Swedbank och Danske Bank.
 
