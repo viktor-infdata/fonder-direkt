@@ -8,21 +8,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
-      resolve: 'gatsby-plugin-prefetch-google-fonts',
-      options: {
-        fonts: [
-          {
-            family: 'Fjalla One',
-            variants: ['400', '400i'],
-          },
-          {
-            family: 'Merriweather',
-            variants: ['400', '400i', '700',' 700i']
-          },
-        ],
-      },
-    },
-    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {
