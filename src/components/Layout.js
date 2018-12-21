@@ -31,7 +31,6 @@ const TemplateWrapper = ({ children }) => (
       <meta name="twitter:image" content="https://fonderdirekt.se/og-image.png" />
       <meta name="twitter:site" content="@fonder_direkt" />
       <meta name="google-site-verification" content="pt21VWkfJ3NiX6orlK7yhx_w9_z_DvoeeWwt4GOm_kM" />
-      <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Merriweather:400,400i,700,700i" rel="stylesheet" />
     </Helmet>
     <div className="page">
       <div className="main">
