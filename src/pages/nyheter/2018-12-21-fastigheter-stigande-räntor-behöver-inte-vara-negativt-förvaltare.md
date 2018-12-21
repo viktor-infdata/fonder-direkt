@@ -6,7 +6,7 @@ sponsored: true
 featured: true
 image: /img/garrett-parker-247217-unsplash-cropped.jpg
 tags:
-  - ODDOBHFAMSAS
+  - ODDO
 ---
 STOCKHOLM (Fonder Direkt) Osäkerhet råder på världens aktiemarknader och de flesta aktieindex noterar nedgångar sedan årsskiftet. Ett segment som dock klarat sig relativt väl är europeiska fastigheter, och en anledning som ofta nämns är större intäktsförutsägbarhet än inom de flesta andra sektorer. Pierre Toussain är del av kapitalförvaltaren ODDO BHF AM SAS fastighetsteam och ser ett antal anledningar till att äga fastighetsbolag inom eurozonen framöver.
 
