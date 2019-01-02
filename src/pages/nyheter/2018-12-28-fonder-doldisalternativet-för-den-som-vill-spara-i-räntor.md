@@ -10,7 +10,6 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) När aktiemarknaderna svajar börjar många leta alternativ till börsen för sitt kapital. En i Sverige mindre känd fondkategori är vad som kallas kallad target-date fund. Konceptet innebär att fonden ifråga investerar utifrån ett förbestämt slutdatum, då portföljen avvecklas och pengarna utbetalas till investerarna.
 
-
 ODDO BHF Haut Rendement 2025, som investerar i företagskrediter inom high yield, är ett exempel på en sådan fond. Inget innehav får ha en löptid längre än ett halvår efter den 31 december 2025 (slutdatum).
 
 Eftersom fonden har ett bestämt slutdatum går den att jämföra med en obligation i sig själv, och ju närmare fonden närmar sig avveckling desto mindre blir kreditrisken.
@@ -22,7 +21,6 @@ Eftersom fonden har ett bestämt slutdatum går den att jämföra med en obligat
 <span class="image-caption">Portföljens ratingfördelning per den 30 november 2018. (Källa: ODDO BHF AM SAS)</span>
 
 Anledningen till att risken minskar desto närmare slutdatum fonden rör sig är tidsaspekten samt den så kallade pull to par-effekten. De innehavda obligationerna ska lösas in av emittenten till det nominella värdet (face value; originalpriset) vid förfall, vilket i regel innebär att obligationens pris rör sig mot det nominella värdet i takt med att förfall rycker närmre. Och ju kortare tid en obligation har till förfall, desto lägre är sannolikheten att emittenten ska få betalningssvårigheter under den återstående perioden. Om det däremot finns en betydande risk för betalningsinställelse trots en kort kvarvarande löptid, lär investerare av förklarliga skäl vara mindre benägna att handla upp obligationen mot nominellt värde, och pull to par-effekten därmed utebli.
-
 
 ODDO BHF AM SAS har ett omfattande analysteam inom high yield som noggrant övervakar varje position samt uppmärksammar fondförvaltaren om tecken på svårigheter för enskilda bolag börjar uppvisas, säger Philippe Vantrimpont. Situationen ifråga diskuteras för att komma fram till beslut om huruvida positionen ska behållas, reduceras eller säljas. Om en obligation underpresterar marknaden kraftigt och handlas till ordentligt nedtryckta nivåer, kommer förvaltaren aktivera en stop loss om det anses nödvändigt, förklarar han.
 

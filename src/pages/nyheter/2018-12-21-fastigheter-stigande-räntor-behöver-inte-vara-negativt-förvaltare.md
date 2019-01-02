@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Fastigheter: Stigande räntor behöver inte vara negativt - förvaltare'
 date: 2018-12-21T08:33:55.257Z
 sponsored: true
-featured: true
+featured: false
 image: /img/garrett-parker-247217-unsplash-cropped.jpg
 tags:
   - ODDO
