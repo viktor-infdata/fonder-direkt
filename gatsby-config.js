@@ -8,18 +8,11 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
-      resolve: 'gatsby-plugin-prefetch-google-fonts',
+      resolve: 'gatsby-plugin-web-font-loader',
       options: {
-        fonts: [
-          {
-            family: 'Fjalla One',
-            variants: ['400', '400i'],
-          },
-          {
-            family: 'Merriweather',
-            variants: ['400', '400i', '700',' 700i']
-          },
-        ],
+        google: {
+          families: ['Fjalla One:400,400i', 'Merriweather:400,400i,700,700i']
+        },
       },
     },
     {

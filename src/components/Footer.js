@@ -1,6 +1,5 @@
 import React from 'react'
 import { OutboundLink } from 'gatsby-plugin-google-analytics'
-import ScrollUpButton from "react-scroll-up-button";
 import CookieConsent from "react-cookie-consent";
 
 const Footer = () => (
@@ -82,15 +81,6 @@ const Footer = () => (
                 </div>
             </div>
         </footer>
-        <ScrollUpButton
-            ContainerClassName="scroll-to-top"
-            TransitionClassName="scroll-to-top-transition">
-        <svg xmlns="http://www.w3.org/2000/svg">
-            <title>Scroll to top</title>
-            <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/>
-            <path d="M0 0h24v24H0z" fill="none"/>
-        </svg>
-        </ScrollUpButton>
         <CookieConsent
             contentClasses="cookieConsentContainer"
             buttonClasses="button is-small is-black"
