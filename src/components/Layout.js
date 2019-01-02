@@ -13,6 +13,12 @@ const TemplateWrapper = ({ children }) => (
       <html lang="se" />
       <meta name="description" content="Fonder Direkt är en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder som produceras av Nyhetsbyrån Direkts fondredaktion." />
       <meta name="copyright" content="Fonder Direkt är en del av Aktiebolaget Nyhetsbyrån Direkt" />
+      <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="anonymous" />
+      <link rel="preload" href="https://fonts.gstatic.com/s/fjallaone/v5/Yq6R-LCAWCX3-6Ky7FAFrOF6kg.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link rel="preload" href="https://fonts.gstatic.com/s/merriweather/v19/u-440qyriQwlOrhSvowK_l5-fCZM.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link rel="preload" href="https://fonts.gstatic.com/s/merriweather/v19/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link rel="preload" href="https://fonts.gstatic.com/s/merriweather/v19/u-4m0qyriQwlOrhSvowK_l5-eRZOf-I.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link rel="preload" href="https://fonts.gstatic.com/s/merriweather/v19/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvw.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"  />
