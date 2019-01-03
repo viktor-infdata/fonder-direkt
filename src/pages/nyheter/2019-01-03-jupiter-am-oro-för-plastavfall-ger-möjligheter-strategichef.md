@@ -4,6 +4,7 @@ title: 'Jupiter AM: Oro för plastavfall ger möjligheter - strategichef'
 date: 2019-01-03T13:03:55.157Z
 sponsored: true
 featured: false
+image: /img/plast-cropped.jpg
 tags:
   - Jupiter
 ---
