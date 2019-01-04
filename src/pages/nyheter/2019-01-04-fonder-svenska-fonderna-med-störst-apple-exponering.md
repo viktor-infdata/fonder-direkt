@@ -20,7 +20,7 @@ Fonder Direkt har listat de fonder med störst exponering mot Apple som procenta
 
 ```
 
-Fond                          %      Portföljdatum   Agerande  
+Fond                           %     Portföljdatum   Agerande  
 Lannebo Vision                7,7       30 nov         Nej     
 Augmented Reality Fund        6,3       30 nov         Ny      
 SEB Teknologifond             5,9       30 nov         Ökat    
