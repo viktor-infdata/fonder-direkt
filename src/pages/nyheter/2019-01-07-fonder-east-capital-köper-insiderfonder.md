@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Fonder: East Capital köper Insiderfonder'
+title: 'Fonder: East Capital köper Insiderfonders fonder'
 date: 2019-01-07T09:45:04.273Z
 sponsored: false
 featured: false
@@ -12,7 +12,7 @@ STOCKHOLM (Fonder Direkt) Insiderfonder säljer samtliga sina fonder till East C
 
 Det framgår på fondaktörens hemsida och har rapporterats av Nyhetsbyrån Direkt.
 
-"Vi på Insiderfonder har kämpat för att klara av de nya, tuffare, kraven på Pensionsmyndighetens fondtorg. Vi kan nu konstatera att den ansträngningen har nått vägs ände. Därför har vi beslutat att sälja samtliga våra fonder till East Capital", skriver vd:n Erik Lidén på Twitter.
+"Vi på Insiderfonder har kämpat för att klara av de nya, tuffare, kraven på Pensionsmyndighetens fondtorg. Vi kan nu konstatera att den ansträngningen har nått vägs ände. Därför har vi beslutat att sälja samtliga våra fonder till East Capital", skriver Insiderfonders investeringsansvarige och grundare Erik Lidén på Twitter.
 
 I ett pressmeddelande lägger han till att "det pågår en omfattande konsolidering inom branschen till följd av förändringar i Pensionsmyndighetens fondtorg" och att Insiderfonder "är ett av många nischade fondbolag som berörs".
 
