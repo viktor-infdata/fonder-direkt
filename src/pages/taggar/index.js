@@ -12,6 +12,8 @@ const TagsPage = ({
       <Helmet 
         title={`Taggar | ${title}`} 
       >
+        <meta name="description" content="Utforska taggade nyheter på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
+        <meta property="og:description" content="Utforska taggade nyheter på Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
         <meta property="og:title" content={`Taggar | ${title}`} />
         <meta property="og:url" content="https://fonderdirekt.se/taggar/" />
       </Helmet>

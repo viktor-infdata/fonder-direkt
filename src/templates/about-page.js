@@ -41,6 +41,8 @@ const AboutPage = ({ data }) => {
         title={post.frontmatter.title}
         helmet={
           <Helmet title={`Om Fonder Direkt`}>
+            <meta name="description" content="Fonder Direkt är en plattform där du kan hitta nyheter om fondmarknaden i både video- och skrivet format, samt ta del av redaktionellt arbete om fonder." />
+            <meta property="og:description" content="Fonder Direkt är en plattform där du kan hitta nyheter om fondmarknaden i både video- och skrivet format, samt ta del av redaktionellt arbete om fonder." />
             <meta property="og:title" content="Om Fonder Direkt" />
             <meta property="og:url" content="https://fonderdirekt.se/om-fonder-direkt/" />
           </Helmet>
