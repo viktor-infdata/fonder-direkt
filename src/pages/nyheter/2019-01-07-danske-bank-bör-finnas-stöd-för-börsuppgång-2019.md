@@ -5,7 +5,7 @@ date: 2019-01-07T14:31:02.468Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - DanskeBank
 ---
 STOCKHOLM (Fonder Direkt) Börsen stiger 2019, trots ökad marknadsoro till följd av den senaste tidens turbulens.
 
