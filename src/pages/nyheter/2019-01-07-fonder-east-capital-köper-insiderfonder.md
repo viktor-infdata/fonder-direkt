@@ -6,7 +6,7 @@ sponsored: false
 featured: false
 tags:
   - Insiderfonder
-  - EastCapital
+  - East Capital
 ---
 STOCKHOLM (Fonder Direkt) Insiderfonder säljer samtliga sina fonder till East Capital mot bakgrund av att fonderna inte har nått upp till kravet om 500 miljoner kronor i investerat kapital per fond från sparare utanför Pensionsmyndighetens fondtorg.
 

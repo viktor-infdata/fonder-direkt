@@ -5,7 +5,7 @@ date: 2019-01-07T16:57:14.505Z
 sponsored: false
 featured: false
 tags:
-  - Swedbank Robur
+  - Swedbank
   - Kinnevik
 ---
 STOCKHOLM (Fonder Direkt) Swedbank Robur Fonder flyttar fram sin ägarposition i investmentbolaget Kinnevik och äger nu 5,02 procent av aktiekapitalet, enligt ett flaggningsmeddelande.

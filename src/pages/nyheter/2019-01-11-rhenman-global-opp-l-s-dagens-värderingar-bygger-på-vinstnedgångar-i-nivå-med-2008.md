@@ -7,7 +7,7 @@ date: 2019-01-11T15:35:20.388Z
 sponsored: true
 featured: false
 tags:
-  - Rhenman & Partners
+  - Rhenman
 ---
 STOCKHOLM (Fonder Direkt) Alla risktillgångar föll kraftigt i december samtidigt som säkra tillgångar, framförallt amerikanska statsobligationer, noterade de största kapitalinflödena på 20 år.
 
@@ -43,12 +43,16 @@ Staffan Knafve menar att skifferolja ser mest lovande ut på kort sikt och pekar
 
 Gällande det svaga avslutet på aktieåret 2018 konstaterar Staffan Knafve att företagens starka vinsttillväxt mötts med stigande skepsis, vilket fått värderingarna att sjunka.
 
-"Detta gäller i princip alla marknader, men inte minst för tillväxtmarknaderna och Europa där P/E-talen fallit till de lägsta nivåerna på många år".
 
-Enligt Staffan Knafve bygger dagens aktievärderingar på att vinsterna ska falla i en omfattning som inte setts sedan 2008, vilket han frågar sig huruvida det är troligt. Förvaltaren har respekt för att det finns betydande orosmoln, men Rhenman & Partners uppges ha svårt att se framför sig ett scenario där vinstfallen blir så branta som dagens börskurser indikerar.
+"Detta gäller i princip alla marknader, men inte minst för tillväxtmarknaderna och Europa där P/E-talen fallit till de lägsta nivåerna på många år".
+
+
+Enligt Staffan Knafve bygger dagens aktievärderingar på att vinsterna ska falla i en omfattning som inte setts sedan 2008, vilket han frågar sig huruvida det är troligt. Förvaltaren har respekt för att det finns betydande orosmoln, men Rhenman & Partners uppges ha svårt att se framför sig ett scenario där vinstfallen blir så branta som dagens börskurser indikerar.
 
 Fondportföljens innehav värderas i genomsnitt till 12 gånger nästa års vinster samtidigt som direktavkastningen uppgår till nära 4 procent, enligt rapporten.
 
-"Vi vidmakthåller därför vår uppfattning att det finns en betydande kurspotential i de bolag som fonden har investerat i och att denna potential kommer att realiseras i takt med att orosmolnen successivt skingras", skriver Staffan Knafve.
+"Vi vidmakthåller därför vår uppfattning att det finns en betydande kurspotential i de bolag som fonden har investerat i och att denna potential kommer att realiseras i takt med att
+ orosmolnen successivt skingras", skriver Staffan Knafve.
 
-Vid årsskiftet var fondens fem största innehav Roche Holding Pref, Medtronic, Exxon Mobil, Ericsson samt Chevron.
+
+Vid årsskiftet var fondens fem största innehav Roche Holding Pref, Medtronic, Exxon Mobil, Ericsson samt Chevron.

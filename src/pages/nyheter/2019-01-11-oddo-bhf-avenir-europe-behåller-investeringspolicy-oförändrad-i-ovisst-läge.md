@@ -5,7 +5,7 @@ date: 2019-01-11T13:57:49.251Z
 sponsored: true
 featured: false
 tags:
-  - ODDO BHF
+  - ODDO
 ---
 STOCKHOLM (Fonder Direkt) Det är ett osäkert läge med exempelvis brexit och nedåttrendande ekonomisk statistik i Kina och Europa, samtidigt som ingen budget har gått igenom i USA som fortfarande befinner sig i "shotdown-läge".
 
@@ -29,4 +29,5 @@ Fondens tio största innehav är i allt väsentligt desamma jämfört med föreg
 
 Såväl de europeiska som kinesiska marknaderna nedgraderades under 2018 års andra halva, i takt med sekventiella fall i kinesisk ekonomisk data och allt svagare europeisk bilsektor, enligt kommentaren. Årets stora förlorare uppges således ha varit Shanghaiindex som tappade 24,6 procent, samt bilsektorn med ett fall på 28,1 procent. Cykliskt gick svagt relativt defensiva bolag, som dock inte klarade sig helt oskadda, då så kallade utilities föll 2,1 procent medan hälsovård backade 2,7 procent.
 
-I den kontexten presterade större index, med mindre cykliska inslag, bättre än index som följer små- och medelstora bolag. MSCI Europe NR föll exempelvis 10,6 procent under året, att jämföra med fondens jämförelseindex MSCI Europe SMID (small & mid-cap) NR, som retirerade 14,3 procent, skriver förvaltarna.
+
+I den kontexten presterade större index, med mindre cykliska inslag, bättre än index som följer små- och medelstora bolag. MSCI Europe NR föll exempelvis 10,6 procent under året, att jämföra med fondens jämförelseindex MSCI Europe SMID (small & mid-cap) NR, som retirerade 14,3 procent, skriver förvaltarna.

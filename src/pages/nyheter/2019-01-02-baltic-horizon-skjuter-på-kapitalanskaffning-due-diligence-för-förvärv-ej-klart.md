@@ -7,11 +7,12 @@ date: 2019-01-02T15:06:05.795Z
 sponsored: true
 featured: false
 tags:
-  - BalticHorizon
+  - Baltic Horizon
 ---
 STOCKHOLM (Fonder Direkt) De emissioner av nya fondandelar som Baltic Horizon Fund aviserade den 12 november 2018, och som var tänkta att genomföras under november och december ifjol, har blivit framflyttade tills vidare.
 
-Det meddelade Baltic Horizon i ett pressmeddelande under mellandagarna.
+
+Det meddelade Baltic Horizon i ett pressmeddelande under mellandagarna.
 
 Som motiv angavs att fondens granskningsprocess (due diligence) för nya förvärv fortfarande är pågående och att ingen emission därmed skulle ske innan årsskiftet. Istället kommer moderbolaget Northern Horizon Capital överväga att emittera fondandelar i Baltic Horizon under det första kvartalet 2019.
 

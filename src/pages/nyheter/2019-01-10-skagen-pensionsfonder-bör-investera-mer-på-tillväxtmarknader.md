@@ -6,7 +6,7 @@ sponsored: true
 featured: false
 image: /img/capture11-cropped.jpg
 tags:
-  - SKAGEN Fonder
+  - Skagen
 ---
 STOCKHOLM (Fonder Direkt) Pensionsfonder allokerar på global basis i snitt cirka 5 procent av kapitalet till tillväxtmarknader. Det är på tok för lite med tanke på demografiska megatrender och den potential som finns på dessa marknader, anser Alexandra Morris, investeringsdirektör på SKAGEN Fonder.
 
@@ -36,16 +36,19 @@ Ett sådant språng har ett namn: 'leapfrogging'. Leapfrogging är ett uttryck s
 
 "Teknologi är kärnan av leapfrogging, och det är även kärnan av polariseringen mellan USA och Kina. Kina har exempelvis spenderat miljardtals dollar på att bygga sin egen halvledarindustri. Helt plötsligt har Kinas framgång blivit ett 'nationellt säkerhetsproblem' för USA", sade Alexandra Morris.
 
-Investeringsdirektören fortsatte:
+
+Investeringsdirektören fortsatte:
 
 "Vad USA istället borde göra är att följa sitt eget recept, det vill säga att genom utbildning, innovation, hårt arbete samt forskning & utveckling se till att behålla ledningen, snarare än att hindra framsteg och utveckling i andra länder."
 
 Världens medelklass förväntas fortsätta växa i rask takt. År 2009 uppgick den globala siffran till strax under två miljarder människor, en siffra som väntas ha nått strax under fem miljarder om elva år, 2030. Av dessa tre tillkommande miljarder beräknas 2,5 komma från tillväxtmarknader, enligt Alexandra Morris, som lade till att antalet människor inom medelklassen på tillväxtmarknader därmed kommer att vara nästan nio gånger så många som år 2009.
 
-Inte mer än 5 procent av västvärldens pensionsfonders kapital är emellertid investerat på tillväxtmarknader, enligt SKAGENs investeringsdirektör, vilket hon anser är väl lågt givet tillväxtpotentialen på dessa marknader. Som skäl pekar hon bland annat på att 26 procent av värdet på den globala aktiemarknaden finns på tillväxtmarknader, samtidigt som 43 procent av global BNP och 60 procent av global BNP-tillväxt finns på tillväxtmarknader.
+
+Inte mer än 5 procent av västvärldens pensionsfonders kapital är emellertid investerat på tillväxtmarknader, enligt SKAGENs investeringsdirektör, vilket hon anser är väl lågt givet tillväxtpotentialen på dessa marknader. Som skäl pekar hon bland annat på att 26 procent av värdet på den globala aktiemarknaden finns på tillväxtmarknader, samtidigt som 43 procent av global BNP och 60 procent av global BNP-tillväxt finns på tillväxtmarknader.
 
 Det är dock inte bara pensionsfonder man kan argumentera för bör höja viktningen mot tillväxtmarknader. Indexleverantören MSCI inkluderar endast en bråkdel av tillväxtmarknadernas listade bolag i sitt världsindex MSCI World, enligt Alexandra Morris (24 procent av bolagen mot 66 procent för utvecklade marknader). Det får som följd att MSCI World inte består av mer än 11 procent tillväxtmarknadsaktier, lade hon till.
 
 Angående det senaste årets volatilitet på tillväxtmarknader menar Alexandra Morris att det är något man måste acceptera då tillväxtmarknader är volatila till sin natur. Det enda sättet SKAGEN kan gynnas av de megatrender Alexandra Morris pratar om är genom att vara långsiktiga, sade hon.
 
-Investeringsdirektören konstaterar att SKAGEN som aktiv förvaltare kan dra nytta av möjligheter i bolag som inte är inkluderade på indexnivå, särskilt då utbudet på tillväxtaktiemarknaderna växer snabbare än inkluderingen i de index som följer dessa. Hon spår att tillväxtmarknader kommer att bli en allt tyngre spelare på globala kapitalmarknader framöver, och exemplifierar med att 61 procent av de börsintroduktioner som skedde på global basis 2017 gick av stapeln på tillväxtmarknader.
+
+Investeringsdirektören konstaterar att SKAGEN som aktiv förvaltare kan dra nytta av möjligheter i bolag som inte är inkluderade på indexnivå, särskilt då utbudet på tillväxtaktiemarknaderna växer snabbare än inkluderingen i de index som följer dessa. Hon spår att tillväxtmarknader kommer att bli en allt tyngre spelare på globala kapitalmarknader framöver, och exemplifierar med att 61 procent av de börsintroduktioner som skedde på global basis 2017 gick av stapeln på tillväxtmarknader.

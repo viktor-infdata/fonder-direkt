@@ -6,7 +6,7 @@ sponsored: true
 featured: false
 image: /img/manila-cropped.jpg
 tags:
-  - UB
+  - United Bankers
 ---
 STOCKHOLM (Fonder Direkt) Globala aktiemarknader har skakat de senaste månaderna, med ökad volatilitet och breda kursfall. Samtidigt har aktiefonden UB EM Frontier Real Assets, fokuserad på infrastruktur och fastigheter på tillväxt- och så kallade gränsmarknader (frontier markets), klarat sig desto bättre med en uppgång på 4,4 procent sedan den 1 oktober.
 

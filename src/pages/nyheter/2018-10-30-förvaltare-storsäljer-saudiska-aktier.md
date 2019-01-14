@@ -5,7 +5,7 @@ date: 2018-10-30T12:21:25.648Z
 sponsored: false
 featured: false
 tags:
-  - Kashoggi
+  - Khashoggi
 ---
 STOCKHOLM (Fonder Direkt) Fondförvaltare världen över har den senaste veckan sålt saudiska aktier för motsvarande 650 miljoner dollar, som en reaktion på det förmodade mordet på journalisten Jamal Khashoggi.
 

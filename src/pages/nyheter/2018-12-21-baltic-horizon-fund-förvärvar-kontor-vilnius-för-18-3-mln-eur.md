@@ -5,11 +5,12 @@ date: 2018-12-21T16:23:39.642Z
 sponsored: true
 featured: false
 tags:
-  - BalticHorizon
+  - Baltic Horizon
 ---
 STOCKHOLM (Fonder Direkt) Fastighetsfonden Baltic Horizon Fund har träffat överenskommelse med det finländska byggbolaget YIT om att förvärva kontorsbyggnaden Duetto II i Litauens huvudstad Vilnius. Köpeskillingen uppgår till cirka 18,3 miljoner euro, och motsvarar en så kallad entry yield på omkring 7,1 procent.
 
-Det skriver Baltic Horizon i ett pressmeddelande.
+
+Det skriver Baltic Horizon i ett pressmeddelande.
 
 Transaktionen förväntas vara genomförd vid början av mars 2019 när byggnationen är färdigställd och hyresgästerna har flyttat in. Fastighetens största hyresgäster blir Vilnius värmenätverksbolag, Sweco och Rimi Lietuva, enligt pressmeddelandet.
 

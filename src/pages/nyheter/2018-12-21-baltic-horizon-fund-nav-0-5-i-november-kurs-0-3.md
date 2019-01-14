@@ -5,11 +5,12 @@ date: 2018-12-21T15:14:30.686Z
 sponsored: true
 featured: false
 tags:
-  - BalticHorizon
+  - Baltic Horizon
 ---
 STOCKHOLM (Fonder Direkt) Den Stockholmsbörsnoterade fastighetsfonden Baltic Horizon sjönk 0,3 procent i november och avslutade månaden på kursen 13:46 kronor. Samtidigt steg fondens underliggande tillgångsvärden 0,5 procent till 1:375 euro, sett till NAV (net asset value). Sedan årsskiftet har fonden stigit 8,6 procent medan NAV har sjunkit 0,5 procent, per den 30 november.
 
-Fonden är REIT-liknande och minst 80 procent av Baltic Horizons kassaflöden ska delas ut till investerarna på kvartalsbasis.
+
+Fonden är REIT-liknande och minst 80 procent av Baltic Horizons kassaflöden ska delas ut till investerarna på kvartalsbasis.
 
 Under månaden har fonden återköpt 135.843 andelar till ett totalt värde om 177.639 euro, vilket ger en genomsnittskurs om 1:31 euro. Köpen har genomförts på Nasdaq Tallinn, där fonden är parallellnoterad. Inom ramen för det nuvarande återköpsprogrammet kan Baltic Horizon totalt komma att återköpa upp till fem miljoner andelar för ett belopp om upp till 5 miljoner euro fram till den 19 juni 2019. Köpen kan endast genomföras till ett pris som understiger fondens senaste NAV.
 

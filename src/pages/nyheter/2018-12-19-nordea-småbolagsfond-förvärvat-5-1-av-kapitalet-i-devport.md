@@ -5,7 +5,7 @@ date: 2018-12-19T08:30:55.090Z
 sponsored: false
 featured: false
 tags:
-  - Nordeafonder
+  - Nordea
   - Devport
 ---
 STOCKHOLM (Fonder Direkt) Nordea Småbolagsfond har förvärvat 500.000 aktier i First North-listade teknikkonsultbolaget Devport, vilket motsvarar 5,1 procent av kapitalet.

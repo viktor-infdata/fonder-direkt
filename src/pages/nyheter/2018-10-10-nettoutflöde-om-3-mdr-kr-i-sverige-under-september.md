@@ -5,7 +5,7 @@ date: 2018-10-10T09:10:58.036Z
 sponsored: false
 featured: false
 tags:
-  - Fondbolagens förening
+  - Fondbolagens Förening
 ---
 STOCKHOLM (Fonder Direkt) Avvaktande handel präglade den svenska fondmarknaden i september, då nettouttag skedde från aktiefonder, långa räntefonder och hedgefonder, samtidigt som korta räntefonder och blandfonder uppvisade nettoinsättningar.
 

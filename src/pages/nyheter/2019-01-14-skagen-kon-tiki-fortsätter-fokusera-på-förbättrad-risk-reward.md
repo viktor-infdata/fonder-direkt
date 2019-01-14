@@ -5,7 +5,7 @@ date: 2019-01-14T10:34:40.304Z
 sponsored: true
 featured: false
 tags:
-  - SKAGEN Fonder
+  - Skagen
 ---
 STOCKHOLM (Fonder Direkt) Tillväxtmarknadsåret 2018 går till historien som ett år då räntedriven dollarstyrka och handelskrig mellan USA och Kina satte tonen.
 
@@ -35,7 +35,8 @@ Vidare tappade Samsung Electronics mark, efter att vinsten nedreviderats på gru
 
 Brasilianska aktier nådde rekordnivåer under kvartalet och inte helt oväntat var vissa brasilianska innehav bland fondens bäst presterande, enligt rapporten. Ett exempel är banken Banrisul, som omgärdats av privatiseringsrykten. Fonden uppges ha reducerat sitt innehav i takt med en stark aktieutveckling.
 
-Även innehavet Cosan gick starkt, då bolaget gynnades av såväl ett positivt momentum i Brasilien som av en omstrukturering, enligt förvaltarna, som uttrycker sitt gillande kring att bolaget fortsätter att återköpa aktier på nedtryckta nivåer.
+
+Även innehavet Cosan gick starkt, då bolaget gynnades av såväl ett positivt momentum i Brasilien som av en omstrukturering, enligt förvaltarna, som uttrycker sitt gillande kring att bolaget fortsätter att återköpa aktier på nedtryckta nivåer.
 
 Makrofaktorer i Indien uppges ha förbättrats, då oljepriset och obligationsräntor fallit, samt en ny centralbankschef installerats som är något mer positivt inställd till att förbättra likviditeten. Vidare har regeringen incitament att öka utlåningen för att stödja tillväxt inför det kommande valet, enligt rapporten. Sett till innehav bör State Bank of India, som genomgått en uppstädning av sin balansräkning, enligt förvaltarna gynnas av detta. Vidare uppges UPL, global ledare inom jordbrukslösningar, vara väl positionerade för att dra nytta av Kinas ökade andel import från Brasilien.
 
@@ -43,15 +44,18 @@ Makrofaktorer i Indien uppges ha förbättrats, då oljepriset och obligationsr�
 
 Dessa fyra var Lundin Mining, Turquoise Hill, Wuliangye Yibin och Suzano.
 
-"Suzano tar genom samgåendet med konkurrenten Fibria klivet att bli världens främsta massatillverkare. Konkurrensen inom den brasilianska skogsindustrin medför lägre träkostnader, och vi tror att den senaste tidens press på massapriserna är tillfällig. Synergierna från samgåendet verkar vara underskattade, och vi köpte Suzano på nedtryckta nivåer till följd av vad vi tror är ett tillfälligt fall i kinesiska massapriser", skriver portföljduon.
+
+"Suzano tar genom samgåendet med konkurrenten Fibria klivet att bli världens främsta massatillverkare. Konkurrensen inom den brasilianska skogsindustrin medför lägre träkostnader, och vi tror att den senaste tidens press på massapriserna är tillfällig. Synergierna från samgåendet verkar vara underskattade, och vi köpte Suzano på nedtryckta nivåer till följd av vad vi tror är ett tillfälligt fall i kinesiska massapriser", skriver portföljduon.
 
 Innehavet i Anadolu Grubu avyttrades under kvartalet, då förvaltarna ser bättre möjligheter utanför Turkiet för tillfället.
 
 Cathrine Gether och Fredrik Bjelland ser flera anledningar till varför tillväxtmarknadsaktier bör ha bättre förutsättningar att stå emot negativa chocker i riskaptit jämfört med 2018. Externa finansieringsgap har stängts, räntor har stigit, valutorna är billigare och tillväxtmarknadsaktier fortsätter att vara en underviktad tillgångsklass, enligt förvaltarna.
 
-"Då utvecklade marknader trots liknande avkastning på kapital handlas till en premie på nära 30-50 procent mot tillväxtmarknader, sett till estimat för P/E- och P/B-multiplar 2019, ser risk/reward på tillväxtmarknader mer attraktivt ut för långsiktiga investerare", skriver de.
 
-I tillägg till att tillväxtmarknader generellt handlas till rabatt handlas SKAGEN Kon-Tikis portfölj till en rabatt på 23 procent mot MSCI:s tillväxtmarknadsindex, enligt rapporten. Det ger portföljen ett bra värdeerbjudande (value proposition), vilket är lovande i den nuvarande miljön där det äntligen finns tecken på att värdeaktier överpresterar igen, anser Cathrine Gether och Fredrik Bjelland.
+"Då utvecklade marknader trots liknande avkastning på kapital handlas till en premie på nära 30-50 procent mot tillväxtmarknader, sett till estimat för P/E- och P/B-multiplar 2019, ser risk/reward på tillväxtmarknader mer attraktivt ut för långsiktiga investerare", skriver de.
+
+
+I tillägg till att tillväxtmarknader generellt handlas till rabatt handlas SKAGEN Kon-Tikis portfölj till en rabatt på 23 procent mot MSCI:s tillväxtmarknadsindex, enligt rapporten. Det ger portföljen ett bra värdeerbjudande (value proposition), vilket är lovande i den nuvarande miljön där det äntligen finns tecken på att värdeaktier överpresterar igen, anser Cathrine Gether och Fredrik Bjelland.
 
 ![Fondens tio största innehav vid årsskiftet. Totalt finns 51 innehav i portföljen. (Källa: SKAGEN Fonder)](/img/skagen14jan2.png)
 

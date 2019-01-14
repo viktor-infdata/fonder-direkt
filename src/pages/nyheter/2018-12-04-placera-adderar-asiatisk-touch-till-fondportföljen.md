@@ -10,7 +10,6 @@ tags:
   - United Bankers
   - Jupiter
   - Handelsbanken
-  - Swedbank
   - Norron
   - Sensor
   - Carnegie
