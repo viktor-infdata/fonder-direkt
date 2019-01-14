@@ -9,8 +9,7 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) Under en stökig decembermånad gjorde aktiefonden Coeli Sverige ett antal förändringar i portföljen, som för tillfället är koncentrerad till 20 innehav.
 
-D
-et framgår av en månadskommentar från förvaltaren Mattias Eriksson.
+Det framgår av en månadskommentar från förvaltaren Mattias Eriksson.
 
 Fonden utvecklades 2,3 procentenheter sämre än index, en avvikelse förvaltaren förklarar med ett 40-procentigt ras för innehavet Hoist Finance.
 
