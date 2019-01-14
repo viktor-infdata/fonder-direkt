@@ -7,7 +7,7 @@ date: 2019-01-14T14:10:22.809Z
 sponsored: true
 featured: false
 tags:
-  - ODDO BHF
+  - ODDO
 ---
 STOCKHOLM (Fonder Direkt) Aktiemarknaderna fortsatte falla i december, då exempelvis Euro Stoxx 50-index tappade 5,3 procent. Inga sektorer klarade sig undan, men en skillnad mot tidigare månader var att polariseringen mellan defensiva och cykliska sektorer var något mindre tydlig.
 
