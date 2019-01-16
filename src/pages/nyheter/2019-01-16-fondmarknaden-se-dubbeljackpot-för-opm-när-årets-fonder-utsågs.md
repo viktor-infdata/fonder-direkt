@@ -4,7 +4,7 @@ title: 'Fondmarknaden.se: Dubbeljackpot för OPM när Årets Fonder utsågs'
 date: 2019-01-16T16:52:01.378Z
 sponsored: true
 featured: false
-image: /img/fondm-cropped.jpg
+image: /img/49938698_347671615839079_2883764943750955008_n-cropped.jpg
 tags:
   - Fondmarknaden.se
 ---
