@@ -38,28 +38,28 @@ Fonder Direkt fick möjligheten att ställa några frågor till Simon Reinius, a
 
 <span class="image-caption">Simon Reinius, ansvarig förvaltare OPM Global Quality Companies.</span>
 
-**Fonden får bland annat beröm för sitt integrerade hållbarhetsarbete. Vad innebär det här mer konkret?
-**
+**Fonden får bland annat beröm för sitt integrerade hållbarhetsarbete. Vad innebär det här mer konkret?**
+
 
 "Vi väljer bort ett antal sektorer där vi inte tror att man bör ha sina pengar placerade på lång sikt. Sedan försöker vi hitta bolag som är förebilder på hållbarhetsområdet. De bolag som är förebilder inom denna typ av frågor har ofta en överlag bättre företagskultur, vilket jag tror de gynnas av när de letar nya talanger. Det i sin tur är positivt för bolagets långsiktiga tillväxtmöjligheter", säger Simon Reinius, ansvarig förvaltare för fonden, till Fonder Direkt.
 
-**Hur lyckades ni skapa så god avkastning 2018, när många andra globalfonder visade minus?
-**
+**Hur lyckades ni skapa så god avkastning 2018, när många andra globalfonder visade minus?**
+
 
 "Vi har haft en överrepresentation av defensiva bolag inom konsumentvaror samt konjunkturokänsliga IT-bolag med god tillväxt. Dessa branscher gick ovanligt bra relativt sett, men utöver det så var det många av våra aktieval även inom sektorerna som gick starkt. Vår urvalsprocess fungerade helt enkelt väl under året", säger Simon Reinius.
 
-**Hur hanterade ni börsoron under årets avslutning?
-**
+**Hur hanterade ni börsoron under årets avslutning?**
+
 
 "Vi ökade i konjunkturkänsliga bolag efter nedgången i december. Vi sålde bland annat Coca Cola som vi tyckte hade blivit för dyrt och köpte istället SKF. Man kan säga att vi gick emot marknaden och ökade risken", säger Simon Reinius.
 
-**Kan du kort sammanfatta fondens förvaltningsstil?
-**
+**Kan du kort sammanfatta fondens förvaltningsstil?**
+
 
 "Fonden förvaltas strikt fundamentalt där vi letar efter världsledande bolag med en viss omsättningstillväxt, en viss nivå av fritt kassaflöde och så vidare. Angreppssättet är egentligen: vad tror vi att vi kommer få för avkastning från det här bolaget om vi köper det till dagens värdering och äger det i 20 år?", säger Simon Reinius.
 
-**"_Ingen kommer undan hållbart - Mats Andersson_"
-**
+**"_Ingen kommer undan hållbart - Mats Andersson_"**
+
 
 Under evenemanget talade Mats Andersson, tidigare vd för AP-4 och nu specialiserad på hållbara investeringar, om den belagda kopplingen mellan hållbarhet och avkastning. Han poängterade att hållbarhet varken handlar om välgörenhet eller att ge upp avkastning, och att utvecklingen drivs på många fronter.
 
