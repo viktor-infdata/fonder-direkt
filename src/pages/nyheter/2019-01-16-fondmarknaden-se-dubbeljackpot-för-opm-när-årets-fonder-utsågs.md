@@ -54,7 +54,7 @@ Fonder Direkt fick möjligheten att ställa några frågor till Simon Reinius, a
 
 "Fonden förvaltas strikt fundamentalt där vi letar efter världsledande bolag med en viss omsättningstillväxt, en viss nivå av fritt kassaflöde och så vidare. Angreppssättet är egentligen: vad tror vi att vi kommer få för avkastning från det här bolaget om vi köper det till dagens värdering och äger det i 20 år?", säger Simon Reinius.
 
-**_"Ingen kommer undan hållbart - Mats Andersson"_**
+**"Ingen kommer undan hållbart - Mats Andersson"**
 
 Under evenemanget talade Mats Andersson, tidigare vd för AP-4 och nu specialiserad på hållbara investeringar, om den belagda kopplingen mellan hållbarhet och avkastning. Han poängterade att hållbarhet varken handlar om välgörenhet eller att ge upp avkastning, och att utvecklingen drivs på många fronter.
 
