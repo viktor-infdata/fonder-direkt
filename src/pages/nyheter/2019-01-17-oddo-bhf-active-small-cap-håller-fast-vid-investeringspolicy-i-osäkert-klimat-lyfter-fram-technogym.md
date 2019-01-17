@@ -27,11 +27,7 @@ Jmf-index  -6,2        -15,9
 
 Bland de aktier som utgör över 1 procent av portföljen steg det tyska halvledarbolaget PVA Tepla och det franska dataspelsbolaget Focus Home Interactive mer än 5 procent i december. Samtidigt kom de största nedgångarna bland portföljbolagen från de två tyska IT-tjänstebolagen Cancom och S&T samt det belgiska halvledarbolaget X-Fab.
 
-
-
 Förvaltarna ger i rapporten sin syn på det italienska innehavet Technogym, som uppges vara världens näst största tillverkare av gymutrustning. Marknaden bolaget verkar på har understöd från åtskilliga strukturella tillväxtfaktorer såsom ökat fokus på välbefinnande, skriver förvaltarna. Portföljteamet tror att Technogym framöver kommer att överprestera konkurrenterna tack vare sin starka marknadsposition, sina innovationer inom till exempel digitala kanaler samt genom ny marknadspenetration. Ett nyligen aviserat partnerskap med en välkänd träningsaktör ("fitness club") i USA ska integrera dess träningsprogram och på så vis stödja försäljning till privatpersoner, uppger förvaltarna.
-
-
 
 "Trots att dess marginaler redan är betydligt bättre än konkurrenternas finns det fortfarande stora möjligheter att växa koncernens lönsamhet, särskilt genom att förbättra produktmixen och förstärka produktiviteten", skriver Guillaume Chieusse, Maxime Prodhomme och Augier De Lajallet.
 
