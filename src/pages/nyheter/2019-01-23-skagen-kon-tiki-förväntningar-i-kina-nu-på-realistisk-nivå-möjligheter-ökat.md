@@ -39,7 +39,7 @@ En iakttagelse Fredrik Bjelland gjorde under ett Kinabesök nu i januari är inh
 
 
 
-_**Elbilar på frammarsch**_
+_**Elbilar på frammarsch**_
 
 
 
@@ -51,7 +51,7 @@ Sett till SKAGEN Kon-Tikis portfölj väntar sig förvaltarteamet att de koreans
 
 
 
-_**Imponerande fintech-portfölj inom hälso- och sjukvård**_
+_**Imponerande fintech-portfölj inom hälso- och sjukvård**_
 
 
 
