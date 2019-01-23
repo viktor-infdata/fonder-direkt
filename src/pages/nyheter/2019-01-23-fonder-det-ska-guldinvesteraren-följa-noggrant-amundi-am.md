@@ -34,7 +34,6 @@ Amundi uppges inte ha någon bestämd åsikt om vad guldpriset slutar på 2019, 
 _**Kryptovalutor inte det nya guldet**_
 
 
-
 När kryptovalutor såsom Bitcoin nådde rekordprisnivåer mot slutet av 2017 uppstod en diskussion om det fanns en risk (ur guldinvesterares perspektiv) att dessa nya digitala valutor på allvar skulle börja konkurrera med guld som en "säker hamn-investering". Den teorin ger inte Karine Gauthier mycket för, särskilt inte efter den kollaps som följde på kryptovalutarusningarna.
 
 
