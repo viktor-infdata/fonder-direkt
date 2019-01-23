@@ -19,8 +19,6 @@ STOCKHOLM (Fonder Direkt) Ett antal aktier där exempelvis balansräkningarna up
 
 _**Jobbig inledning på 2018, sedan alltmer intressant**_
 
-
-
 Inledningen av året var särskilt tuff, då riskaptiten var hög understött av den amerikanska skattereformen. Vad året led blev läget bättre, och i den senare delen av 2018 blev saker verkligen intressanta och spännande, menar James Clunie.
 
 
