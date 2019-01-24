@@ -8,6 +8,7 @@ sponsored: true
 featured: true
 tags:
   - Danske Invest
+  - ESG
 ---
 Här delar Danske Invests Sverigeförvaltare Mattias Cullin med sig av vad han vill se i bolag hans aktiefond investerar i, och vad fonden håller sig borta från. 
 
