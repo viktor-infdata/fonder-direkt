@@ -2,6 +2,7 @@
 templateKey: video-post
 program: Fonder Direkt
 videoId: UI2IO2GNPnE
+soundCloudId: '563923953'
 title: 'Mattias Cullin, Danske Invest, om att fylla portföljen med tråkiga bolag'
 date: 2019-01-23T14:16:33.387Z
 sponsored: true
