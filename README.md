@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- Node (I recommend using v8.2.0 or higher)
+- Node (I recommend using v10.15.0 or higher)
 - [Gatsby CLI](https://www.gatsbyjs.org/docs/)
 
 ## Getting Started (Recommended)
@@ -14,7 +14,7 @@
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ yarn
-$ gatsby develop
+$ npm run clean && gatsby develop
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```
