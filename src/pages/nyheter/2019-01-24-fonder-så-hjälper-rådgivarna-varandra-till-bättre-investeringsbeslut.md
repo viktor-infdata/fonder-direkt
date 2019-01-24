@@ -54,4 +54,4 @@ Allianz Europe Equity Growth                       12
 GAM Star Credit Opportunities (EUR)                10   
 ```
 
-SharingAlpha har 11.688 användare från 71 länder, som är identifierade som professionella fondinvesterare, enligt hemsidan. Vem som helst kan i praktiken registerara sig på sidan och betygsätta fonder, men det är bara användare som kunnat styrka en professionell fondinvesterarroll som påverkar fondernas betyg med sina röster.
+SharingAlpha har 11.688 användare från 71 länder, som är identifierade som professionella fondinvesterare, enligt hemsidan. Vem som helst kan i praktiken registrera sig på sidan och betygsätta fonder, men det är bara användare som kunnat styrka en professionell fondinvesterarroll som påverkar fondernas betyg med sina röster.
