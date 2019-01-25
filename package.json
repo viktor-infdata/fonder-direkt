@@ -6,7 +6,7 @@
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^2.2.1",
     "bulma": "^0.7.2",
-    "gatsby": "^2.0.95",
+    "gatsby": "^2.0.97",
     "gatsby-cli": "^2.4.8",
     "gatsby-image": "^2.0.27",
     "gatsby-plugin-catch-links": "^2.0.9",
