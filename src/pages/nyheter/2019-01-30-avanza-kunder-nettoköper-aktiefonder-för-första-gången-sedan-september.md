@@ -25,6 +25,7 @@ Europafonder är mest sålda i januari och sparekonomen konstaterar här att sva
 
 Mest köpta respektive sålda fonder hos Avanza i januari:
 ```
+KÖPTA                                   SÅLDA
 Företagsobligationsfonder               Europafonder           
 Globalfonder                            Läkemedelsfonder       
 Fastighetsfonder                        Hedgefonder            
