@@ -4,6 +4,7 @@ title: 'Fonder: "Australiens ekonomi kraschar, lett av bostadsmarknaden" - förv
 date: 2019-01-31T10:10:39.395Z
 sponsored: true
 featured: false
+image: /img/jupiter31jan-3-cropped.jpg
 tags:
   - Jupiter AM
 ---
