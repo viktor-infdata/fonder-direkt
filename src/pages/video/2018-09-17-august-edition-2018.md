@@ -5,6 +5,7 @@ videoId: LQRDwcFziJs
 title: August Edition 2018
 date: '2018-09-17T16:39:00+02:00'
 sponsored: false
+featured: false
 tags:
   - Monthly Roundup
   - Avanza
