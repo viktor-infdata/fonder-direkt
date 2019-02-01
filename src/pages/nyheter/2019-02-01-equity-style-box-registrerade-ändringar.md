@@ -1,28 +1,28 @@
 ---
 templateKey: blog-post
 title: 'Equity Style Box: Registrerade ändringar'
-date: 2019-02-01T08:42:20.202Z
+date: 2019-02-01T08:43:50.818Z
 sponsored: false
 featured: false
 tags:
-  - Morningstar
+  - Morninstar
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
-
 ```
 Fond                              Tidigare         Ny          
-JPM US Select Equity Plus         Large growth     Large blend 
-UB EM Infra                       Large value      Large blend 
-DNB Fund - Private Equity retail  Mid blend        Mid value   
-Janus Henderson Hrzn European Gr  Mid blend        Large blend 
-Arctic Norwegian Equities         Mid growth       Mid blend   
-Allianz Merger Arbitrage Strat    Mid blend        Mid growth  
-Parvest Equity Turkey             Small blend      Small growth
-Schroder ISF Flexible Ret         Large blend      Large value 
-Wells Fargo (Lux) WF US SmCpVal   Small blend      Small value 
-Nikko AM Emer Mkts Mlt Asst       Large growth     Large blend 
-Oyster Japan Opportunities        Large blend      Mid blend   
-RobecoSAM Smart Materials         Mid growth       Mid blend  
+Didner & Gerge Aktiefond          Mid blend        Large blend 
+AXA Rosenberg US Sm Cp Alpha      Small value      Small blend 
+UB Asia REIT Plus                 Mid blend        Large blend 
+Harris Associates Conc US Eq      Large growth     Large blend 
+Swedbank Robur Ny Teknik          Small growth     Mid growth  
+LO Funds World Gold Expts         Small growth     Small blend 
+OSTRUM Emerging Europe Equity     Mid value        Mid blend   
+Allianz Best Styles Euroland Eq   Large blend      Large value 
+Vaughan Nelson US Select Eq       Large growth     Large blend 
+Arctic Nordic Equities            Mid growth       Mid blend   
+Janus Henderson Hrzn Japan Opps   Large blend      Large growth
+Parvest Aqua                      Mid growth       Mid blend   
+Schroder ISF US Large Cap         Large growth     Large blend 
 ```
 Det framgår av en uppdatering i Morningstars databas.
 
