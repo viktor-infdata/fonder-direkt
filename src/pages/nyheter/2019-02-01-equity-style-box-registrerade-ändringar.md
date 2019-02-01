@@ -5,7 +5,7 @@ date: 2019-02-01T08:43:50.818Z
 sponsored: false
 featured: false
 tags:
-  - Morninstar
+  - Morningstar
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
 ```
