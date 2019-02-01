@@ -59,6 +59,9 @@ class Navbar extends Component {
                 <Link getProps={isPartiallyActive}  to="/video">
                   VIDEO
                 </Link>
+                <Link getProps={isPartiallyActive}  to="/utbildning">
+                  UTBILDNING
+                </Link>
                 <Link getProps={isPartiallyActive}  to="/taggar">
                   TAGGAR
                 </Link>

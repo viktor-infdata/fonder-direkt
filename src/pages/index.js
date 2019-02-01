@@ -94,6 +94,9 @@ class IndexPage extends React.Component {
                           {featuredPost.frontmatter.sponsored === true &&
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
+                          {featuredPost.frontmatter.templateKey === "education-post" &&
+                            <span className="has-text-grey"> &bull; <small className="has-text-grey">UTBILDNING</small></span>
+                          }
                         </h5>
                         <h1 className="is-size-5 mt-1 mb-2">
                           <Link to={featuredPost.fields.slug}>
@@ -105,7 +108,15 @@ class IndexPage extends React.Component {
                     </div>
                     <footer className="card-footer">
                       <Link className="card-footer-item button is-dark is-fullwidth is-feature-button" to={featuredPost.fields.slug}>
-                        Gå till {featuredPost.frontmatter.videoId != null  ? 'videon' : 'nyheten'}
+                        {featuredPost.frontmatter.templateKey === "blog-post" &&
+                          <React.Fragment>Gå till nyheten</React.Fragment>
+                        }
+                        {featuredPost.frontmatter.templateKey === "video-post" &&
+                          <React.Fragment>Gå till videon</React.Fragment>
+                        }
+                        {featuredPost.frontmatter.templateKey === "education-post" &&
+                          <React.Fragment>Gå till utbildning</React.Fragment>
+                        }
                       </Link>
                     </footer>
                   </div>
@@ -135,6 +146,9 @@ class IndexPage extends React.Component {
                           <small className="has-text-grey"><time dateTime={node.frontmatter.date}>{node.frontmatter.date}</time></small>
                           {node.frontmatter.sponsored === true &&
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
+                          }
+                          {node.frontmatter.templateKey === "education-post" &&
+                            <span className="has-text-grey"> &bull; <small className="has-text-grey">UTBILDNING</small></span>
                           }
                         </h1>
                         {node.frontmatter.videoId != null &&
@@ -185,7 +199,7 @@ export const pageQuery = graphql`
     indexPosts:allMarkdownRemark(
       limit: 1000,
       sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: {regex: "/blog-post|video-post/"}}}
+      filter: { frontmatter: { templateKey: {regex: "/blog-post|video-post|education-post/"}}}
     ) {
       edges {
         node {

@@ -16,7 +16,6 @@ export const VideoPostTemplate = ({
   date,
   helmet,
   program,
-  sponsored,
   videoId,
   soundCloudId,
   shareUrl,
@@ -39,9 +38,6 @@ export const VideoPostTemplate = ({
             <div className="column is-8">
               <h5 className="is-size-6 mb-2 has-text-grey">
                 <time dateTime={date}>{date}</time>
-                {sponsored === true &&
-                  <span> &bull; UPPDRAGSARTIKEL</span>
-                }
               </h5>
                 <h1 className="title is-size-3 mt-0">
                 {title}
@@ -55,7 +51,7 @@ export const VideoPostTemplate = ({
                   </React.Fragment>
                 }
                 <hr />
-                <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
+                <p><strong>Uppdragsvideo: Filmas och produceras av Fonder Direkt TV, en fristående del av Nyhetsbyrån Direkt AB.</strong></p>
                 <hr />
                 {tags && tags.length ? (
                 <div>
@@ -99,7 +95,6 @@ VideoPostTemplate.propTypes = {
   videoId: PropTypes.string,
   soundCloudId: PropTypes.string,
   Program:  PropTypes.string,
-  sponsored: PropTypes.bool,
 }
 
 const VideoPost = ({ data }) => {
@@ -127,7 +122,6 @@ const VideoPost = ({ data }) => {
         videoId={post.frontmatter.videoId}
         soundCloudId={post.frontmatter.soundCloudId}
         program={post.frontmatter.program}
-        sponsored={post.frontmatter.sponsored}
         shareUrl={`https://fonderdirekt.se${post.fields.slug}`}
       />
     </Layout>
@@ -158,7 +152,6 @@ export const pageQuery = graphql`
         program
         videoId
         soundCloudId
-        sponsored
       }
     }
   }

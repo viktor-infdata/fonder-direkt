@@ -431,6 +431,7 @@ $footer-background-color: $grey-lighter;
 .footer {
   font-weight: $weight-normal;
   border-top: 1px solid $grey-light;
+  z-index: 1;
   a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:hover, .navbar-link.is-active {
     background-color: transparent;
   }
@@ -1237,6 +1238,7 @@ $svg-share-width: 20px;
   width: 36px;
   height: 36px;
   transition: all 0.3s ease;
+  z-index: 2;
   svg {
     fill: $white-bis;
     transition: all 0.3s ease;
