@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Templeton Global Advisors: Sålt 2,9 mln aktier i Getinge'
-date: 2019-02-04T10:30:35.589Z
+date: 2019-02-04T10:42:32.660Z
 sponsored: false
 featured: false
 tags:
