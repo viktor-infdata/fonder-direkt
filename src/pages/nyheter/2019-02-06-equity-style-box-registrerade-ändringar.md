@@ -1,28 +1,28 @@
 ---
 templateKey: blog-post
 title: 'Equity Style Box: Registrerade ändringar'
-date: 2019-02-06T13:08:19.594Z
+date: 2019-02-06T13:29:42.389Z
 sponsored: false
 featured: false
 tags:
   - Morningstar
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
-
 ```
 Fond                               Tidigare        Ny          
-Old Mutual Eurp Best Ideas         Large growth    Mid growth  
-Fisher Invts Instl Emerg Mkts Eq   Large blend     Large growth
-Danske Invest Sverige              Mid growth      Mid blend   
-Magna Emerging Markets Div         Large value     Large blend 
-Swedbank Robur Nordenfond          Large growth    Mid growth  
-Peab-fonden                        Mid growth      Mid blend   
-IKC - Lux 0 - 100 IC               Mid growth      Large growth
-ODIN Energi                        Large value     Large blend 
-Öhman Systematic Cross Asset       Large growth    Large blend 
-New Capital All Weather            Large growth    Mid growth  
-Swedbank Robur Europafond          Large blend     Large growth
-Länsförsäkringar Tillväxtmkt Aktiv Large blend     Large growth
+Merian UK Alpha (IRL) F            Large value     Large blend 
+New Capital Swiss Sel Eq           Mid blend       Mid growth  
+Länsförsäkringar Bekväm Defensiv   Large blend     Large growth
+Aktiespararna Direktavkastning     Large blend     Large value 
+Fisher Invts Instl Asia ex-Jap Eq  Large blend     Large growth
+Swedbank Robur Rysslandsfond       Large value     Large blend 
+Nordic Cross Stable Return         Mid growth      Small growth
+Seligson & Co Phoenix              Small value     Mid value   
+Swedbank Robur Råvarufond          Large value     Large blend 
+Swedbank Robur Sverigefond         Mid growth      Mid blend   
+Swedbank Robur Östeuropafond       Large value     Mid blend   
+BL-Fund Selection Equities         Large blend     Large growth
+BL-Fund Selection 50-100           Large blend     Large growth
 ```
 Det framgår av en uppdatering i Morningstars databas.
 
