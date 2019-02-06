@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Rhenman Healthcare Eq L/S: Prioriterar långsiktig värdetillväxt'
+title: 'Rhenman Healthcare Equity L/S: Prioriterar långsiktig värdetillväxt'
 date: 2019-02-06T14:19:25.795Z
 sponsored: true
 featured: false
