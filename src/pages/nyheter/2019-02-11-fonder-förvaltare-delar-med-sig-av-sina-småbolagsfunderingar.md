@@ -23,7 +23,7 @@ STOCKHOLM (Fonder Direkt) Det nya börsåret har startat i ett högt tempo, med 
 
 "Det är nog en kombination. Det finns vissa områden där nedgången är uppenbar och ett faktum, såsom i bilrelaterade verksamheter. Generellt är denna sektor ofta en tidig cyklisk indikator, så i det ljuset är det förståeligt att bolag i andra cykliska sektorer har en återhållsam ton. I viss mån kan det nog handla om garderingar och att man vill ta höjd för att orderaktiviteten bromsar in och att försäljningsprocesser tar längre tid, även om det inte syns i siffrorna i dag", säger Petter Löfqvist.
 
-**_Fastigheter fortfarande ett bra val_**
+**_Fastigheter fortfarande ett bra val_**
 
 
 
@@ -35,7 +35,7 @@ Vad gäller fastighetssektorn konstaterar förvaltaren att fastighetsbolagen for
 
 
 
-**_En välskött raket som kom ned på jorden_**
+**_En välskött raket som kom ned på jorden_**
 
 
 
@@ -55,7 +55,7 @@ Aktien påbörjade 2017 en raketfärd, då den steg från 260 till som högst dr
 
 Förvaltaren menar att det kan vara knepigt att komma fram till hur bolaget bör prissättas, och presenterar en summan av delarna-värdering. I den ger han Medical "med sin fina och lite mindre cykliska tillväxt" en något högre värdering, medan den industriella delen samt den del av Integrated som består av telekom, får en lägre värdering. Räknar man bort detta från marknadsvärdet återstår ungefär 2-3 miljarder kronor, vilket enligt Petter Löfqvist är vad marknaden i dag verkar värdera Heating Products till. Sett till vad affärsområdet väntas omsätta ges då en värdering på omkring 1 gånger försäljningen, menar förvaltaren, som konstaterar att det inte är högt med tanke på att e-cigaretter enligt otaliga marknadsrapporter pekas ut som en tillväxtmarknad.
 
-**_E-cigaretter ESG-kompatibla?_**
+**_E-cigaretter ESG-kompatibla?_**
 
 
 
@@ -75,7 +75,7 @@ Avslutningsvis pekar han på att Nolato med sitt globala "footprint" bör vara r
 
 
 
-**_Defensivt laggar årets börsuppgång_**
+**_Defensivt laggar årets börsuppgång_**
 
 
 
@@ -91,7 +91,7 @@ Just Attendo drog dessutom på sig rubriker häromveckan i form av uppdagade pro
 
 
 
-**_Synd att Ahlsell köps ut från börsen_**
+**_Synd att Ahlsell köps ut från börsen_**
 
 
 
@@ -99,7 +99,7 @@ Fonden ägde tidigare aktier i industridistributören Ahlsell, som dock såldes 
 
 
 
-**_En break up-story att se fram emot_**
+**_En break up-story att se fram emot_**
 
 
 
