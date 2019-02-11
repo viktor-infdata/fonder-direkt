@@ -21,7 +21,7 @@ Fem innehav steg med över 14 procent under januari, Essity (15,0 procent), Elek
 
 
 
-**_Stark start för verkstadsbolag_**
+**_Stark start för verkstadsbolag_**
 
 
 
@@ -41,7 +41,7 @@ Sett till portföljtransaktioner uppges fonden ha tagit in verkstadsbolaget Sand
 
 
 
-**_Fortsatt positiva till eftersläntrare_**
+**_Fortsatt positiva till eftersläntrare_**
 
 
 
@@ -57,7 +57,7 @@ Järnvägsunderhållaren NRC Group tappade 6,1 procent i januari, men de långsi
 
 
 
-**_Ingen logik bakom månadens börsuppgång_**
+**_Ingen logik bakom månadens börsuppgång_**
 
 
 
