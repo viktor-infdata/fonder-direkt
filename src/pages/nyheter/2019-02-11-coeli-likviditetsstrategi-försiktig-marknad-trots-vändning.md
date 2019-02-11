@@ -29,7 +29,7 @@ Det har gått bra för både aktie- och kreditmarknaderna i januari efter ett tu
 
 
 
-**_Brexitförhandlingar fortgår_**
+**_Brexitförhandlingar fortgår_**
 
 
 
@@ -37,7 +37,7 @@ Brexitdiskussionerna har fortsatt och det brittiska parlamentet röstade nej til
 
 
 
-**_Svensk regeringsbildning gett begränsad marknadspåverkan_**
+**_Svensk regeringsbildning gett begränsad marknadspåverkan_**
 
 
 
