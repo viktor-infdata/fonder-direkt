@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Equity Style Box: Registrerade ändringar'
-date: 2019-02-12T16:22:52.229Z
+date: 2019-02-12T16:30:53.514Z
 sponsored: false
 featured: false
 tags:
@@ -11,16 +11,16 @@ STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Styl
 
 ```
 Fond                               Tidigare        Ny          
-Templeton Global High Yield        Small value     Small growth
-Fidelity Asian High Yield          Small growth    Small value 
-AMF Aktiefond Europa               Large blend     Large value 
-MainFirst Top European Ideas       Mid blend       Mid value   
-Pictet-Russian Equities            Large value     Large blend 
-Franklin Natural Resources         Large value     Large blend 
-GAM Star US All Cap Equity         Large blend     Large growth
-Carmignac Pf Capital Plus          Large blend     Large growth
-Schroder ISF Strategic Bt          Small blend     Large blend 
-GS Global Equity Income Base       Large growth    Large blend 
+Pictet-Small Cap Europe            Small growth    Mid growth  
+SKAGEN Kon-Tiki                    Large value     Large blend 
+Franklin Global Real Estate        Mid blend       Large blend 
+Pictet-Water                       Mid growth      Mid blend   
+Franklin Brazil Opps               Large blend     Large growth
+SKAGEN Vekst                       Large value     Large blend 
+Templeton Eastern Europe           Mid value       Mid blend   
+Capital Group Global Gr & Inc      Large blend     Large growth
+MainFirst Germany                  Small value     Small blend 
+
 ```
 Det framgår av en uppdatering i Morningstars databas.
 
