@@ -15,7 +15,7 @@ För den som gillar att resa utomlands är detta dåliga nyheter, medan den som 
 
 Globala aktiefonder har ofta omkring hälften av kapitalet placerat i USA, och eftersom de amerikanska börserna (trots dollarstyrkan) stigit kraftigt sedan årsskiftet är många globalfonder upp 15 och i vissa fall 20 procent sedan årsskiftet.
 
-**_Stark dollar hämmar amerikanska vinster_**
+**Stark dollar hämmar amerikanska vinster**
 
 En stark dollar ses överlag som negativt för amerikanska aktier, eftersom bortåt hälften av företagsvinsterna inom storbolagsindexet S&P 500 kommer från utlandet, och när exempelvis Coca-Cola ska växla över sina vinster i Sverige till dollar i sina räkenskaper blir det mindre kvar om dollarn stigit mot kronan. En stark dollar gör det också dyrare för andra länder att köpa in amerikanska varor, vilket gör dessa mindre attraktiva kontra varor från andra länder.
 
@@ -27,22 +27,12 @@ Dollarns utveckling relativt den svenska kronan har emellertid begränsad påver
 
 Frågan en svensk sparare kan ställa sig i detta läge är om det, trots valutautvecklingen, fortfarande är intressant att investera i exempelvis globalfonder eller amerikanska aktier.
 
-
-
 Sachin Gupta, medförvaltare för kapitalförvaltaren Pimcos International Bond Fund, med en fondförmögenhet på drygt 10 miljarder dollar, är kluvet inställd till dollarn för tillfället. Trots att Pimcos värderingsmodeller säger att valutan är övervärderad, menar Sachin Gupta att dollarns status som trygg hamn ändå kan innebära mer styrka framöver, varför fondens dollarexponering i nuläget hålls neutral, rapporterar Bloomberg.
-
-
 
 "Svagheten i ekonomier utanför USA förefaller mer problematisk, och möjligen mer trolig att bestå, än de senaste tecknen på en avkylning av den amerikanska tillväxten", säger Sachin Gupta.
 
-
-
-**_Handelsförhandlingar leder vägen framåt_**
-
-
+**Handelsförhandlingar leder vägen framåt**
 
 Vad som händer i handelsförhandlingarna mellan USA och Kina blir enligt förvaltaren avgörande för dollarns utveckling de kommande månaderna. En vapenvila, innebärandes till exempel att USA skjuter på tullåtgärder medan de bägge länderna fortsätter förhandla, skulle stärka risksentimentet och troligen leda till en försvagning för dollarn, enligt Sachin Gupta.
-
-
 
 "Om det däremot ser ut som att det inte blir något avtal och vi återvänder till möjligheten av vidare eskalering, vore det dåligt för global tillväxt, och dollarns rally skulle kunna fortsätta", säger Sachin Gupta.
