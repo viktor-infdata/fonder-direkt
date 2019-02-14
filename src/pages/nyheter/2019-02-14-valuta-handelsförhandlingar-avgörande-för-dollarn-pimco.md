@@ -4,6 +4,7 @@ title: 'Valuta: "Handelsförhandlingar avgörande för dollarn" - Pimco'
 date: 2019-02-14T16:58:10.177Z
 sponsored: false
 featured: false
+image: /img/dollar-cropped.jpg
 tags:
   - Dollar
   - Pimco
