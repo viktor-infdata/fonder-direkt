@@ -16,7 +16,7 @@ Fonder Direkt har träffat Aki Kostiander, som förvaltar fonden UB Nordamerika 
 
 <span class="image-caption">Aki Kostiander. (Källa: United Bankers AM)</span>
 
-**Har REIT:s blivit mer attraktiva nu när centralbanker världen över bromsar med sina räntehöjningar?**
+**Har REIT:s blivit mer attraktiva nu när centralbanker världen över bromsar med sina räntehöjningar?**
 
 
 
@@ -32,7 +32,7 @@ Fonder Direkt har träffat Aki Kostiander, som förvaltar fonden UB Nordamerika 
 
 
 
-**Det borde i så fall i praktiken innebära att ni tar in bolag av sämre kvalitet och med möjligen högre finansiell risk? Är det värt att exempelvis byta ut en stabil REIT med 4,5 procent direktavkastning, mot en med lägre kvalitet men som ger 7 procent?**
+**Det borde i så fall i praktiken innebära att ni tar in bolag av sämre kvalitet och med möjligen högre finansiell risk? Är det värt att exempelvis byta ut en stabil REIT med 4,5 procent direktavkastning, mot en med lägre kvalitet men som ger 7 procent?**
 
 
 
@@ -40,7 +40,7 @@ Fonder Direkt har träffat Aki Kostiander, som förvaltar fonden UB Nordamerika 
 
 
 
-**Kassaflödestillväxten i portföljen var per årsskiftet negativ, -5,25 procent enligt data från Morningstar. Är det hållbart på sikt, hur ser du på det här?**
+**Kassaflödestillväxten i portföljen var per årsskiftet negativ, -5,25 procent enligt data från Morningstar. Är det hållbart på sikt, hur ser du på det här?**
 
 
 
@@ -48,7 +48,7 @@ Fonder Direkt har träffat Aki Kostiander, som förvaltar fonden UB Nordamerika 
 
 
 
-**Hur väljer fonden ut vilka innehav som ska finnas i portföljen? Vilka är de viktigaste kriterierna?**
+**Hur väljer fonden ut vilka innehav som ska finnas i portföljen? Vilka är de viktigaste kriterierna?**
 
 
 
@@ -58,7 +58,7 @@ Fonder Direkt har träffat Aki Kostiander, som förvaltar fonden UB Nordamerika 
 
 <span class="image-caption">Fondens utveckling det senaste året. (Källa: Infront)</span>
 
-**Fonden hade 80 innehav per den 31 januari. Hur kan ni hålla reda på alla?**
+**Fonden hade 80 innehav per den 31 januari. Hur kan ni hålla reda på alla?**
 
 
 
@@ -66,7 +66,7 @@ Det här är inte ett problem, då vår process är kvantitativ. Vi har en globa
 
 
 
-**Hur hanterar ni situationer då direktavkastningen för enskilda innehav blir väldigt hög, till exempel 10 procent? Fördjupar ni er i bolaget då och försöker bedöma sannolikheten för att utdelningen inte ska behöva sänkas? En så pass hög direktavkastning indikerar i regel att marknaden anser att något är fel.**
+**Hur hanterar ni situationer då direktavkastningen för enskilda innehav blir väldigt hög, till exempel 10 procent? Fördjupar ni er i bolaget då och försöker bedöma sannolikheten för att utdelningen inte ska behöva sänkas? En så pass hög direktavkastning indikerar i regel att marknaden anser att något är fel.**
 
 
 
@@ -74,7 +74,7 @@ Det här är inte ett problem, då vår process är kvantitativ. Vi har en globa
 
 
 
-**Du argumenterade i förra månaden för att Fed bör höja räntan för att hantera den starka amerikanska arbetsmarknaden. Är det fortfarande din ståndpunkt, efter att centralbanken kommunicerat att tålamod krävs?**
+**Du argumenterade i förra månaden för att Fed bör höja räntan för att hantera den starka amerikanska arbetsmarknaden. Är det fortfarande din ståndpunkt, efter att centralbanken kommunicerat att tålamod krävs?**
 
 
 
@@ -82,7 +82,7 @@ Det här är inte ett problem, då vår process är kvantitativ. Vi har en globa
 
 
 
-**Har ni någon favorit-REIT i fonden där ni har särskilt stor övertygelse inför framtiden?**
+**Har ni någon favorit-REIT i fonden där ni har särskilt stor övertygelse inför framtiden?**
 
 
 
@@ -90,7 +90,7 @@ Det här är inte ett problem, då vår process är kvantitativ. Vi har en globa
 
 
 
-**Finns det någon REIT-sektorsom ni är lite bekymrade kring och kanske extra vaksamma över?**
+**Finns det någon REIT-sektorsom ni är lite bekymrade kring och kanske extra vaksamma över?**
 
 
 
