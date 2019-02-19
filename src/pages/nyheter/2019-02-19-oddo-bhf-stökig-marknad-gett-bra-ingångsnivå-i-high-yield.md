@@ -20,7 +20,7 @@ Sedan årsskiftet har en bred återhämtning skett på kreditmarknaderna och spr
 
 
 
-**_Bond picking med makrohänsyn_**
+**_Bond picking med makrohänsyn_**
 
 
 
@@ -52,7 +52,7 @@ ODDO BHF AM SAS, med ett kreditanalytikerteam på fler än 15 personer, ser sig 
 
 
 
-**_Ingen stress för ECB att höja räntan_**
+**_Ingen stress för ECB att höja räntan_**
 
 
 
@@ -68,7 +68,7 @@ ODDO BHF AM SAS är av uppfattningen att centralbanken inte ska bidra till att b
 
 
 
-**_Risk i target date-fond minskar med tiden_**
+**_Risk i target date-fond minskar med tiden_**
 
 
 
