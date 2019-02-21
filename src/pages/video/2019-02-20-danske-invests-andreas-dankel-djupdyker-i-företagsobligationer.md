@@ -2,6 +2,7 @@
 templateKey: video-post
 program: Fonder Direkt
 videoId: aVLWGeXpTto
+soundCloudId: '578984394'
 title: Danske Invests Andreas Dankel djupdyker i företagsobligationer
 date: 2019-02-20T09:00:43.824Z
 sponsored: true
