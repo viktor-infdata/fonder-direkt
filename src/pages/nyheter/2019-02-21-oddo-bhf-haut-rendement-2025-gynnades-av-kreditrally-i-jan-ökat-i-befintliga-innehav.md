@@ -25,7 +25,7 @@ Itraxx Xover gick ned 44 baspunkter från 352 till 308, nämner portföljförval
 
 High yield-marknaden steg 2,21 procent under januari och de starkaste bidragen kom från hälsovård, detaljhandel och energi, skriver Alain Krief och Olivier Becker. De pekar också på att investment grade-marknaden har stigit kraftigt, vars benchmark visar en absolutavkastning på 1,1 procent då den fått stöd av försäkring, fastighet och transport.
 
-_**Fyllt på i ett antal innehav**_
+**_Fyllt på i ett antal innehav_**
 
 Portföljförvaltarna förklarar att fonden i januari använde sina likvida medel för att stärka positionerna i Maxeda, Aston Martin, El Corte Inglés, Lecta och Algeco. De skriver också att fonden har gynnats av det kreditrally som har orsakats av minskade spreads under året. Detta har gjort att några av fondens obligationer har presterat mycket väl; Aldesa, Salini och Intralot har stigit med 22, 12 respektive 10 procent, skriver Alain Krief och Olivier Becker.
 
