@@ -3,8 +3,9 @@ templateKey: video-post
 program: Fonder Direkt Monthly Roundup
 videoId: LQRDwcFziJs
 title: August Edition 2018
-date: '2018-09-17T16:39:00+02:00'
+date: 2018-09-17T16:39:00.171Z
 sponsored: false
+featured: false
 tags:
   - Monthly Roundup
   - Avanza
