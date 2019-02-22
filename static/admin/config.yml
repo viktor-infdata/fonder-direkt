@@ -39,8 +39,23 @@ collections:
       - {label: "SoundCloud ID", name: "soundCloudId", widget: "string", required: false}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false, required: false}
       - {label: "Featured Content", name: "featured", widget: "boolean", default: false, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+  - name: "fd-akademi"
+    label: "FD Akademi"
+    folder: "src/pages/fd-akademi"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "education-post"}
+      - {label: "Video ID", name: "videoId", widget: "string", required: false}
+      - {label: "SoundCloud ID", name: "soundCloudId", widget: "string", required: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Content", name: "featured", widget: "boolean", default: false, required: false}
+      - {label: "Feature Image (16:9 Ratio), required if no Video", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 

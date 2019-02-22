@@ -34,6 +34,7 @@ p {
 // Colors
 $fonder-direkt-blue: #037184;
 $fonder-direkt-blue-invert: white;
+$grey: #757575;
 
 $primary: $fonder-direkt-blue;
 $primary-invert: $fonder-direkt-blue-invert;
@@ -179,6 +180,36 @@ $navbar-breakpoint: 1087px;
       width: 80px;
     }
   }
+  .navbar-item {
+    .is-fd-akademi {
+      fill: $white;
+      transition: none;
+      width: 20px;
+      display: block;
+      margin: auto;
+      margin-right: 0.25rem;
+      @media screen and (max-width: $navbar-breakpoint) {
+        fill: $text;
+        margin: 0;
+        display: inline-block;
+        padding-right: 0.25rem;
+      }
+    }
+    &:hover {
+      .is-fd-akademi {
+        @media screen and (max-width: $navbar-breakpoint) {
+          fill: $link;
+        }
+      }
+    }
+    &.is-active {
+      .is-fd-akademi {
+        @media screen and (max-width: $navbar-breakpoint) {
+          fill: $link;
+        }
+      }
+    }
+}
   .is-search {
     fill: $white;
     @media screen and (max-width: $navbar-breakpoint) {
@@ -434,6 +465,7 @@ $footer-gradient-bottom-right: lighten(saturate(adjust-hue($footer-background-co
 .footer {
   font-weight: $weight-normal;
   border-top: 1px solid $grey-light;
+  z-index: 1;
   background-image: linear-gradient(141deg, $footer-gradient-top-left 0%, $footer-background-color 71%, $footer-gradient-bottom-right 100%);
   a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:hover, .navbar-link.is-active {
     background-color: transparent;
@@ -670,6 +702,32 @@ $svg-share-width: 20px;
   }
 }
 /* purgecss end ignore */
+
+// FD AKADEMI
+.card-content {
+  .content {
+    small {
+      &.has-text-grey {
+        .is-fd-akademi {
+          width: 15px;
+          margin-right: 0.10rem;
+        }
+      }
+    }
+  }
+}
+.content {
+  small {
+    &.has-text-grey {
+      .is-fd-akademi {
+        width: 25px;
+        fill: $grey;
+        margin-right: 0.25rem;
+        vertical-align: bottom;
+      }
+    }
+  }
+}
 
 // EMBED RESPONSIVE
 .embed-responsive {
@@ -1241,6 +1299,7 @@ $svg-share-width: 20px;
   width: 36px;
   height: 36px;
   transition: all 0.3s ease;
+  z-index: 2;
   svg {
     fill: $white-bis;
     transition: all 0.3s ease;

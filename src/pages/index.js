@@ -94,6 +94,9 @@ class IndexPage extends React.Component {
                           {featuredPost.frontmatter.sponsored === true &&
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
+                          {featuredPost.frontmatter.templateKey === "education-post" &&
+                            <span className="has-text-grey"> &bull; <small className="has-text-grey"><svg role="img" viewBox="0 0 24 24" className="is-fd-akademi" xmlns="http://www.w3.org/2000/svg"><title>FD Akademi</title><path d="M0 0h24v24H0z" fill="none"/><path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3L1 9l11 6 9-4.91V17h2V9L12 3z"/></svg>FD AKADEMI</small></span>
+                          }
                         </h5>
                         <h1 className="is-size-5 mt-1 mb-2">
                           <Link to={featuredPost.fields.slug}>
@@ -105,7 +108,15 @@ class IndexPage extends React.Component {
                     </div>
                     <footer className="card-footer">
                       <Link className="card-footer-item button is-dark is-fullwidth is-feature-button" to={featuredPost.fields.slug}>
-                        Gå till {featuredPost.frontmatter.videoId != null  ? 'videon' : 'nyheten'}
+                        {featuredPost.frontmatter.templateKey === "blog-post" &&
+                          <React.Fragment>Gå till nyheten</React.Fragment>
+                        }
+                        {featuredPost.frontmatter.templateKey === "video-post" &&
+                          <React.Fragment>Gå till videon</React.Fragment>
+                        }
+                        {featuredPost.frontmatter.templateKey === "education-post" &&
+                          <React.Fragment>Gå till FD Akademi</React.Fragment>
+                        }
                       </Link>
                     </footer>
                   </div>
@@ -136,6 +147,9 @@ class IndexPage extends React.Component {
                           {node.frontmatter.sponsored === true &&
                             <span className="has-text-grey"> &bull; <small className="has-text-grey">UPPDRAGSARTIKEL</small></span>
                           }
+                          {node.frontmatter.templateKey === "education-post" &&
+                            <span className="has-text-grey"> &bull; <small className="has-text-grey"><svg role="img" viewBox="0 0 24 24" className="is-fd-akademi" xmlns="http://www.w3.org/2000/svg"><title>FD Akademi</title><path d="M0 0h24v24H0z" fill="none"/><path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3L1 9l11 6 9-4.91V17h2V9L12 3z"/></svg>FD AKADEMI</small></span>
+                          }
                         </h1>
                         {node.frontmatter.videoId != null &&
                           <div className="embed-responsive embed-responsive-16by9 mb-2">
@@ -156,17 +170,21 @@ class IndexPage extends React.Component {
                       ))}
                     </div>
                   ))}
-                  {!this.state.showingMore && (
-                    <button className="button is-rounded is-medium is-fullwidth is-load-more"
-                      onMouseDown={() => {
-                      this.setState({
-                        indexPostsToShow: this.state.indexPostsToShow + 10,
-                        showingMore: true,
-                        })
-                      }}
-                    >
-                  Ladda fler nyheter
-                  </button>
+                  {allMarkdownRemark.totalCount > 10 && (
+                    <React.Fragment>
+                      {!this.state.showingMore && (
+                        <button className="button is-rounded is-medium is-fullwidth is-load-more"
+                          onMouseDown={() => {
+                          this.setState({
+                            indexPostsToShow: this.state.indexPostsToShow + 10,
+                            showingMore: true,
+                            })
+                          }}
+                        >
+                      Ladda fler nyheter
+                      </button>
+                      )}
+                    </React.Fragment>
                   )}
                 </React.Fragment>
                 </div>
@@ -185,8 +203,9 @@ export const pageQuery = graphql`
     indexPosts:allMarkdownRemark(
       limit: 1000,
       sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: {regex: "/blog-post|video-post/"}}}
+      filter: { frontmatter: { templateKey: {regex: "/blog-post|video-post|education-post/"}}}
     ) {
+      totalCount
       edges {
         node {
           excerpt(pruneLength: 400)
