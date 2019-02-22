@@ -65,7 +65,7 @@ class IndexPage extends React.Component {
 
     return (
       <Layout>
-        <section className="hero is-light is-bold">
+        <section className="hero is-light">
           <Helmet title="FD Akademi | Fonder Direkt">
             <meta name="description" content="Senaste utbildningsmaterialet från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
             <meta property="og:title" content="FD Akademi | Fonder Direkt" />
