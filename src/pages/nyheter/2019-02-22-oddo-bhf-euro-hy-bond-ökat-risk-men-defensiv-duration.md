@@ -9,35 +9,19 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) High yield-fonden ODDO BHF Euro High Yield Bond ökade sin riskpositionering under januari, men är fortsatt defensivt positionerad via sin starka durationsundervikt och sina relativt låga optionsjusterade spreadar (OAS).
 
-
-
-Det skriver fondförvaltarna Alexis Renault, Frauke Wolkewits, Janis Heck och Ivan Romanenko i en månadsrapport.
-
-
+Det skriver fondförvaltarna Alexis Renault, Frauke Wolkewitz, Janis Heck och Ivan Romanenko i en månadsrapport.
 
 Fonden steg 1,75 procent i januari, sett till basvalutan euro, samtidigt som jämförelseindex (BOFA ML Euro BB-B Non Financial Fixed Floating Rate HY Constrained Index) ökade 2,16 procent. Omräknat i svenska kronor avkastade fonden 4,22 procent i januari.
 
-
-
-**_Underviktar cykliskt och dubbel b_**
-
-
+_**Underviktar cykliskt och dubbel b**_
 
 Obligationsfonden håller främst underviktade positioner inom cykliska sektorer såsom bilar, kemikalier, detaljhandel och industrivaror & -tjänster, uppger förvaltarteamet. Förvaltarna tillägger att en undervikt även hålls för dubbel b-innehav, och en neutral position till singel b.
 
-
-
-**_Förväntar sig ökad volatilitet_**
-
-
+_**Förväntar sig ökad volatilitet**_
 
 Den Europeiska High-Yield marknaden återhämtade sig kraftigt i januari, och i fortsättningen förväntar sig fondförvaltarna att marknaden uppvisar en högre volatilitet, orsakat av exempelvis en långsammare ekonomisk tillväxt, brexit och stigande räntor i USA.
 
-
-
 "Spreadar ligger för nuvarande på 100 baspunkter under den långsiktiga genomsnittsnivån. Kreditval förblir avgörande, och blir än mer viktigt i den nuvarande miljön för att överträffa marknaden", skriver portföljteamet.
-
-
 
 USA dominerar portföljvikten för fonden, med en landexponering om 15,2 procent, följt av Frankrike 15,0 procent och Tyskland 10,2 procent. Motsvarande landexponering för fondens jämförelseindex ligger på 16,7, 14,1 och 10,3 procent.
 
