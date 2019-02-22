@@ -43,9 +43,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "utbildning"
-    label: "Utbildning"
-    folder: "src/pages/utbildning"
+  - name: "fd-akademi"
+    label: "FD Akademi"
+    folder: "src/pages/fd-akademi"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:

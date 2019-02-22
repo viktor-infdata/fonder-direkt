@@ -107,17 +107,21 @@ class IndexPage extends React.Component {
                       ))}
                     </div>
                   ))}
-                  {!this.state.showingMore && (
-                    <button className="button is-rounded is-medium is-fullwidth is-load-more"
-                      onMouseDown={() => {
-                      this.setState({
-                        newsPostsToShow: this.state.newsPostsToShow + 10,
-                        showingMore: true,
-                        })
-                      }}
-                    >
-                  Ladda fler nyheter
-                  </button>
+                  {allMarkdownRemark.totalCount > 10 && (
+                    <React.Fragment>
+                      {!this.state.showingMore && (
+                        <button className="button is-rounded is-medium is-fullwidth is-load-more"
+                          onMouseDown={() => {
+                          this.setState({
+                            newsPostsToShow: this.state.newsPostsToShow + 10,
+                            showingMore: true,
+                            })
+                          }}
+                        >
+                      Ladda fler nyheter
+                      </button>
+                      )}
+                    </React.Fragment>
                   )}
                 </React.Fragment>
                 </div>
@@ -138,6 +142,7 @@ export const pageQuery = graphql`
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" }}}
     ) {
+      totalCount
       edges {
         node {
           excerpt(pruneLength: 400)

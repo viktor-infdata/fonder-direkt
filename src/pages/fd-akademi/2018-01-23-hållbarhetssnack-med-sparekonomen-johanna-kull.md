@@ -1,7 +1,6 @@
 ---
 templateKey: education-post
 videoId: 4ilQ4oSIxxY
-soundCloudId: '563923953'
 title: 'Hållbarhetssnack med sparekonomen Johanna Kull'
 date: 2019-01-23T09:16:33.387Z
 sponsored: false

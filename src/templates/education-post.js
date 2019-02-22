@@ -49,7 +49,7 @@ export const EducationPostTemplate = ({
                     {soundCloudId != null &&
                       <React.Fragment>
                         <hr />
-                        <h5 className="is-size-5">Denna utbildning finns även som podcast</h5>
+                        <h5 className="is-size-5">Denna FD Akademi finns även som podcast</h5>
                         <iframe title={soundCloudId} width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/"+soundCloudId+"&color=%23037184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"}></iframe>
                       </React.Fragment>
                     }
@@ -107,7 +107,7 @@ export const EducationPostTemplate = ({
                       {soundCloudId != null &&
                         <React.Fragment>
                           <hr />
-                          <h5 className="is-size-5">Denna utbildning finns även som podcast</h5>
+                          <h5 className="is-size-5">Denna FD Akademi finns även som podcast</h5>
                           <iframe title={soundCloudId} width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/"+soundCloudId+"&color=%23037184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"}></iframe>
                         </React.Fragment>
                       }

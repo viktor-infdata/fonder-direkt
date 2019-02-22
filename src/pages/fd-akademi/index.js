@@ -66,10 +66,10 @@ class IndexPage extends React.Component {
     return (
       <Layout>
         <section className="hero is-light is-bold">
-          <Helmet title="Utbildning | Fonder Direkt">
+          <Helmet title="FD Akademi | Fonder Direkt">
             <meta name="description" content="Senaste utbildningsmaterialet från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
-            <meta property="og:title" content="Utbildning | Fonder Direkt" />
-            <meta property="og:url" content="https://fonderdirekt.se/utbildning/" />
+            <meta property="og:title" content="FD Akademi | Fonder Direkt" />
+            <meta property="og:url" content="https://fonderdirekt.se/fd-akademi/" />
             <meta property="og:description" content="Senaste utbildningsmaterialet från Fonder Direkt, en plattform där du kan hitta information, läsa nyheter och ta del av kommunikation om fonder." />
           </Helmet>
           <div className="hero-body">
@@ -110,7 +110,7 @@ class IndexPage extends React.Component {
                           </div>
                           <footer className="card-footer">
                             <Link className="card-footer-item button is-dark is-fullwidth is-feature-button" to={node.fields.slug}>
-                              Gå till utbildning
+                              Gå till FD Akademi
                             </Link>
                           </footer>
                         </div>
@@ -119,24 +119,26 @@ class IndexPage extends React.Component {
                   </React.Fragment>
                 ))}
               </div>
-              <div className="columns is-centered">
-                <div className="column is-8">
-                  {!this.state.showingMore && (
-                    <button className="button is-rounded is-medium is-fullwidth is-load-more"
-                      onMouseDown={() => {
-                      this.setState({
-                        educationPostsToShow: this.state.educationPostsToShow + 9,
-                        showingMore: true,
-                        })
-                      }}
-                    >
-                  Ladda mer utbildningsmaterial
-                  </button>
-                  )}
+              {allMarkdownRemark.totalCount > 9 && (
+                <div className="columns is-centered">
+                  <div className="column is-8">
+                    {!this.state.showingMore && (
+                      <button className="button is-rounded is-medium is-fullwidth is-load-more"
+                        onMouseDown={() => {
+                        this.setState({
+                          educationPostsToShow: this.state.educationPostsToShow + 9,
+                          showingMore: true,
+                          })
+                        }}
+                      >
+                    Ladda mer FD Akademi
+                    </button>
+                    )}
+                  </div>
                 </div>
-                </div>
-              </div>
+              )}
             </div>
+          </div>
         </section>
       </Layout>
     )
@@ -152,6 +154,7 @@ export const pageQuery = graphql`
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "education-post" }}}
     ) {
+      totalCount
       edges {
         node {
           excerpt(pruneLength: 200)
