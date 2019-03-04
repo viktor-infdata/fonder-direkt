@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Equity Style Box: Registrerade ändringar'
-date: 2019-03-04T09:06:52.414Z
+date: 2019-03-04T09:19:51.728Z
 sponsored: false
 featured: false
 tags:
@@ -11,18 +11,20 @@ STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Styl
 
 ```
 Fond                               Tidigare        Ny          
-DNB Fund Technology                Large blend     Large growth
-JPM US Select Equity Plus          Large blend     Large growth
-Parvest Equity Russia Opps         Mid value       Large value 
-AXAWF Fram Hybrid Resources        Large value     Large blend 
-Investec GSF Glbl Ntrl Res         Large value     Large blend 
-Uni-Global Equities US             Large blend     Large value 
-DNB Fund - Private Equity          Mid value       Mid blend   
-Investec GSF Asia Pac Eq Opps      Large growth    Large blend 
-Schroder ISF Glb Em Mkt Opps       Large blend     Large growth
-Parvest Equity Brazil              Large blend     Large growth
-Polar Capital Global Ins           Large blend     Large value 
-Monyx Strategi Försiktig           Large growth    Large blend 
+Monyx Strategi Sverige/ Världen    Large growth    Large blend 
+Proaktiv 75 PM                     Large blend     Large growth
+Macquarie Asia New Stars           Large blend     Mid blend   
+Schroder ISF Eurp Mkt Netrl        Large blend     Large value 
+DWS Invest Latin American Eqs      Large blend     Large growth
+Parvest Equity Turkey              Small growth    Mid growth  
+Allianz Asian Sm Cap Equity IT15   Mid growth      Mid blend   
+Danske Invest Em & Front Mkts      Mid blend       Mid growth  
+Nikko AM Emer Mkts Mlt Asst        Large blend     Large growth
+Coho ESG US Large Cap Eq           Large blend     Large value 
+OSTRUM Emerging Europe Equity      Mid blend       Large blend 
+AXA Rosenberg Eurobl Eq Alpha      Large blend     Large value 
+RobecoSAM Smart Materials          Mid blend       Mid growth  
+
 ```
 Det framgår av en uppdatering i Morningstars databas.
 
