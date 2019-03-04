@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Strand Kapitalförvaltning: Klar vinnare på Climoens rusning'
+title: 'Strand Kapitalförvaltning: Klar vinnare på Climeons rusning'
 date: 2019-03-04T11:43:36.766Z
 sponsored: false
 featured: false
