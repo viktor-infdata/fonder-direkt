@@ -12,7 +12,9 @@ tags:
 ---
 Finally, something for the expat community living in Sweden - In English!
 
-We all know we can save our hard earned, well taxed money here. But in what? 
+We all know we can save our hard earned, well taxed money here.
+
+But in what? 
 
 This interview talks all about the well talked about ISK, how it works, how is it taxed, are there fees, what to do if you are an Expat, how many you can have and more. 
 
