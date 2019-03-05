@@ -1,24 +1,27 @@
 ---
 templateKey: blog-post
 title: 'Equity Style Box: Registrerade ändringar'
-date: 2019-03-05T08:44:51.060Z
+date: 2019-03-05T12:12:57.260Z
 sponsored: false
 featured: false
 tags:
   - Morningstar
 ---
 STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Style Box ändrad enligt tabell nedan:
+
 ```
 Fond                               Tidigare        Ny          
-Macquarie Asia New Stars           Large blend     Mid blend   
-Monyx Strategi Balanserad          Large growth    Large blend 
-Schroder ISF Flexible Ret A1       Large value     Large blend 
-Parvest Equity Indonesia           Large blend     Large growth
-Active Asset Alloc Gr 80 Protect   Large growth    Large blend 
-JSS Systematic Eq Em Mkts          Large value     Large blend 
-Swedbank Robur Ny Teknik           Mid growth      Small growth
-Danske Invest Japani Osake         Large value     Large blend 
-Janus Henderson Contnn Eurp        Large blend     Large growth
+East Capital Nya Europa            Small value     Small blend 
+Investec GSF Global Energy         Large value     Large blend 
+AXAWF Fram Global Rl Est Secs      Mid blend       Mid growth  
+Vaughan Nelson US Select Eq        Large blend     Large growth
+Amundi Fds Convertible Europe      Large growth    Large value 
+Danske Invest Japan                Large value     Large blend 
+Parvest Bond Best Sel Wld Emerg    Mid growth      Small value 
+East Capital Ryssland              Large blend     Large value 
+Amundi Fds II Emerg Mkts Eq        Mid value       Mid blend   
+Ishares UK Index (IE) Flex         Large value     Large blend 
+Schroder ISF BRIC                  Large blend     Large growth
 ```
 Det framgår av en uppdatering i Morningstars databas.
 
