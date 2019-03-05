@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: ' 2019-03-05 11:47:59 CET  SEB IM: Gått över 5% kapital i HIQ'
+title: 'SEB IM: Gått över 5% kapital i HIQ'
 date: 2019-03-05T10:48:12.881Z
 sponsored: false
 featured: false
