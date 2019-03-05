@@ -1,6 +1,6 @@
 ---
 templateKey: education-post
-videoId: 'https://www.youtube.com/watch?v=miMPHYBALSo?autoplay=1&rel=0'
+videoId: miMPHYBALSo
 title: 'What is an ISK? '
 date: 2019-03-05T16:19:49.018Z
 featured: true
