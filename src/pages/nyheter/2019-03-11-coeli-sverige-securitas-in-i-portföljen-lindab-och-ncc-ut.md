@@ -13,7 +13,7 @@ Det framgår i en månadskommentar skriven av portföljförvaltaren Mattias Erik
 
 Sex av fondens innehav steg med mer än 10 procent under februari, Lindab (19,4 procent), Stillfront (18,7 procent), Nordic Waterproofing (15,9 procent), Thule (13,1 procent), Alimak (12,8 procent) och Husqvarna (10,6 procent), vilket Mattias Eriksson främst menar beror på de bolagskommunikéer som bolagen presenterade.
 
-**_Attendo återigen sänke_**
+_**Attendo återigen sänke**_
 
 Vårdbolaget Attendo tyngde fondens utveckling för andra månaden i rad, vilket förvaltaren framförallt menar bero på den pågående vårdskandalen i Finland samt en bokslutskommuniké som var klart under förväntan.
 
@@ -23,7 +23,7 @@ Coeli Sverige har dock en fortsatt positiv syn på omsorgsbolagets aktie då de 
 
 Även Elekta tyngde fondens utveckling då aktien sjönk 9,1 procent i februari efter en rapportbesvikelse. Fondförvaltaren uppger att de även här behåller sin positiva syn på aktien till följd av väldigt bra långsiktiga tillväxtförutsättningar och pekar framförallt på bolagets teknologiska framkant.
 
-**_Tagit in Securitas_**
+_**Tagit in Securitas**_
 
 I samband med Securitas bokslutskommuniké tappade aktien kraftigt och Coeli Sverige passade på att köpa in sig.
 
