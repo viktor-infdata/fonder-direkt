@@ -19,6 +19,7 @@ export const EducationPostTemplate = ({
   videoId,
   image,
   soundCloudId,
+  english,
   shareUrl,
 }) => {
   const PostContent = contentComponent || Content
@@ -41,6 +42,9 @@ export const EducationPostTemplate = ({
                 <div className="column is-8">
                   <h5 className="is-size-6 mb-2 has-text-grey">
                     <time dateTime={date}>{date}</time>
+                    {english === true &&
+                      <span> &bull; <svg role="img" viewBox="0 0 24 24" className="is-language" xmlns="http://www.w3.org/2000/svg"><title>Language</title><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"/></svg>ENGLISH</span>
+                    }
                   </h5>
                     <h1 className="title is-size-3 mt-0">
                     {title}
@@ -54,7 +58,12 @@ export const EducationPostTemplate = ({
                       </React.Fragment>
                     }
                     <hr />
-                    <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
+                    {english === true &&
+                      <React.Fragment><p><strong>FD Akademi helps provide an education and understanding of financial terms, subjects and themes with regards to funds, and other financial investment vehicles. FD Akademi wants to help breakdown the barriers with regards to finance, and give everyone who wants to learn more, the opportunity to learn more through our content. It has never been more important to be able to take ownership of financial decisions, and FD Akademi along with Fonder Direkt want to help provide you with the information that you need to do this.</strong></p><p><strong>FD Akademi is part of Fonder Direkt which is part of Nyhetsbyrån Direkt and is a completely impartial service.</strong></p></React.Fragment>
+                    }
+                    {english !== true &&
+                      <React.Fragment><p><strong>FD Akademi erbjuder utbildning och förståelse av finansiella termer, ämnen och teman relaterade till fonder samt andra finansiella investeringsprodukter. FD Akademi vill bryta barriärerna när det gäller finans, och ge alla som lära sig mer den möjligheten via vårt innehåll. Det har aldrig varit viktigare att kunna ta kontroll över sina ekonomiska beslut, och FD Akademi vill tillsammans med Fonder Direkt tillhandahålla den information du behöver för att kunna göra detta.</strong></p><p><strong>FD Akademi är en helt oberoende tjänst som är en del av Fonder Direkt, vilket i sin tur är en del av Nyhetsbyrån Direkt.</strong></p></React.Fragment>
+                    }
                     <hr />
                     {tags && tags.length ? (
                     <div>
@@ -112,7 +121,12 @@ export const EducationPostTemplate = ({
                         </React.Fragment>
                       }
                       <hr />
-                      <p><strong>Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.</strong></p>
+                      {english === true &&
+                      <React.Fragment><p><strong>FD Akademi helps provide an education and understanding of financial terms, subjects and themes with regards to funds, and other financial investment vehicles. FD Akademi wants to help breakdown the barriers with regards to finance, and give everyone who wants to learn more, the opportunity to learn more through our content. It has never been more important to be able to take ownership of financial decisions, and FD Akademi along with Fonder Direkt want to help provide you with the information that you need to do this.</strong></p><p><strong>FD Akademi is part of Fonder Direkt which is part of Nyhetsbyrån Direkt and is a completely impartial service.</strong></p></React.Fragment>
+                      }
+                      {english !== true &&
+                        <React.Fragment><p><strong>FD Akademi erbjuder utbildning och förståelse av finansiella termer, ämnen och teman relaterade till fonder samt andra finansiella investeringsprodukter. FD Akademi vill bryta barriärerna när det gäller finans, och ge alla som lära sig mer den möjligheten via vårt innehåll. Det har aldrig varit viktigare att kunna ta kontroll över sina ekonomiska beslut, och FD Akademi vill tillsammans med Fonder Direkt tillhandahålla den information du behöver för att kunna göra detta.</strong></p><p><strong>FD Akademi är en helt oberoende tjänst som är en del av Fonder Direkt, vilket i sin tur är en del av Nyhetsbyrån Direkt.</strong></p></React.Fragment>
+                      }
                       <hr />
                       {tags && tags.length ? (
                         <React.Fragment>
@@ -161,6 +175,7 @@ EducationPostTemplate.propTypes = {
   videoId: PropTypes.string,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   soundCloudId: PropTypes.string,
+  english: PropTypes.bool,
 }
 
 const EducationPost = ({ data }) => {
@@ -173,6 +188,9 @@ const EducationPost = ({ data }) => {
         contentComponent={HTMLContent}
         helmet={
             <Helmet>
+              {post.frontmatter.english === true &&
+                <html lang="en" />
+              }
               <title>{`${post.frontmatter.title} | Fonder Direkt`}</title>
               <meta name="description" content={`${post.excerpt}`} />
               <meta name="keywords" content={`${post.frontmatter.tags}`} />
@@ -187,6 +205,7 @@ const EducationPost = ({ data }) => {
         date={post.frontmatter.date}
         videoId={post.frontmatter.videoId}
         soundCloudId={post.frontmatter.soundCloudId}
+        english={post.frontmatter.english}
         image={post.frontmatter.image}
         shareUrl={`https://fonderdirekt.se${post.fields.slug}`}
       />
@@ -217,6 +236,7 @@ export const pageQuery = graphql`
         tags
         videoId
         soundCloudId
+        english
         image {
           childImageSharp {
             fluid(maxWidth: 1920, quality: 85) {

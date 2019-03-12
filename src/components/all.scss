@@ -729,6 +729,35 @@ $svg-share-width: 20px;
   }
 }
 
+// LANGUAGE
+.card-content {
+  .content {
+    small {
+      &.has-text-grey {
+        .is-language {
+          width: 14px;
+          margin-right: 0.10rem;
+        }
+      }
+    }
+  }
+}
+.content {
+  .is-language {
+    width: 21px;
+    fill: $grey;
+    margin-right: 0.15rem;
+    vertical-align: bottom;
+  }
+  small {
+    &.has-text-grey {
+    .is-language {
+      width: 24px;
+    }
+  }
+}
+}
+
 // EMBED RESPONSIVE
 .embed-responsive {
   position: relative;

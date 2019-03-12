@@ -4,6 +4,7 @@ videoId: miMPHYBALSo
 title: 'What is an ISK? '
 date: 2019-03-05T16:19:49.018Z
 featured: true
+english: true
 tags:
   - ISK
   - Coeli
