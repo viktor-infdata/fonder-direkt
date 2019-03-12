@@ -72,7 +72,12 @@ export const EducationPostTemplate = ({
                     <hr />
                     {tags && tags.length ? (
                     <div>
-                        <h4>TAGGAR</h4>
+                        {english === true &&
+                          <h4>TAGS</h4>
+                        }
+                        {english !== true &&
+                          <h4>TAGGAR</h4>
+                        }
                         <div className="tags">
                           {tags.map(tag => (
                             <Link key={tag + `tag`} to={`/taggar/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
@@ -140,7 +145,12 @@ export const EducationPostTemplate = ({
                       <hr />
                       {tags && tags.length ? (
                         <React.Fragment>
-                          <h4>TAGGAR</h4>
+                          {english === true &&
+                            <h4>TAGS</h4>
+                          }
+                          {english !== true &&
+                            <h4>TAGGAR</h4>
+                          }
                           <div className="tags">
                             {tags.map(tag => (
                               <Link key={tag + `tag`} to={`/taggar/${kebabCase(tag)}/`} className="tag is-medium is-link">{tag}</Link>
