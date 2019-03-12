@@ -1,6 +1,7 @@
 ---
 templateKey: education-post
 videoId: MFsUQ3T6ehA
+soundCloudId: '588833295'
 title: 'Så funkar ISK, med Coelis Pär Davidsson'
 date: 2019-03-05T16:36:45.048Z
 featured: false
