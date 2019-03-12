@@ -1,6 +1,7 @@
 ---
 templateKey: education-post
 videoId: miMPHYBALSo
+soundCloudId: '588830364'
 title: 'What is an ISK? '
 date: 2019-03-05T16:19:49.018Z
 featured: true
