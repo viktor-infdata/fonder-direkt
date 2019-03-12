@@ -51,12 +51,17 @@ export const EducationPostTemplate = ({
                     </h1>
                     <PostContent content={content} />
                     {soundCloudId != null &&
-                      <React.Fragment>
-                        <hr />
-                        <h5 className="is-size-5">Denna FD Akademi finns även som podcast</h5>
-                        <iframe title={soundCloudId} width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/"+soundCloudId+"&color=%23037184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"}></iframe>
-                      </React.Fragment>
-                    }
+                        <React.Fragment>
+                          <hr />
+                          {english === true &&
+                            <h5 className="is-size-5">This FD Akademi is also available as a podcast</h5>
+                          }
+                          {english !== true &&
+                            <h5 className="is-size-5">Denna FD Akademi finns även som podcast</h5>
+                          }
+                          <iframe title={soundCloudId} width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/"+soundCloudId+"&color=%23037184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"}></iframe>
+                        </React.Fragment>
+                      }
                     <hr />
                     {english === true &&
                       <React.Fragment><p><strong>FD Akademi helps provide an education and understanding of financial terms, subjects and themes with regards to funds, and other financial investment vehicles. FD Akademi wants to help breakdown the barriers with regards to finance, and give everyone who wants to learn more, the opportunity to learn more through our content. It has never been more important to be able to take ownership of financial decisions, and FD Akademi along with Fonder Direkt want to help provide you with the information that you need to do this.</strong></p><p><strong>FD Akademi is part of Fonder Direkt which is part of Nyhetsbyrån Direkt and is a completely impartial service.</strong></p></React.Fragment>
@@ -116,7 +121,12 @@ export const EducationPostTemplate = ({
                       {soundCloudId != null &&
                         <React.Fragment>
                           <hr />
-                          <h5 className="is-size-5">Denna FD Akademi finns även som podcast</h5>
+                          {english === true &&
+                            <h5 className="is-size-5">This FD Akademi is also available as a podcast</h5>
+                          }
+                          {english !== true &&
+                            <h5 className="is-size-5">Denna FD Akademi finns även som podcast</h5>
+                          }
                           <iframe title={soundCloudId} width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/"+soundCloudId+"&color=%23037184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"}></iframe>
                         </React.Fragment>
                       }
