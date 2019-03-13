@@ -172,12 +172,27 @@ p {
 $navbar-height: 3.7085rem;
 $navbar-item-img-max-height: none;
 $navbar-breakpoint: 1087px;
+$fonder-direkt-logo-white: $white;
+$fonder-direkt-logo-grey: #e7e7e7;
+$fonder-direkt-logo-grey-light: #f3f3f3;
+$fonder-direkt-logo-grey-lighter: #f9f9f9;
 
 .navbar {
   .is-fonder-logo {
-    fill: $white;
+    .is-fonder-logo-white {
+      fill: $fonder-direkt-logo-white;
+    }
+    .is-fonder-logo-grey {
+      fill: $fonder-direkt-logo-grey;
+    }
+    .is-fonder-logo-grey-light {
+      fill: $fonder-direkt-logo-grey-light;
+    }
+    .is-fonder-logo-grey-lighter {
+      fill: $fonder-direkt-logo-grey-lighter;
+    }
     svg {
-      width: 80px;
+      width: 185px;
     }
   }
   .navbar-item {
@@ -461,6 +476,11 @@ a {
 $footer-background-color: $white-ter;
 $footer-gradient-top-left: darken(saturate(adjust-hue($footer-background-color, -10deg), 10%), 10%);
 $footer-gradient-bottom-right: lighten(saturate(adjust-hue($footer-background-color, 10deg), 5%), 5%);
+$fonder-direkt-logo-blue: #0e2d40;
+$fonder-direkt-logo-blue-shade-1: #64c3d5;
+$fonder-direkt-logo-blue-shade-2: #199ab9;
+$fonder-direkt-logo-blue-shade-3: #0d7186;
+$fonder-direkt-logo-blue-shade-4: #125a6d;
 
 .footer {
   font-weight: $weight-normal;
@@ -475,7 +495,22 @@ $footer-gradient-bottom-right: lighten(saturate(adjust-hue($footer-background-co
     font-size: 13px;
   }
   .is-fonder-logo {
-    width: 140px;
+    .is-fonder-logo-blue {
+      fill: $fonder-direkt-logo-blue;
+    }
+    .is-fonder-logo-blue-shade-1 {
+      fill: $fonder-direkt-logo-blue-shade-1;
+    }
+    .is-fonder-logo-blue-shade-2 {
+      fill: $fonder-direkt-logo-blue-shade-2;
+    }
+    .is-fonder-logo-blue-shade-3 {
+      fill: $fonder-direkt-logo-blue-shade-3;
+    }
+    .is-fonder-logo-blue-shade-4 {
+      fill: $fonder-direkt-logo-blue-shade-4;
+    }
+    width: 200px;
     transition: $transition-base;
     &:hover {
       fill: $primary;
