@@ -11,17 +11,11 @@ STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Equity Styl
 
 ```
 Fond                               Tidigare        Ny          
-
 Candriam Quant Equities MF EMU     Large blend     Large value 
-
 M&G Global Convertibles Euro       Large value     Large blend 
-
 Stt Strt Glbl Mgd Volatil Eq       Large blend     Large value 
-
 Alpcot Fixed Income                Large value     Mid value   
-
 FIM Emerging markets ESG           Large growth    Large blend 
-
 GAM Star Asian Equity              Large blend     Large growth
 ```
 Det framgår av en uppdatering i Morningstars databas.
