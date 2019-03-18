@@ -19,7 +19,7 @@ const TemplateWrapper = ({ children }) => (
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"  />
       <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#037184" />
-      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="shortcut icon" href="/favicon.ico?v2" />
       <meta name="msapplication-TileColor" content="#00aba9" />
       <meta name="msapplication-config" content="/browserconfig.xml" />
       <meta property="og:type" content="website" />
