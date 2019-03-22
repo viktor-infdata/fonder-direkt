@@ -3,6 +3,6 @@
   command = "gatsby info && gatsby build"
 [build.environment]
   NODE_ENV = "production"
-  NODE_VERSION = "10.15.1"
-  YARN_VERSION = "1.13.0"
+  NODE_VERSION = "10.15.3"
+  YARN_VERSION = "1.15.2"
   YARN_FLAGS = "--no-ignore-optional"
