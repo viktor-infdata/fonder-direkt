@@ -17,7 +17,7 @@ CMS.registerEditorComponent({
     label: 'YouTube Video ID',
     widget: 'string'
   }],
-  pattern: /^<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item mb-3" src="https:\/\/www.youtube.com\/embed\/(.*)?rel=0" allowfullscreen><\/iframe><\/div>/,
+  pattern: /^<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item" src="https:\/\/www.youtube.com\/embed\/(.*)?rel=0" allowfullscreen><\/iframe><\/div>/,
   fromBlock: function(match) {
     return {
       id: match[1],
@@ -30,7 +30,7 @@ CMS.registerEditorComponent({
   },
   toPreview: function(obj) {
     return (
-      '<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item mb-3" src="https://www.youtube.com/embed/'+ obj.id + '?rel=0" allowfullscreen></iframe></div>'
+      '<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/'+ obj.id + '?rel=0" allowfullscreen></iframe></div>'
     );
   },
 });
