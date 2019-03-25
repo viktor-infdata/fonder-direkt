@@ -5,7 +5,12 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const AboutPageTemplate = ({ title, content, helmet, contentComponent }) => {
+export const AboutPageTemplate = ({
+  title,
+  content,
+  helmet,
+  contentComponent,
+}) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -14,9 +19,7 @@ export const AboutPageTemplate = ({ title, content, helmet, contentComponent }) 
       <div className="container">
         <div className="columns is-centered">
           <div className="column is-8">
-            <h2 className="title is-size-3">
-              {title}
-            </h2>
+            <h2 className="title is-size-3">{title}</h2>
             <PageContent className="content" content={content} />
           </div>
         </div>
@@ -41,10 +44,19 @@ const AboutPage = ({ data }) => {
         title={post.frontmatter.title}
         helmet={
           <Helmet title={`Om Fonder Direkt`}>
-            <meta name="description" content="Fonder Direkt är en plattform där du kan hitta nyheter om fondmarknaden i både video- och skrivet format, samt ta del av redaktionellt arbete om fonder." />
-            <meta property="og:description" content="Fonder Direkt är en plattform där du kan hitta nyheter om fondmarknaden i både video- och skrivet format, samt ta del av redaktionellt arbete om fonder." />
+            <meta
+              name="description"
+              content="Fonder Direkt är en plattform där du kan hitta nyheter om fondmarknaden i både video- och skrivet format, samt ta del av redaktionellt arbete om fonder."
+            />
+            <meta
+              property="og:description"
+              content="Fonder Direkt är en plattform där du kan hitta nyheter om fondmarknaden i både video- och skrivet format, samt ta del av redaktionellt arbete om fonder."
+            />
             <meta property="og:title" content="Om Fonder Direkt" />
-            <meta property="og:url" content="https://fonderdirekt.se/om-fonder-direkt/" />
+            <meta
+              property="og:url"
+              content="https://fonderdirekt.se/om-fonder-direkt/"
+            />
           </Helmet>
         }
         content={post.html}
