@@ -10,7 +10,7 @@ const EducationPostPreview = ({ entry, widgetFor }) => (
   />
 )
 
-EducationPreview.propTypes = {
+EducationPostPreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
