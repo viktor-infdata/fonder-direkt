@@ -26,6 +26,12 @@ Om du representerar ett fondbolag, kapitalförvaltare eller förmögenhetsförva
 
 <span class="image-caption">Amundi Referens</span>
 
+>Den täckning som Direkt har hjälpt oss få i svensk finansmedia har överträffat mina förväntningar. Direkts publiceringar har en effekt. Fondnyheterna de skriver om sker med en vinkel som fångar intresse. Nivån av expertis hos deras journalister gör det möjligt att arrangera intervjuer om sofistikerade finansiella ämnen.
+>
+>Jag är en mycket tillfredsställd användare av deras tjänster, som är unika i Sverige och Norge.
+>
+><cite>**David Anthony Carenco — ODDO BHF**</cite>
+
 ### DISCLAIMER & FRISKRIVNING
 
 _Fonder Direkt tar inget ansvar för förluster som kan uppkomma som ett resultat av investeringar, baserat på någon diskussion, nyheter eller intervjuer som finns på Fonder Direkt. Alla investeringar är förknippade med risk. Fonder Direkt tillhandahåller inga råd eller förslag på investeringar. Nyhetsbyrån Direkts chefredaktör Lars Östlund är ytterst ansvarig för innehållet på fonderdirekt.se_
