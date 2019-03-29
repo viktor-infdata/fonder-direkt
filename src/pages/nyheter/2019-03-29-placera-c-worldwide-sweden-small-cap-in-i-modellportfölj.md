@@ -6,7 +6,7 @@ sponsored: false
 featured: false
 tags:
   - Placera
-  - C WorldWide
+  - C Worldwide
 ---
 STOCKHOLM (Fonder Direkt) Placera tar hem vinsten i, och byter ut Sverigefonden Norron Active, vid sin genomgång av tio köpvärda fonder i april. In i stället kommer småbolagsfonden C Worldwide Sweden Small Cap 1A.
 
