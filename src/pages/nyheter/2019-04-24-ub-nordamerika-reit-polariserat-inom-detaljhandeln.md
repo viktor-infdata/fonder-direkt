@@ -19,19 +19,11 @@ Det framgår av en månadskommentar, i vilken det slås fast att detaljhandeln g
 
 Förvaltaren meddelar att fastighetskonverteringar från detaljhandel till industri har ökat de senaste åren och att detta är en trend som kommer att fortsätta, i syfte att kompensera för en existerande obalans.
 
-
-
 Aki Kostiander noterar en polariserad utveckling inom detaljhandels-REIT:s, där de bästa visar hyggliga hyresökningar i jämförbara fastigheter (like-for-like), medan de av sämre kvalitet kämpar för att hålla sina verksamheter levande.
-
-
 
 Vad gäller industrilokaler uppges efterfrågan alltjämt vara stark.
 
-
-
 "Efter år av avkastningskontraktion är industritillgångar fortfarande den mest eftertraktade undersektorn. Hyrorna är stigande och utbudet av högklassiga tillgångar och 'sista milen-logistik' är begränsat", enligt Aki Kostiander.
-
-
 
 Fondportföljen handlas för tillfället i linje med nettotillgångsvärdet (0,99 mot NAV), vilket alltjämt är betydligt lägre än den övergripande marknadsvärderingen (1,11 mot NAV), framgår av kommentaren. Den aggregerade direktavkastningen i fonden ligger på 5,3 procent.
 
