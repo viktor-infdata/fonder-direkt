@@ -5,7 +5,7 @@ date: 2019-01-07T10:22:58.232Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Fedchefen Jerome Powell gav marknaden en skjuts i fredags, då han indikerade att den amerikanska centralbanken kan komma att gå lugnare fram med räntehöjningar, eftersom man givet svaga inflationsutfall vill se hur ekonomin utvecklas innan några räntebeslut fattas.
 

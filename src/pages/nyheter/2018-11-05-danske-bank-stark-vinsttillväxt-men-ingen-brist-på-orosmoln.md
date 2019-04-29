@@ -5,7 +5,7 @@ date: 2018-11-05T11:52:00.758Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Investerarna fokuserade på minsta svaghet i samband med rapportsäsongens prognoser, och trots en förväntad vinsttillväxt i år på 22 procent för amerikanska S&P 500 samt 9,6 procent för europeiska STOXX 600, föll globala aktiemarknader brant i oktober.
 

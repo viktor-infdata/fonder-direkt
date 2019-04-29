@@ -5,7 +5,7 @@ date: 2019-01-14T13:09:56.256Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Det är ännu inte läge att skriva av marknadsturbulensen och förklara recessionsrisken som avblåst, men oron har mildrats och sentimentet stärkts. Dels har handelssamtalen mellan USA och Kina gått framåt, och dels har den amerikanska centralbanken Federal Reserve mjuknat i tonen kring penningpolitiken.
 

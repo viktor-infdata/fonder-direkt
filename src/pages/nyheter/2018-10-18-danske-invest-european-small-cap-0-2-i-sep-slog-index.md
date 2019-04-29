@@ -5,7 +5,7 @@ date: 2018-10-18T08:14:11.816Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Aktiefonden Danske Invest European Small Cap avkastade 0,2 procent i september, och klarade sig därmed väl i det något tuffare klimat som uppstod för europeiska småbolag under månaden. Jämförelseindex (MSCI Europe Small Cap NR EUR) backade 1,9 procent. 
 

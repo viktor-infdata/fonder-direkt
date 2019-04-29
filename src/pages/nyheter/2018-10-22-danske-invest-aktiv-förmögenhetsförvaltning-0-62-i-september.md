@@ -5,7 +5,7 @@ date: 2018-10-22T12:51:20.466Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Blandfonden Danske Invest Aktiv Förmögenhetsförvaltning avkastade -0,62 procent i september, vilket var något sämre än dess jämförelseindex (50% OMRX Total + 50% SIXRX), som noterade -0,17 procent.
 

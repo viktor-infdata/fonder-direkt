@@ -5,7 +5,7 @@ date: 2018-10-01T10:40:05.530Z
 sponsored: false
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Italien fortsätter att skapa oro på marknaden och det budgetförslag som presenterades förra veckan kom som en kalldusch. Förslaget, som innehöll ett budgetunderskott på 2,4 procent, skickade upp den italienska tioårsräntan till över 3 procent samt satte press på europeiska aktiemarknader.
 

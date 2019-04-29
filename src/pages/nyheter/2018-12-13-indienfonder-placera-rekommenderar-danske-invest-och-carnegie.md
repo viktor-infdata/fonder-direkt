@@ -5,7 +5,7 @@ date: 2018-12-13T12:29:13.033Z
 sponsored: false
 featured: false
 tags:
-  - Danske
+  - Danske Bank
   - Carnegie
 ---
 STOCKHOLM (Fonder Direkt) En snabbt växande medelklass i ett land med en ung och välutbildad befolkning på 1,3 miljarder människor, ett svagare oljepris och en amerikansk räntepolitik som närmar sig neutral nivå, är faktorer som talar för den indiska börsen och fonder med exponering mot denna.

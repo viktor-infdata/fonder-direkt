@@ -6,7 +6,7 @@ sponsored: true
 featured: false
 image: /img/tidning-cropped.jpg
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Det har blivit dags att börja summera börsåret 2018, ett år som innehållit en stor portion dramatik med stora svängningar i marknaden. Fonder Direkt har fått en pratstund med Danske Invests småbolagsförvaltare Petter Löfqvist om året som gått och hur han ser på dagens aktiemarknad.
 

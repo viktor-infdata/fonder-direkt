@@ -5,7 +5,7 @@ date: 2018-10-24T12:26:07.033Z
 sponsored: true
 featured: false
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Räntefonden Danske Invest Fixed Income Global Value noterade en uppgång om 0,23 procent i september och har sedan lanseringen i juni 2018 därmed stigit 2,94 procent, per den 30 september. Jämförelseindex saknas och fondens basvaluta är svenska kronor.
 

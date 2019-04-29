@@ -6,7 +6,7 @@ sponsored: true
 featured: false
 image: /img/mynt-cropped.jpg
 tags:
-  - Danske
+  - Danske Bank
 ---
 STOCKHOLM (Fonder Direkt) Det har varit en centralbankstung vecka, med räntehöjningar från såväl Federal Reserve i USA som Riksbanken på hemmaplan.
 

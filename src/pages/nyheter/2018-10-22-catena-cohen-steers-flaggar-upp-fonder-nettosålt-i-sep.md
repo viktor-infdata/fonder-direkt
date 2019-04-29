@@ -9,7 +9,7 @@ tags:
   - Handelsbanken
   - Nordea
   - Skagen
-  - Danske
+  - Danske Bank
   - Origo
   - Odin
 ---
