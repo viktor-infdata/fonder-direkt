@@ -4,8 +4,7 @@ import { Link } from 'gatsby'
 
 const NotFoundPage = () => (
   <Layout>
-    <div>
-      <section className="hero is-light is-fullheight">
+      <section className="hero is-light is-fullheight-with-navbar">
         <div className="hero-body">
           <div className="container has-text-centered">
             <h1 className="title mb-5">
@@ -18,7 +17,6 @@ const NotFoundPage = () => (
           </div>
         </div>
       </section>
-    </div>
   </Layout>
 )
 
