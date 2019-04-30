@@ -19,10 +19,10 @@ FD Akademi breaks down and explains the pros and cons of 4 main asset classes (c
 
 We aim at explaining how each asset class works, and how you may choose to use each one as part of your investment strategy long term and short term.
 
-Fonder Direkt: Aiming to Educate, Motivate and Inspire.
+Fonder Direkt: Aiming to Educate, Motivate and Inspire.
 
+---
 
+Lär dig mer om fyra centrala tillgångsklasser: deras funktioner, för- och nackdelar samt hur de kan passa in i en diversifierad portfölj.
 
-Lär dig mer om fyra centrala tillgångsklasser: deras funktioner, för- och nackdelar samt hur de kan passa in i en diversifierad portfölj. \
-\
 Genomgången omfattar kontanter, obligationer, aktier och fastigheter.
