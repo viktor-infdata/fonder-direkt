@@ -2,7 +2,7 @@
 templateKey: education-post
 videoId: StIG0O7-y3o
 soundCloudId: '613545174'
-title: Grunderna om fyra tillgångsklasser förklarade
+title: Grunderna för fyra tillgångsklasser förklarade
 date: 2019-04-30T10:06:25.636Z
 featured: false
 english: false
