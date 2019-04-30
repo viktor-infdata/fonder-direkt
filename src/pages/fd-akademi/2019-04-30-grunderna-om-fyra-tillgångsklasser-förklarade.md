@@ -13,6 +13,7 @@ tags:
   - obligationer
   - aktier
   - fastigheter
+  - FD Akademi
 ---
 FD Akademi breaks down and explains the pros and cons of 4 main asset classes (cash, bonds, equities and property). 
 
