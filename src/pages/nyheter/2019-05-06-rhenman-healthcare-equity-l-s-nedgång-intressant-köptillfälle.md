@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Rhenman Healthcare Equity L/S:"Nedgång intressant köptillfälle"'
+title: 'Rhenman Healthcare Equity L/S: "Nedgång intressant köptillfälle"'
 date: 2019-05-06T09:17:02.294Z
 sponsored: true
 featured: false
