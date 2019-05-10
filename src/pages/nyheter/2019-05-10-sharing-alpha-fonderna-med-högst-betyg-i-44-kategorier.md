@@ -59,6 +59,6 @@ Europe Emerging Markets Eq   Prosperity Cub Fund
 Infrastructure Sector Eq     MS INVF Global Infrastructure Fund
 Long/Short Credit            Candriam Bds Credit Opportunities 
 Global Macro                 Eaton Vance Intl Global Macro     
-\`\``
+```
 
 Vid sammanställningen tar Sharing Alpha bara hänsyn till betyg som satts av användare som kan identifiera sig som professionella fondköpare. Vem som helst kan tekniskt sett skapa ett konto på plattformen och betygsätta fonder, men för att betyget ska räknas med krävs ovanstående verifiering.
