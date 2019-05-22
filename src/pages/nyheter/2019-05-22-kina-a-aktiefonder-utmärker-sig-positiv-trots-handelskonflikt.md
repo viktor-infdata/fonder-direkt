@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Kina: A-aktiefonder utmärker sig positiv trots handelskonflikt'
+title: 'Kina: A-aktiefonder utmärker sig positivt trots handelskonflikt'
 date: 2019-05-22T11:24:36.043Z
 sponsored: false
 featured: false
