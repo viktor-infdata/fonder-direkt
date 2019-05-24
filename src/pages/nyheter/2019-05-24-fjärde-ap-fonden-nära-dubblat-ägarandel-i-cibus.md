@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Fjärde AP-fonden: Nära dubblat ägarandel i Cibus'
+title: 'Fjärde AP-fonden: Närapå dubblat ägarandel i Cibus'
 date: 2019-05-24T15:10:26.027Z
 sponsored: false
 featured: false
