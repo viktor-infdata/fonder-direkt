@@ -7,7 +7,7 @@ featured: false
 tags:
   - Skagen Fonder
 ---
-Utvecklingen i tillväxtmarknadsländer rör sig i rätt riktning, med högre utbildnings- och sjukvårdsnivåer samt tekniska landvinningar, skriver Skagen Fonder i ett inlägg på sin hemsida. 
+STOCKHOLM (Fonder Direkt) Utvecklingen i tillväxtmarknadsländer rör sig i rätt riktning, med högre utbildnings- och sjukvårdsnivåer samt tekniska landvinningar, skriver Skagen Fonder i ett inlägg på sin hemsida. 
 
 Samtidigt ser fondbolaget att framsteg görs vad gäller exempelvis bolagsstyrning och aktiemarknadslikviditet. Men trots positiva underliggande trender är värderingsgapet mellan tillväxt- och utvecklade marknader betydande, framhåller Skagen. Läs mer om hur de resonerar på följande länk: 
 
