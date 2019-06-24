@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Fonder: Ädelmetallsfonderna hakar på guldpriset uppåt'
+title: 'Fonder: Ädelmetallfonderna hakar på guldpriset uppåt'
 date: 2019-06-24T15:50:23.598Z
 sponsored: false
 featured: false
