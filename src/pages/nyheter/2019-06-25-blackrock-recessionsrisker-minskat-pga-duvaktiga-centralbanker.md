@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Blackrock: Recessionsrisker minskat pga duvaktiga centralbanker'
+title: 'Blackrock: Recessionsrisk minskat pga duvaktiga centralbanker'
 date: 2019-06-25T15:38:06.604Z
 sponsored: false
 featured: false
