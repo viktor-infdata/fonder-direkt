@@ -23,8 +23,8 @@ module.exports = {
         name: 'pages',
       },
     },
-    'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
@@ -182,7 +182,15 @@ module.exports = {
         },
       },
     },
-    'gatsby-plugin-netlify-cache',
+    {
+      resolve: "gatsby-plugin-netlify-cache",
+      options: {
+        extraDirsToCache: [
+          "public/static",
+          "public/img"
+        ]
+      }
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
