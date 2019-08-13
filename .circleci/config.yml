@@ -22,7 +22,7 @@ commands:
             - gatsby-public-cache-{{ .Branch }}
       - run:
           name: Gatsby Build
-          command: GATSBY_CPU_COUNT=2 gatsby info && gatsby build
+          command: GATSBY_CPU_COUNT=2 yarn build
       - save_cache:
           key: gatsby-public-cache-{{ .Branch }}
           paths:
