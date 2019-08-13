@@ -1,0 +1,60 @@
+version: 2.1
+executors:
+  node-executor:
+    docker:
+      - image: circleci/node:10
+commands:
+  gatsby-build:
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - yarn-cache-{{ checksum "yarn.lock" }}
+      - run:
+          name: Install Dependencies
+          command: yarn install && npm rebuild
+      - save_cache:
+          key: yarn-cache-{{ checksum "yarn.lock" }}
+          paths:
+            - ./node_modules
+      - restore_cache:
+          keys:
+            - gatsby-public-cache-{{ .Branch }}
+      - run:
+          name: Gatsby Build
+          command: GATSBY_CPU_COUNT=2 gatsby info && gatsby build
+      - save_cache:
+          key: gatsby-public-cache-{{ .Branch }}
+          paths:
+            - ./public
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - release:
+          filters:
+            branches:
+              only:
+                - bigbump
+jobs:
+  build:
+    executor: node-executor
+    environment:
+      NETLIFY_SITE_ID: ${Site_ID}
+      NETLIFY_ACCESS_TOKEN: ${Token}
+    working_directory: ~/repo
+    steps:
+      - gatsby-build
+      - run:
+          name: Netlify Deploy
+          command: ./node_modules/.bin/netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --dir=public
+  release:
+    executor: node-executor
+    environment:
+      NETLIFY_SITE_ID: YOUR_NETLIFY_SITE_ID
+      NETLIFY_ACCESS_TOKEN: A_NETLIFY_ACCESS_TOKEN    working_directory: ~/repo
+    steps:
+      - gatsby-build
+      - run:
+          name: Netlify Deploy
+          command: ./node_modules/.bin/netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --prod --dir=public
