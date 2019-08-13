@@ -37,22 +37,12 @@ workflows:
               only:
                 - bigbump
 jobs:
-  build:
+  release:
     executor: node-executor
     environment:
       NETLIFY_SITE_ID: ${Site_ID}
       NETLIFY_ACCESS_TOKEN: ${Token}
     working_directory: ~/repo
-    steps:
-      - gatsby-build
-      - run:
-          name: Netlify Deploy
-          command: ./node_modules/.bin/netlify deploy --site $NETLIFY_SITE_ID --auth $NETLIFY_ACCESS_TOKEN --dir=public
-  release:
-    executor: node-executor
-    environment:
-      NETLIFY_SITE_ID: YOUR_NETLIFY_SITE_ID
-      NETLIFY_ACCESS_TOKEN: A_NETLIFY_ACCESS_TOKEN    working_directory: ~/repo
     steps:
       - gatsby-build
       - run:
