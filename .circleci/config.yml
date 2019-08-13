@@ -21,6 +21,9 @@ commands:
           keys:
             - gatsby-public-cache-{{ .Branch }}
       - run:
+          name: Install netlify-cli
+          command: sudo npm install -g --silent netlify-cli
+      - run:
           name: Gatsby Build
           command: GATSBY_CPU_COUNT=2 yarn build
       - save_cache:
