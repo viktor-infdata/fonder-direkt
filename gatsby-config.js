@@ -40,7 +40,6 @@ module.exports = {
             options: {
               maxWidth: 925,
               quality: 85,
-              withWebp: true,
             },
           },
           {
