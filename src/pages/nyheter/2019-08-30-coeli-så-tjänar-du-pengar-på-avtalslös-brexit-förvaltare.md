@@ -32,7 +32,3 @@ Storbritanniens handel med EU står för 21 procent av landets BNP. I jämförel
 
 
 "EU verkar vilja göra Storbritannien till ett varnade exempel så att inget annat land ska följa Storbritanniens exempel och lämna unionen, kosta vad det kosta vill", skriver han.
-
-
-
-_**Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "uppdragsartikel" under rubriken.**_
