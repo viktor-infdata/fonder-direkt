@@ -4,7 +4,7 @@ title: 'United Bankers: "Realtillgångar är det som efterfrågas" - vd'
 date: 2019-09-05T13:40:25.975Z
 sponsored: true
 featured: false
-image: /img/050919.png
+image: ''
 tags:
   - United Bankers
 ---
