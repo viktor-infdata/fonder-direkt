@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: 'Fonder: Danska AP Pension exkluderar tobakstillverkare'
-date: 2019-09-11T11:25:09.687Z
+date: 2019-09-11T13:32:19.220Z
 sponsored: false
 featured: false
 tags:
-  - AP Pension
+  - AP Fonden
 ---
 STOCKHOLM (Fonder Direkt) Det danska pensionsbolaget AP Pension har beslutat att exkludera tobakstillverkare från sin portfölj utifrån hälso- och miljöskäl.
 
