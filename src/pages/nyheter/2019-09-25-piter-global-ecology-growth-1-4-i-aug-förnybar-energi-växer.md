@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'piter Global Ecology Growth: -1,4% i aug, förnybar energi växer'
+title: 'Jupiter Global Ecology Growth: -1,4% i augusti, förnybar energi växer'
 date: 2019-09-25T15:36:01.093Z
 sponsored: false
 featured: false
