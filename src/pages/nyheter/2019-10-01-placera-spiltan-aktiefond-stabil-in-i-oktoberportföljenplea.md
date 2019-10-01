@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Placera: Spiltan Aktiefond Stabil in i oktoberportföljenPlea'
+title: 'Placera: Spiltan Aktiefond Stabil in i oktoberportföljen'
 date: 2019-10-01T12:17:36.981Z
 sponsored: false
 featured: false
