@@ -784,9 +784,20 @@ $svg-share-width: 20px;
     &.has-text-grey {
     .is-language {
       width: 24px;
+      }
     }
   }
 }
+
+// MESSAGE
+.message.is-fd-akademi {
+  background-color: transparent;
+  border-radius: 0;
+  .message-body {
+    color: $white-ter;
+    border-color: $primary;
+    border-radius: 0;
+  }
 }
 
 // EMBED RESPONSIVE
