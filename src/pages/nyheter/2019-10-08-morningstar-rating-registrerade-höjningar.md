@@ -13,6 +13,4 @@ STOCKHOLM (Fonder Direkt) Följande fonder har fått sin Morningstar Rating höj
 
 Det framgår av en uppdatering i Morningstars databas.
 
-
-
 Morningstars stjärnrating baseras på den historiska utvecklingen för en fond i jämförelse men andra fonder inom samma kategori.
