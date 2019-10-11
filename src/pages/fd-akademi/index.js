@@ -75,7 +75,7 @@ class IndexPage extends React.Component {
                 </h1>
                 <article class="message is-fd-akademi">
                   <div class="message-body">
-                    FD Akademi erbjuder utbildning och förståelse av finansiella termer, ämnen och teman relaterade till fonder samt andra finansiella investeringsprodukter. FD Akademi vill bryta barriärerna när det gäller finans, och ge alla som lära sig mer den möjligheten via vårt innehåll. Det har aldrig varit viktigare att kunna ta kontroll över sina ekonomiska beslut, och FD Akademi vill tillsammans med Fonder Direkt tillhandahålla den information du behöver för att kunna göra detta.
+                    FD Akademi erbjuder utbildning och förståelse av finansiella termer, ämnen och teman relaterade till fonder samt andra finansiella investeringsprodukter. FD Akademi vill bryta barriärerna när det gäller finans, och ge alla som vill lära sig mer den möjligheten via vårt innehåll. Det har aldrig varit viktigare att kunna ta kontroll över sina ekonomiska beslut, och FD Akademi kommer tillsammans med Fonder Direkt att tillhandahålla den information som du behöver för att kunna göra just detta.
                   </div>
                 </article>
               </div>

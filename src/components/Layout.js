@@ -63,6 +63,7 @@ const TemplateWrapper = ({ children }) => (
         name="google-site-verification"
         content="pt21VWkfJ3NiX6orlK7yhx_w9_z_DvoeeWwt4GOm_kM"
       />
+      <link rel="preconnect dns-prefetch" href="https://fonts.gstatic.com" />
     </Helmet>
     <div className="page">
       <div className="main">
