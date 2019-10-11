@@ -1,11 +1,11 @@
 ---
 templateKey: video-post
 program: Fonder Direkt
-videoId: 'https://www.youtube.com/watch?v=Y31g9vEkObE'
-title: 'Fondfunderingar: Premiepensionsreformen med Johanna Kull'
+videoId: 'https://www.youtube.com/watch?v=IIgwBVkmOO8'
+title: 'anske Bank: Förvaltaren Karl Burck intervjuad av Fonder Direkt'
 date: 2019-10-11T14:36:03.553Z
 featured: false
 tags:
-  - Fondfunderingar
+  - Danske Bank
 ---
-Första avsnittet av vår nya programserie Fondfunderingar med Johanna är här och i dagens program gästas vi av ingen mindre än Johanna Kull, sparekonom på Avanza, för att prata om premiepensionsreformen och vad den kan tänkas innebära för den enskilda spararen, men även för fondförvaltare.
+Danske Banks fondförvaltare Karl Burck berättar om vikten att investera hållbart och om vikten av att anpassa fondval efter var man befinner sig i livet. Se vad som särskiljer Horisont-fonderna och hur ESG-teamet arbetar för att säkerställa att innehaven håller de högt ställda kraven.
