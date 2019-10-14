@@ -1,7 +1,7 @@
 ---
 templateKey: video-post
 program: Fonder Direkt
-videoId: 'https://www.youtube.com/watch?v=IIgwBVkmOO8&t=5s '
+videoId: 'https://youtu.be/IIgwBVkmOO8'
 title: 'Danske Bank: Förvaltaren Karl Burck intervjuad av Fonder Direkt'
 date: 2019-10-11T14:36:03.553Z
 featured: false
