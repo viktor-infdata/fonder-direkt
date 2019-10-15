@@ -1,6 +1,6 @@
 ---
 templateKey: video-post
-program: Fonder Direkt
+program: Hållbarhetssnack med
 videoId: Y31g9vEkObE
 title: 'Fondfunderingar: Premiepensionsreformen med Johanna Kull'
 date: 2019-10-14T07:03:29.914Z
