@@ -1,5 +1,6 @@
-@import "~bulma/sass/utilities/initial-variables";
-@import "~bulma/sass/utilities/functions";
+@charset "utf-8";
+@import "~bulma/sass/utilities/initial-variables.sass";
+@import "~bulma/sass/utilities/functions.sass";
 
 // Sticky Footer
 .page {
@@ -1394,4 +1395,4 @@ $svg-share-width: 20px;
 }
 /* purgecss end ignore */
 
-@import "~bulma";
+@import "~bulma/bulma.sass";

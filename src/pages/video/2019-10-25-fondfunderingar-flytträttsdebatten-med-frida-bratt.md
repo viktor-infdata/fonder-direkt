@@ -4,7 +4,7 @@ program: Fonder Direkt
 videoId: sJk440iEkv0
 title: 'Fondfunderingar: Flytträttsdebatten med Frida Bratt!'
 date: 2019-10-25T13:24:25.859Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---

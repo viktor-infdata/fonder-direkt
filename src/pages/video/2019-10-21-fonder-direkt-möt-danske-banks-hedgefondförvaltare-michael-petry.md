@@ -4,7 +4,7 @@ program: Fonder Direkt
 videoId: ktNLCBR7nrc
 title: 'Fonder Direkt: Möt Danske Banks hedgefondförvaltare Michael Petry'
 date: 2019-10-21T13:41:38.278Z
-featured: false
+featured: true
 tags:
   - Danske Bank
 ---
