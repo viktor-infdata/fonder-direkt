@@ -1,3 +1,4 @@
+var path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Fonder Direkt',
@@ -164,7 +165,13 @@ module.exports = {
         ],
       },
     },
-    'gatsby-plugin-purgecss', // must be after other CSS plugins
+    {
+      resolve: 'gatsby-plugin-purgecss',
+      options: {
+        content: [path.join(process.cwd(), 'src/**/!(*.d).{js,md}')],
+        whitelist: ['blockquote'],
+      },
+    }, // must be after other CSS plugins
     {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
