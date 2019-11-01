@@ -169,7 +169,7 @@ module.exports = {
       resolve: 'gatsby-plugin-purgecss',
       options: {
         content: [path.join(process.cwd(), 'src/**/!(*.d).{js,md}')],
-        whitelist: ['blockquote'],
+        whitelist: ['blockquote', 'pre'],
       },
     }, // must be after other CSS plugins
     {
