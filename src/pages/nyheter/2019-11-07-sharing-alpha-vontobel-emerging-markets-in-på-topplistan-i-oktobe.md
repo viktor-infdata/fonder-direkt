@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Sharing Alpha: Vontobel Emerging Markets in på topplistan i oktobe'
+title: 'Sharing Alpha: Vontobel Emerging Markets in på topplistan i oktober'
 date: 2019-11-07T09:39:14.007Z
 sponsored: false
 featured: false
