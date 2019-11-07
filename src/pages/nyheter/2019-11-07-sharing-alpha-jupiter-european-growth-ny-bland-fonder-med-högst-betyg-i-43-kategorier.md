@@ -15,9 +15,9 @@ STOCKHOLM (Fonder Direkt) Sharing Alpha, plattformen där professionella fondkö
 
 Nedan följer en sammanställning över de fonder som har fått högst snittbetyg i en mängd olika fondkategorier. Endast fonder som finns till försäljning i Norden är inkluderade.
 ```` 
-Fondkategori	                       Fondnamn 
-Aggressive Allocation	               First Eagle Amundi International 
-Asia ex-Japan Equity	               Schroder ISF Asian Total Return
+Fondkategori	                        Fondnamn 
+Aggressive Allocation	                First Eagle Amundi International 
+Asia ex-Japan Equity	                Schroder ISF Asian Total Return
 Asia Fixed Income	                    Matthews Asia Fds Asia Credit Opps
 Asia Equity	                            JPM Pacific Equity
 Cautious Allocation	                    Invesco Pan European High Income 
