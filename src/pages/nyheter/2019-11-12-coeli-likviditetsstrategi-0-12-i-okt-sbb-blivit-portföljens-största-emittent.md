@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: >-
-  Coeli Likviditetsstrategi: -0,12% i okt, SBB blivit portföljens största
+  Coeli Likviditetsstrategi: -0,12% i oktober, SBB blivit portföljens största
   emittent
 date: 2019-11-12T14:09:38.777Z
 sponsored: true
