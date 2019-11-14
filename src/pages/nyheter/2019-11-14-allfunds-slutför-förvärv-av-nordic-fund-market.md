@@ -13,7 +13,7 @@ STOCKHOLM (Fonder Direkt) Allfunds, som tillhandahåller en av Europas största 
 
 Genom förvärvet får nordiska fonddistributörer tillgång till Allfunds globala distributionsnätverk, som enligt pressmeddelandet kommet att expandera. 
 
-"Förvärvet passar oss perfekt och vi ser framemot att bli operativa i Sverige. Genom förvärvet har vi kunnat skynda på processen att etablera vår egen enhet i Norden. Vi har redan en existerande kundbas och existerande specialister på marknaden, och nu var det viktigt för oss att kunna få med medarbetare från NFM till vår egna enhet, vilket vi även lyckats med", säger Stig Harby, Allfunds regionala chef för Norden och Centraleuropa, i en intervju med Fonder Direkt. 
+"Förvärvet passar oss perfekt och vi ser framemot att bli operativa i Sverige. Genom förvärvet har vi kunnat skynda på processen att etablera vår egen enhet i Norden. Vi har redan en existerande kundbas och existerande specialister på marknaden, och nu var det viktigt för oss att kunna få med medarbetare från NFM och etablera vår egna enhet lokalt, vilket vi även lyckats med", säger Stig Harby, Allfunds regionala chef för Norden och Centraleuropa, i en intervju med Fonder Direkt. 
 
 Flera medarbetare som arbetat för NFM hos Nasdaq har rekryterats, bland annat Mattias Hammarqvist som tidigare var vd för Nasdaq Broker Services och som nu blir vd för Allfunds Sweden. Allfunds har redan etablerat ett kontor i Stockholm och den nordiska verksamheten fördubblas i och med förvärvet, heter det. 
 
