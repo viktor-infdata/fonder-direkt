@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Fonder: Fondbolag får böta 1,9 mln gbp för passiv förvaltning'
+title: 'Fonder: Fondbolag får böta 1,9 miljoner pund för passiv förvaltning'
 date: 2019-11-20T14:11:58.146Z
 sponsored: false
 featured: false
