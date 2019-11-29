@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Jupiter Global Ecology Growth: Turbulent start slutade med +1,7%'
+title: 'Jupiter Global Ecology Growth: Turbulent månad slutade med +1,7%'
 date: 2019-11-29T13:35:26.761Z
 sponsored: true
 featured: false
