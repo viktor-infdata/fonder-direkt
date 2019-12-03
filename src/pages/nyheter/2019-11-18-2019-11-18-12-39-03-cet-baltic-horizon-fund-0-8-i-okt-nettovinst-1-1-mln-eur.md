@@ -9,7 +9,7 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) Den börshandlade fastighetsfonden Baltic Horizon Fund backade 0,8 procent på Stockholmsbörsen i oktober. Stängningskursen den 31 oktober var 14:63 kronor, samtidigt som fondens nettotillgångsvärde (NAV) under månaden föll med 1,27 procent till 1:3230 euro.
 
-![](/img/baltic.png)
+![Kursutveckling för Baltic Horizon på Stockholmsbörsen i oktober. Fonden är även noterad på Nasdaq Tallinn. (Källa: Infront)](/img/baltic.png "Kursutveckling för Baltic Horizon på Stockholmsbörsen i oktober. Fonden är även noterad på Nasdaq Tallinn. (Källa: Infront)")
 
 Kursutveckling för Baltic Horizon på Stockholmsbörsen i oktober. Fonden är även noterad på Nasdaq Tallinn. (Källa: Infront)
 

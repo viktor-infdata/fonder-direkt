@@ -17,7 +17,7 @@ Det framgår av en månadsrapport från fondförvaltaren Aki Kostiander, vars fo
 
 I svenska kronor noterades en nedgång om 0,5 procent under månaden, vilket innebär en uppgång om 36,1 procent sedan årsskiftet.
 
-![](/img/ub1.jpg)
+![Fondutveckling i euro sedan starten i december 2014. (Källa: United Bankers AM)](/img/ub1.jpg "Fondutveckling i euro sedan starten i december 2014. (Källa: United Bankers AM)")
 
 _Fondutveckling i euro sedan starten i december 2014. (Källa: United Bankers AM)_
 
