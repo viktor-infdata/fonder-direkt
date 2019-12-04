@@ -4,7 +4,7 @@ program: Fonder Direkt Monthly Roundup
 videoId: E_z3Y73lwKI
 title: 'Fondfunderingar: Fondrebellen SAVR berättar om sin affärsidé'
 date: 2019-12-03T08:59:16.388Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---
