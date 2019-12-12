@@ -9,14 +9,10 @@ tags:
 ---
 STOCKHOLM (Fonder Direkt) I samband med noteringen av luftreningsbolaget Qleanair går fonden IKC Sverige Flexibel in och tecknar aktier.
 
-
-
 Det framgår av ett pressmeddelande.
-
-
 
 Qleanair utvecklar luftreningslösningar som "främjar människors hälsa genom att kontrollera inomhusmiljön och luftkvaliteten".
 
-
-
 "Vi tror att detta är ett bolag man skall äga på lång sikt. Miljövänlig teknologi ligger i tiden och det är en relativt konjunkturokänslig verksamhet. Vi tycker att bolaget är attraktivt prissatt och det finns stora möjligheter för Qleanair att växa framöver", skriver IKC Fonder.
+
+Aktien i Qleanair steg med 5 procent till 42 kronor när bolaget på torsdagen gjorde debut på handelsplattformen Nasdaq First North.
