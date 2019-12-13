@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Skagen Insight: -0,9% i nov, förväntar högre bud på Hudson's Bay'
+title: "Skagen Insight: -0,9% i nov, förväntar högre bud på Hudson's Bay"
 date: 2019-12-12T12:31:58.799Z
 sponsored: true
 featured: false
