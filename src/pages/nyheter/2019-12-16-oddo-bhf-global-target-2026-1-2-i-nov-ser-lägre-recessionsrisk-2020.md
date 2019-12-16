@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Oddo BHF Global Target 2026: +1,2% i nov, ser lägre recessionsrisk 2020'
+title: 'Oddo BHF Global Target 2026: +1,2% i november, ser lägre recessionsrisk 2020'
 date: 2019-12-16T14:44:55.981Z
 sponsored: true
 featured: false
