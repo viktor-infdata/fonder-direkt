@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Jupiter European Growth: +3,3% i nov, portföljens ommöblering fortskrider'
+title: 'Jupiter European Growth: +3,3% i november, portföljens ommöblering fortskrider'
 date: 2019-12-17T08:09:34.714Z
 sponsored: true
 featured: false
