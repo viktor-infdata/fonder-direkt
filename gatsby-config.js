@@ -170,6 +170,7 @@ module.exports = {
       options: {
         content: [path.join(process.cwd(), 'src/**/!(*.d).{js,md}')],
         whitelist: ['blockquote', 'pre'],
+        whitelistPatterns: [/^cookieConsent/],
       },
     }, // must be after other CSS plugins
     {
