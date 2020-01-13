@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: >-
-  Coeli Nordisk Företagsobligationsfond: +0,33% i dec, Intrum och 4Finance ledde
-  vägen
+  Coeli Nordisk Företagsobligationsfond: +0,33% i december, Intrum och 4Finance
+  ledde vägen
 date: 2020-01-13T08:54:03.179Z
 sponsored: true
 featured: false
