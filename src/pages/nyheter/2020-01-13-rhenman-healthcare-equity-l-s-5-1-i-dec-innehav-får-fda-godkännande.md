@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Rhenman Healthcare Equity L/S: +5,1% i dec, innehav får FDA-godkännande'
+title: 'Rhenman Healthcare Equity L/S: +5,1% i december, innehav får FDA-godkännande'
 date: 2020-01-13T15:54:56.176Z
 sponsored: true
 featured: false
