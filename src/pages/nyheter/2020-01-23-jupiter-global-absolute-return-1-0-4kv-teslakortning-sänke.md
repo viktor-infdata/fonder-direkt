@@ -15,7 +15,7 @@ STOCKHOLM (Fonder Direkt) Globala aktiemarknader njöt av ytterligare uppgångar
 
 Fonden noterade trots det positiva börsklimatet en nedgång under kvartalet, till följd av en negativ utveckling under oktober och november.
 
-Minskat kortpositionen i Tesla
+**Minskat kortpositionen i Tesla**
 
 "Den positiva avkastningen från våra främsta korta positioner, Shake Schack och Wayfair, överskuggades av kortpositionen i Tesla då aktien steg 74 procent under kvartalet i lokal valuta", skildrar förvaltaren.
 
