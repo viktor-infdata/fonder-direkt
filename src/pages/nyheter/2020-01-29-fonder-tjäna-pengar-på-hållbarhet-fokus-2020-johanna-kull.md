@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Fonder: Att Ttäna pengar på hållbarhet i fokus 2020 - Johanna Kull'
+title: 'Fonder: Att tjäna pengar på hållbarhet i fokus 2020 - Johanna Kull'
 date: 2020-01-29T12:16:55.317Z
 sponsored: false
 featured: false
