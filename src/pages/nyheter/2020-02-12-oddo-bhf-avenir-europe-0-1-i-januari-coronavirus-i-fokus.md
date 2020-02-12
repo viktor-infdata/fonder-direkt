@@ -5,7 +5,7 @@ date: 2020-02-12T14:35:07.336Z
 sponsored: true
 featured: false
 tags:
-  - United Bankers
+  - Oddo
 ---
 STOCKHOLM (Fonder Direkt) Aktiefonden ODDO BHF Avenir Europe tappade 0,1 procent i januari, och överträffade därmed sitt jämförelseindex (MSCI Europe Smid EUR NR) som backade 1,3 procent. Det framgår av en rapport för årets första månad och avkastningen gäller i fondens basvaluta euro.
 
