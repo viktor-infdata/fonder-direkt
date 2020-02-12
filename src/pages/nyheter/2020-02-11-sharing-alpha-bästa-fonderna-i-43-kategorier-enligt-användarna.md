@@ -55,8 +55,6 @@ Nedan följer en sammanställning över de fonder som har fått högst snittbety
 | Long/Short Credit                         | Hermes Absolute Return Credit           |
 | Global Macro                              | JPM Global Macro Opportunities          |
 
-
-
 <!--EndFragment-->
 
 Vid sammanställningen tar Sharing Alpha bara hänsyn till betyg som satts av användare som kan identifiera sig som professionella fondköpare. Vem som helst kan tekniskt sett skapa ett konto på plattformen och betygsätta fonder, men för att betyget ska räknas med krävs denna verifiering.
