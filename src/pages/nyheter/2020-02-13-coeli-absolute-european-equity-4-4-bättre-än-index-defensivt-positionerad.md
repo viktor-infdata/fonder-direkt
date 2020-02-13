@@ -1,13 +1,15 @@
 ---
 templateKey: blog-post
-title: 'Coeli Absolute European Equity: 4,4% bättre än index, defensivt positionerad'
+title: >-
+  Coeli Absolute European Equity: 4,4% bättre än Stoxx600, defensivt
+  positionerad
 date: 2020-02-13T08:42:03.533Z
 sponsored: true
 featured: false
 tags:
   - Coeli
 ---
-STOCKHOLM (Fonder Direkt) Under en månad med tvära kast till följd av oro för vilken påverkan coronaviruset kan ha på världsekonomin steg aktiehedgefonden Coeli Absolute European Equity (andelsklass R SEK) med 3,2 procent, medan jämförelseindex Stoxx 600 minskade 1,2 procent. Hedge Nordics NHX Equities index ökade preliminärt 0,3 procent.
+STOCKHOLM (Fonder Direkt) Under en månad med tvära kast till följd av oro för vilken påverkan coronaviruset kan ha på världsekonomin steg aktiehedgefonden Coeli Absolute European Equity (andelsklass I SEK) med 3,2 procent, medan det breda europaindexet Stoxx 600 minskade 1,2 procent. Hedge Nordics NHX Equities index ökade preliminärt 0,3 procent.
 
 Det skriver förvaltaren Mikael Petersson i en kommentar avseende januari.
 
