@@ -31,7 +31,7 @@ Avgiften ligger på 0,6 procent och fonden har fyra stjärnor av Morningstar på
 
 Den andra fonden som Placera väljer att lyfta fram är **Spiltan Högräntefond**, som förvaltas av Lars Lönnquist och Nicklas Segerdahl. Fonden är aktivt förvaltad och placerar huvudsakligen i företagsobligationer, men kan även investera i andra värdepapper med betydande ränteinslag. Fonden placerar i nordiska bolag men tar ingen valutarisk.
 
-"Investeringsprocessen bygger på Spiltan filosofin. De väljer bolag som har en förutsägbar och hållbar affärsmodell, starka kassaflöden och en stabil balansräkning samt gärna en tydlig huvudägare. Investeringarna sprids mellan företag och branscher i Norden, med tyngdpunkt på Sverige, som har förutsättningar att få en bättre kreditvärdighe", framkommer det.
+"Investeringsprocessen bygger på Spiltan filosofin. De väljer bolag som har en förutsägbar och hållbar affärsmodell, starka kassaflöden och en stabil balansräkning samt gärna en tydlig huvudägare. Investeringarna sprids mellan företag och branscher i Norden, med tyngdpunkt på Sverige, som har förutsättningar att få en bättre kreditvärdighet", framkommer det.
 
 Fonden har totalt investerat i 162 innehav, vilket gör fonden väldiversifierade och inget innehav väger mer än 2,9 procent. Den har haft högre risk mätt som standardavvikelse än IKC Avkastningsfond de tre senaste åren på 0,9 procent men lägre än fondkategori snittet. Avkastningen de senaste fem hör till den högre i fondkategorin på 23,3 procent. Spiltan Högräntefond har belönats med fem stjärnor på både tre och fem år.
 
