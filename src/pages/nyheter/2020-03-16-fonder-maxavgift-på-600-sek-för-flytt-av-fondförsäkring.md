@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Fonder: Maxavgift på 600 SEK för flytt av fondförsäkring'
+title: 'Fonder: Maxavgift på 600 kronor för flytt av fondförsäkring'
 date: 2020-03-16T08:25:29.475Z
 sponsored: false
 featured: false
