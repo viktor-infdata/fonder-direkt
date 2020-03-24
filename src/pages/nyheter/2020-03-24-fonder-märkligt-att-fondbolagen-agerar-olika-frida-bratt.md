@@ -11,7 +11,7 @@ STOCKHOLM (Fonder Direkt) Många fondsparare har under de senaste dagarna upplev
 
 Turbulensen som rått på börsen till följd av coronavirusutbrottet har även skakat om företagsobligationsmarknaden rejält och vissa fonder med exponering mot just företagsobligationsmarknaden har stängt ned sin handel.
 
-Det rör sig om stora fondförvaltare med tusentals sparare såsom bland annat Spiltan, SEB, Carnegie och Lannebo som meddelat att de stängt handeln. Samtliga var eniga om att läget på företagsobligationsmarknaden medfört svårigheter att prissätta underliggande tillgångar på ett korrekt sätt, vilket riskerar att drabba de kvarvarande fondägarna negativt om fondbolagen tvingas sälja tillgångar för att frigöra kapital för att möta utflöden.
+Det rör sig om stora fondförvaltare med tusentals sparare såsom bland annat Spiltan, SEB, Carnegie och Lannebo som meddelat att de stängt handeln. Samtliga var eniga om att läget på företagsobligationsmarknaden medfört svårigheter att prissätta underliggande tillgångar på ett korrekt sätt, vilket medförde att de behövde stänga handeln för att kunna behandla alla andelsägare på ett likvärdigt sätt.
 
 Eniga var de även om att den stoppade handeln skulle pågå under en så kort tid som möjligt - och endast så länge det var absolut nödvändigt. Men här skiljer sig aktörernas agerande åt. Vissa fondförvaltare valde att återuppta handeln igen samma dag som de tidigare stängde, medan andra öppnat upp under måndagen och tisdagen. Av de tidigare nämnda fondförvaltarna har samtliga öppnat handeln igen förutom Spiltan Fonder.
 
@@ -34,3 +34,13 @@ Samtidigt tycker hon att man måste fundera på informationen om bland annat ris
 Hon anser inte heller att Morningstars riskklassificering är anpassad för företagsobligationsfonder, eftersom den utgår från fondens standardavvikelse. Illikvida papper som inte prissätts regelbundet kommer då inte till uttryck i det måttet.
 
 "Det blir missvisande. Och generellt tycker jag fonder som kallar sig 'företagsobligationsfond' eller rentav 'likviditetsfond' kan bli ännu tydligare med att redovisa hur stor andel high yield-obligationer man har", tillägger sparekonomen.
+
+Viktor Ström, kommunikationsansvarig på Lannebo Fonder, vill vara tydlig med att handelsstoppet för dessa fonder de senaste dagarna inte har något att göra med att fonderna fått för stora utflöden, enbart om likabehandling av fondandelsägare.
+
+"Problemet som uppstått är att nettoandelsvärdet inte gått att beräkna på ett tillförlitligt sätt och enligt lag får vi inte behandla andelsägare olika, vilket skulle kunna vara fallet om man fortsätter handel i en fond där det inte går att prissätta tillgångarna korrekt", säger Viktor Ström till Fonder Direkt.
+
+Trots att det gått ett antal veckodagar sedan den första fondförvaltaren valde att öppna igen för handel i fredags påpekar Viktor Ström att det endast egentligen gått en handelsdag tills dess att de flesta aktörer hade öppnat för handel igen. Att det fortfarande finns fondbolag som håller handeln stängd tror han kan ha att göra med de underliggande tillgångarna som fonderna investerar i.
+
+"Att man gör en skild bedömning över huruvida det är möjligt att prissätta tillgångarna eller inte kan mycket väl även ha att göra med vilka tillgångar man faktiskt äger", säger Viktor Ström.
+
+"Det finns givetvis olika grader av osäkerhet i all värdering men utfallet blir binärt då en fond endast kan vara öppen för handel eller inte", tillägger han.
