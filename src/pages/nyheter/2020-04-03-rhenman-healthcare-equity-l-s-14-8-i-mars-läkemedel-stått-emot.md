@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Rhenman Healthcare Equity L/S: -14,8% i mars, läkemedel stått emot'
+title: 'Rhenman Healthcare Equity L/S: -14,8% i mars, läkemedel stod emot'
 date: 2020-04-03T13:26:59.377Z
 sponsored: true
 featured: false
