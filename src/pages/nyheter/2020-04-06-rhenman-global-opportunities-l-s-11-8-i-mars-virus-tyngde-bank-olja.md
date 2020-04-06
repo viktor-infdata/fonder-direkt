@@ -11,7 +11,9 @@ STOCKHOLM (Fonder Direkt) Till det som började som en utbudschock, det vill sä
 
 Det konstaterar aktiehedgefonden Rhenman Global Opportunities L/S:s portföljförvaltare Staffan Knafve i en månadsrapport, där fondens avkastning i mars anges till -11,8 procent vilket innebär ett tapp om 23,1 procent hittills i år (i fondens huvudandelsklass RC1 SEK).
 
-Avkastningshistorik för Rhenman Global Opportunities L/S sedan starten i augusti 2016, indexerat till 100. (Källa: Rhenman & Partners AM)
+![](/img/rhenman.png)
+
+*Avkastningshistorik för Rhenman Global Opportunities L/S sedan starten i augusti 2016, indexerat till 100. (Källa: Rhenman & Partners AM)*
 
 "Om det negativa nyhetsflödet och börsnedgångarna i februari upplevdes som kraftiga, blev utvecklingen i mars ännu värre. Efter att ökningen av smittspridningen covid-19 hade dämpats i länder som Kina och Sydkorea, var det dags för Europa", skriver Staffan Knafve.
 
