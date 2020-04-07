@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'East Capital: fonder tillfälligt väljstoppats hos PPM'
+title: 'East Capital: fonder tillfälligt väljstoppade hos PPM'
 date: 2020-04-07T06:45:27.464Z
 sponsored: false
 featured: false
