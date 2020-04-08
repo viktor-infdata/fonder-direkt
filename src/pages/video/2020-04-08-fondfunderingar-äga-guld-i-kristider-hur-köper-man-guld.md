@@ -1,7 +1,7 @@
 ---
 templateKey: video-post
 program: Fonder Direkt Monthly Roundup
-videoId: kUxTW64A13k
+videoId: pG4fzW8L5w
 title: Fondfunderingar - Äga guld i kristider - hur köper man guld?
 date: 2020-04-08T09:11:13.161Z
 featured: false
@@ -12,4 +12,4 @@ STOCKHOLM (Fonder Direkt) Guld är för många en tillgång som man hört att ma
 
 I dagens avsnitt av Fondfunderingar gästade Anna Svahn för att prata om guld som tillgångsslag, vad hon använder för strategi i sina guldinvesteringar, varför man ska äga guld, när man ska äga det och hur man köper guld. Ska man köpa guldfonder, börshandlade fonder eller fysiskt guld?
 
-**Dagens gäst:** Anna Svahn, vd Blockchain.
+**Dagens gäst:** Anna Svahn, vd Cyg Cap.
