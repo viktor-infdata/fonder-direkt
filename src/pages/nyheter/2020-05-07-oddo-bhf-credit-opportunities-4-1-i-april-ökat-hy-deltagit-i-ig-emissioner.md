@@ -4,7 +4,7 @@ title: >-
   Oddo BHF Credit Opportunities: +4,1% i april, ökat HY, deltagit i
   IG-emissioner
 date: 2020-05-07T10:33:56.808Z
-sponsored: false
+sponsored: true
 featured: false
 tags:
   - ODDO BHF
