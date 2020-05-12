@@ -1,7 +1,7 @@
 ---
 templateKey: video-post
 program: Fonder Direkt Monthly Roundup
-videoId: pG4fzW8L5w
+videoId: _pG4fzW8L5w
 title: Fondfunderingar - Äga guld i kristider - hur köper man guld?
 date: 2020-04-08T09:11:13.161Z
 featured: false
