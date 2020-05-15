@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Alcur Fonder: Flaggar upp i Pricer, dubblat ägande sedan mars'
+title: 'Alcur Fonder: Flaggar upp i Pricer, fördubblat ägande sedan mars'
 date: 2020-05-15T12:03:29.099Z
 sponsored: false
 featured: false
