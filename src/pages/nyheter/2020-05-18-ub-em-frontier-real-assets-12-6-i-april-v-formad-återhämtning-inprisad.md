@@ -31,6 +31,6 @@ Portföljens två största sektorexponeringarna per den 31 mars var elektrisk al
 
 Sett till portföljförändringar uppges fonden ha reducerat exponeringen mot elektrisk samhällsnytta i Latinamerika och Asien för att i stället öka exponeringen mot andra infrastruktursektorer. Utöver detta ska fonden även ha tagit in några nya bolag inom digital infrastruktur, framkommer det.
 
-På landnivå är Mexiko med en exponering om 17,3 procent störst i fonden, följt av Thailand (14,9), Filippinerna (14,0), Malaysia (13,4) samt Indonesien (7,5). Den genomsnittliga direktavkastningen i portföljen låg vid utgången av februari på 4,6 procent, att jämföra med 3,5 procent i MSCI Emerging Markets-indexet, framgår av rapporten. Nedan följer UB EM Frontier Real Assets tio största innehav per den 30 april:
+På landnivå är Mexiko med en exponering om 17,3 procent störst i fonden, följt av Thailand (14,9), Filippinerna (14,0), Malaysia (13,4) samt Indonesien (7,5). Den genomsnittliga direktavkastningen i portföljen låg vid utgången av februari på 4,6 procent, att jämföra med 3,5 procent i MSCI Emerging Markets-indexet, framgår av rapporten. Nedan följer UB EM Frontier Real Assets tio största innehav per den 30 april: 
 
 ![](/img/frontier2.png)
