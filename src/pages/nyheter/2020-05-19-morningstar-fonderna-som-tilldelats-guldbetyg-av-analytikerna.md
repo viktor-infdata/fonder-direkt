@@ -56,6 +56,7 @@ Fonder Direkt har sammanställt en lista över de 37 Sverigetillgängliga fonder
 | Loomis Sayles US Core Plus Bd S1/A USD     | Räntor       | 9,9                        |
 
 <!--EndFragment-->
+
 Totalt sett har drygt 300 fonder globalt tilldelats ett guldbetyg från Morningstars analytiker, varav de 37 ovan i någon form finns tillgängliga i Sverige.
 
 Vad gäller nordiska förvaltare har Morningstar så här långt endast betygsatt fyra fonder (med försäljning i Sverige). Två av Nordeas fonder, Nordea 1 - Nordic Equity Small Cap samt Nordea 1 - Stable Return, får betyget brons medan Nordea 1 - European Value och Fondita Nordic Micro Cap tilldelats betyget neutral.
