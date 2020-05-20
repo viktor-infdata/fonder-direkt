@@ -7,7 +7,7 @@ featured: false
 tags:
   - Fonder
 ---
-STOCKHOLM (Fonder Direkt) Danske Invests fond Sverige Småbolag har från och med den 19 maj 2020 blivit utvald att ingå i Movestics ordinarie fondutbud. Det innebär att Sverige Småbolag kommer att erbjudas via Movestics fondplattform till de som har pensionskapital hos Movestic. Det framgår av ett pressmeddelande.
+STOCKHOLM (Fonder Direkt) Danske Invests fond Sverige Småbolag har från och med den 19 maj 2020 blivit utvald att ingå i Movestics ordinarie fondutbud. Det innebär att Sverige Småbolag kommer att erbjudas via Movestics fondplattform till de som har pensionskapital hos Movestic. Det framgår av ett pressmeddelande. 
 
 "Det är jätteroligt att fonden fått så stor uppmärksamhet sedan start och att strategin och filosofin verkligen har visat sig fungera. Att Movestic nu väljer in oss är ett bra betyg på vårt arbete", säger Petter Löfqvist, ansvarig fondförvaltare på Danske Bank.
 
