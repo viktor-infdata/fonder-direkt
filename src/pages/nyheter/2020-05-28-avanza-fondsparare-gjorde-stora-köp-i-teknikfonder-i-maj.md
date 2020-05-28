@@ -13,7 +13,7 @@ Det framgår av ett pressmeddelande.
 
 "Privatspararna är positiva och nettoköper fonder för andra månaden i rad. Kassan är dock större än innan coronakraschen och man är överlag beredd på att det kan bli en fortsatt svängig resa framöver. Drygt hälften av summan som såldes av i mars står fortfarande på vänt vid sidlinjen", säger Johanna Kull, sparekonom Avanza.
 
-Avanzas sparare gör 3 fondaffärer per fondkund i maj. Det är 3 procent fler än i fjol, visar statistik från 627 700 fondkunder hos Avanza. Månadens klart mest köpta fonder är teknikfonder.
+Avanzas sparare gör 3 fondaffärer per fondkund i maj. Det är 3 procent fler än i fjol, visar statistik från 627 700 fondkunder hos Avanza. Månadens klart mest köpta fonder är teknikfonder. 
 
 "Coronapandemin har fått världen att ta ett digitalt språng och teknikbolagen, som redan hade en stark underliggande tillväxt, har fått ytterligare vind i ryggen. Det har gynnat teknikfonderna, vilka med en snittavkastning på 11 procent, är en av få fondkategorier som har positiv avkastning sedan årsskiftet. Det har uppmärksammats av spararna och nära varannan fondkrona har i maj gått till just teknikfonder", säger Avanzas sparekonom Johanna Kull.
 
@@ -28,6 +28,7 @@ Avanzas sparare gör 3 fondaffärer per fondkund i maj. Det är 3 procent fler �
 | Blandfonder               | Asienfonder            |
 
 <!--EndFragment-->
+
 *Källa: Avanza*
 
 I företagsobligationsfonder byter spararna ben och nettoköper fonderna för första gången på tre månader.
