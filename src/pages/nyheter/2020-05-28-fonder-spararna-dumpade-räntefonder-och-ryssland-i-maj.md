@@ -21,7 +21,7 @@ Det har dock Rysslands- och Östeuropafonderna gjort. Moskvabörsen var en av de
 
 "Nu har dock Östeuropa och Ryssland också haft en snabb rekyl, och då passar en hel del fondsparare på att sälja", tillägger Frida Bratt.
 
-Mest handlade fonderna hos Nordnet i maj:
+Mest handlade fonderna hos Nordnet i maj: 
 
 <!--StartFragment-->
 
