@@ -7,7 +7,7 @@ featured: false
 tags:
   - Fonder
 ---
-STOCKHOLM (Fonder Direkt) Förra året var ett enastående bra år för många sektorer, och inte minst för fastighetsbolag. I ett investeringsklimat präglat av osäkerhet och låga räntor flockades aktieplacerare i stor utsträckning kring fastighetsbolag, som ofta erbjuder förutsägbara kassaflöden och som gynnas av låga ränteklimat.
+STOCKHOLM (Fonder Direkt) Förra året var ett enastående bra år för många sektorer, och inte minst för fastighetsbolag. I ett investeringsklimat präglat av osäkerhet och låga räntor flockades aktieplacerare i stor utsträckning kring fastighetsbolag, som ofta erbjuder förutsägbara kassaflöden och som gynnas av låga ränteklimat. 
 
 2020 inleddes å andra sidan med ett exceptionellt börsras, i takt med att coronaviruset spred ut sig runt om i världen. En oro kring finansieringen för fastighetsbolagen har krupit fram hos många investerare, och i en intervju med Fonder Direkt beskriver Danske Banks småbolagsförvaltare Petter Löfqvist hur sektorn har fått "brutalt mycket stryk" under årets inledande månader och han beskriver att de stora skulderna hos bolagen bland annat ligger bakom oron.
 
@@ -43,6 +43,7 @@ Fastighetsfonder med sämst avkastning hittills i år:
 | SEB Fastighetsfond                    | \-27,8%                  |
 
 <!--EndFragment-->
+
 **Källa:** Morningstar
 
 Spannet mellan den sämst presterande fastighetsfonden och den bästa är hela 25 procentenheter. Neuberger BM US Real Estate har klarat sig bäst bland fastighetsfonderna med en avkastning på -8,0 procent. Fonden investerar endast i amerikanska bolag, och bland de största portföljinnehaven noteras American Tower, Crown Castle International samt Equinix. Många av innehaven drar nytta av den pågående investeringsvågen inom 5G-nätet, vilket kan vara en av anledningarna till portföljens motståndskraftighet.
@@ -61,4 +62,5 @@ Fastighetsfonder med bäst avkastning hittills i år:
 | UB Real REIT                     | \-11,7%                  |
 
 <!--EndFragment-->
+
 **Källa:** Morningstar
