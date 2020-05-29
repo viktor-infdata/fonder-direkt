@@ -7,7 +7,7 @@ featured: false
 tags:
   - Fonder
 ---
-STOCKHOLM (Fonder Direkt) Förra året var ett enastående bra år för många sektorer, och inte minst för fastighetsbolag. I ett investeringsklimat präglat av osäkerhet och låga räntor flockades aktieplacerare i stor utsträckning kring fastighetsbolag, som ofta erbjuder förutsägbara kassaflöden och som gynnas av låga ränteklimat. 
+STOCKHOLM (Fonder Direkt) Förra året var ett enastående bra år för många sektorer, och inte minst för fastighetsbolag. I ett investeringsklimat präglat av osäkerhet och låga räntor flockades aktieplacerare i stor utsträckning kring fastighetsbolag, som ofta erbjuder förutsägbara kassaflöden och som gynnas av låga ränteklimat.  
 
 2020 inleddes å andra sidan med ett exceptionellt börsras, i takt med att coronaviruset spred ut sig runt om i världen. En oro kring finansieringen för fastighetsbolagen har krupit fram hos många investerare, och i en intervju med Fonder Direkt beskriver Danske Banks småbolagsförvaltare Petter Löfqvist hur sektorn har fått "brutalt mycket stryk" under årets inledande månader och han beskriver att de stora skulderna hos bolagen bland annat ligger bakom oron.
 
