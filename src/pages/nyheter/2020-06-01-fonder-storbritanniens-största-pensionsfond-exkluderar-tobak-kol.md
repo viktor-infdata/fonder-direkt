@@ -18,3 +18,5 @@ Utöver tobakstillverkning samt kolbrytning inkluderar svartlistningen även fö
 Enligt Universities Superannuation Scheme har inte de traditionella finansiella modellerna som används på marknaden för att förutspå den framtida utvecklingen lyckats inkludera specifika risker inom dessa sektorer.
 
 "En förändring kring attityden hos både politiker och myndigheter mot vissa aktiviteter kommer att skada utsikterna för företag som är involverade i industrier såsom tobak och kolbrytning", skriver pensionsförvaltaren enligt Bloomberg.
+
+Ägardatatjänsten Holdings listar sex av pensionsfondens innehav, varav tre är svenska. Övriga tre är norska Equinor, Telenor samt Gjensidige Forsikring. Bland de svenska portföljinnehaven noteras Atlas Copco, Lundin Energy samt Epiroc, varav gruv- och infrastrukturutrustningsföretaget Epiroc samt oljebolaget Lundin Energy riskerar att försvinna ur portföljen med tanke på deras verksamheter. Även norska oljebolaget Equinors framtid i Universities Superannuation Schemes portfölj ser ganska dyster ut.
