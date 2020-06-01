@@ -176,7 +176,7 @@ const Footer = () => (
       </svg>
     </ScrollUpButton>
     <CookieConsent
-      contentClasses="cookieConsentContainer"
+      contentClasses="CookieConsentContainer"
       buttonClasses="button is-small is-black"
       disableStyles={true}
       buttonText="Acceptera"

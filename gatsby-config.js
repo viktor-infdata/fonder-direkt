@@ -169,8 +169,8 @@ module.exports = {
       resolve: 'gatsby-plugin-purgecss',
       options: {
         content: [path.join(process.cwd(), 'src/**/!(*.d).{js,md}')],
-        whitelist: ['blockquote', 'pre'],
-        whitelistPatterns: [/^cookieConsent/],
+        whitelist: ['blockquote', 'pre', 'table'],
+        whitelistPatterns: [/Cookie/],
       },
     }, // must be after other CSS plugins
     {

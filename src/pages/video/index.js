@@ -2,7 +2,7 @@ import React from 'react'
 import chunk from 'lodash/chunk'
 import * as PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-import Helmet from 'react-helmet'
+import { Helmet } from 'react-helmet'
 import Layout from '../../components/Layout'
 
 if (typeof window !== 'undefined') {
