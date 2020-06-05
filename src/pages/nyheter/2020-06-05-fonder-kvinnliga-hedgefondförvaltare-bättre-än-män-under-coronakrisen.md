@@ -1,28 +1,30 @@
 ---
-templateKey: blog-post
-title: "Fonder: Kvinnliga hedgefondförvaltare bättre än män under coronakrisen"
-date: 2020-06-05T08:08:02.980Z
-sponsored: false
-featured: false
+title: "Oddo BHF Credit Opportunities: +1,8% i maj, ökat exponering HY"
+date: 2020-06-05T08:09:24.673Z
+sponsored: true
 tags:
-  - Fonder
+  - Oddo BHF
 ---
-STOCKHOLM (Fonder Direkt) Hedgefonder som förvaltas av kvinnor har haft en bättre utveckling än hedgefonder som förvaltas av män, det visar ny statistik som även belyser industrins långvariga brist på framsteg i att utjämna könsbalansen, det skriver Financial Times.
+STOCKHOLM (Fonder Direkt) Obligationsfonden ODDO BHF Credit Opportunities hade en stark månad i maj, med en positiv avkastning om 1,8 procent. Sedan årsskiftet noteras emellertid en negativ avkastning om -1,5 procent för fonden.
 
-Hedgefonder med kvinnliga förvaltare tappade 3,5 procent under årets första fyra månader, enligt HFR:s Women Access index. Under samma period backade HFRI 500 Fund Weighted Index, ett bredare index som inkluderar hedgefonder förvaltade av både män och kvinnor, 5,5 procent.
+Det framgår av en månadsrapport med kommentarer från fondförvaltarna Bastian Gries, Matthias Lackmann och Haiyan Ding.
 
-"Kvinnliga förvaltare verkar ha en bättre strategi för att hantera risk", kommenterade Russel Barlow, global chef för alternativa investeringsstrategier på Aberdeen Standard.
+"Marknadssentimentet var något svagare under inledningen av maj, men återhämtade sig starkt mot slutet av månaden då infektionstakten för Covid-19 började sakta in samt en långsam återöppning av länder gav stöd till mer riskfyllda tillgångar samtidigt som den ekonomiska aktiviteten började återhämta sig", skriver förvaltarteamet.
 
-Trots att det fanns exempel på både väldigt dåliga och bra prestationer från hedgefonder med kvinnliga såväl som manliga förvaltare så menar Russel Barlow att statistiken visar på att det helt enkelt finns en mycket högre andel "medelmåttiga" hedgefonder med manliga förvaltare än kvinnliga.
+[![image](https://i.direkt.se/200605/585406101.png)](https://i.direkt.se/200605/585406101.png)
 
-Industrin har en extrem obalans mellan könen och utvecklingen framåt går väldigt sakta, påpekar Financial Times.
+*Portföljens fördelning av olika tillgångsslag samt bidrag till löptid. (Källa: ODDO BHF AM SAS)*
 
-Andelen kvinnor som jobbar med hedgefonder uppges vara 18,8 procent, vilket är den näst lägsta andelen bland sju alternativa tillgångsklasser, enligt en studie gjord av Preqin, och skillnaden är endast marginell jämfört med 2017.
+Aktiviteten på primärmarknaden var fortsatt stark under början på maj och resulterade i visst tryck på riskpremier i sekundärmarknaden då investerare behövde generera likvida medel för att delta i nyemissioner, skriver förvaltarna.
 
-"Trots att vi sett en våg av nya hedgefonder med kvinnliga förvaltare under de senaste åren så har andelen kvinnor med seniora hedgefondpositioner fallit marginellt till 10,9 procent", framkommer det.
+"I slutet av maj resulterade dock en lägre aktivitet på primärmarknaden samt inflöden till investment grade- (IG) och high yield-fonder till minskade riskpremier, där cykliska sektorer gynnades mest. Spreadarna i maj sjönk med 17 baspunkter för investment grade respektive 79 baspunkter för high yield", meddelar förvaltarteamet.
 
-[![image](https://i.direkt.se/200605/585397701.png)](https://i.direkt.se/200605/585397701.png)
+ODDO BHF Credit Opportunities gick starkt under den andra halvan av månaden och stängde betydligt högre. I och med det positiva marknadssentimentet och de fortsatt attraktiva värderingarna har allokeringen mot high yield varit extra meningsfullt, meddelar förvaltarna och påpekar att fondens exponering mot high yield nu är högre än den var vid inledningen av året.
 
-*Källa: Financial Times*
+För att finansiera den ökade exponeringen mot high yield uppger förvaltarna att de i stället minskat exponeringen mot seniora investment grade obligationer.
 
-Varför hedgefonder ledda av kvinnor har utvecklats bättre detta år är oklart, såväl som om detta är en engångsföreteelse eller en mer långsiktig trend, skriver Financial Times. Vissa inom industrin påstår att kvinnliga förvaltare helt enkelt var mer skickliga än män när det kom till att undvika förluster när utvecklade marknader började falla.
+Nedan följer en uppställning över ODDO BHF Credit Opportunities tio största innehav per den 31 maj, bland totalt 285 innehav.
+
+[![image](https://i.direkt.se/200605/585406102.png)](https://i.direkt.se/200605/585406102.png)
+
+*Källa: ODDO BHF AM SAS*
