@@ -4,7 +4,7 @@ program: Fonder Direkt Monthly Roundup
 videoId: qJuQzeI__O8
 title: 'Fondfunderingar: Spara i aktiefonder eller investmentbolag?'
 date: 2020-06-02T11:17:04.297Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---

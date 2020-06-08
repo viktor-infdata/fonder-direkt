@@ -4,7 +4,7 @@ program: Fonder Direkt
 videoId: MuARr6QoUkk
 title: 'Danske Bank: "Förra årets darlings fått brutalt mycket stryk" - Löfqvist'
 date: 2020-05-25T14:53:02.299Z
-featured: false
+featured: true
 tags:
   - Danske Bank
 ---

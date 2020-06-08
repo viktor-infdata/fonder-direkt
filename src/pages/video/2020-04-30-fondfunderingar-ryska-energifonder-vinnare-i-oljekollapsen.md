@@ -4,7 +4,7 @@ program: Fonder Direkt
 videoId: 7adnmqStDqI
 title: 'Fondfunderingar: Ryska energifonder vinnare i oljekollapsen?'
 date: 2020-04-30T13:31:20.108Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---

@@ -1,6 +1,9 @@
 ---
+templateKey: blog-post
 title: "Fonder: Tunga röster vägrar ändrinar, PPM:s fondtorg överlever - DI"
 date: 2020-06-05T11:47:34.784Z
+sponsored: false
+featured: false
 tags:
   - Fonder
 ---

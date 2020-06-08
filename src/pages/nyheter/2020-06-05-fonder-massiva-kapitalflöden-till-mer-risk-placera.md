@@ -1,6 +1,9 @@
 ---
+templateKey: blog-post
 title: "Fonder: United Bankers avyttrat skogsfonden UB Nordic Forest I"
 date: 2020-06-05T13:22:24.936Z
+sponsored: false
+featured: false
 tags:
   - UB
 ---

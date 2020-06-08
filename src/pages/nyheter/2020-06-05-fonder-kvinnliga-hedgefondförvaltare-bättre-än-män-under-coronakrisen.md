@@ -1,7 +1,9 @@
 ---
+templateKey: blog-post
 title: "Oddo BHF Credit Opportunities: +1,8% i maj, ökat exponering HY"
 date: 2020-06-05T08:09:24.673Z
 sponsored: true
+featured: false
 tags:
   - Oddo BHF
 ---
