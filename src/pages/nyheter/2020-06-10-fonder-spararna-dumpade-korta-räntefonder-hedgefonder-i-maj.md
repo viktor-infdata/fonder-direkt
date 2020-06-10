@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Fonder: Spararna dumpade korta räntefonder & hedgefonder i maj"
-date: 2020-06-09T20:57:44.464Z
+date: 2020-06-10T06:04:23.274Z
 sponsored: false
 featured: false
 tags:
