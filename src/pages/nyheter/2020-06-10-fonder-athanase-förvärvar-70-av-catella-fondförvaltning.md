@@ -1,6 +1,8 @@
 ---
 title: "Fonder: PriorNilsson lanserar mikrobolagsfond"
 date: 2020-06-10T07:05:40.946Z
+sponsored: false
+featured: false
 tags:
   - Fonder
 ---
