@@ -1,18 +1,15 @@
 ---
-templateKey: blog-post
-title: "Fonder: Athanase förvärvar 70% av Catella fondförvaltning"
-date: 2020-06-10T07:05:18.784Z
-sponsored: false
-featured: false
+title: "Fonder: PriorNilsson lanserar mikrobolagsfond"
+date: 2020-06-10T07:05:40.946Z
 tags:
   - Fonder
 ---
-STOCKHOLM (Nyhetsbyrån Direkt) Finansbolaget Catella ingår ett strategiskt partnerskap med investmentbolaget Athanase som förvärvar 70 procent av aktierna i Catella Fondförvaltning (CFF) för en kontant köpeskilling om 126-154 miljoner kronor. Siffran beror på CFF:s utveckling fram tills dess att affären har gått i lås. Det skriver Nyhetsbyrån Direkt med hänvisning till ett pressmeddelande.
+STOCKHOLM (Fonder Direkt) Kapitalförvaltaren PriorNilsson lanserar en ny fond med namnet Evolve som fokuserar på snabbväxande mikrobolag. Det skriver Privata Affärer med hänvisning till ett pressmeddelande.
 
-Athanase ska genom Catella Fondförvaltning utveckla och förbättra kunderbjudandet, heter det.
+"Ett typiskt Evolve-bolag har en marknadsledande position i en attraktiv bransch men som ännu inte upptäckts av den bredare aktiemarknaden", skriver fondbolaget.
 
-I och med transaktionen har en förnyad bedömning gjorts av koncernmässiga uppskjutna skattefordringar, vilket föranleder en nedskrivning uppgående till cirka 70 miljoner kronor. Den samlade resultateffekten efter skatt av ovan för Catellakoncernen förväntas därmed uppgå till mellan -55 och -83 miljoner kronor under andra halvåret 2020.
+Fonden har mandat att investera i små och medelstora i Europa med särskilt fokus på så kallade mikrobolag.
 
-Catella har under januari 2022 rätt att sälja och Athanase har rätt att förvärva resterande 30 procent av aktierna för en köpeskilling om 60 miljoner kronor, framgår det vidare.
+"Mikrobolag äger i högre utsträckning än större bolag förmågan att kunna växa sin vinst och sitt börsvärde snabbare eftersom de i många fall fortfarande befinner sig i en tillväxtfas. Många av dessa bolag följs dessutom av få bolagsanalytiker och är ännu inte upptäckta av den bredare aktiemarknaden vilket leder till att värderingarna i vissa fall är felaktiga och skapar attraktiva investeringsmöjligheter", skriver fondbolaget.
 
-CFF är ett helägt dotterbolag till Catella som bedriver aktiv och alternativ kapitalförvaltning riktad till privata och institutionella investerare.
+Fonden finns tillgänglig via PriorNilsson Fonder, Avanza samt att den inom kort kommer att finnas på Nordnet och Fondmarknaden.se.
