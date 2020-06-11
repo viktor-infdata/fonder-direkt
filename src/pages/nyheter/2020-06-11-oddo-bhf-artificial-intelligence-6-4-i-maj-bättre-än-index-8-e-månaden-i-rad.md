@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "ODDO BHF Artificial Intelligence: +6,4% i maj, bättre än index 8:e
   månaden i rad"
 date: 2020-06-11T11:23:00.156Z
-sponsored: false
+sponsored: true
 featured: false
 tags:
   - ODDO BHF
