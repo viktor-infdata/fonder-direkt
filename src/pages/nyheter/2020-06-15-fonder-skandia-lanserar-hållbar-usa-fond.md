@@ -1,20 +1,30 @@
 ---
-templateKey: blog-post
-title: "Fonder: Skandia lanserar hållbar USA-fond"
-date: 2020-06-15T07:44:38.032Z
-sponsored: false
-featured: false
+title: 'UB Nordamerika REIT: +0,3% i maj, "svårt uppskatta fastighetsvärden"'
+date: 2020-06-15T08:33:50.581Z
+sponsored: true
 tags:
-  - Fonder
+  - UB AM
 ---
-STOCKHOLM (Fonder Direkt) Skandia lanserar en USA-fond med hållbart fokus. Skandia USA kommer att följas av fler fonder med en liknande hållbarhetsprofil. Under sommaren lanseras även Skandia Världen Sverige.
+STOCKHOLM (Fonder Direkt) Fastighetsfonden UB Nordamerika REIT var upp 0,3 procent i maj. REIT-tillgångar (real estate investment trust) inom kontor och detaljhandeln hade det kämpigt medan hälsosektorn och speciella segment hade en bättre månad.
 
-Det framgår av ett pressmeddelande.
+Det framgår av en månadsrapport med kommentarer från förvaltarteamet på United Bankers.
 
-"Skandia USA är startskottet för en större utveckling av vårt fonderbjudande vad gäller hållbarhet. Redan till hösten kommer ett större antal av våra fonder att ha fokus på hållbarhet. Vi vill göra det lätt för våra sparare att investera hållbart och bidra till omställningen", säger Annelie Enquist, vd på Skandia Fonder.
+[![image](https://i.direkt.se/200615/585695801.png)](https://i.direkt.se/200615/585695801.png)
 
-Skandia USA beskrivs som en aktivt förvaltad fond som investerar i bolag som bidrar aktivt till miljö och klimat samt omställningen till ett hållbart samhälle, både på kort och på lång sikt. Fonden väljer bort bolag som utvinner eller genererar kraft från fossila bränslen, producerar vapen, tobak, cannabis eller kränker internationella normer, framkommer det.
+*Fondens utveckling sedan starten i december 2014. (Källa: United Bankers AM)*
 
-Skandia Fonder samarbetar med Lazard Asset Management i förvaltningen av Skandia USA.
+Under månaden har förvaltarteamet gjort mindre ändringar i portföljen och adderat exponering mot hyresbostäder för enfamiljshushåll, framkommer det.
 
-Under sommaren lanseras Skandia Världen Sverige, en aktivt förvaltad aktiefond med 60 procent globala och 40 procent svenska aktier, som också har ett hållbarhetsfokus.
+Fastighetsmarknaden har återhämtat sig efter det djupa raset i mars, till följd av centralbanksstimulanser, lättnader på corona-relaterade restriktioner samt att arbetsmarknaden visat sig vara i ett bättre läge än man initialt befarade.
+
+"Det är svårt att för tillfället uppskatta intäkter och underliggande fastighetsvärden, då vi inte har en klar bild över hur Covid-19 kommer utvecklas härifrån", skriver förvaltarna.
+
+Operativt sett har det gått bra för nödvändighetsbaserade hyresvärdar menar förvaltarna och beskriver hur två tredjedelar av hyrorna kommit in.
+
+"Teatrar, restauranger och gym har varit de som främst begärt uppskjutna hyror. Utdelningarna har dragits ned eller ställts in helt för att förbättra bolagens likviditet", skildrar förvaltarteamet.
+
+Vid utgången av maj handlades UB Nordamerika REIT till en rabatt mot nettotillgångsvärdet (NAV) om 16 procent, vilket är betydligt högre än den övergripande REIT-marknaden som handlas till en rabatt om 0,90 procent, enligt rapporten. Den aggregerade direktavkastningen i fonden låg på 6,3 procent.
+
+[![image](https://i.direkt.se/200615/585695802.png)](https://i.direkt.se/200615/585695802.png)
+
+*Fondens tio största innehav per den sista maj. (Källa: United Bankers AM)*
