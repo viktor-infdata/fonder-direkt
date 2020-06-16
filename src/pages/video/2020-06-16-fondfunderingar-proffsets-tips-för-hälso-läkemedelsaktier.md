@@ -4,7 +4,7 @@ program: Fonder Direkt Monthly Roundup
 videoId: wK0-dOuxQqE
 title: "Fondfunderingar: Proffsets tips för hälso- & läkemedelsaktier"
 date: 2020-06-16T14:18:05.198Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---
