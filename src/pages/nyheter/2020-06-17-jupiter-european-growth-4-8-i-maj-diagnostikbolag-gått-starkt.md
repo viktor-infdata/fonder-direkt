@@ -7,7 +7,7 @@ featured: false
 tags:
   - Jupiter AM
 ---
-STOCKHOLM (Fonder Direkt) Jupiter European Growth har presterat bra och, mot förväntan, gått bättre än index. Det konstaterar förvaltarparet Mark Nichols och Mark Heslop i en månadskommentar för aktiefonden Jupiter European Growth för maj.
+STOCKHOLM (Fonder Direkt) Jupiter European Growth har presterat bra och mot förväntan  överpresterat sitt jämförelseindex i en stigande marknad. Det konstaterar förvaltarparet Mark Nichols och Mark Heslop i en månadskommentar för aktiefonden Jupiter European Growth för maj.
 
 Jupiter European Growth steg 4,8 procent i maj, vilket var 1,5 procentenheter bättre än fondens jämförelseindex (FTSE World Europe) som ökade 3,3 procent (bägge i fondens basvaluta euro). Sedan årsskiftet är utvecklingen i basvalutan -3,3 procent för fonden och -15,0 procent för jämförelseindex.
 
