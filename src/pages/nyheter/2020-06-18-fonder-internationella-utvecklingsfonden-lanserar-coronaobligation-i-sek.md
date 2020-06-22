@@ -1,6 +1,9 @@
 ---
+templateKey: blog-post
 title: "Fonder: Hedgefonder håvar in i hårdblankade Wirecards spillror"
 date: 2020-06-18T08:28:10.337Z
+sponsored: false
+featured: false
 tags:
   - Fonder
 ---
