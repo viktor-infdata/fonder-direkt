@@ -7,7 +7,7 @@ featured: false
 tags:
   - East Capital
 ---
-STOCKHOLM (Fonder Direkt) Kapitalförvaltaren East Capital förvärvar SEB:s huvudkontor i centrala Tallin från Partners Group och Northern Horizon för 4,8 miljarder kronor. Det framgår av ett pressmeddelande.
+STOCKHOLM (Fonder Direkt) Kapitalförvaltaren East Capital förvärvar SEB:s huvudkontor i centrala Tallinn från Partners Group och Northern Horizon för 480 miljoner kronor. Det framgår av ett pressmeddelande.
 
 Nyheten om förvärvet kommer dagen efter att Finansinspektionen utdömde en sanktionsavgift på 1 miljard kronor för brister i bankens arbete mot penningtvätt i Baltikum.
 
