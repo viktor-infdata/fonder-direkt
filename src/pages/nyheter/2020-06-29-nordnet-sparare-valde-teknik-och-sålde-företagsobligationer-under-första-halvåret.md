@@ -64,7 +64,7 @@ Mest handlade fonderna hos Nordnet under årets första halva:
 | SPP Aktiefond Global                       | Öhman FRN Hållbar               |
 | SEB Sverige Indexfond                      | Gladiator                       |
 | SPP Aktiefond USA                          | Swedbank Robur Access USA       |
-| Länsförsäkringar Fastighetsfond USA        | IKC Avkastningsfond             |
+| Länsförsäkringar Fastighetsfond            | IKC Avkastningsfond             |
 
 *(Källa: Nordnet)*
 
