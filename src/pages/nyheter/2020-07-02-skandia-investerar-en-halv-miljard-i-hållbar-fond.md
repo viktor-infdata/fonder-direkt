@@ -1,18 +1,13 @@
 ---
-templateKey: blog-post
-title: "Skandia: Investerar en halv miljard i hållbar fond"
-date: 2020-07-02T07:45:36.135Z
-sponsored: false
-featured: false
+title: "Lannebo Fonder: Minskar till under 5% i BHG"
+date: 2020-07-02T07:45:53.934Z
 tags:
-  - Skandia
+  - Lannebo
 ---
-STOCKHOLM (Fonder Direkt) Pensionsbolaget Skandia investerar närmare en halv miljard kronor i en ny fond inriktad mot utlåning till mikrofinansinstitut och inkluderande finansinstitut i utvecklingsländer.
+STOCKHOLM (Fonder Direkt) Lannebo Fonder har minskat sitt ägande i BHG Group, tidigare Bygghemma, till 4,95 procent.
 
-Det framgår av ett pressmeddelande.
+Det framgår av ett flaggningsmeddelande, med anledning av att gränsvärdet för antal aktier nu understiger 5 procent.
 
-"Investeringen och utlåningen har en tydlig koppling till flera av FN:s mål för hållbar utveckling såsom fattigdomsbekämpning, minskad hunger, utbildning, jämställdhet, god hälsa, rent vatten och förnybar energi", skriver Skandia.
+Lannebo Fonder ägde per den 31 maj 5,04 procent av kapitalet, en nivå som fondbolaget hållit stabil sedan de flaggade upp i mitten på mars i år efter köp om drygt 4,5 miljoner aktier, visar ägardatatjänsten Holdings.
 
-Skandia uppges vara den största investeraren och en av ankarinvesterarna i fonden som förvaltas av Developing World Markets (DWM).
-
-DWM:s fond lånar ut pengar till mikrofinansinstitut som i sin tur finansierar mikroföretag inom till exempel kvinnligt företagande. En annan del av utlåningen sker genom inkluderande finansinstitut som lånar ut pengar för att främja vattenrening, utveckling av jordbruk, förnyelsebar energi, bostadsbyggande, utbildning och hälsa. Utlåningen sker framförallt i Asien, Afrika, Latinamerika och Östeuropa, framkommer det.
+Det är totalt fyra Lannebo-fonder som har ett ägande i BHG Group, störst innehav har Lannebo Småbolag följt av Lannebo Småbolag Select, Lannebo Microcap samt Lannebo Microcap II.
