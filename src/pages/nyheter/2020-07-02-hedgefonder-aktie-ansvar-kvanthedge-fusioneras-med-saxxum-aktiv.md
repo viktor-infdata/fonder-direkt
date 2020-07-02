@@ -1,20 +1,25 @@
 ---
-templateKey: blog-post
-title: "Hedgefonder: Aktie-ansvar Kvanthedge fusioneras med Saxxum Aktiv"
-date: 2020-07-02T06:26:02.182Z
-sponsored: false
-featured: false
+title: "Blackrock: Överviktar europeiska aktier"
+date: 2020-07-02T06:26:31.851Z
 tags:
-  - Hedgefonder
+  - Blackrock
 ---
-STOCKHOLM (Fonder Direkt) Aktie-Ansvar har valt att fusionera Aktie-Ansvar Kvanthedge med den globala mixfonden Aktie-Ansvar Saxxum Aktiv. Det framgår av ett pressmeddelande.
+STOCKHOLM (Fonder Direkt) Coronaviruskrisen har accelererat strukturella trender inom ojämlikhet, globalisering, makropolitik och hållbarhet, vilket i sin tur i grunden omformat investeringslandskapet. Amerikanska fondgiganten Blackrock väljer att övervikta europeiska aktier och samtidigt dra ned amerikanska aktier till undervikt.
 
-Aktie-Ansvar Kvanthedge är en hedgefond som styrs av en kvantitativ systematisk modell som utgår från ekonomisk teori. Utifrån detta tar förvaltarna långa samt korta positioner i likvida värdepapper på de globala aktie-, ränte-, valuta- och råvarumarknaderna, heter det.
+Det framkommer av Blackrock Investment Institute i "The future is running at us", som ärmen utsikt över det andra halvåret.
 
-Aktie-Ansvar Saxxum Aktiv beskrivs å andra sidan som en global mixfond med en långsiktig investeringsstrategi som investerar i olika tillgångsslag världen över. Fonden placerar sina tillgångar i aktier, räntor, råvaror och valutor.
+"De viktigaste åtgärder som investerare måste vidta i dag, enligt vår mening, är att se över sin strategiska tillgångsallokering för att säkerställa att portföljer är motståndskraftiga mot de turboladdade trenderna", skriver kapitalförvaltaren.
 
-Saxxum Aktiv har en riskklass 4 medan Kvanthedge graderas till 5.
+Blackrock konstaterar även att den initiala ekonomiska nedgången av Covid-19 är större än den stora finanskrisen, men förvaltaren tror att dess kumulativa inverkan på ekonomin sannolikt kommer bli mindre, så länge det politiska svaret är stark nog att dämpa fallet.
 
-"Saxxum Aktiv har således en lägre riskklass men har haft en väsentligt bättre avkastning än Kvanthedge under de senaste tre åren. Mot den bakgrunden finner Aktie-Ansvar det logiskt att Kvanthedge fusioneras genom absorption in i Saxxum Aktiv", skriver Aktie-ansvar.
+Då normal konjunkturdynamik inte längre gäller finns det tre viktiga indikatorer att följa, enligt fondjätten.
 
-Fusionen beräknas ske med avstämningsdag per 30 september 2020 där fusionen genomförts till 1 oktober 2020. Den överlåtande fonden kommer vara stängd från och med den 28 september då det krävs för att kunna det hantera det administrativa kring fusionen.
+Den första är hur framgångsrika ekonomier är på att starta om verksamheten samtidigt som man kontrollerar virusspridningen. Den andra indikatorn är huruvida stimulanserna fortfarande är tillräckliga och når hushåll och företag och den tredje uppges vara om några tecken på finansiella sårbarheter eller permanent ärrbildning av produktionskapacitet håller på att växa fram.
+
+"Marknaderna är väldigt fokuserade på förändringar i någon av dessa tre 'kända okända', och en möjlig andra våg av infektioner och policy fatigue är stora risker vi ser under andra halvåret 2020", skriver Blackrock.
+
+Ytterligare två strukturella trender som påskyndas av pandemin är e-handel och hållbarhet, utöver detta förstärks tillbakagången av globaliseringen och skapar geopolitisk fragmentering, framkommer det.
+
+Blackrock är försiktigt positiva till risk, med en övervikt i företagskrediter, och föredrar tillgångar av hög kvalitet. En särskild risk, inte minst för tillväxtmarknaderna, är tillbakagången av globaliseringen. Sett ur ett investeringsperspektiv skapar dock tillväxtländernas olikheter stor spridning och därmed möjligheter.
+
+"Vi har en stor övertygelse att öka viktning mot kvalitetsfaktorer. Vi lyfter europeiska aktier till övervikt som den mest attraktiva exponeringen mot en cyklisk uppgång. Vi reducerar amerikanska aktier till neutrala efter en period av överavkastning eftersom vi ser risker för avmattade finanspolitiska stimulanser och osäkerhet inför valet", meddelar fondjätten.
