@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: "Fonder: Världens största pensionsfond förlorade 1,5 mdr kr 1kv"
+title: "Fonder: Världens största pensionsfond förlorade 1,5 miljarder kronor
+  första kvartalet"
 date: 2020-07-06T08:48:26.431Z
 sponsored: false
 featured: false
