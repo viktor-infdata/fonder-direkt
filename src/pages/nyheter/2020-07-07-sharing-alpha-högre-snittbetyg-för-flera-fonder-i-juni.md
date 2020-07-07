@@ -25,7 +25,7 @@ Listan visar vilka fonder som har högst snittbetyg, hur många användare som h
 | Nordea 1 - European Covered Bond    | 4.29      | 24        | Upp            |
 | Magna New Frontiers                 | 4.27      | 19        | Ned            |
 | Nordea 1 - Global Climate and Envir | 4.24      | 40        | Upp            |
-| Schroder ISF EURO Corporate Bond    | 4.22      | 37        | Nu             |
+| Schroder ISF EURO Corporate Bond    | 4.22      | 37        | Ny             |
 
 Vid sammanställningen tar Sharing Alpha bara hänsyn till betyg som satts av användare som kan identifiera sig som professionella fondköpare. Vem som helst kan tekniskt sett skapa ett konto på plattformen och betygsätta fonder, men för att betyget ska räknas med krävs denna verifiering.
 
