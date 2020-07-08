@@ -4,7 +4,7 @@ program: Fonder Direkt Monthly Roundup
 videoId: w2vLqS5JGPc
 title: "Fondfunderingar: Sanningen om hållbara fonder med Johanna Kull"
 date: 2020-06-30T15:18:11.332Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---

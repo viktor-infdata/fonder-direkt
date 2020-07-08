@@ -4,7 +4,7 @@ program: Fonder Direkt
 videoId: xDHzA3XikSI
 title: "Espiria: Bolagen man ska leta efter i utvecklade marknader"
 date: 2020-06-24T13:33:56.365Z
-featured: false
+featured: true
 tags:
   - Espiria
 ---

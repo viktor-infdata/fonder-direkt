@@ -1,7 +1,9 @@
 ---
+templateKey: blog-post
 title: "ODDO BHF Euro High Yield Bond: +1,09% i juni, väntar sig ökad volatilitet"
 date: 2020-07-08T12:53:16.253Z
 sponsored: true
+featured: false
 tags:
   - Oddo BHF
 ---
