@@ -1,59 +1,56 @@
 ---
-templateKey: blog-post
-title: "Skagen Global: +7,5% 2kv, ASML, Intiutive Surgical & Verisk Analytics
-  nya innehav"
-date: 2020-07-09T06:54:17.302Z
+title: "Skagen Kon-Tiki: +10,6% 2kv, Tech Mahindra nytt innehav"
+date: 2020-07-09T06:55:25.230Z
 sponsored: true
-featured: false
 tags:
   - Skagen Fonder
 ---
 <!--StartFragment-->
 
-STOCKHOLM (Fonder Direkt) Aktiefonden Skagen Global steg 7,5 procent under det andra kvartalet, vilket var sämre än dess jämförelseindex (MSCI ACWI NR USD) som steg 9,9 procent. Sedan årsskiftet är därmed fonden ned 5,1 procent, medan jämförelseindex backat 7,2 procent. Det framgår av en kvartalsrapport och gäller i svenska kronor.
+STOCKHOLM (Fonder Direkt) De första två kvartalen 2020 går till historien. Det första kvartalet chockerade marknaden med det snabbaste börsraset någonsin, medan det andra kvartalet i sin tur bjöd på den snabbaste återhämtningen.
 
-Fondförvaltarna Knut Gezelius och Chris-Tommy Simonsen konstaterar i rapporten att det andra kvartalet lyftes av en stark rekyl efter börsraset i mars.
+Det konstaterar Cathrine Gether och Fredrik Bjelland i en kvartalsrapport för den tillväxtmarknadsinriktade aktiefonden Skagen Kon-Tiki.
 
-[![image](https://i.direkt.se/200708/586489201.png)](https://i.direkt.se/200708/586489201.png)
+Fonden steg med 10,6 procent under det andra kvartalet, varav juni stod för en uppgång om 6,3 procent. Fondens jämförelseindex (MSCI EM NR) steg samtidigt 10,4 procent under kvartalet. Sedan årsskiftet har fonden tappat 14,2 procent medan jämförelseindex backat 9,8 procent. Samtliga siffror avser svenska kronor.
 
-*Skagen Globals bästa och sämsta avkastningsbidrag under det andra kvartalet. (Källa: Skagen Fonder)*
+"Vi noterar att värderingar generellt rört sig uppåt, speciellt i de marknaden som inte bedöms påverkas särskilt mycket av Covid-19. Som ett resultat av detta har tillgångar med någon form av strukturellt tillväxtelement presterat betydligt bättre än mer cykliskt känsliga tillgångar, vilket även varit fallet under en längre tid", skriver förvaltarduon.
 
-De tre starkaste bidragsgivarna under det andra kvartalet var Microsoft, Adobe och Home Depot. De amerikanska teknikföretagen Microsoft och Adobe gynnades av sin digitala företagsmodell som inte påverkats till lika stor del som andra företag som tvingats stänga ned, skriver förvaltarna. Byggvaruhuskedjan Home Depot gick också starkt till följd av ett fortsatt stabilt konsumentbeteendet i USA.
+[![image](https://i.direkt.se/200709/586524301.png)](https://i.direkt.se/200709/586524301.png)
 
-I den negativa vågskålen infann sig å andra sidan Hiscox, JP Morgan och Beazley.
+*De innehav som gav bäst respektive sämst avkastningsbidrag till Skagen Kon-Tiki under andra kvartalet. (Källa: Skagen Fonder)*
 
-"För dessa finansiella bolag tyngde fallande räntenivåer och en starkt försvagad ekonomisk utsikt", förklarar Knut Gezelius och Chris-Tommy Simonsen.
+**Batteriproducenter i topp**
 
-**Tre nya innehav och fem ut ur portföljen**
+De portföljinnehav som bidragit mest till fondens positiva kvartalsutveckling uppges vara sydkoreanska batteriproducenterna Samsung SDI samt LG Chem. Aktierna gick starkt under kvartalet, med bakgrund av en stark underliggande efterfrågan, meddelar Cathrine Gether och Fredrik Bjelland.
 
-Under kvartalet välkomnade fonden tre bolag till portföljen, ASML, Intuitive Surgical och Verisk Analytics, medan ADP, Equinor, Hiscox, Medtronic och Schindler fick lämna.
+Fonden ökade även sitt innehav i indiska traktor- och fordonstillverkaren Mahindra & Mahindra, som rekylerade efter bolagets resultat kom in bättre än väntat samtidigt som dess kommunikation kring kapitalallokering förbättrades.
 
-ASML, en holländsk tillverkare av litografisystem som används vid produktion av chip inom halvledarindustrin, har enligt förvaltarna en unik marknadsposition.
+"När det kommer till våra mer cykliska innehav så belönades fonden av stabil avkastning från de kopparexponerade gruvorna Ivanhoe, Turquoise Hill och Lundin då råvarupriset steg samtidigt som Covid-19 inte påverkat verksamheterna ansenligt", skriver förvaltarparet.
 
-"Vi tror att tekniken som ASML använder har en flerårig, möjligen ett decenniums, fördel gentemot konkurrerande alternativ. Det långsiktiga grundläggande stödet för ASML:s teknologi är övertygande och underprissatta", resonerar förvaltarparet.
+**Energi och finans sänken**
 
-Intiutive Surgical, som ligger bakom da Vinci-systemet, fick också ta plats i portföljen under kvartalet. Da Vinci-systemet är ett robotsystem som används vid operationer och förvaltarna tror att marknaden kommer växa betydligt framöver.
+Sämre börsutveckling uppges fondens oljetankerbolag Euronav ha haft, som däremot var den största bidragsgivaren under det första kvartalet.
 
-Även Verisk Analytics nämns som ett nytt innehav och förvaltarna pekar på att bolagets dynamiska affärsmodell är attraktiv för långsiktiga investerare. Företaget beskrivs som en ledande dataanalyspartner inom försäkrings-, energi- och finanssektorn.
+"När oljepriset rekylerade och contango reducerades föll fraktkostnaderna tillbaka och aktien backade", förklarar förvaltarna.
 
-**Equinor endast en snabbvisit i portföljen**
+Lägre räntor tillsammans med potentiellt högre låneförluster har försvagat intäktskraften för de flesta bankerna och finansiella portföljbolag gjorde Euronav sällskap bland förlorarna.
 
-Skagen Global har de senaste åren haft en väldigt begränsad exponering mot energisektorn då förvaltarna inte har ansett att risken i jämförelse med avkastningen har varit tillräckligt attraktiv. Norska olje- och gasbolaget Equinor fick dock ta plats i portföljen efter det kraftiga oljeprisraset under våren och förvaltarna avyttrade sedan positionen igen när priset stabiliserats.
+"Med bakgrund av detta avyttrade vi vårt innehav i State Bank of India. Kinesiska Ping An, som fokuserar på finansiella tjänster, föll tillbaka på försvagade tillväxtutsikter på kort sikt men vi tror inte att detta påverkar den långsiktiga investeringstesen", resonerar Cathrine Gether och Fredrik Bjelland.
 
-Amerikanska ADP fick också lämna portföljen då bolagets fundamenta försämrats i jämförelse med andra likvärdiga alternativ, meddelar förvaltarna och tillägger att även Hiscox, Medtronic och Schindler avyttrats.
+**Trimmat portföljen under kvartalet**
 
-**Står fast vid investeringsstrategi**
+Under kvartalet sålde Skagen Kon-Tiki sitt innehav i Shell och Aeroflot. Shell drog ned sin utdelning med två tredjedelar och Aeroflot bestämde sig för att se över sin finansieringsstruktur. Utöver detta avyttrades även China Unicom samt Indosat.
 
-Marknadens fokus är fortsatt på coronaviruset och hur återöppningen av ekonomier kommer att fortlöpa. Vi börjar dock närma oss ett amerikanskt presidentval, något som förvaltarna tror kommer ha större och större inverkan på börsen desto närmare vi kommer.
+Indiska it-bolaget Tech Mahindra gjorde intåg i portföljen under kvartalet, ett bolag som förvaltarna ser som välpositionerat för att dra nytta av den accelererande digitaliseringen.
 
-"Oavsett utfallen i dessa scenarier är det inget som vi på Skagen Global kan påverka och vi kommer därmed fortsätta att fokusera på vår investeringsprocess för att hitta undervärderade långsiktiga möjligheter", skriver Knut Gezelius och Chris-Tommy Simonsen.
+Vid kvartalets slut hade fonden 42 aktier i portföljen, som handlas till 11 gånger årsvinsten för 2020 (P/E) och 0,8 gånger bokfört värde (P/B), meddelar förvaltarduon.
 
-Vid utgången av juni månad innehöll Skagen Global 36 aktier, varav de tio största utgjorde 44,0 procent av portföljvärdet. De största innehaven i portföljen uppges vara Microsoft, Intercontinental Exchange, Adobe samt Marsh & McLennan, som samtliga är amerikanska bolag.
+Sett till geografisk exponering i fonden är Sydkorea och Kina för tillfället de två tungviktarna, med 21,8 respektive 18,5 procent av investerat kapital. Därefter följer Indien (10,4) Sydafrika (9,9) och Ryssland (6,1).
 
-[![image](https://i.direkt.se/200708/586489202.png)](https://i.direkt.se/200708/586489202.png)
+[![image](https://i.direkt.se/200709/586524302.png)](https://i.direkt.se/200709/586524302.png)
 
-*Skagen Globals lands- och sektorexponering relativt fondens jämförelseindex (MSCI ACWI NR USD). (Källa Skagen Fonder)*
+*Skagen Kon-Tikis tio största innehav, som tillsammans väger 49,6 procent i portföljen. (Källa: Skagen Fonder)*
 
-[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-global-a/2020/20200630_skagen-global-a-q2.pdf) hos Skagen Fonder.
+[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-kon-tiki-a/2020/20200630_skagen-kon-tiki-a-q2.pdf) hos Skagen Fonder.
 
 <!--EndFragment-->
