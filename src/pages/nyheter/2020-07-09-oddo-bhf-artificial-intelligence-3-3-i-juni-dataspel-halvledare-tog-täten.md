@@ -1,41 +1,46 @@
 ---
-templateKey: blog-post
-title: "ODDO BHF Artificial Intelligence: +3,3% i juni, dataspel & halvledare
-  tog täten"
-date: 2020-07-09T11:13:42.158Z
+title: "Skagen m2: +3,1% 2kv, E-handelsökning gynnat logistikoperatörerna"
+date: 2020-07-09T13:12:44.570Z
 sponsored: true
-featured: false
 tags:
-  - Oddo BHF
+  - Skagen Fonder
 ---
 <!--StartFragment-->
 
-STOCKHOLM (Fonder Direkt) Den systematiska aktiefonden ODDO BHF Artificial Intelligence ökade med 3,3 procent i juni i basvalutan dollar, vilket innebär en uppgång om 0,2 procent hittills i år. Fondens jämförelseindex (100% MSCI World NR USD) steg i sin tur 2,6 procent under månaden, men har sedan årsskiftet tappat 5,8 procent.
+STOCKHOLM (Fonder Direkt) Ytterligare stimulanser från centralbanker kombinerat med att fler länder öppnar upp igen fick aktiemarknaden att gå starkt under andra kvartalet. Fastighetsmarknaden har reagerat försiktigare, och fortsätter släpa efter den bredare aktiemarknaden. Under våren visade fastighetsmarknaden inte samma styrka som den gjort under många tidigare korrektioner.
 
-Det framgår av en månadsrapport, där fondförvaltarna Brice Prunas och Maxence Radjabi kommenterar:
+Det skriver fondförvaltaren Michael Gobitschek i en rapport för andra kvartalet för den globala fastighetsfonden Skagen m2, och påpekar att orsaken troligen är att många undersektorer, så som hotell, studentbostäder och varuhus, är direkt påverkade av nedstängningar, vilket medfört osäkerhet i förmågan att betala hyror till fastighetsägarna.
 
-"Medan aktiemarknader världen runt fortsatte att klättra i juni 2020 (om än i lägre takt än föregående månad), överpresterade vår AI-fond sitt jämförelseindex, vilket bekräftar vår tematiska fonds balanserade och diversifierade portfölj. Juni 2020 var den nionde raka månaden med överprestation."
+Fonden steg 3,1 procent under andra kvartalet, medan jämförelseindex (MSCI ACWI IMI Real Estate NR) ökade 3,6 procent, båda i svenska kronor. Sedan årsskiftet har fonden tappat 19,4 procent i värde, att jämföra med index som tappat 18,8 procent, framgår det av rapporten.
 
-[![image](https://i.direkt.se/200709/586529901.png)](https://i.direkt.se/200709/586529901.png)
+"Skagen m2 fortsätter att fokusera på mer motståndskraftiga underkategorier på fastighetsmarknaden i allmänhet, och bolag med starka och växande kassaflöden, drivna av starka underliggande trender, i synnerhet", kommenterar Michael Gobitschek.
 
-*Fondutveckling (turkos) mätt från basen 100 sedan start i mars 2019. (Källa: ODDO BHF AM SAS)*
+[![image](https://i.direkt.se/200709/586533601.png)](https://i.direkt.se/200709/586533601.png)
 
-**Fokus på kvalitet och tillväxt bar frukt**
+*De innehav som gav bäst respektive sämst bidrag till avkastningen under andra kvartalet. (Källa: Skagen Fonder)*
 
-Brice Prunas och Maxence Radjabi konstaterar att den rotation som skedde mot aktier inom cykliskt och värde inte höll längre än den första veckan i juni, vilket uppges ha lett till att fonden gynnades av sin positionering inom kvalitet och tillväxt. Nämnd överprestation gentemot index kom enligt rapporten från dataspelsexponering i Kina, samt fondens exponering mot halvledarsektorn i Asien och USA. Bäst utveckling i portföljen hade innehaven Wuhu Sanqi Interactive (dataspel, Kina), Media Tek (halvledare, Taiwan) och Teradyna (halvledarutrustning, USA).
+**Svensk logistikoperatör i topp**
 
-[![image](https://i.direkt.se/200709/586529902.png)](https://i.direkt.se/200709/586529902.png)
+Kvartalets tre största positiva bidragsgivare blev logistikoperatörerna Catena i Sverige och LOG Commercial Properties i Brasilien, som båda gynnats av den ökade efterfrågan på logistiklösningar för e-handel, samt Shurguard som gått starkt tack var sin defensiva affärsmodell och starka balansräkning, menar Michael Gobitschek. Fonden utgörs av 31 innehav, med störst exponering mot USA, Tyskland, Sverige och Japan. Fondens tre största innehav var vid utgången av andra kvartalet EQUINIX, Catena och Self Storage Group.
 
-*Fondens sektorexponering i procent (till vänster) samt redogörelse för över- respektive undervikter i olika sektorer (till höger). (Källa: ODDO BHF AM SAS)*
+**Tungt kvartal för kontorsfastigheter**
 
-**Undervikter Apple, Microsoft och finans bromskloss**
+På nedsidan nämner Michael Gobitschek CA Immobilien, som är exponerad mot kontorsfastigheter, en efterfrågan som Michael Gobitschek menar givetvis har minskat avsevärt men lär återkomma. Fonden minskade dock sin exponering mot kontorsfastigheter generellt redan under första kvartalet, meddelar Michael Gobitschek. Far East Consortium har också backat under perioden. Bolaget är baserat i Hong Kong, och även om en majoritet av fastighetsbeståndet finns utanför Hong Kong, har bolaget drabbats negativt av exponering mot hotell och fastigheter i Hong Kong, skriver fondförvaltaren.
 
-ODDO BHF Artificial Intelligences innehav i Apple och Microsoft bidrog också till avkastningen. Dock är fonden underviktad de två teknikjättarna, vilket återigen visade sig vara kostsamt vad gäller avkastning relativt jämförelseindex, enligt rapporten. Vidare uppges undervikt i finanssektorn ha bromsat överprestationen något under månaden.
+**Switch tagit plats i portföljen**
 
-**60 aktier med låg koncentration bland största innehav**
+Under kvartalet har datacenteroperatören Switch tagit plats i portföljen, ett bolag Michael Gobitschek menar har "en stark position på sina kärnmarknader".
 
-Vid månadsskiftet juni/juli innehöll ODDO BHF Artificial Intelligence 60 aktier. Störst vikt i portföljen hade Wuhu Sanqi Interactive med 2,1 procent, följt av Teradyne (1,9), Tencent Holdings (1,9), Lam Research (1,8) samt Media Tek (1,8).
+"Den pågående krisen har verkligen ökat behovet för datatrafik, vilket kräver stora nya investeringar i IT-infrastruktur", skriver Michael Gobitschek med anledning av investeringen i Switch.
 
-Klart störst portföljexponering återfinns i USA, där 60,9 procent av kapitalet är placerat. Därefter märks Kina med 7,1 procent, Japan (6,5), Taiwan (5,0) samt Israel (3,1). Börsvärdena på de företag som ägs i fonden ligger på 26 miljarder dollar, sett till medianvärde. Fonden hade 116,7 miljoner dollar under förvaltning per den 30 juni 2020.
+Fonden går ur kvartalet med en stark kassa, skriver Michael Gobitschek, och har en optimistisk syn på lång sikt:
+
+"De långsiktiga prospekten är positiva, med hänsyn till alla finansiella stimulanser och faktumet att både räntor och inflation är fortsatt låga är positivt för fastighetssektorn. På kort sikt är fastighetssektorn dock inte immun mot det försämrade makroekonomiska läget", avslutar Michael Gobitschek.
+
+[![image](https://i.direkt.se/200709/586533602.png)](https://i.direkt.se/200709/586533602.png)
+
+*Skagen m2:s tio största innehav vid juni månads utgång. (Källa: Skagen Fonder)*
+
+[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-m2-a/2020/20200630_skagen-m2-a-q2.pdf) hos Skagen Fonder.
 
 <!--EndFragment-->
