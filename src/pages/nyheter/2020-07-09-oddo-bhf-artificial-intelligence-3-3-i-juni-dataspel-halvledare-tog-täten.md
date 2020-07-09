@@ -1,7 +1,9 @@
 ---
+templateKey: blog-post
 title: "Skagen m2: +3,1% 2kv, E-handelsökning gynnat logistikoperatörerna"
 date: 2020-07-09T13:12:44.570Z
 sponsored: true
+featured: false
 tags:
   - Skagen Fonder
 ---
