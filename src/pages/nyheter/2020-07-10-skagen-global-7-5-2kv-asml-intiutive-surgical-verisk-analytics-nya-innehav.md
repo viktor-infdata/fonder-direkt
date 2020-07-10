@@ -1,8 +1,9 @@
 ---
-title: "Skagen Global: +7,5% 2kv, ASML, Intiutive Surgical & Verisk Analytics
-  nya innehav"
+templateKey: blog-post
+title: "Skagen Global: +7,5% 2kv, ASML, Intiutive Surgical & Verisk Analytics nya innehav"
 date: 2020-07-10T11:45:50.958Z
 sponsored: true
+featured: false
 tags:
   - Skagen Fonder
 ---
