@@ -1,6 +1,9 @@
 ---
+templateKey: blog-post
 title: "Fonder: Ökat inflöde till börshandlade fonder 2kv - Morningstar"
 date: 2020-07-10T06:27:13.471Z
+sponsored: false
+featured: false
 tags:
   - Morningstar
 ---
