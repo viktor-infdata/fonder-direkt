@@ -1,59 +1,21 @@
 ---
-templateKey: blog-post
-title: "Skagen Global: +7,5% 2kv, ASML, Intiutive Surgical & Verisk Analytics
-  nya innehav"
-date: 2020-07-10T06:26:50.286Z
-sponsored: true
-featured: false
+title: "Fonder: Ökat inflöde till börshandlade fonder 2kv - Morningstar"
+date: 2020-07-10T06:27:13.471Z
 tags:
-  - Skagen Fonder
+  - Morningstar
 ---
-<!--StartFragment-->
+STOCKHOLM (Fonder Direkt) Under andra kvartalet gjordes insättningar på 33 miljarder euro i ETF noterade i Europa. Förvaltat kapital ökade till 903 miljarder euro och klart populärast var räntefonder. Det visar statistik från Morningstar.
 
-STOCKHOLM (Fonder Direkt) Aktiefonden Skagen Global steg 7,5 procent under det andra kvartalet, vilket var sämre än dess jämförelseindex (MSCI ACWI NR USD) som steg 9,9 procent. Sedan årsskiftet är därmed fonden ned 5,1 procent, medan jämförelseindex backat 7,2 procent. Det framgår av en kvartalsrapport och gäller i svenska kronor.
+Under första kvartalet noterade den europeiska marknaden för börshandlade fonder (ETF) för första gången på fem år ett utflöde av pengar tillbaka till investerarna, minus 4,4 miljarder euro netto. Men under andra kvartalet återvände det normala inflödet och det blev det tredje bästa kvartalet någonsin, med ett inflöde på 33,4 miljarder euro, visar Morningstars kvartalsrapport.
 
-Fondförvaltarna Knut Gezelius och Chris-Tommy Simonsen konstaterar i rapporten att det andra kvartalet lyftes av en stark rekyl efter börsraset i mars.
+[![image](https://i.direkt.se/200710/586568901.png)](https://i.direkt.se/200710/586568901.png)
 
-[![image](https://i.direkt.se/200708/586489201.png)](https://i.direkt.se/200708/586489201.png)
+*Kvartalsvisa nettoflöden för ETF:er sedan 2016. (Källa: Morningstar)*
 
-*Skagen Globals bästa och sämsta avkastningsbidrag under det andra kvartalet. (Källa: Skagen Fonder)*
+Den europeiska ETF-marknaden domineras av the kategorier: Aktiefonder, som står för 544 miljarder euro av kapitalet, följt av räntefonder (249 miljarder euro) samt råvarufonder (92 miljarder euro). Det var även till dessa kategorier som kapitalet främst flödade under kvartalet, 23 miljarder euro till räntefonder, 6 miljarder till råvarufonder och 4 miljarder till aktiefonder.
 
-De tre starkaste bidragsgivarna under det andra kvartalet var Microsoft, Adobe och Home Depot. De amerikanska teknikföretagen Microsoft och Adobe gynnades av sin digitala företagsmodell som inte påverkats till lika stor del som andra företag som tvingats stänga ned, skriver förvaltarna. Byggvaruhuskedjan Home Depot gick också starkt till följd av ett fortsatt stabilt konsumentbeteendet i USA.
+"Under andra kvartalet fick obligations-ETF massiva inflöden, främst investment grade företagsobligationer. Trots att börserna återhämtade sig brant fortsatte utflödet ur aktiefonder under april och maj" säger Jose Garcia-Zarate, Morningstars chef för analys av passiva strategier.
 
-I den negativa vågskålen infann sig å andra sidan Hiscox, JP Morgan och Beazley.
+Noterbart är även tillväxten för fonder med en hållbarhetsinriktning, noterar Morningstar. Vid halvårsskiftet innehöll dessa 47 miljarder euro, motsvarande 5 procent av hela marknaden, men fick in hela 13 miljarder netto i nysparande under första halvåret i år, motsvarande hela 43 procent av nysparandet.
 
-"För dessa finansiella bolag tyngde fallande räntenivåer och en starkt försvagad ekonomisk utsikt", förklarar Knut Gezelius och Chris-Tommy Simonsen.
-
-**Tre nya innehav och fem ut ur portföljen**
-
-Under kvartalet välkomnade fonden tre bolag till portföljen, ASML, Intuitive Surgical och Verisk Analytics, medan ADP, Equinor, Hiscox, Medtronic och Schindler fick lämna.
-
-ASML, en holländsk tillverkare av litografisystem som används vid produktion av chip inom halvledarindustrin, har enligt förvaltarna en unik marknadsposition.
-
-"Vi tror att tekniken som ASML använder har en flerårig, möjligen ett decenniums, fördel gentemot konkurrerande alternativ. Det långsiktiga grundläggande stödet för ASML:s teknologi är övertygande och underprissatta", resonerar förvaltarparet.
-
-Intiutive Surgical, som ligger bakom da Vinci-systemet, fick också ta plats i portföljen under kvartalet. Da Vinci-systemet är ett robotsystem som används vid operationer och förvaltarna tror att marknaden kommer växa betydligt framöver.
-
-Även Verisk Analytics nämns som ett nytt innehav och förvaltarna pekar på att bolagets dynamiska affärsmodell är attraktiv för långsiktiga investerare. Företaget beskrivs som en ledande dataanalyspartner inom försäkrings-, energi- och finanssektorn.
-
-**Equinor endast en snabbvisit i portföljen**
-
-Skagen Global har de senaste åren haft en väldigt begränsad exponering mot energisektorn då förvaltarna inte har ansett att risken i jämförelse med avkastningen har varit tillräckligt attraktiv. Norska olje- och gasbolaget Equinor fick dock ta plats i portföljen efter det kraftiga oljeprisraset under våren och förvaltarna avyttrade sedan positionen igen när priset stabiliserats.
-
-Amerikanska ADP fick också lämna portföljen då bolagets fundamenta försämrats i jämförelse med andra likvärdiga alternativ, meddelar förvaltarna och tillägger att även Hiscox, Medtronic och Schindler avyttrats.
-
-**Står fast vid investeringsstrategi**
-
-Marknadens fokus är fortsatt på coronaviruset och hur återöppningen av ekonomier kommer att fortlöpa. Vi börjar dock närma oss ett amerikanskt presidentval, något som förvaltarna tror kommer ha större och större inverkan på börsen desto närmare vi kommer.
-
-"Oavsett utfallen i dessa scenarier är det inget som vi på Skagen Global kan påverka och vi kommer därmed fortsätta att fokusera på vår investeringsprocess för att hitta undervärderade långsiktiga möjligheter", skriver Knut Gezelius och Chris-Tommy Simonsen.
-
-Vid utgången av juni månad innehöll Skagen Global 36 aktier, varav de tio största utgjorde 44,0 procent av portföljvärdet. De största innehaven i portföljen uppges vara Microsoft, Intercontinental Exchange, Adobe samt Marsh & McLennan, som samtliga är amerikanska bolag.
-
-[![image](https://i.direkt.se/200708/586489202.png)](https://i.direkt.se/200708/586489202.png)
-
-*Skagen Globals lands- och sektorexponering relativt fondens jämförelseindex (MSCI ACWI NR USD). (Källa Skagen Fonder)*
-
-[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-global-a/2020/20200630_skagen-global-a-q2.pdf) hos Skagen Fonder.
-
-<!--EndFragment-->
+34 nya ETF:er startade i Europa under andra kvartalet, varav 29 aktiefonder. Nästan alla är registrerade i antingen Irland eller Luxemburg. Fysisk replikering av index görs av alla utom två och den årliga avgift varierar mellan 0,12 och 0,60 procent per år.
