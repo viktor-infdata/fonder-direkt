@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Oddo BHF Active Small Cap: +2,4% i juni, Stillfront i topp"
 date: 2020-07-13T06:46:23.896Z
-sponsored: false
+sponsored: true
 featured: false
 tags:
   - Oddo BHF
