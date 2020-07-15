@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'SPP Fonder: "Högsta nettoinflöden på marknaden 1H"'
+title: 'SPP Fonder: "Högst nettoinflöden på marknaden 1H"'
 date: 2020-07-15T08:47:30.442Z
 sponsored: false
 featured: false
