@@ -19,5 +19,3 @@ Nestor Europe Fund är en Luxemburg-registrerad aktiefond som förvaltas av Dirk
 "I motsats till vad åtskilliga pressrapporter säger, så har den svenska corona-specialvägen uppvisat sitt värde", skriver förvaltaren i fondens kvartalsrapport.
 
 Bland övriga svenska innehav i Nestor Europe Fund märks Fenix Outdoor (största innehavet med 8,2 procent), Thule, Kabe och Knowit.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

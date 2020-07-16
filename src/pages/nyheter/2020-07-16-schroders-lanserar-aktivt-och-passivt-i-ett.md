@@ -18,5 +18,3 @@ Fördelningen mellan aktiv och passiv förvaltning uppges bero på situationen i
 Fondförvaltaren Alex Funk säger till Funds Europe att dessa nya fonder föredrar exponering i marknader som uppvisar en hög grad effektivitet, men att investeringar med hög övertygelse även görs på marknader som är mindre effektiva.
 
 Termen effektiv marknad kan beskrivas som marknadsdeltagarnas förmåga att prissätta värdepapper "korrekt" efter all till buds stående information som finns att tillgå.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

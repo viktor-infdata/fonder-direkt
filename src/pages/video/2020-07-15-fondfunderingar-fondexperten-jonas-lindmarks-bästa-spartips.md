@@ -4,7 +4,7 @@ program: Fonder Direkt
 videoId: OBGGv2Jh3M
 title: "Fondfunderingar: Fondexperten Jonas Lindmarks bästa spartips"
 date: 2020-07-15T13:33:19.732Z
-featured: false
+featured: true
 tags:
   - Fondfunderingar
 ---
