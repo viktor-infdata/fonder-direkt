@@ -15,4 +15,4 @@ Undersökningen visar att andelen fonder vars avkastning konsekvent befinner sig
 
 Utfallet var det högsta sedan BMO började mäta år 2008 och det historiska genomsnittet ska ligga på 2-4 procent, enligt rapporten.
 
-Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.
+***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***
