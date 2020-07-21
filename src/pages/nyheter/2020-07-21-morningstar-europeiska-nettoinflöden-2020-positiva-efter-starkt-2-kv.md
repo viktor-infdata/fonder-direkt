@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Morningstar: Europeiska nettoinflöden 2020 positiva efter starkt 2 kv"
+title: "Morningstar: Europeiska nettoflöden 2020 positiva efter starkt 2 kv"
 date: 2020-07-21T08:06:34.872Z
 sponsored: false
 featured: false
