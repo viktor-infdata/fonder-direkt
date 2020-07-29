@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Franklin Templeton: Släpper smart beta-ETF:er med klimatfoku"
+title: "Franklin Templeton: Släpper smart beta-ETF:er med klimatfokus"
 date: 2020-07-28T12:41:08.866Z
 sponsored: false
 featured: false
