@@ -20,6 +20,6 @@ Analytikern konstaterar att guld har ett hyfsat träffsäkert facit som en säke
 
 "Investerare som bestämmer sig för att addera guld till sina portföljer ska vara medvetna om den nuvarande 'hypen' runt ädelmetaller och vara beredda på periodisk torka", enligt Amy C. Arnott.
 
-Per den 28 juli hade fem Sverigetillgängliga ädelmetallfonder levererat en avkastning överstigande 40 procent sedan årsskiftet: LO Funds World Gold Expts (+45,9 procent), Au Aug Silver Bullet (44,8), Ninety One GSF Glb Gold (43,9), Schroder ISF Global Gold (42,4) samt BGF World Gold (40,9).
+Per den 28 juli hade fem Sverigetillgängliga ädelmetallfonder levererat en avkastning överstigande 40 procent sedan årsskiftet: LO Funds World Gold Expts (+45,9 procent), Au Ag Silver Bullet (44,8), Ninety One GSF Glb Gold (43,9), Schroder ISF Global Gold (42,4) samt BGF World Gold (40,9).
 
 ***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***
