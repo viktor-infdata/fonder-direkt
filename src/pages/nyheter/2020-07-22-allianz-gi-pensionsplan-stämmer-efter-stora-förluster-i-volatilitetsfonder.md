@@ -22,5 +22,3 @@ Stämningen innehåller vidare en skrivelse som kan tolkas som en anklagelse om 
 Allianz Global Investors likviderade två fonder i Structured Alpha-familjen i slutet av mars, 1000 samt 1000 Plus, med hänvisning till "betydande realiserade förluster", skriver Institutional Investor. ATRS hade inte investerat i någon av de två, utan i tre mindre aggressiva fonder med prefixen 250, 350 och 500, vilka alltjämt föll runt 33, 56 respektive 76 procent vid slutet av mars. Pensionsplanen ska ha begärt uttag ur fonderna den 6 april, med verkställighet den 30 april.
 
 Kapitalförvaltaren ämnar försvara sig med full kraft mot ATRS anklagelser.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

@@ -14,5 +14,3 @@ Enligt bolagets vd och ordförande Larry Fink vänder sig nu kunderna till Black
 "Kunder förlitar sig på Blackrock för våra unika insikter, vägledning och omfångsrika investeringslösningar. Det här leder till djupare partnerskap, och vi ser klienter anförtro Blackrock med en större andel av sina tillgångar", skriver Larry Fink i rapportens vd-ord.
 
 Blackrocks förvaltade kapital steg med 7 procent jämfört med förra året och uppgick till 7.318 miljarder dollar vid utgången av det andra kvartalet.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

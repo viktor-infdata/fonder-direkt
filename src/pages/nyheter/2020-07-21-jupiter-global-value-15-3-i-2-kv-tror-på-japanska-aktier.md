@@ -36,5 +36,3 @@ Förvaltarna meddelar att de är besvikna över att fonden har underpresterat si
 "Om marknaden börjar titta förbi den korta sikten, är värderingsnivåerna otroligt låga, och det här är viktigt eftersom låga värderingar historiskt sett har indikerat en stark framtida avkastning.
 
 Ben Whitmore och Dermot Murphy bedömer att så länge som företagens balansräkningar kan stå emot denna period, och fonden undviker bolag som erbjuder "falskt värde", är de möjligheter som för närvarande står till buds exceptionellt bra för långsiktiga investerare.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

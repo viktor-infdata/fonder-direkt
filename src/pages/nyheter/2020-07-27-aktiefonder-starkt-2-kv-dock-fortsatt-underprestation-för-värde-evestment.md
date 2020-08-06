@@ -22,5 +22,3 @@ Vidare har värde som kategori fortsatt att underprestera tillväxt världen öv
 Efter den starka börsutvecklingen under det andra kvartalet pekar Peter Laurelli på att det finns frågetecken kring ekonomin och uthålligheten i börsuppgången.
 
 "I takt med att globala marknader studsade tillbaka visade många fonder upp avkastning som inte setts på år, trots att den ekonomiska miljön fortfarande består av mer frågor än svar på grund av covid-19-pandemin", sade analyschefen.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

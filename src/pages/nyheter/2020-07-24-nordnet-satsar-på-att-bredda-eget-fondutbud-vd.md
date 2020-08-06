@@ -17,5 +17,3 @@ Vd Lars-Åke Norling meddelar att Nordnets fonderbjudande har förstärkts under
 I övrigt på fondsidan lyfter vd:n fram att Nordnet har lanserat en ny informationssida för ETF:er (börshandlade fonder), innehållande bland annat nyckeltal för risk och avkastning och en mängd hållbarhetsdata.
 
 "Som första bank i Norden kan vi presentera en mängd ESG-information som gör det möjligt att spara hållbart i börshandlade fonder. Vi har också sett över vår distributionsmodell för fonder i Norge och Danmark, och infört delvis ändrad prissättning", fortsätter Lars-Åke Norling.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

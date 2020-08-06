@@ -17,5 +17,3 @@ Nyhavn Capital är namnet på den nya fondaktör som ska inrymma hedgefonden, va
 Förutom Mads Thamsborg kommer Christos Damianou, även han tidigare partner på Bodenholm, att vara en del av fonden och sannolikt förvalta den långa sidan av portföljen, framgår det. I övrigt ska en Londonbaserad operationell chef (COO) ha anställts.
 
 Bodenholm Capital avvecklades under våren efter att fond-i-fonden Brummer Multi Strategy valde att sälja sitt innehav i fonden, samtidigt som vd och investeringschef på Bodenholm meddelat sina avsikter att lämna fonden.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

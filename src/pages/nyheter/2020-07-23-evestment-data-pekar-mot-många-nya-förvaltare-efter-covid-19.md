@@ -20,5 +20,3 @@ I efterdyningarna av finanskrisen år 2009 startades över 300 nya kapitalförva
 "Svåra miljöer skapar möjligheter i vissa marknader", säger Evestments globala analyschef Peter Laurelli till Institutional Investor.
 
 Antalet nya kapitalförvaltningsbolag har varit sjunkande sedan 2014, enligt analysbolagets data. År 2018 startades drygt 50 bolag och Evestment förväntar sig liknande siffror för 2019 (indata ej komplett än) och 2020. Det är när kriser mer eller mindre upphört som analysbolaget noterar starka lanseringsökningar och coronakrisen är i hög utsträckning alltjämt pågående.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

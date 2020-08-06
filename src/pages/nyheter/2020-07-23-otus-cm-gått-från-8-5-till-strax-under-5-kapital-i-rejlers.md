@@ -14,5 +14,3 @@ Det framgår av ett flaggningsmeddelande.
 Vid utgången av juni ägde Otus 8,49 procent av kapitalet och ligger efter två registrerade säljtransaktioner nu på 4,95 procent, visar data från Holdings.
 
 Innehavet i Rejlers är förvaltarens tredje största svenska sett till marknadsvärde, efter Knowit och Nobina, enligt Holdings.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

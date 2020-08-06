@@ -53,5 +53,3 @@ Prior Nilsson Smart Global           6,3
 Didner & Gerge Global                6,2                       
 TIN Ny Teknik                        6,2  
 ```
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

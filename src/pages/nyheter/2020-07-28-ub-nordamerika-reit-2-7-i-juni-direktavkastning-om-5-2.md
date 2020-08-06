@@ -26,5 +26,3 @@ Nedan följer fondens tio största innehav vid utgången av juni:
 ![Källa: United Bankers AM](/img/ub28jul2.png "Källa: United Bankers AM")
 
 *Källa: United Bankers AM*
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

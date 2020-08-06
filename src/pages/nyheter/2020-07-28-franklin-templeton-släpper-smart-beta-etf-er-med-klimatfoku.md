@@ -18,5 +18,3 @@ De nya fonderna heter Franklin Stoxx Europe 600 Paris Aligned Climate Ucits ETF 
 Franklin Templetons globala ESG-chef Julie Moret bedömer att ett betydande uppsving är att vänta för klimatanpassade investeringar i Europa. Detta i takt med att investerare rör sig bort från att se detta segment som en nisch, mot att bygga sina portföljer utifrån hållbar finans som kärna, enligt Funds Europe.
 
 De två börshandlade fonderna listas i Tyskland den 30 juli och i Storbritannien samt Italien den 31 juli. Registrering kommer efter det ske i fler länder, inklusive Sverige.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

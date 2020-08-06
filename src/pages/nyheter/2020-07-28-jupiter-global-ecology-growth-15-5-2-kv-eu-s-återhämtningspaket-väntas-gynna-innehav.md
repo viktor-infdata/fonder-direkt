@@ -37,5 +37,3 @@ Förvaltaren meddelar att fondteamet i sin roll som långsiktiga investerare int
 Förvaltaren lägger till att många projekt inom ren energi fortsätter att finansieras, att Kina har skjutit upp sin utfasning av subventioner, och att det trots en tuff omgivning fortfarande pågår förvärv och sammanslagningar i sektorn.
 
 "Vi håller fast vid att miljö- och hållbarhetsteman kan erbjuda möjligheter som sträcker sig över många år, om inte många decennier, och vi ämnar dra nytta av de underuppskattade möjligheter som kan uppstå", meddelar Charlie Thomas.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

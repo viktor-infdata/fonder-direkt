@@ -24,5 +24,3 @@ Istället handlar det om samma fenomen som de menar har varit aktuellt hela det 
 Europeiska aktieindex består fortfarande till en större del av "gamla ekonomin"-sektorer som banker, dagligvaror samt verkstad, konstaterar förvaltaren. Företag inom den gamla ekonomin kan visserligen vara innovativa, men dessa företag tenderar att vara mer mogna samt byggda på 1900-talets affärsmodeller, snarare än 2000-talets internetdrivna affärsmodeller, enligt Wisdomtree.
 
 I USA uppgår andelen nya ekonomi-företag till cirka hälften av S&P500 räknat som indexvikt, medan det i Europa handlar om cirka 25 procent, enligt kapitalförvaltarens sammanställning.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

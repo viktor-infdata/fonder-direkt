@@ -18,5 +18,3 @@ Nuveen förutser snabba kast och volatilitet i marknaden, då de förväntar sig
 Sett till det andra halvåret 2020 väntar sig förvaltaren en fallande dollar och att aktier utanför USA börjar överprestera på en relativ basis, enligt kommentaren.
 
 "För att summera förblir vi konstruktiva gentemot aktier på lång sikt, men tror att aktiemarknaderna är mer känsliga för besvikelser på kort sikt. Det är ett recept för fortsatt slagig aktivitet framöver", skriver Nuveen.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

@@ -29,5 +29,3 @@ Sean George konstaterar att det vore positivt för länder som Italien och Grekl
 ***Nu när EU enats om det här paketet, ser ni möjligheter i Europa för lägre företagsobligationsspreadar, och är det någon särskild sektor som ser intressant ut?***
 
 "Vi är som sagt långa EU på grund av att vi trodde att detta skulle gå igenom. Vi är fortsatt långa EU, men har tagit vinster i europeiska high yield-kreditindex under gårdagen. Italienska banker är intressanta, exempelvis är vi långa UniCredit", meddelar Sean George.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

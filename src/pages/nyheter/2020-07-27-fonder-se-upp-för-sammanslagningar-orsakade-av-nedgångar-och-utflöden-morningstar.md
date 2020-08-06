@@ -21,5 +21,3 @@ Ett potentiellt problem uppges vara fonder med illikvida innehav som drabbas av 
 "Men det innebär att fonden får en ännu större andel illikvida innehav. Om strömmen av utflöden upphör, fungerar chansningen, men om den inte upphör har förvaltaren förstorat problemet. De bra nyheterna är att de flesta fonder är försiktiga nog att begränsa andelen riktigt illikvida innehav till en liten del av portföljen", skriver Russel Kinnel.
 
 Analyschefens råd om en fond till följd av marknadsnedgångar och utflöden slås ihop med en annan är att investeraren omedelbart tar tillfället i akt och hittar en bättre ersättare till portföljen, snarare än att vänta och se hur det går för den nya fondstrukturen.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

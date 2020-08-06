@@ -25,5 +25,3 @@ I nyhetsbrevet lyfter förvaltarna fram hur pass globalt verksamma många av fon
 Uppställningen ovan kan ses i ljuset av att förvaltarna ofta möter investerare som beklagar sig över Europas bleka utsikter, med demografiska motvindar och byråkratiska och ineffektiva regeringar, framgår det.
 
 "Vi ser saker annorlunda. Vare sig det handlar om digitaliseringen av Brasiliens finansiella system, dynamiken inom hälsovården i USA eller den växande medelklassen av konsumenter i Kina, erbjuder Europa-listade företag oss tillgång till många attraktiva tillväxtmöjligheter", skriver Mark Heslop och Mark Nichols.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

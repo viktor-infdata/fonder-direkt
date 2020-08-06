@@ -18,5 +18,3 @@ Morningstar konstaterar att hållbara aktiefonder har visat motståndskraft vad 
 Blackrock-ägda Ishares är den dominanta aktören när det gäller europeiska ETF:er, med en marknadsandel om 45 procent. ETF:er från Ishares stod med 19,4 miljarder euro för 60 procent av det totala inflödet i Europa under det andra kvartalet. Enligt Morningstar var den höga inflödesandelen en direkt följd av Ishares dominans inom obligations-ETF:er i Europa.
 
 Efter Ishares följer Xtrackers (DWS) med 10,7 procent och Lyxor med 7,8 procent vad gäller marknadsandel för ETF-aktörer i Europa.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

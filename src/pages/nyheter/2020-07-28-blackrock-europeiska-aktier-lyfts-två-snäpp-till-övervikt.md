@@ -18,5 +18,3 @@ Gällande tillväxtmarknader är Blackrock oroade över coronavirusets spridning
 Som skäl till den sänkta USA-rekommendationen anges risker för att de finansiella stimulanserna fasas ut och att en utdragen epidemi hotar att få den starka aktiemarknaden att spåra ur. Samtidigt höjs varningsflaggor för förnyade spänningar med Kina och ett splittrande presidentval i november.
 
 Som helhet uppges Blackrock vara fortsatt neutralt inställt till aktier.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

@@ -20,5 +20,3 @@ Vidare nämns Boozt och Lyko som två bolag som drar nytta av den pandemi-orsaka
 "När fysiska butiker går omkull tar sådana som Boozt och Zalando allt större marknadsandelar i klädhandeln. Men jag tror inte att det kommer finnas plats för fler online-varuhus som har så brett utbud av många varumärken, de ligger så långt före med sin marknadsföring att det blir svårt för nya spelare att komma ikapp", enligt Fredrik Skoglund.
 
 Länsförsäkringar Småbolag Sverige har stigit med 14,1 procent hittills i år och hade vid juni månads utgång Husqvarna, Stillfront, Peab, Embracer samt MTG som största innehav.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***

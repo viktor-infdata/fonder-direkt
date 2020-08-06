@@ -18,5 +18,3 @@ Fonden investerar på utvecklade marknader i aktier i företag vars framgång be
 De största innehaven per den 30 juni var Microsoft, Reckitt Benckiser Group, Philip Morris International, Visa samt Accenture.
 
 Portföljen är koncentrerad, med 31 innehav varav de tio största väger 58 procent.
-
-***Tjänsten Fonder Direkt produceras av Nyhetsbyrån Direkts fondredaktion, som är frikopplad från Direkts övriga redaktion. Materialet kan vara finansierat och framtaget efter överenskommelse med extern part, vilket i förekommande fall markeras med "Uppdragsartikel" vid rubriken.***
