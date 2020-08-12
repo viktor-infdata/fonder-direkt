@@ -1,34 +1,30 @@
 ---
-templateKey: blog-post
-title: "Skagen Focus: Timmerbolag gått start i spåren av pandemin"
-date: 2020-08-12T13:32:44.445Z
+title: "Skagen m2: -3,6% under volatil månad i fastighetssektorn"
+date: 2020-08-12T14:20:39.757Z
 sponsored: true
-featured: false
 tags:
   - Skagen Fonder
 ---
 <!--StartFragment-->
 
-STOCKHOLM (Fonder Direkt) Värdet på den globala aktiefonden Skagen Focus var oförändrat under juli månad, samtidigt som jämförelseindex (MSCI ACWI NR USD) backade 1 procent, båda i basvalutan SEK. Sedan årsskiftet är fonden ned 18,4 procent och jämförelseindex har tappat 8,2 procent. Det framgår i en månadsrapport från fondförvaltarna Jonas Edholm och David Harris, som kommenterar månadens resultat som "god absolut och relativ avkastning". [![image](https://i.direkt.se/200812/587827101.png)](https://i.direkt.se/200812/587827101.png)
+STOCKHOLM (Fonder Direkt) Under en månad med hög volatilitet tappade både globala fastighetsfonden Skagen m2 och dess jämförelseindex (MSCI ACWI IMI Real Estate NR) 3,6 procent i värde, båda i basvalutan SEK. Sedan årsskiftet har fonden tappat 22,3 procent i värde, att jämföra med index som tappat 21,2 procent. Det skriver fondförvaltaren Michael Gobitschek i en månadsrapport för fonden avseende juli månad.
 
-*Skagen Focus bästa och sämsta avkastningsbidrag i juli. (Källa: Skagen Fonder)*
+[![image](https://i.direkt.se/200812/587828101.png)](https://i.direkt.se/200812/587828101.png)
 
-Månadens största positiva bidragsgivare blev West Fraser Timber, detta sedan efterfrågan på virke har ökat dramatiskt under pandemin, mycket tack vare att fler väljer att renovera och bygga om sina hem, skriver förvaltarna.
+*De innehav som gav bäst respektive sämst bidrag till avkastningen under juli. (Källa: Skagen Fonder)*
 
-Fondens råvarubolag, liksom andra cykliska bolag, har gått starkt. OZ Minerals, Ivanhoe Mines, Fortuna Silver mines och Roxgold tar alla plats efter West Fraser Timber bland fondens fem största positiva bidragsgivare under månaden, framgår det av rapporten. På nedsidan återfinns Hitachi, UPM-Kymmene och Toyota Industries.
+Både USA och Europa har, som förväntat, redovisat dystra BNP-siffror, och amerikanska centralbanken Federal Reseve såväl som EU har fortsatt med sina räddningsaktioner. Andra kvartalets rapporter var detta till trots något positiva, skriver Michael Gobitschek.
 
-Japanska hiss- och rulltrappstillverkaren Fujitec har tagit plats i portföljen under månaden:
+Logistik, datacenter och bostadsfastigheter visar fortsatt stabilitet trots pandemin, meddelar Michael Gobitschek, och nämner finska bostadsfastighetsbolaget Kojamo och amerikanska datacenterbolaget Equinox som fondens två största positiva bidragsgivare under månaden. Innehaven är också de två största av fondens 31 bolag.
 
-"Vi ser en signifikant förbättringspotential i fundamental operationell effektivitet och potential att minska marginalgapet mot konkurrenter. Vi ser också en möjlighet för bolaget att förbättra sin balansräkning", skriver Jonas Edholm och David Harris.
+På nedsidan toppar den japanska konglomeraten Mitsui Fudosan, av oro för minskade intäkter när en ökning av Covid-19 nu märks av i Tokyo, skriver fondförvaltaren.
 
-Fonden utgörs av 35 bolag, med störst exponering mot råvaror, industri och finans, främst i Kanada, Japan och USA, framgår det av rapporten.
+Trots massiva stimulanser och låga räntor fortsätter pandemin att tära på fastighetssektorn, något som Michael Gobitschek menar i förlängningen är illavarslande för alla sektorer.
 
-"Fonden är främst exponerad mot small- och mid cap eftersom vi ser större värden här än i large cap-bolag", avslutar Jonas Edholm och David Harris.
+"Vårt fokus kommer fortsatt ligga på bolag i trenddrivna undersegment. Fastighetsmarknaden har många utmaningar i det försämrade makroekonomiska klimatet, men vår långsiktiga syn är positiv", kommenterar Michael Gobitschek. [![image](https://i.direkt.se/200812/587828102.png)](https://i.direkt.se/200812/587828102.png)
 
-[![image](https://i.direkt.se/200812/587827102.png)](https://i.direkt.se/200812/587827102.png)
+*Skagen m2:s tio största innehav vid juli månads utgång. (Källa: Skagen Fonder)*
 
-*Fondens exponering (mörkgrön) jämfört med jämförelseindex (ljusgrön) när det kommer till länder och sektorer. (Källa: Skagen Fonder)*
-
-[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-focus-a/2020/20200731_skagen-focus-a-juli.pdf) hos Skagen Fonder.
+[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-m2-a/2020/20200731_skagen-m2-a-juli.pdf) hos Skagen Fonder.
 
 <!--EndFragment-->
