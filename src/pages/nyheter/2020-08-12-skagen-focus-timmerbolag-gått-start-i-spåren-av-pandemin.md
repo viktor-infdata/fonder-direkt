@@ -1,7 +1,9 @@
 ---
+templateKey: blog-post
 title: "Skagen m2: -3,6% under volatil månad i fastighetssektorn"
 date: 2020-08-12T14:20:39.757Z
 sponsored: true
+featured: false
 tags:
   - Skagen Fonder
 ---
