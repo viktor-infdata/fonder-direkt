@@ -1,32 +1,41 @@
 ---
-templateKey: blog-post
-title: "Skagen m2: -3,6% under volatil månad i fastighetssektorn"
-date: 2020-08-13T05:32:24.717Z
+title: "ODDO BHF Avenir Europe: +1,6% i juli, fokus högkvalitativa bolag med
+  starka balansräkningar"
+date: 2020-08-13T05:36:41.382Z
 sponsored: true
-featured: false
 tags:
-  - Skagen Fonder
+  - ODDO BHF
 ---
 <!--StartFragment-->
 
-STOCKHOLM (Fonder Direkt) Under en månad med hög volatilitet tappade både globala fastighetsfonden Skagen m2 och dess jämförelseindex (MSCI ACWI IMI Real Estate NR) 3,6 procent i värde, båda i basvalutan SEK. Sedan årsskiftet har fonden tappat 22,3 procent i värde, att jämföra med index som tappat 21,2 procent. Det skriver fondförvaltaren Michael Gobitschek i en månadsrapport för fonden avseende juli månad.
+STOCKHOLM (Fonder Direkt) Den Europainriktade aktiefonden ODDO BHF Avenir Europe avancerade 1,6 procent i juli, medan dess jämförelseindex (MSCI Europe SMID Cap) ökade med 0,7 procent. Hittills i år noterar fonden -4,5 procent per den 31 juli, att jämföra med -13,2 procent för jämförelseindex.
 
-[![image](https://i.direkt.se/200812/587828101.png)](https://i.direkt.se/200812/587828101.png)
+Det framgår av en månadsrapport med kommentarer från fondförvaltarna Pascal Riegis, Grégory Deschamps, Frédéric Doussard och Sébastien Maillard.
 
-*De innehav som gav bäst respektive sämst bidrag till avkastningen under juli. (Källa: Skagen Fonder)*
+[![image](https://i.direkt.se/200813/587845101.png)](https://i.direkt.se/200813/587845101.png)
 
-Både USA och Europa har, som förväntat, redovisat dystra BNP-siffror, och amerikanska centralbanken Federal Reseve såväl som EU har fortsatt med sina räddningsaktioner. Andra kvartalets rapporter var detta till trots något positiva, skriver Michael Gobitschek.
+*Utveckling för ODDO BHF Avenir Europe (turkos) och jämförelseindex (mörkblå) de senaste tio åren. (Källa: ODDO BHF AM SAS)*
 
-Logistik, datacenter och bostadsfastigheter visar fortsatt stabilitet trots pandemin, meddelar Michael Gobitschek, och nämner finska bostadsfastighetsbolaget Kojamo och amerikanska datacenterbolaget Equinox som fondens två största positiva bidragsgivare under månaden. Innehaven är också de två största av fondens 31 bolag.
+**Small & Midcap-indexet överpresterade storbolagen i Europa**
 
-På nedsidan toppar den japanska konglomeraten Mitsui Fudosan, av oro för minskade intäkter när en ökning av Covid-19 nu märks av i Tokyo, skriver fondförvaltaren.
+Det var en blandad bild för europeiska aktieindex under juli, då Euro Stoxx 50 och DJ Stoxx 50 föll med 1,6 respektive 2,3 procent, samtidigt som mindre börsbolag hade en bättre månad i form av en uppgång om 0,7 procent för MSCI Europe SMID Cap. Kemikalier var den bäst presterande sektorn med en uppgång om 4,8 procent, medan bank, energi, media och telekom var ledande på nedsidan med nedgångar överstigande 5 procent för samtliga, enligt rapporten.
 
-Trots massiva stimulanser och låga räntor fortsätter pandemin att tära på fastighetssektorn, något som Michael Gobitschek menar i förlängningen är illavarslande för alla sektorer.
+"Marknaderna drogs i olika riktningar under månaden. Å ena sidan fanns en hoppfullhet till följd av vaccinframgångar, färsk PMI-data som visade att den globala ekonomin studsade tillbaka efter det andra kvartalets värsta BNP-tapp i fredstid, samt nyheten om en europeisk återhämtningsplan värd 750 miljarder euro vilken mildrade pressen på europeiska länder. Å andra sidan ökade takten av covid-19-infektioner igen i USA och i vissa delar av Europa, och det var även i vanlig ordning spänningar mellan Kina och USA", skriver förvaltarkvartetten.
 
-"Vårt fokus kommer fortsatt ligga på bolag i trenddrivna undersegment. Fastighetsmarknaden har många utmaningar i det försämrade makroekonomiska klimatet, men vår långsiktiga syn är positiv", kommenterar Michael Gobitschek. [![image](https://i.direkt.se/200812/587828102.png)](https://i.direkt.se/200812/587828102.png)
+**Analytiker underskattade sparåtgärder**
 
-*Skagen m2:s tio största innehav vid juli månads utgång. (Källa: Skagen Fonder)*
+Förvaltarna konstaterar att en stor andel av de bolagsrapporter som kom in i juli var förvånansvärt bra jämfört med de försiktiga estimat som lämnats av analytikerna, vilka enligt fondteamet totalt hade underskattat såväl kostnadsreduktioner såsom minskade utgifter för semestrar, annonsering och bonusar samt effekten av permitteringsprogram. Analytikerna uppges även ha missat att beakta de proaktiva åtgärder som vidtagits av bolagen, som frysning av investeringar och vissa forsknings- och utvecklingsprojekt.
 
-[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-m2-a/2020/20200731_skagen-m2-a-juli.pdf) hos Skagen Fonder.
+Fondteamet meddelar att de framgent håller fast vid sin investeringsfilosofi, genom att välja högkvalitativa defensiva såväl som cykliska företag som har starka balansräkningar, en global räckvidd och opåverkade långsiktiga tillväxtutsikter.
+
+**Tre sektorer förvaltarna satsar på**
+
+Fonden har enligt rapporten övervikter inom hälsovård, teknologi och verkstad som uppgår till 21,4, 15,0 respektive 3,0 procent gentemot index. Inom övriga sektorer återfinns undervikter, varav de största är finans (20,5 procent), råvaror (6,9 procent, fonden saknar helt exponering) samt konsumenttjänster (6,8 procent). De tre klart största sektorkomponenterna i ODDO BHF Avenir Europe är nämnda hälsovård, teknologi och verkstad, där 31,1, 22,0 respektive 28,2 procent av kapitalet finns investerat.
+
+Portföljen är fördelad på 46 innehav och det är en viss tonvikt på Frankrikebaserade bolag i portföljen, då 36,8 procent av kapitalet är placerat i landet. Därpå återfinns de största geografiska exponeringarna i Storbritannien med 9,2 procent, Tyskland (8,9), Schweiz (7,0) och Sverige (6,5). Gällande Frankrike så noteras en övervikt om 24,3 procent gentemot jämförelseindex, medan fonden är underviktad Storbritannien med 18,0 procent.
+
+[![image](https://i.direkt.se/200813/587845102.png)](https://i.direkt.se/200813/587845102.png)
+
+*Fondens tio största innehav per den 31 juli. (Källa: ODDO BHF AM SAS)*
 
 <!--EndFragment-->
