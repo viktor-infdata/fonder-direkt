@@ -7,8 +7,6 @@ featured: false
 tags:
   - Skagen Fonder
 ---
-<!--StartFragment-->
-
 STOCKHOLM (Fonder Direkt) Värdet på den globala aktiefonden Skagen Focus var oförändrat under juli månad, samtidigt som jämförelseindex (MSCI ACWI NR USD) backade 1 procent, båda i basvalutan SEK. Sedan årsskiftet är fonden ned 18,4 procent och jämförelseindex har tappat 8,2 procent. Det framgår i en månadsrapport från fondförvaltarna Jonas Edholm och David Harris, som kommenterar månadens resultat som "god absolut och relativ avkastning". [![image](https://i.direkt.se/200812/587827101.png)](https://i.direkt.se/200812/587827101.png)
 
 *Skagen Focus bästa och sämsta avkastningsbidrag i juli. (Källa: Skagen Fonder)*
@@ -30,5 +28,3 @@ Fonden utgörs av 35 bolag, med störst exponering mot råvaror, industri och fi
 *Fondens exponering (mörkgrön) jämfört med jämförelseindex (ljusgrön) när det kommer till länder och sektorer. (Källa: Skagen Fonder)*
 
 [Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-focus-a/2020/20200731_skagen-focus-a-juli.pdf) hos Skagen Fonder.
-
-<!--EndFragment-->
