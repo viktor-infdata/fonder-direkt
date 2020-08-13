@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Jupiter Dynamic Bond: +1,3% i juli, begränsar exponering finans"
+title: "Jupiter Dynamic Bond: +1,3% i juli, begränsat exponering finans"
 date: 2020-08-13T14:42:47.905Z
 sponsored: true
 featured: false
