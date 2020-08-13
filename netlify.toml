@@ -3,6 +3,6 @@
   command = "yarn build"
 [build.environment]
   NODE_ENV = "production"
-  NODE_VERSION = "10.16.2"
-  YARN_VERSION = "1.17.3"
+  NODE_VERSION = "12"
+  YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
