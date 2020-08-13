@@ -83,6 +83,16 @@ blockquote {
   }
 }
 
+// Linked Image
+.content {
+  a {
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+}
+
 // Pre
 $content-pre-padding: 1.25em 1.5em;
 pre {
