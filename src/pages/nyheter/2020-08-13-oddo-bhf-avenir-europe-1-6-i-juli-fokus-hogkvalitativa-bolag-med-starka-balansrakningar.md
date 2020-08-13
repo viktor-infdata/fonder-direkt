@@ -1,8 +1,10 @@
 ---
+templateKey: blog-post
 title: "ODDO BHF Avenir Europe: +1,6% i juli, fokus högkvalitativa bolag med
   starka balansräkningar"
 date: 2020-08-13T05:36:41.382Z
 sponsored: true
+featured: false
 tags:
   - ODDO BHF
 ---
