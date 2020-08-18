@@ -1,22 +1,21 @@
 ---
-templateKey: blog-post
-title: "Odin Fonder: Tappat flera förvaltare - DI"
-date: 2020-08-17T14:58:28.060Z
-sponsored: false
-featured: false
+title: "Norska oljefonden: Minus 188 miljarder NOK första halvåret "
+date: 2020-08-17T14:58:51.340Z
 tags:
-  - Odin Fonder
+  - Fonder
 ---
-STOCKHOLM (Fonder Direkt) Norska fondbolaget Odin Fonder har förlorat flera anställda den senaste tiden, bland annat flera förvaltare samt försäljnings- och investeringschef. Det skriver Dagens Industri.
+STOCKHOLM (Fonder Direkt) Norska statens pensionsfond utland, världens enskilt största fond även känd som oljefonden, backade 3,4 procent i det första halvåret, motsvarande 188 miljarder norska kronor, framgår av ett pressmeddelande från Norges Bank Investment Management på tisdagen. Det skriver Nyhetsbyrån Direkt.
 
-Martin Henrichsen, försäljnings- och marknadschef Odin Fonder, har sagt upp sig och är på väg att sluta. Fondbolagets mest profilerade förvaltare, Vegard Søraunet, meddelade även tidigare i somras att han lämnar sin tjänst. Vegard Søraunet har bland annat förvaltat Odins Sverigesfond och hade sedan 2017 titeln Investeringsdirektör.
+Avkastningen på fondens aktieinvesteringar var -6,8 procent, medan investeringar i onoterade värdepapper var -1,6 procent och ränteinvesteringarna stod ut som positiva med +5,1 procent.
 
-Efter sommaren valde ytterligare två förvaltare att göra Vegard Søraunet sällskap och lämna Odin Fonder. Oddbjørn Dybvad, som varit ansvarig förvaltare för Odin Global under ett årtionde, samt Øystein Bogfjellmo har även tagit med sig två säljare från fondbolaget för att starta en egen, konkurrerande, verksamhet, skriver DI.
+I andra kvartalet var avkastningen 1.162 miljarder norska kronor, mot en förlust på 1.350 miljarder norska kronor i första kvartalet.
 
-"Det är duktiga personer som slutar, men också duktiga personer som tar över efter dem", säger vd Bjørn Kristiansen, som understryker att bolagets strategi handlar om långsiktiga investeringar.
+"Det var stora svängningar i aktiemarknaden under perioden. Året startade optimistiskt, men stämningen i marknaden vände snabbt då coronaviruset nådde global spridning. Det kraftiga börsfallet i första kvartalet blev emellertid bromsat av en massiv penning- och finanspolitisk respons", säger vicechef Trond Grande.
 
-Enligt uppgifter till Di kan flera av avhoppen kopplas till ett internt missnöje som vuxit sedan Bjørn Kristiansen ersatte den förre Odin-chefen Runde Selmar, som lämnade vd-posten för mindre än ett år sedan, något som vd:n dock dementerar.
+Kronkursens försvagning mot flera av världens stora valutor bidrog dock till att öka fondens värde med 672 miljarder norska kronor.
 
-På fredagen meddelade Odin Fonder att de rekryterat Carolina Elvind till den nyinrättade tjänsten som analytiker på Stockholmskontoret. Odin Fonder startade sin småbolagsfond i januari och bygger nu upp det svenska teamet i Stockholm, framkommer det.
+Uttagen ur fonden under det första halvåret uppgår till 167 miljarder norska kronor.
 
-Carolina Elvind branschkunskap ligger främst inom småbolag och hälsosektorn och hon har de senaste tre åren arbetat som analytiker på Danske Bank.
+Fondvärdet var per den 30 juni i år 10.400 miljarder norska kronor, varav 69,6 procent var investerade i aktier, 2,8 procent i onoterat och 27,6 procent i räntebärande papper.
+
+Oljefondens aktieinvesteringar uppgår till omkring 1,5 procent av den totala noterade globala aktiestocken.
