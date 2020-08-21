@@ -1,38 +1,21 @@
 ---
-templateKey: blog-post
-title: "Jupiter Global Absolute Return: -3,3% i juli, stängt kortposition Intel"
-date: 2020-08-20T10:18:11.298Z
-sponsored: false
-featured: false
+title: "Fonder: Fondbetyg spår inte börsernas framtid - Lindmark"
+date: 2020-08-20T10:18:50.506Z
 tags:
-  - Jupiter AM
+  - Fonder
 ---
-STOCKHOLM (Fonder Direkt) Aktiehedgefonden Jupiter Global Absolute Return backade 3,3 procent i juli. Hittills i år har fonden därmed retirerat med 17,8 procent. Jämförelseindex (Libor 3 Month EUR) var oförändrat i maj och noterar -0,2 procent i år.
+STOCKHOLM (Fonder Direkt) Den avgörande frågan om risktagande på aktiemarknaden kommer att löna sig även i framtiden, den har vi inget säkert svar på. Men om du väljer att ta risken, då lönar det sig att välja fonder som är på väg att överträffa sina konkurrenter. Morningstars nya fondbetyg MQR hjälper dig att pricka rätt. Det skriver Jonas Lindmark, analyschef och redaktör för Morningstar i Sverige, i en krönika.
 
-Det framgår av en månadskommentar från fondens strategichef och förvaltare James Clunie.
+Morningstars nya fondbetyg lanserades förra veckan i Sverige och betyget spår framtida vinnare bland fonderna, i motsats till Morningstars välkända stjärnbetyg som baseras på historisk prestation.
 
-Fondens långa bok bidrog positivt under månaden, men korta bokens negativa utveckling tog över. Dyrare tillväxtaktier, särskilt amerikanska, fortsatte att överträffa billigare värdeaktier.
+"Fast notera att prognosen gäller relativt andra fonder i samma kategori, inte alls ifall hela marknaden kommer att gå upp eller ned. 'Gold' betyder att fonden troligen i framtiden kommer att överträffa snittavkastning bland liknande fonder, medan 'Negative' är Morningstars försök att varna för fonden som kommer att lyckas sämre än kategorisnittet", förklarar Jonas Lindmark.
 
-**Kortpositioner i Tesla, Wayfair & Netflix sänke**
+Det är just detta som Jonas Lindmark menar att man inte får missa, fondbetyget är ingen kristallkula och stora delar av framtiden är, och kommer förbli, okänd.
 
-Fondens kortposition i Tesla, en aktie som inte verkar få slut på bränsle, tyngde återigen resultatet under månaden. James Clunie nämner även kortpositionerna i Wayfair och Netflix som sänken. Negativa bidragsgivare återfanns även i den långa boken och förvaltaren nämner BP och Melrose som backade under månaden trots aktiespecifika nyheter som förvaltaren ansåg mestadels positiva sett till lång sikt.
+Fondbetyget bygger på att hitta stabila mönster i händelseutvecklingen inom ett område och sedan anta att dessa mönster kommer att hålla i sig även i framtiden.
 
-Det korta innehavet i Intel gick däremot vägen och gynnade portföljens utveckling i juli.
+"Aktiemarknaden följer däremot inte stabila mönster. Olika typer av 'teknisk analys' har historiskt lyckats hitta mönster, men erfarenheten är att dessa mönster förr eller senare bryts", skriver analyschefen och påpekar att det ofta beror på att människor försöker utnyttja mönster för att ligga steget före, vilket bidrar till att överdriva mönster och sedan förstöra dem.
 
-"I juni, när Apple meddelade att de skulle byta ut Intels processorer mot egna reagerade inte Intels aktiekurs väsentligt på den negativa nyheten. Däremot föll processor- och chiptillverkarens aktiekurs kraftigt i juli när de meddelade att de tappat den ledande positionen inom chiptillverkning till taiwanesiska konkurrenten TSMC. Efter det kraftiga fallet i aktiekursen stängde vi vår kortposition", meddelar James Clunie.
+Att fondbetygen ges ut till fonder inom samma kategori är viktigt att förstå, Jonas Lindmark förklarar att detta betyder att de jämförda fonderna alla placerar på samma marknad.
 
-**Uppsving för ädelmetaller gynnade långa boken**
-
-Guldpriset fortsatte att stiga under månaden som ett resultat av stimulanser inom både penning- och finanspolitik, enligt kommentaren. Fondens "guldhedge", som består av en ETC (börshandlad råvaru-tracker) för fysiskt guld, samt innehav i guldgruvebolag såsom Newcrest Mining, gick således bra under månaden.
-
-Många andra ädelmetaller, framförallt silver, såg också högre priser i juli och förvaltaren lyfter fram fondens innehav i gruvbolaget Fresnillo som ännu en positiv bidragsgivare.
-
-Bland övriga positiva portföljbidrag nämns fondens långa position i IMI vars aktie steg i spåren av en stark kvartalsrapport med bättre resultat än väntat samt stabila utsikter.
-
-**Förväntad avkastning för fonden aldrig vart högre**
-
-Att genomföra en värdedriven process likt fondens menar förvaltaren är extremt utmanande i det marknadsklimat som vi befinner oss i, när gapet mellan värde och tillväxt har nått rekordnivåer. Strategichefen tillägger att många aktiemarknader har varit frånkopplade från fundamenta i flera år vilket lett till att strategin att köpa billiga aktier och sälja svaga, men dyra, aktier inte har gett de resultat som man kunnat förvänta sig.
-
-I väntan på en katalysator som kommer att förändra det nuvarande marknadsklimatet har fonden långa positioner i ungefär 80 kvalitativa bolag med rimliga balansräkningar. Samtidigt har de ungefär lika många kortpositioner där aktien ser dyr ut i jämförelse med förväntat kassaflöde, framkommer det.
-
-"Det inte är möjligt att förutsäga vart marknaderna är på väg, och även om marknaden inte förändras till fördel för värdeaktier tror vi ändå att det finns stor potential. Från där vi står i dag tror vi att i och med att billiga aktier blir billigare och dyra aktier blir ännu dyrare så har den förväntade avkastningen för en strategi som vår aldrig vart högre", skriver James Clunie.
+"Fondbetygen kan alltså inte säga något om börsernas framtida utveckling. Till exempel så är fondbetyg på Japanfonder enbart en prognos för hur bra avkastning en viss fond kommer att ge jämfört med andra Japanfonder. Däremot säger alltså betygen ingenting alls om hur Tokyobörsen kommer att utvecklas jämfört med till exempel Stockholmsbörsen eller börserna i New York", skildrar analyschefen.
