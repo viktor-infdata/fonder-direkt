@@ -1,26 +1,13 @@
 ---
-templateKey: blog-post
-title: "HIQ: PriorNilsson en av vinnarna på Tritons bud"
-date: 2020-08-26T12:03:06.124Z
-sponsored: false
-featured: false
+title: "AP3: Minus 3 miljarder första halvåret"
+date: 2020-08-26T12:03:42.001Z
 tags:
   - Fonder
 ---
-<!--StartFragment-->
+STOCKHOLM (Fonder Direkt) AP3s resultat första halvåret 2020 uppgick till -3 miljarder kronor, att jämföra med samma period föregående år då resultatet var +36 miljarder. Fondkapitalet minskade även med 7,3 miljarder till 386 miljarder kronor. Det framgår av ett pressmeddelande.
 
-STOCKHOLM (Fonder Direkt) IT-konsulten HIQ såg sin aktie rusa på onsdagsförmiddagen efter nyheten om att Triton lägger ett bud på bolaget om 70 kronor kontant per aktie.
+"Utbrottet av covid-19 pandemin och dess konsekvenser ändrade dramatiskt tillväxtutsikterna för världsekonomin under våren 2020. Den ökade osäkerheten slog också hårt mot de finansiella marknaderna", skriver AP3.
 
-Strax innan lunch var aktien upp 27 procent till 70:10 kronor, vilket är samma nivå som Triton lagt sitt bud på. I en intervju med Nyhetsbyrån Direkt på torsdagen uppgav Triton att de tittat på sektorn under ett par år och har sett på olika bolag, men föll till slut för IT-konsulten HIQ.
+Totalavkastningen för AP3 landade på -0,8 procent efter kostnader. I genomsnitt har fonden avkastat 6,9 procent per år den senaste femårsperioden och 8,4 procent under den senaste 10-årsperioden.
 
-[![image](https://i.direkt.se/200826/588362601.png)](https://i.direkt.se/200826/588362601.png)
-
-*Aktieutvecklingen för HIQ de senaste två dagarna (Källa: Infront)*
-
-I ägarlistan noteras flera svenska fonder, den största är PriorNilsson Evolve i relation till totalt förvaltat kapital med 3,4 procent, enligt Morningstar. Cliens Småbolag syns även på ägarlistan med 2,7 procent, följt av Skandia Link Carnegie Swedish Small Cap (1,5), Öhman Sweden Micro Cap (1,1) och Öhman Småbolagsfond (0,9).
-
-"HIQ är ett bolag med många goda kvaliteter som vi ägt sedan start i fonden. HIQs plattformsbygge Frens, som integrerar digitala tjänster åt kunderna, har fått HIQ att närma sig en mer skalbar affärsmodell med mer mjukvaruliknande intäkts- och marginalprofil. Detta är en utveckling vi har varit mycket nöjda med", säger PriorNilsson Evolves förvaltare Martin Lindqvist i en kommentar till Fonder Direkt.
-
-"Budet på HIQ är ett kvitto på en fortsatt stark digitalisering av ekonomin, en vy även vi delar. Vi anser att budet reflekterar värdet på bolaget", tillägger förvaltaren.
-
-<!--EndFragment-->
+"AP3s resultat för första halvåret på -0,8 procent står sig väl. Fondens krisarbete har fungerat mycket bra, alla medarbetare har gjort sitt yttersta för att minska risker, ta vara på möjligheter och sköta verksamheten på ett ansvarsfullt sätt i en oerhört utsatt situation. Vi har varken lämnat virushotet eller osäkerheten om de ekonomiska konsekvenserna bakom oss ännu, men vi har sannolikt passerat det värsta i form av dramatisk turbulens i de finansiella marknaderna", säger AP3s vd Kerstin Hessius.
