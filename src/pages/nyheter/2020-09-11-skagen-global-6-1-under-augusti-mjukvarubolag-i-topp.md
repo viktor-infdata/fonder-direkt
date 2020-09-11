@@ -1,34 +1,23 @@
 ---
-templateKey: blog-post
-title: "Skagen Global: +6,1% under augusti, mjukvarubolag i topp"
-date: 2020-09-11T06:34:45.440Z
-sponsored: true
-featured: false
+title: 'Fonder: "Dåligt skött Brexit sänker Europa" - Lindmark'
+date: 2020-09-11T06:36:14.428Z
 tags:
-  - Skagen Fonder
+  - Fonder
 ---
-<!--StartFragment-->
+STOCKHOLM (Fonder Direkt) Både Londonbörsen och många av de stora bankerna är bland förlorarna hittills i år. En förklaring är den usla strategi Boris Johnson valt i förhandlingarna om handelsavtal med EU. Fast det ger utrymme för en positiv överraskning. Det skriver Jonas Lindmark, analyschef och redaktör för Morningstar i Sverige.
 
-STOCKHOLM (Fonder Direkt) Augusti blev en stark månad på aktiemarknaden, med bland annat den starkaste augustimånaden för S&P 500 sedan 1986. För aktiefonden Skagen Global slutade månaden i en uppgång om 6,1 procent. Det skriver portföljförvaltaren Knut Gezelius i en månadsrapport.
+Europafonderna har haft en svag utveckling hittills i år och har i snitt backat 9 procent samtidigt som USA-fonderna har stigit 2 procent, trots svagare dollar.
 
-Fondens jämförelseindex (MSCI ACWI NR USD) steg under augusti 5,2 procent. Sedan årsskiftet är fonden ner 0,7 procent, jämfört med jämförelseindex som ligger på -3,4 procent, framgår det av rapporten.
+"Med tanke på de drastiska effekter som pandemin Covid-19 haft på många företag är börsnedgången i Europa i sig inte konstigt, men lite svårare att förstå är varför USA-aktier gynnats", konstaterar Jonas Lindmark.
 
-[![image](https://i.direkt.se/200911/588949201.png)](https://i.direkt.se/200911/588949201.png)
+Varför just USA har gått så starkt kan förklaras med att IT-aktier utvecklats bättre än resten av aktiemarknaden, och i snitt 30 procent av de svenska USA-fonderna består av IT-aktier - till skillnad mot Europafonderna där IT-aktier bara står för 10 procent. I stället har banksektorn och konjunkturkänsliga industriföretag en högre representation i Europafonderna än USA-fonderna, sektorer som haft det tuffare under pandemin.
 
-*Skagen Globals lands- och sektorexponering relativt fondens jämförelseindex (MSCI ACWI NR USD). (Källa Skagen Fonder)*
+Analyschefen menar dock att detta inte räcker för att förklara hela skillnaden i avkastning.
 
-Fondens tre största positiva bidragsgivare under månaden var Adobe, Mastercard och Microsoft.
+"Investerarna verkar även mer generellt ha blivit mer skeptiska till europeiska aktier. En rimlig förklaring är ökad politiska osäkerheten i alla de fem största EU-länderna. Det har varit svårt att komma överens om stimulanspaket och de nuvarande ledarnas popularitet har minskat", skriver han.
 
-"Adobe har trots pandemi lyckats befästa sin position som tydlig marknadsledare inom många mjukvaruområden", kommenterar Knut Gezelius.
+Londonbörsen är dessutom tydlig förlorare, rimligen till stor del på grund av dåligt skötta förhandlingar med EU om reglerna för relationen efter Brexit vid årsskiftet, noterar Jonas Lindmark som även poängterar att en normal Europafond investerar 20 procent av pengarna i London.
 
-På nedsidan nämner förvaltaren March & McLennan, ett amerikansk försäkrings- och konsultbolag, som inte har hängt med upp i senaste tidens breda uppgångar, men som han menar har fortsatt oförändrad fundamenta.
+Storbritanniens premiärminister Boris Johnsson har, med bara drygt en månad kvar tills avtalet om nya handelsregler behöver vara klart för att hinna genomföras vid årsskiftet, lanserat ett lagförslag som en enig omvärld fördömt. Detta har ökat spänningarna inför utträdet.
 
-Unden månaden har MSCI fått ta plats i portföljen:
-
-"MSCI tillhandahåller verktyg för investeringsbeslut för aktie- och räntemarknader. Den skalbara affärsmodellen kombinerat med betydande valmöjligheter kring ESG-produkter gör bolaget undervärderat för den långsiktiga investeraren", skriver Knut Gezelius.
-
-Samtidigt har JP Morgan och Ageas fått lämna portföljen, som en direkt följd av hur bolagen har drabbats under Covid-19. Efter dessa förändringar utgörs fonden av 34 innehav, med störst vikt i Microsoft, Intercontinental Exchange och Adobe. Sett till geografisk exponering är USA klart dominerande med 79,6 procent (21,4 procentenheter mer än jämförelseindex). Finans och informationsteknologi är fondens största sektorer, som tillsammans står för över halva fondens exponering, framgår det av rapporten.
-
-[Läs mer](https://www.skagenfonder.se/globalassets/pdfs/status-reports/sweden/skagen-global-a/2020/20200831_skagen-global-a-augusti.pdf) hos Skagen Fonder.
-
-<!--EndFragment-->
+"En möjlig fördel med detta är att återkommande dåliga nyheter om hur Boris Johnsons regering hanterar Brexit skapar utrymme för en positiv överraskning. Om ett fortsatt nära samarbete med EU, inklusive fortsatt gemensamma regelverk och fri rörlighet för människor, oväntat dyker upp som resultat av förhandlingarna skulle rimligen aktiebörserna reagera positivt även i resten av Europa. Ekonomiskt är en isolering av London och den brittiska marknaden uppenbart en nackdel, särskilt som detta ger ökad osäkerhet om framtiden. Förhoppningsvis avslutas det politiska flaggviftandet med att sunt förnuft övertygar båda sidor", avslutar Jonas Lindmark.
