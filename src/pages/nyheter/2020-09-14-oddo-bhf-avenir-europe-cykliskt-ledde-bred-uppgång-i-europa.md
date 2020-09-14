@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Oddo BHF Avenir Europe: Cykliskt ledde bred uppgång i Europa"
 date: 2020-09-14T09:03:58.296Z
-sponsored: false
+sponsored: true
 featured: false
 tags:
   - ODDO BHF
