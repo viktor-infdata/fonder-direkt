@@ -1,7 +1,7 @@
 ---
 templateKey: video-post
 program: Fonder Direkt Monthly Roundup
-videoId: P5Uih_NvrMA
+videoId: LofibBZD2w4
 title: "Fondfunderingar: Hur bestäms skogspriset & är det en bra investering?"
 date: 2020-09-15T07:34:18.791Z
 featured: false
