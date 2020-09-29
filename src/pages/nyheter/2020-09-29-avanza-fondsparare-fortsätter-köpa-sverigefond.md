@@ -1,35 +1,13 @@
 ---
-templateKey: blog-post
-title: "Avanza: Fondsparare fortsätter köpa Sverigefond"
-date: 2020-09-29T06:53:57.581Z
-sponsored: false
-featured: false
+title: "Swedbank Robur: Lanserar ny Access Edge fond"
+date: 2020-09-29T06:56:52.891Z
 tags:
-  - Avanza
+  - Swedbank Robur
 ---
-<!--StartFragment-->
+STOCKHOLM (Fonder Direkt) Swedbank Robur meddelade i förra veckan att fonderna Access Edge Global, Emerging Markets, USA, Japan och Sweden har blivit säkrade att förvaltas i linje med Parisavtalet. Idag lanserar Swedbank Robur ytterligare en ny fond - Access Edge Europe. Därmed finns det en Paris Aligned klassificerad fond för varje central marknad. Det framgår av ett pressmeddelande.
 
-STOCKHOLM (Fonder Direkt) Nätbanken Avanzas kunder nettoköpte fonder för sjätte månaden i rad och trots vinsthemtagningar i teknikaktier och oro för en andra coronavåg har världens börser fortsatt att stiga senaste månaden. Etta på köplistan var återigen Sverigefonder.
+Samtliga Access Edge fonder gynnar investeringar i bolag med låga utsläpp av växthusgaser och har som målsättning att ha cirka 50 procent lägre koldioxidavtryck än sitt jämförelseindex. Vidare investerar fonderna cirka 10 procent av innehaven i bolag som fondbolaget bedömer medverkar till att lösa klimatkrisen, framkommer det.
 
-Det framgår av ett pressmeddelande med kommentar från sparekonomen Johanna Kull.
+"Några exempel på de innehav som finns i fonden är bolag inom förnybar energi, och bolag som tar fram elfordon och energibesparande byggnader. Dessutom utesluter fonderna tillverkare av fossila bränslen samt producenter vars omsättning från framställning av el från olja, gas eller kol överstiger 5 procent", säger Linnea Zanetti, förvaltare Swedbank Robur.
 
-Avanzas sparare gjorde 67 500 fondaffärer per dag i september. vilket är 32 procent fler än i fjol, framkommer det.
-
-"Stockholmsbörsen har presterat bra och tillhör de bäst utvecklade börserna senaste månaden. Sverigefonderna är också månadens klart mest köpta fonder och fyra av tio fondkronor går till just Sverigefonder. Här väljer spararna primärt billiga indexfonder eller aktivt förvaltade Sverigefonder som fokuserar på små- och medelstora bolag", säger Johanna Kull.
-
-|                  |                   |
-| ---------------- | ----------------- |
-| **Mest köpta**   | **Mest sålda**    |
-| Sverigefonder    | Ädelmetallsfonder |
-| Teknikfonder     | Europafonder      |
-| Globalfonder     | Läkemedelsfonder  |
-| Fastighetsfonder | Rysslandsfonder   |
-| Blandfonder      | Östeuropafonder   |
-
-Utöver Sverigefonder köpte spararna även teknikfonder, som tog sig in på en andra plats.
-
-"Stora globala investerare har under månaden minskat sin exponering mot teknik något och det har skett en försiktig sektorrotation till mer cykliska industribolag. Det är ingen trend som märks av bland privatspararna. Tre av månadens sex mest köpta fonder är teknikfonder", säger sparekonomen.
-
-Tuffare var det för fonder som investerar i guld och silver, några som fick många nya sparare under sommaren när guldpriset nådde en ny rekordnivå. Guldpriset har sedan dess backat, vilket fått spararna intresse att svalna, menar Johanna Kull.
-
-<!--EndFragment-->
+Swedbank Robur har som mål att hela fondkapitalet som bolaget förvaltar år 2025 ska vara i linje med Parisavtalets mål om att begränsa uppvärmningen till 1,5 grader, och att hela fondkapitalet ska förvaltas koldioxidneutralt år 2040.
