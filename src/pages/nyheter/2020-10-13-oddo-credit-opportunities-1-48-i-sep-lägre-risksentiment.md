@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Oddo Credit Opportunities: -1,48% i sep, lägre risksentiment"
+title: "Oddo Credit Opportunities: -0,48% i sep, lägre risksentiment"
 date: 2020-10-13T07:13:20.419Z
 sponsored: true
 featured: false
