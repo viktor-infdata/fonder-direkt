@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: " 2020-10-21 15:38:56 CET  SPP: Förvaltat kapital nu över 200 miljarder"
+title: " SPP: Förvaltat kapital nu över 200 miljarder"
 date: 2020-10-21T13:40:06.557Z
 sponsored: false
 featured: false
